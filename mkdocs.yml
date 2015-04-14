@@ -1,0 +1,12 @@
+site_name: TeachingTeamGuidelines
+    pages:
+    - [index.md, Home]
+    - [getting-started.md, Getting Started]
+    - [curriculum-design.md, Designing your Curriculum]
+    - [course-cycle_schedule.md, Course cycle at openHPI]
+    - [adding-content.md, Building Your Course]
+    - [community-management.md, Communicating with Learners]
+    - [communication-matrix.md, Communication Matrix]
+    - [end-of-course.md, End-of-Course]
+    - [templates.md, Templates]
+    theme: readthedocs
