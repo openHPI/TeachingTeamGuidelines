@@ -1,5 +1,7 @@
 ## Communication Matrix ##
 
+About this matrix:
+
 <table class="tg">
   <tr>
     <th class="tg-031e">What<br>When</th>
