@@ -1,7 +1,9 @@
 Course Design
+=============
 
-For general information about course design we recommend to look at the suggestions of the MOOC Canvas Framework. .
-Introduction: You have decided that you want to offer educational resources or need training for a large number of people. How do you do that? How to MOOC?
+For general information about course design we recommend to look at the suggestions of the [MOOC Canvas Framework](http://mooccanvas.com/use.html).
+
+*Introduction*: You have decided that you want to offer educational resources or need training for a large number of people. How do you do that? How to MOOC?
 
 From our own experience we recommend the following:
 
