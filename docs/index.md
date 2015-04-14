@@ -1,4 +1,4 @@
-# Welcome to the openHPI Platform Guide! #
+# TeachingTeamGuideline #
 
 This guide enables course instructors to become familiar with teaching an online course in general and with learning how to use the openHPI course admin interface specifically.
 
