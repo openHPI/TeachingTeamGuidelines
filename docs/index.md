@@ -4,8 +4,16 @@ This guide enables course instructors to become familiar with teaching an online
 
 Table of contents:
 
-1. j
-2. j
-3. j
-4. j
-5. j
+.. toctree::
+   :numbered:
+   :maxdepth: 2
+
+   index.md
+   getting-started.md
+   curriculum-design.md
+   course-cycle_schedule.md
+   adding-content.md
+   community-management.md
+   communication-matrix.md
+   end-of-course.md
+   templates.md
