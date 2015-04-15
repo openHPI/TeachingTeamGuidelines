@@ -4,10 +4,6 @@ This guide enables course instructors to become familiar with teaching an online
 
 Table of contents:
 
-.. toctree::
-   :numbered:
-   :maxdepth: 2
-
    1. [This Index Site](index.md)
    2. [Getting Started](getting-started.md)
    3. [Curriculum Design](curriculum-design.md)
