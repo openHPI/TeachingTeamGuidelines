@@ -8,12 +8,12 @@ Table of contents:
    :numbered:
    :maxdepth: 2
 
-   index.md
-   getting-started.md
-   curriculum-design.md
-   course-cycle_schedule.md
-   adding-content.md
-   community-management.md
-   communication-matrix.md
-   end-of-course.md
-   templates.md
+   [This Index Site][index.md]
+   [Getting Started][getting-started.md]
+   [Curriculum Design][curriculum-design.md]
+   [Course Cycle][course-cycle_schedule.md]
+   [Building Your Course][adding-content.md]
+   [Communicating to Your Course][community-management.md]
+   [Communication Matrix][communication-matrix.md]
+   [End of Course][end-of-course.md]
+   [Templates][templates.md]
