@@ -1,5 +1,7 @@
 # TeachingTeamGuidelines
-This repository contains markdown files for building a documentation for course instructors with ReadYourDocs
+This repository contains markdown files for building up a documentation with ReadTheDocs
+
+## General Info
 
 A way of putting a documentation online is the combination of three tools:
 
@@ -16,7 +18,7 @@ This is essentially a python script, i.e. the technology used to build static ht
 Is using MkDocs for building and hosting the documentation in the end; it connects to GitHub (or other sources) to read in the content (markdown files) and configuration (mkdocs.yml file)
 
 
-### More info ...
+## More info ...
 
 ... about MKDocs:
 
@@ -28,3 +30,9 @@ Is using MkDocs for building and hosting the documentation in the end; it connec
 
  - [GitHub-Page](https://github.com/rtfd/readthedocs.org)
  - [ReadTheDocs at ReadTheDocs](http://read-the-docs.readthedocs.org/en/latest/)
+ 
+ 
+## Administrating the Teaching Guideline
+
+Log in here on GitHub and edit the markdown (and if changes of the document structure are necessary: the mkdocs.yml) file(s) in this repository.
+Log in at ReadTheDocs and make a new build. ReadTheDocs will fetch the files from GitHub and update the documentary immediately.
