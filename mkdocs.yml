@@ -1,4 +1,4 @@
-site_name: Teaching Team Guidelines
+site_name: MkDocs
     pages:
     - [index.md, Home]
     - [getting-started.md, Getting Started]
@@ -9,4 +9,5 @@ site_name: Teaching Team Guidelines
     - [communication-matrix.md, Communication Matrix]
     - [end-of-course.md, End-of-Course]
     - [templates.md, Templates]
+    
     theme: readthedocs
