@@ -35,4 +35,4 @@ Is using MkDocs for building and hosting the documentation in the end; it connec
 ## Updating the Teaching Guidelines
 
 Log in here on GitHub and **edit markdown file(s)** (and if changes of the document structure are necessary: the mkdocs.yml) in this repository.
-Log in at [ReadTheDocs](https:/readthedocs.org) and make a **new build**. ReadTheDocs will fetch the files from GitHub and update the documentary immediately.
+Log in at [ReadTheDocs](https:/readthedocs.org) and **make a new build**. ReadTheDocs will fetch the files from GitHub and update the documentary immediately.
