@@ -24,13 +24,34 @@
 
 ## 4 weeks prior course start
 
-- PRODUCTION Record of course videos  Advice from the audio visual team
+- PRODUCTION Record of course videos - Advice from the audio visual team
 - PUBLISHING: Course introduction video for PR
 - PUBLISHING: Course design
 - PUBLISHING: Add course content to the platform
-1. Readings
-2. Presentation (Slides)
-3. Audio 
-4. Video
-5. Quiz Quizdesign- Self tests Assignments Exams Regrading
--	Global announcement about course start  Communication matrix 
+- Readings
+- Presentation (Slides)
+- Audio 
+- Video
+- Quiz Quizdesign- Self tests Assignments Exams Regrading
+-	Global announcement about course start communication matrix 
+
+## 1 week prior course start
+
+- Test course with chosen testers
+
+## Friday prior course start
+
+- Course announcement about course start communikation matrix 
+
+## Course supervision
+
+- Communication during the course Communication templates Support, HelpDesk and Betreuung der Community
+- Conventions
+- Sanctions
+- Help Desk
+
+## Course wrap-up
+
+- Wrap-up
+- Regrading
+- After the course
