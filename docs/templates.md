@@ -1,6 +1,13 @@
 # Templates #
 
 ----------
+## Course Registration Form
+
+Use this form to register your new course and send it to the platform team.
+
+BILD
+LINK
+
 
 ## Course Announcements ##
 
