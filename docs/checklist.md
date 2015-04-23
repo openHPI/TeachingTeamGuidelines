@@ -1,4 +1,4 @@
-# Overview Course planning and - execution
+# Overview MOOC planning and - execution
 
 ## Course planning
 
@@ -13,3 +13,11 @@
 - COURSE LAYOUT: Preparation of weekly learnings: Syllabus, Presentations, Quizzes, Assignments, Literature – all accompanying material Checklist Conception
 - Programming of LTI-Tools, if required
 - Planning of recording dates with  Audio Visual Team or recording studio (HPI in-house)
+
+## 4-6 weeks prior course start
+
+- Registration of course with openHPI as soon as course duration is known  Course Template
+- Information about ourse execution and Course Design
+- Kick off-Meeting with platform team contact Kick-off Meeting
+- Coordination with PR-Team – Press Release and course communication
+- Communication matrix communication templates
