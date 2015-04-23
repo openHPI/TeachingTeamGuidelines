@@ -25,12 +25,12 @@
 ## 4 weeks prior course start
 
 - PRODUCTION Record of course videos  Advice from the audio visual team
-- PUBLISHING: course introduction video for PR
-- PUBLISHING:  course design
-- PUBLISHING:  Add course content to the platform
-*   Readings
-*   Presentation (Slides)
-*   Audio 
-*   Video
-*   Quiz Quizdesign- Self tests Assignments Exams Regrading
+- PUBLISHING: Course introduction video for PR
+- PUBLISHING: Course design
+- PUBLISHING: Add course content to the platform
+1. Readings
+2. Presentation (Slides)
+3. Audio 
+4. Video
+5. Quiz Quizdesign- Self tests Assignments Exams Regrading
 -	Global announcement about course start  Communication matrix 
