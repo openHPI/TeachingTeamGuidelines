@@ -21,3 +21,16 @@
 - Kick off-Meeting with platform team contact Kick-off Meeting
 - Coordination with PR-Team – Press Release and course communication
 - Communication matrix communication templates
+
+## 4 weeks prior course start
+
+- PRODUCTION Record of course videos  Advice from the audio visual team
+- PUBLISHING: course introduction video for PR
+- PUBLISHING:  course design
+- PUBLISHING:  Add course content to the platform
+*   Readings
+*   Presentation (Slides)
+*   Audio 
+*   Video
+*   Quiz Quizdesign- Self tests Assignments Exams Regrading
+-	Global announcement about course start  Communication matrix 
