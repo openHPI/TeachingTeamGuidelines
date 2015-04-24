@@ -1,43 +1,45 @@
 # TeachingTeamGuidelines
-This repository contains markdown files for building up a documentation with ReadTheDocs
+This repository contains markdown files for building up an online documentation for the Xikolo MOOC platform with ReadTheDocs. Here the basics how it works is summed up.
 
 ## General Info
 
 A way of putting a documentation online is the combination of three tools:
 
-### GitHub
+- GitHub
 
 Can be used for hosting and editing the necessary files representing the documentations content (the markdown files) and structure (.yml file)
 
-### MkDocs
+- MkDocs
 
 This is essentially a python script, i.e. the technology used to build static html files as the output; takes the markdown files and the one .yml configuration file as input.
 
-### ReadTheDocs
+- ReadTheDocs
 
-Is using MkDocs for building and hosting the documentation in the end; it connects to GitHub (or other sources) to read in the content (markdown files) and configuration (mkdocs.yml file)
+A webservice using MkDocs as one backend for building the documentation out of markdown files and hosting the html documentation site in the end; it connects to GitHub (or other sources) to read in the content (markdown files) and configuration (mkdocs.yml file)
 
+## Updating the Teaching Guidelines
+**1st step:** Log in here on GitHub, make sure you have owner status for this repository and
+- **add/edit markdown file(s)** to update the content of the documentation
+- if you want to reorder chapters or add new md-files, edit the *mkdocs.yml* and adjust order/filenames
+- *also* adjust those changes inside the *index.md* file
+- CAVE: **but never rename the mkdocs.yml or the index.md files**!
+- you can also customize themes and build more complex document structures (follow the link to the manuals below)
+
+![.yml configuration file](/docs/pics/readme_screenshot.png)
+
+**2nd step:** Log in at [--> ReadTheDocs](https:/readthedocs.org)
+- **make a new build**. ReadTheDocs will fetch the files from GitHub and update the documentary immediately. For more info about this process look up the ReadTheDocs documentation (link below).
+
+![rtd environment](/docs/pics/readme_screenshot-2.png)
 
 ## More info ...
-
-... about MKDocs:
-
- - [MKDocs-Website](http://www.mkdocs.org/)
- - ["Documenting your project with MkDocs"](https://ep2014.europython.eu/de/schedule/sessions/39/): Video by the developer Tom Christie
- 
-
 ... about ReadTheDocs:
 
- - [GitHub-Page](https://github.com/rtfd/readthedocs.org)
- - [ReadTheDocs at ReadTheDocs](http://read-the-docs.readthedocs.org/en/latest/)
+ - [ReadTheDocs Manual](http://read-the-docs.readthedocs.org/en/latest/)
+ - [RTD GitHub Page](https://github.com/rtfd/readthedocs.org)
  
+... about MKDocs (the python backand ReadTheDocs is using to build an HTML site out of md-files):
+
+ - [MkDocs Manual](http://www.mkdocs.org/)
+ - ["Documenting your project with MkDocs"](https://ep2014.europython.eu/de/schedule/sessions/39/): Video by the developer Tom Christie
  
-## Updating the Teaching Guidelines
-
-Log in here on GitHub and
-- **edit markdown file(s)** to update the content
-- if necessary: edit the *mkdocs.yml* file in this repository for reordering of the chapters, after adding new chapters
-
-Log in at [ReadTheDocs](https:/readthedocs.org) and **make a new build**. ReadTheDocs will fetch the files from GitHub and update the documentary immediately. For more info about how this works with read the docs look the ReadTheDocs link above and choose chapter 'build'.
-
-**CAVE:** You must not rename the file *index.md* in the docs folder since ReadTheDocs/mkDocs needs this file named this way. In case of renaming the other markdown files with the documentation content make sure to also adjust these changes inside the mkdocs.yml file (the file which determines the structure/order for the files appearing in the documentation).
