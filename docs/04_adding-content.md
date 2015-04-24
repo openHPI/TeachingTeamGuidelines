@@ -40,8 +40,8 @@ Instructions: Setting course content on the platform:
 - Survey – Course beginning and end (set by the openHPI team)
 - I like/ wish (set by the platform team)
 
-![course structure](/docs/pics/course-structure-content.png)
-![Add Section](/docs/pics/add-section.png)
+![course structure](img/course-structure-content.png)
+![Add Section](img/add-section.png)
 
 #### Reading Material ####
 
@@ -51,7 +51,7 @@ The provision of reading material can be generally carried out in three forms:
  - as a PDF download, and 
  - as a Web link
 
-![adding text](/docs/pics/create-item-text.png)
+![adding text](img/create-item-text.png)
 
 Downloads can be provided directly through the platform. In those regions of the platform where this possibility exists, you will find a data upload field for this purpose.
 
@@ -66,7 +66,7 @@ Basically there is a Vimeo Pro account that exists for openHPI, from which Video
 Finished videos will be uploaded to Vimeo by the media technology department. The filenames of the videos should begin with the course's course_code, thereby the positioning of the videos on the openHPI web surface will be substantially simplified. Please note that the system operates case sensitive here. After the upload of the videos, openHPI has to be synchronized with the Vimeo account. A button for the purpose exists on the administration surface of openHPI.
 
 
-![adding video](/docs/pics/create-item.png)
+![adding video](img/create-item.png)
 
 After the successful conversion, the Teaching Team must carry out a short quality assurance:
 
@@ -117,7 +117,7 @@ There are no minus points.
 In the admin interface - for self-test implementation the following settings should be created:
 Please chose the following options as displayed in the picture below. 
 
-![adding selftest](/docs/pics/create-item-selftest.png)
+![adding selftest](img/create-item-selftest.png)
 
 Self-tests should always be without time limit and with as much try outs as possible. 
 
