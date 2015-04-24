@@ -47,4 +47,10 @@ A webservice using MkDocs as one backend for building the documentation out of m
 
  - [MkDocs Manual](http://www.mkdocs.org/)
  - ["Documenting your project with MkDocs"](https://ep2014.europython.eu/de/schedule/sessions/39/): Video by the developer Tom Christie
+
+... about markdown
+
+ - [Syntax Documentation](http://daringfireball.net/projects/markdown/syntax)
+ - [Editor MarkdownPad2](http://markdownpad.com/) (if you feel more comfortable with editing on your local system and syncing with GitHub afterwards)
+ 
  
