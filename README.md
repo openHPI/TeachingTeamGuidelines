@@ -34,5 +34,10 @@ Is using MkDocs for building and hosting the documentation in the end; it connec
  
 ## Updating the Teaching Guidelines
 
-Log in here on GitHub and **edit markdown file(s)** (and if changes of the document structure are necessary: the mkdocs.yml) in this repository.
-Log in at [ReadTheDocs](https:/readthedocs.org) and **make a new build**. ReadTheDocs will fetch the files from GitHub and update the documentary immediately.
+Log in here on GitHub and
+- **edit markdown file(s)** to update the content
+- if necessary: edit the *mkdocs.yml* file in this repository for reordering of the chapters, after adding new chapters
+
+Log in at [ReadTheDocs](https:/readthedocs.org) and **make a new build**. ReadTheDocs will fetch the files from GitHub and update the documentary immediately. For more info about how this works with read the docs look the ReadTheDocs link above and choose chapter 'build'.
+
+**CAVE:** You must not rename the file *index.md* in the docs folder since ReadTheDocs/mkDocs needs this file named this way. In case of renaming the other markdown files with the documentation content make sure to also adjust these changes inside the mkdocs.yml file (the file which determines the structure/order for the files appearing in the documentation).
