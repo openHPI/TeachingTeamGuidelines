@@ -18,7 +18,9 @@ This is essentially a python script, i.e. the technology used to build static ht
 A webservice using MkDocs as one backend for building the documentation out of markdown files and hosting the html documentation site in the end; it connects to GitHub (or other sources) to read in the content (markdown files) and configuration (mkdocs.yml file)
 
 ## Updating the Teaching Guidelines
-**1st step:** Log in here on GitHub, make sure you have owner status for this repository and
+### 1st step: 
+
+- Log in here on GitHub, make sure you have owner status for this repository and
 - **add/edit markdown file(s)** to update the content of the documentation
 - if you want to reorder chapters or add new md-files, edit the *mkdocs.yml* and adjust order/filenames
 - *also* adjust those changes inside the *index.md* file
@@ -27,10 +29,13 @@ A webservice using MkDocs as one backend for building the documentation out of m
 
 ![.yml configuration file](/docs/pics/readme_screenshot.png)
 
-**2nd step:** Log in at [--> ReadTheDocs](https:/readthedocs.org)
+### 2nd step:
+
+- Log in at [--> ReadTheDocs](https:/readthedocs.org)
 - **make a new build**. ReadTheDocs will fetch the files from GitHub and update the documentary immediately. For more info about this process look up the ReadTheDocs documentation (link below).
 
 ![rtd environment](/docs/pics/readme_screenshot-2.png)
+
 
 ## More info ...
 ... about ReadTheDocs:
