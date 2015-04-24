@@ -32,18 +32,16 @@ Furthermore, it is advisable to keep the surface of the course website as clean 
 With permission, through the openHPI platform team, a basic structure of the course can be made available as initial aid.
 Instructions: Setting course content on the platform:
 
-1. The course template will be already set by the platform team - fill it with content!
-2. Course administration → Course Structure and content.
-3. *Add Section*: A section can be a course week.
-4. *Add Item*: An Item can be a text, video, or quiz.
-5. Important: When creating Items, DO NOT set an end date.
-6. Survey – Course beginning and end (set by the openHPI team)
-7. I like/ wish (set by the platform team)
+- The course template will be already set by the platform team - fill it with content!
+- Course administration → Course Structure and content.
+- *Add Section*: A section can be a course week.
+- *Add Item*: An Item can be a text, video, quiz or an external LTI tool which connects to the platform.
+- Important: When creating Items, DO NOT set an end date.
+- Survey – Course beginning and end (set by the openHPI team)
+- I like/ wish (set by the platform team)
 
+![course structure](/docs/pics/course-structure-content.png)
 ![Add Section](/docs/pics/add-section.png)
-
-**insert screenshot figure 3**
-**insert screenshot figure 4**
 
 #### Reading Material ####
 
@@ -53,23 +51,19 @@ The provision of reading material can be generally carried out in three forms:
  - as a PDF download, and 
  - as a Web link
 
-#### insert screenshot figure 5 ####
+![adding text](/docs/pics/create-item-text.png)
+
 Downloads can be provided directly through the platform. In those regions of the platform where this possibility exists, you will find a data upload field for this purpose.
 
-#### Slides ####
-
-The slide sets can be provided as a PDF download, just like normal reading material. Slides to the videos should be added directly to the video item. Collected slide sets additionally can be made available to download on the 'materials' web page. For mobile apps, only the slides that have been provided with the video item will be included.
-
-#### Audio ####
-
-For the optional provision of separate audio tracks for the videos, the same channels as have been introduced for the reading materials can be utilized. Audio streams can easily be produced with the ffmpeg tool. These audio streams can be added to the video item by means of the field 'audio'.
 
 **Videos (This section is very openHPI specific and not necessarily valid for e.g. openUNE or MOOC.house)**
 
 Basically there is a Vimeo Pro account that exists for openHPI, from which Videos are delivered.
 Finished videos will be uploaded to Vimeo by the media technology department. The filenames of the videos should begin with the course's course_code, thereby the positioning of the videos on the openHPI web surface will be substantially simplified. Please note that the system operates case sensitive here. After the upload of the videos, openHPI has to be synchronized with the Vimeo account. A button for the purpose exists on the administration surface of openHPI.
 
-The Workflow of production and post production, in terms of allocation of videos, can fail in different ways and therefore will not be discussed further in this document. **insert screenshot figure 6**
+The Workflow of production and post production, in terms of allocation of videos, can fail in different ways and therefore will not be discussed further in this document.
+
+![adding video](/docs/pics/create-item.png)
 
 After the successful conversion, the Teaching Team must carry out a short quality assurance:
 
@@ -96,7 +90,13 @@ Complementary course slides (lecturer slides) or audio file or transcripts can b
 For the Thumbnail navigation thumbnails need to be created via thumbnail generator.
 [http://fb10mas01:81/]()  ([openhpi@hpi.de/openhpi]()) (contact person Dr. Haojin Yang) Those created thumbnail archives are added to the particular video in the admin interface.
 
+#### Slides ####
 
+The slide sets can be provided as a PDF download, just like normal reading material. Slides to the videos should be added directly to the video item. Collected slide sets additionally can be made available to download on the 'materials' web page. For mobile apps, only the slides that have been provided with the video item will be included.
+
+#### Audio ####
+
+For the optional provision of separate audio tracks for the videos, the same channels as have been introduced for the reading materials can be utilized. Audio streams can easily be produced with the ffmpeg tool. These audio streams can be added to the video item by means of the field 'audio'.
 
 #### Quizconception General Remarks ####
 
@@ -112,8 +112,9 @@ For Multiple-Answer Questions, points are calculated according their correct ans
 There are no minus points.
  
 In the admin interface - for self-test implementation the following settings should be created:
-Please chose the following options as displayed in below [Figure 7]() Implementation of  self tests. **insert screenshot figure 7**
+Please chose the following options as displayed in the picture below. 
 
+![adding selftest](/docs/pics/create-item-selftest.png)
 
 Self-tests should always be without time limit and with as much try outs as possible. 
 
