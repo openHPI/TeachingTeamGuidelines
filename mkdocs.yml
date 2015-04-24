@@ -1,13 +1,13 @@
 site_name: MOOC with Xikolo - Teaching Guideline
 pages:
 - [index.md, Home]
-- [01_getting-started.md, Getting Started]
-- [02_curriculum-design.md, Designing your Curriculum]
-- [03_course-cycle_schedule.md, Course cycle at openHPI]
-- [04_adding-content.md, Building Your Course]
-- [05_community-management.md, Communicating with Learners]
-- [06_end-of-course.md, End-of-Course]
-- [07_communication-matrix.md, Communication Matrix]
-- [checklist.md, Checklist]
-- [templates.md, Templates]
+- [01_getting-started.md, 1. Getting Started]
+- [02_curriculum-design.md, 2. Designing your Curriculum]
+- [03_course-cycle_schedule.md, 3. Course cycle at openHPI]
+- [04_adding-content.md, 4. Adding Content]
+- [05_community-management.md, 5. Communicating with Learners]
+- [06_end-of-course.md, 6. End-of-Course]
+- [07_communication-matrix.md, i. Communication Matrix]
+- [checklist.md, ii. Checklist]
+- [templates.md, iii. Templates]
 theme: readthedocs
