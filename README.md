@@ -1,19 +1,19 @@
 # TeachingTeamGuidelines
-This repository contains markdown files for building up an online documentation for the Xikolo MOOC platform with ReadTheDocs. Here the basics how it works is summed up.
+This GitHub repository contains markdown files for building up an online documentation for the Xikolo MOOC platform with ReadTheDocs. Here the basics about how it works is summed up.
 
 ## General Info
 
 A way of putting a documentation online is the combination of three tools:
 
-- GitHub
+- **GitHub**
 
 Can be used for hosting and editing the necessary files representing the documentations content (the markdown files) and structure (.yml file)
 
-- MkDocs
+- **MkDocs**
 
 This is essentially a python script, i.e. the technology used to build static html files as the output; takes the markdown files and the one .yml configuration file as input.
 
-- ReadTheDocs
+- **ReadTheDocs**
 
 A webservice using MkDocs as one backend for building the documentation out of markdown files and hosting the html documentation site in the end; it connects to GitHub (or other sources) to read in the content (markdown files) and configuration (mkdocs.yml file)
 
@@ -48,7 +48,7 @@ A webservice using MkDocs as one backend for building the documentation out of m
  - [MkDocs Manual](http://www.mkdocs.org/)
  - ["Documenting your project with MkDocs"](https://ep2014.europython.eu/de/schedule/sessions/39/): Video by the developer Tom Christie
 
-... about markdown
+... about Markdown
 
  - Syntax Documentation on [Daring Fireball](http://daringfireball.net/projects/markdown/syntax)
  - [Editor MarkdownPad2](http://markdownpad.com/) (if you feel more comfortable with editing on your local system and syncing with GitHub afterwards)
