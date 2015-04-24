@@ -56,15 +56,15 @@ The provision of reading material can be generally carried out in three forms:
 Downloads can be provided directly through the platform. In those regions of the platform where this possibility exists, you will find a data upload field for this purpose.
 
 
-### Videos ###
+#### Videos ####
 
-*Note: This section is openHPI specific in that openHPI uses Vimeo as an external video hosting platform which might not be necessarily valid for e.g. MOOC.house*
+>The workflow of video production and post production, in terms of allocation of videos, can be carried out in different ways and therefore will not be discussed further in this document. Instead, we assume that you already have a produced video at hand, which you want to bring to the platform.
+
+*Also note: This section is openHPI specific in that openHPI uses Vimeo as an external video hosting platform which might not be necessarily valid for e.g. MOOC.house.*
+
 Basically there is a Vimeo Pro account that exists for openHPI, from which Videos are delivered.
 Finished videos will be uploaded to Vimeo by the media technology department. The filenames of the videos should begin with the course's course_code, thereby the positioning of the videos on the openHPI web surface will be substantially simplified. Please note that the system operates case sensitive here. After the upload of the videos, openHPI has to be synchronized with the Vimeo account. A button for the purpose exists on the administration surface of openHPI.
 
->The Workflow of production and post production, in terms of allocation of videos, can fail in different ways and therefore will not be discussed further in this document.
-
-Here, we assume that you already have a produced video at hand.
 
 ![adding video](/docs/pics/create-item.png)
 
@@ -76,7 +76,7 @@ After the successful conversion, the Teaching Team must carry out a short qualit
 Besides that, the configuration parameters (at least in the beginning) of the Videos must be monitored (for this, see “openHPI Vimeo-Settings”).
 
 
-**The following must be considered during the integration of the videos (see Figure  6 Video Page in the Teacher Frontend):**
+**The following must be considered during the integration of the videos:**
 
 All videos can be integrated via a dropdown menu directly using the Vimeo API. In case the appropriate videos are named according to the specification above (name begins with abbreviation), only the course relevant videos will be listed in the dropdown menu. Videos that are not named in respect to this convention will not be listed. openHPI must be synchronized with Vimeo once again, when a videos title has been changed there.
 
