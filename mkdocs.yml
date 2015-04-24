@@ -12,3 +12,6 @@ pages:
 - [checklist.md, ii. Checklist]
 - [templates.md, iii. Templates]
 theme: readthedocs
+markdown_extensions:
+  toc:
+    permalink: True
