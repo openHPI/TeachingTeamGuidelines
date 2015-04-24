@@ -4,14 +4,10 @@ pages:
 - [01_getting-started.md, 1. Getting Started]
 - [02_curriculum-design.md, 2. Conceptualizing Your Curriculum]
 - [03_course-cycle_schedule.md, 3. Course cycle at openHPI]
-- [04_adding-content.md, 4. Adding content, 'Preparation of course materials']
-- [04_adding-content.md, 4. Adding content, 'Teaching-Team – Person in charge as per week']
+- [04_adding-content.md, 4. Adding Content]
 - [05_community-management.md, 5. Communicating with Learners]
 - [06_end-of-course.md, 6. End-of-Course]
 - [07_communication-matrix.md, i. Communication Matrix]
 - [checklist.md, ii. Checklist]
 - [templates.md, iii. Templates]
 theme: readthedocs
-markdown_extensions:
-  toc:
-    permalink: True
