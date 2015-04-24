@@ -15,7 +15,7 @@ PR – Video – Course introduction
 It has proven in the past, that it makes sense to create a short video teaser, (apart from the course introduction teaser) This short teaser video shouldn’t last longer than 2 minutes and can be recorded together with the longer course introduction video. Course introduction video gives a more detailed overview of course content and structure and perhaps the typical course cycle.
 Both videos are published on the YouTube videoplatfrom by the platform team via openHPI-Channel and linked to the course page.
 Please don’t forget to send this link to HPI PR department.
- 
+
 ### Teaching-Team – Person in charge as per week ###
 Prior course start, for each course week a responsible person from the teaching team is chosen. This person’s tasks are the first outline of concrete weekly content. (concrete: Quizzes, Homework, Reading Material) as well as
 
@@ -40,7 +40,7 @@ Instructions: Setting course content on the platform:
 6. Survey – Course beginning and end (set by the openHPI team)
 7. I like/ wish (set by the platform team)
 
-![add-section](/pics/add-section.png)
+![](/pics/add-section.png)
 **insert screenshot figure 3**
 **insert screenshot figure 4**
 
