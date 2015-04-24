@@ -27,14 +27,14 @@ A webservice using MkDocs as one backend for building the documentation out of m
 - CAVE: **but never rename the mkdocs.yml or the index.md files**!
 - you can also customize themes and build more complex document structures (follow the link to the manuals below)
 
-![.yml configuration file](/docs/pics/readme_screenshot.png)
+![.yml configuration file](img/readme_screenshot.png)
 
 ### 2nd step: Building Process
 
 - Log in at [--> ReadTheDocs](https:/readthedocs.org)
 - **make a new build**. ReadTheDocs will fetch the files from GitHub and update the documentary immediately. For more info about this process look up the ReadTheDocs documentation (link below).
 
-![rtd environment](/docs/pics/readme_screenshot-2.png)
+![rtd environment](img/readme_screenshot-2.png)
 
 
 ## More info ...
