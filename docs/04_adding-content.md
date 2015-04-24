@@ -40,7 +40,8 @@ Instructions: Setting course content on the platform:
 6. Survey – Course beginning and end (set by the openHPI team)
 7. I like/ wish (set by the platform team)
 
-![](/pics/add-section.png)
+![Add Section](/pics/add-section.png)
+
 **insert screenshot figure 3**
 **insert screenshot figure 4**
 
