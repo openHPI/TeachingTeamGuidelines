@@ -9,7 +9,7 @@ Recording of lecture videos in the studio: Tips from the audio-visual team
 -	Please start recordings well prepared. Slides should be prepared, if required talk them through
 -	Because of green screen background please refrain from wearing green attire
 -	Please avoid finely checked clothing as they are not desirable for video recordings either
--	Please look after your appearance, it should be well-groomed (keep in mind that several thousand people will watch your style  / a mirror is available in the room
+-	Please look after your appearance, it should be well-groomed (keep in mind that several thousand people will watch your style / a mirror is available in the room
 -	Due to the studio lights it can become quite warm in the record room. drinks and paper towels/ tissue is provided by the audio visual team
 PR – Video – Course introduction
 It has proven in the past, that it makes sense to create a short video teaser, (apart from the course introduction teaser) This short teaser video shouldn’t last longer than 2 minutes and can be recorded together with the longer course introduction video. Course introduction video gives a more detailed overview of course content and structure and perhaps the typical course cycle.
@@ -32,15 +32,15 @@ Furthermore, it is advisable to keep the surface of the course website as clean 
 With permission, through the openHPI platform team, a basic structure of the course can be made available as initial aid.
 Instructions: Setting course content on the platform:
 
-1. Already set by the platform team.
+1. The course template will be already set by the platform team - fill it with content!
 2. Course administration → Course Structure and content.
-3. Add Section: A section can be a course week.
-4. Add Item: An Item can be a text, video, or quiz.
+3. *Add Section*: A section can be a course week.
+4. *Add Item*: An Item can be a text, video, or quiz.
 5. Important: When creating Items, DO NOT set an end date.
 6. Survey – Course beginning and end (set by the openHPI team)
 7. I like/ wish (set by the platform team)
 
-**insert screenshot figure 2**
+![add-section](/pics/add-section.png)
 **insert screenshot figure 3**
 **insert screenshot figure 4**
 
