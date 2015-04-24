@@ -62,7 +62,9 @@ Downloads can be provided directly through the platform. In those regions of the
 Basically there is a Vimeo Pro account that exists for openHPI, from which Videos are delivered.
 Finished videos will be uploaded to Vimeo by the media technology department. The filenames of the videos should begin with the course's course_code, thereby the positioning of the videos on the openHPI web surface will be substantially simplified. Please note that the system operates case sensitive here. After the upload of the videos, openHPI has to be synchronized with the Vimeo account. A button for the purpose exists on the administration surface of openHPI.
 
->The Workflow of production and post production, in terms of allocation of videos, can fail in different ways and >therefore will not be discussed further in this document.
+>The Workflow of production and post production, in terms of allocation of videos, can fail in different ways and therefore will not be discussed further in this document.
+
+Here, we assume that you already have a produced video at hand.
 
 ![adding video](/docs/pics/create-item.png)
 
