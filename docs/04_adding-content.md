@@ -47,7 +47,7 @@ Instructions: Setting course content on the platform:
 
 The provision of reading material can be generally carried out in three forms: 
 
- - as a Wiki-page, 
+ - as a Text-page, 
  - as a PDF download, and 
  - as a Web link
 
