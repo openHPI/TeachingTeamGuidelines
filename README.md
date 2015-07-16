@@ -2,6 +2,7 @@
 This GitHub repository contains markdown files for building up an online documentation for the Xikolo MOOC platform with ReadTheDocs. Here the basics about how it works is summed up.
 
 ## General Info
+http://teachingteamguidelines.readthedocs.org
 
 A way of putting a documentation online is the combination of three tools:
 
