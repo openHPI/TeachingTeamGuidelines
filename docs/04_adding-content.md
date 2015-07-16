@@ -170,4 +170,8 @@ You can deal with those problems as follows:
  - With free text questions it may happen, that students offer a correct answer which is not correctly assessed by the system. For example: A Password is required as an answer. The users receive this password by carrying out an assignment in an external tool. The expected result is „chnFTG56$“. It can happen that the user writes: “Password: chnFTG56$“. In such cases answers can be assessed as correct retrospectively.
  - For completely lost cases there is the „Jackpot Regrading Option”. All participants who have answered one question can receive full points for this question.
  - Any required regradings need to be confirmed with the [Plattform Core Team](). Contacts are here Tom Staubitz and Christian Willems. In all other cases regradings are carried out AFTER the submission deadline. Nevertheless should the core team be informed as early as possible to organize time for the regrading and to consider how the damage can be minimized by early action.
+ - 
+ 
+#### Special Features ####
+### Peer Assessment ###
 
