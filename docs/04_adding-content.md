@@ -174,7 +174,7 @@ You can deal with those problems as follows:
  
 ### Special Features ###
 #### Peer Assessment ####
-Find a general description of the Peer Assessment Feature [here](https://open.hpi.de/pages/p_a)
-Find calculation of grades [here](https://open.hpi.de/pages/p_a_grading)
+Find a general description of the Peer Assessment Feature [here](https://open.hpi.de/pages/p_a).  
+Find an example for the calculation of grades [here](https://open.hpi.de/pages/p_a_grading).  
 
 
