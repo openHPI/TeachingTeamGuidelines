@@ -101,9 +101,9 @@ The slide sets can be provided as a PDF download, just like normal reading mater
 
 For the optional provision of separate audio tracks for the videos, the same channels as have been introduced for the reading materials can be utilized. Audio streams can easily be produced with the ffmpeg tool. These audio streams can be added to the video item by means of the field 'audio'.
 
-#### Quizconception General Remarks ####
+#### Quiz Design General Remarks ####
 
-Quiz relates to any kind of test or assignment. With the quiz tool of the openHPI Platform the [Selftests](), die [Weekly Assignements (homework)]() as well as thee [exam]() are created.
+Quiz relates to any kind of test or assignment. With the quiz tool of the openHPI Platform the [Selftests](), the [Weekly Assignments (homework)]() as well as the [Final Exams]() are created.
 Generally the following is essential: When designing questions for quizzes it has proven successful to start creating as many questions as possible for each single video as per week. The best is to do so, when chosing the course content and presentations for the videos. Based on this it can be decided which questions to chose for self tests and which for assignments. Homework should be complemented by some questions which desire the application and transfer of the acquired knowledge. Besides, for weekly assignments questions from the selftests can be chosen again (modified , of course). The same applies to questions from the homework for the final exam.
 For all those questions in the quizzes a quality check is vital. Unclear answers should be avoided in any case. Distractors (wrong answers to chose in a multiple choice quiz) should be researched thouroughly. Perhaps there is an internet source people can use to state that this choice is a correct answer? Mistakes in quizzes lead to undesired frustrations among the the learning community and discussions and in the worst case they require a complex [Regrading](). [Here](https://www.utexas.edu/academic/ctl/assessment/iar/students/plan/method/exams-mchoice-write.php), you can find some good advice for creating multiple choice questions.
 
