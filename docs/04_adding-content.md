@@ -1,6 +1,6 @@
 ## Adding your content to the platform ##
 
-In this section we like to show you how you actually add content (videos, textfiles, assignments etc.) to the platform.
+In this section we'd like to show you how to add content (videos, textfiles, assignments etc.) to the platform.
 
 ### Preparation of course materials ###
 
@@ -48,7 +48,7 @@ Instructions: Setting course content on the platform:
 The provision of reading material can be generally carried out in three forms: 
 
  - as a Text-page, 
- - as a PDF download, and 
+ - as a PDF download, or 
  - as a Web link
 
 ![adding text](img/create-item-text.png)
@@ -125,7 +125,7 @@ When choosing the Option „Skip Welcome Page“, the quiz starts as soon as the
 
 #### Weekly assignments  and Final exam ####
 
-In the seeting of weekly Assignments / exams the Skip Intro Page need to be marked „OFF“.
+In the setting of weekly assignments / exams the Skip Intro Page need to be marked „OFF“.
 Otherwise the timer starts as soon as the user clicks on the quiz. The quiz would start right away as soon as the learner has navigated to that item. There is NO possibility to stop that countdown. Neither the closing of the browser nor unplugging the computer will help in such a situation.
 The timer can only be stopped by handing the quiz in. An undesired hand-in of incomplete exam results can lead to a great frustration and “shit storm” in the forum and social media.
 **insert screenshot figure 9**
@@ -154,7 +154,7 @@ In case after the release (or even just at the end of the submission deadline) t
 
 *Background information – Quiz-Engine:*
 
-Quizzes in openHPI are safed „versionized“, which means that each editing (and publication) of a quiz generates a new version. If a user wants to take the quiz, a copy with the latest version of that quiz is safed in a special table. Therefore, a modification of the already released quiz doesn’t have an impact on already submitted questions. Regrading only corrects the POINTS for submitted answers, not the answers themselves. So please be aware that here an inconsistency between corrected answers of a student and his points can arise.
+Quizzes in openHPI are saved „versionized“, which means that each editing (and publication) of a quiz generates a new version. If a user wants to take the quiz, a copy with the latest version of that quiz is safed in a special table. Therefore, a modification of the already released quiz doesn’t have an impact on already submitted questions. Regrading only corrects the POINTS for submitted answers, not the answers themselves. So please be aware that here an inconsistency between corrected answers of a student and his points can arise.
 
 Possible mistakes during quizdesign, which can lead to a regrading, can be as follows:
  - Unclear answers. The choice of answers can be interpreted in a way, that is not corresponding to the desired answer scheme.
