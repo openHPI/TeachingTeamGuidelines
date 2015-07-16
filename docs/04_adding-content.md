@@ -172,6 +172,9 @@ You can deal with those problems as follows:
  - Any required regradings need to be confirmed with the [Plattform Core Team](). Contacts are here Tom Staubitz and Christian Willems. In all other cases regradings are carried out AFTER the submission deadline. Nevertheless should the core team be informed as early as possible to organize time for the regrading and to consider how the damage can be minimized by early action.
  - 
  
-#### Special Features ####
-### Peer Assessment ###
+### Special Features ###
+#### Peer Assessment ####
+Find a general description of the Peer Assessment Feature [here](https://open.hpi.de/pages/p_a)
+Find calculation of grades [here](https://open.hpi.de/pages/p_a_grading)
+
 
