@@ -1,40 +1,71 @@
 ## Adding your content to the platform ##
 
-In this section we'd like to show you how to add content (videos, textfiles, assignments etc.) to the platform.
 
 ### Preparation of course materials ###
 
-The original syllabus of the course “Internetworking of TCP/IP” was designed about 2 months prior course start by the course instructor and the head of the teaching team. Main tasks here are especially the design of the course outline as well as the selection of lecture clips for openHPI from existing (available) lecture notes.
-Recording of lecture videos in the studio: Tips from the audio-visual team
--	Please start recordings well prepared. Slides should be prepared, if required talk them through
--	Because of green screen background please refrain from wearing green attire
--	Please avoid finely checked clothing as they are not desirable for video recordings either
--	Please look after your appearance, it should be well-groomed (keep in mind that several thousand people will watch your style / a mirror is available in the room
--	Due to the studio lights it can become quite warm in the record room. drinks and paper towels/ tissue is provided by the audio visual team
-PR – Video – Course introduction
-It has proven in the past, that it makes sense to create a short video teaser, (apart from the course introduction teaser) This short teaser video shouldn’t last longer than 2 minutes and can be recorded together with the longer course introduction video. Course introduction video gives a more detailed overview of course content and structure and perhaps the typical course cycle.
-Both videos are published on the YouTube videoplatfrom by the platform team via openHPI-Channel and linked to the course page.
-Please don’t forget to send this link to HPI PR department.
+We recommend to start with the preparation of the course materials at minimum 2 months before course start.
 
-### Teaching-Team – Person in charge as per week ###
-Prior course start, for each course week a responsible person from the teaching team is chosen. This person’s tasks are the first outline of concrete weekly content. (concrete: Quizzes, Homework, Reading Material) as well as
+ The first task here is the design of the course outline.
+ 
+###Recording of lecture videos in the studio###
+ 
+Tips from the camera crew:
+
+-	Please start recordings well prepared. Slides should be prepared, if required talk them through.
+-	Because of green screen background, please refrain from wearing green attire.
+-	Please avoid finely checked clothing as they are not desirable for video recordings either.
+-	Please look after your appearance, it should be well-groomed (keep in mind that several thousand people will watch your style.)
+-	Due to the studio lights it can become quite warm in the recording room. 
+
+ 
+###PR – Video – Course Introduction###
+
+It has proven in the past, that it makes sense to create a short video teaser, (apart from the course introduction video) This short teaser video shouldn’t have a duration of more than 2 minutes. The teaser is used for marketing purposes. The course introduction video gives a more detailed overview of course content and structure and perhaps the typical course cycle.
+Both videos should be published on YouTube or a similar platform. They should be linked to the course details page.
+The Youtube links should also be provided to your PR department.
+
+###Teaching-Team – Person in charge as per week###
+
+We recommend to choose one member of the teaching team as the person in charge for each week prior to course start. 
+
+This person’s tasks are the first outline of the weekly content. (concrete: Quizzes, Homework, Reading Material) as well as:
 
 - Organisation of content creation (e.g. timely recording and post production of videos, preparation of reading materials, etc.)
 - Preparation and moderation of editorial meetings for the particular course week
 - Approval of weekly platform content as well as coordination of quality assurance
 - Coordination of fora and support during the course week (together with team leader)
-This approach and procedure is not mandatory but it has proven worth in the past.
- 
-### Setting the Course Content on the Platform ###
+This approach and procedure is not mandatory but it has proven worth in the past. 
 
-It is recommended to look at past courses in order to see how the other teams implemented the courses. In this case the platform team will provide valuable tips.
-Furthermore, it is advisable to keep the surface of the course website as clean and comprehensible for the learners.
-With permission, through the openHPI platform team, a basic structure of the course can be made available as initial aid.
-Instructions: Setting course content on the platform:
+###Setting the Course Content on the Platform###
 
-- The course template will be already set by the platform team - fill it with content!
+It is advisable to keep the surface of the course website clean and comprehensible for the learners.
+
+####Course Structure####
+
+Each course consists of several modules or sections. In general these modules comprise 1 week of the course. They can, however, have arbitrary names and are not necessarily restricted to last exactly one week. A typical 6 week course structure could look like this:
+
+- Welcome
+- Week 1
+- Week 2
+- Week 3
+- Week 4
+- Excursion
+- Week 5
+- Week 6
+- Final Exam
+- Survey
+
+The platform team will create the course for you. Fill it with content.
+
+#####Add Section#####
+
 - Course administration → Course Structure and content.
-- *Add Section*: A section can be a course week.
+- *Add Section*: 
+	- A section generally contains a course week. It can also contain special purpose content, such as a Final Exam, an Excursion, or a Survey.
+
+	TODO: Screen shot
+
+
 - *Add Item*: An Item can be a text, video, quiz or an external LTI tool which connects to the platform.
 - Important: When creating Items, DO NOT set an end date.
 - Survey – Course beginning and end (set by the openHPI team)
