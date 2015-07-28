@@ -57,22 +57,49 @@ Each course consists of several modules or sections. In general these modules co
 
 The platform team will create the course for you. Fill it with content.
 
-- Course administration => Course structure and content
-
 ![course structure](img/04/course_admin_menu.png)
+
+*Fig. 01: Course administration => Course structure and content*
+
 
 #####Add Section#####
 
+![add section](img/04/add_section.png)
+
+*Fig. 02: Add section button*
+
 A section generally contains a course week. It can also contain special purpose content, such as a Final Exam, an Excursion, or a Survey.
 
-![add section](img/04/add_section.png)
+![add section](img/04/section_form.png)
+
+*Fig. 03: Create section form*
+
+**Title:** Could be sth. like Week 1, Excursion, or Final Exam. This will be visible for the user in the course's left hand navigation bar, the course syllabus, and the course content list on the course detail page. It also can serve to be used to describe the course contents on the certificate. A step that is not automated yet. 
+
+**Description:** A short description of the section's content. One or two sentences. This will be visible for the user in the course syllabus, and the course content list on the course detail page.
+
+**Published:** If the section is not published it will not be visible for the users at all.
+
+**Start date:** Before the start date the section will be "greyed out" and locked for the users.
+
+**End date:** Usually, an end date is not set for a section. Only use this if you have a well defined purpose or intention.
+
+**Section is optional:** If a section is optional then what???
+
+**Close discussions:** Discussions can be closed for certain sections if required.
+
+![add section](img/04/section_backend.png)
+
+*Fig. 04: Successfully created section in course admin view*
 
 
 #####Add Item#####
 Standard items are text, video, and quiz.
-Additionally, the platform supports [LTI items](todo://link), which can be used to connect external tools to the platform. It also supports [peer assessments](todo://link).
+Additionally, the platform supports [LTI items](todo://link), which can be used to connect external tools to the platform. The platform also supports [peer assessments](todo://link).
 
-- Important: When creating Items, DO NOT set an end date.
+- Important: When creating items, DO NOT set an end date if you don't have a really important reason to do so.
+
+
 
 
 ![course structure](img/course-structure-content.png)
