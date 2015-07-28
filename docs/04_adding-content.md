@@ -57,19 +57,23 @@ Each course consists of several modules or sections. In general these modules co
 
 The platform team will create the course for you. Fill it with content.
 
+- Course administration => Course structure and content
+
+![course structure](img/04/course_admin_menu.png)
+
 #####Add Section#####
 
-- Course administration → Course Structure and content.
-- *Add Section*: 
-	- A section generally contains a course week. It can also contain special purpose content, such as a Final Exam, an Excursion, or a Survey.
+A section generally contains a course week. It can also contain special purpose content, such as a Final Exam, an Excursion, or a Survey.
 
-	TODO: Screen shot
+![add section](img/04/add_section.png)
 
 
-- *Add Item*: An Item can be a text, video, quiz or an external LTI tool which connects to the platform.
+#####Add Item#####
+Standard items are text, video, and quiz.
+Additionally, the platform supports [LTI items](todo://link), which can be used to connect external tools to the platform. It also supports [peer assessments](todo://link).
+
 - Important: When creating Items, DO NOT set an end date.
-- Survey – Course beginning and end (set by the openHPI team)
-- I like/ wish (set by the platform team)
+
 
 ![course structure](img/course-structure-content.png)
 ![Add Section](img/add-section.png)

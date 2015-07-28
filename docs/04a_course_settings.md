@@ -8,7 +8,7 @@ As a teacher or member of the teaching team, you can set the course's properties
 
 **Course Administration => Course properties**
 
-![course structure](img/04a/properties_menu.png)
+![course properties](img/04a/properties_menu.png)
 
 
 
