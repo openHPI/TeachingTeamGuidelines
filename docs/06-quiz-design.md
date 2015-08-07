@@ -1,19 +1,18 @@
 ##Quiz Design##
 ###General Remarks###
 
-The term quiz is used here for any kind of test or assignment. The quiz tool of the platform allows to create the [Selftests](), the [Weekly Assignments (homework)]() and the [Final Exams]().
-Generally, the following is essential: When designing questions for quizzes it has proven successful to start creating as many questions as possible for each single video item. The best is to do that, while choosing the course content and presentations for the videos. Based on this pool of questions it can be decided which questions to choose for self tests and which for assignments. The weekly assignments should be complemented by some questions, which desire the application and transfer of the acquired knowledge. Weekly assignments can also contain modified questions from the selftests. The same applies for the final exam.
-For all questions in the quizzes a thorough quality check is vital. Unclear answers should be avoided in any case. Distractors (wrong answers to chose in a multiple choice quiz) have to be researched thouroughly. Perhaps there is an internet source people can use to state that this choice is a correct answer? Mistakes in quizzes lead to undesired frustrations among the the learning community and discussions and in the worst case they require a [regrading](). The University of Texas provides some [good advice]((https://www.utexas.edu/academic/ctl/assessment/iar/students/plan/method/exams-mchoice-write.php)) for creating multiple choice questions.
+The term quiz is used here for any kind of test or assignment. The quiz tool of the platform allows to create the [Self-tests](), the [Weekly Assignments]() and the [Final Exams]().
+Generally, the following is essential: When designing questions for quizzes, it has proven successful to start creating as many questions as possible for each single video item. The best is to do that, while choosing the course content and presentations for the videos. Based on this pool of questions it can be decided which questions to choose for self tests and which for assignments. The weekly assignments should be complemented by some questions, which desire the application and transfer of the acquired knowledge. Weekly assignments can also contain modified questions from the selftests. The same applies for the final exam.
+For all questions in the quizzes a thorough quality check is vital. Unclear answers should be avoided in any case. Distractors (wrong answers to choose from in a multiple choice quiz) have to be researched thouroughly. Perhaps there is an internet source people can use to state that this choice is a correct answer? Mistakes in quizzes lead to undesired frustrations among the the learning community, discussions in the forum and in the worst case they require a [regrading](). For self-tests, however, it might be intended to trigger discussions by "unclear" questions. With "unclear" we do not mean badly designed but rather s.th such as rare edge cases, etc. These discussions can be leveraging the learning process.
 
-The platform offers the possibility to add graphics or images (best suited are PNGs) for questions and answers. Please scale those files down for webuse before inserting them.
-
+The University of Texas provides some [good advice]((https://www.utexas.edu/academic/ctl/assessment/iar/students/plan/method/exams-mchoice-write.php)) for creating multiple choice questions.
 
 ###Self-Tests###
 
 Self-tests help repeating and deepening the learnings from the previosly seen video clips. Contentwise, questions should be designed in a way, that they take up the most important learnings and findings from the videos. 
 Alternatively, self-tests can also be used to encourage the students to deepen their knowledge, e.g. with some research of their own.
 Depending on length and level of difficulty, video content should be reflected within 2-5 questions.
-The points users can earn for self-tests should, in general, match with the ones from the weekly assignments. The number of points for a question depends on its type and the level of difficulty. In general, multiple-answer-questions are more considered to be more difficult than multiple-choice-questions. 
+The points users can earn for self-tests should, in general, match with the ones from the weekly assignments. The number of points for a question depends on its type and the level of difficulty. In general, multiple-answer-questions are considered to be more difficult than multiple-choice-questions. 
 
 Questions with more answers to choose from should earn more points. The amount of points should not match the number of correct answers, however.
 For multiple-answer-questions, the points a user will receive are calculated according to their correct answers. The value of the result is determined by the sum of correct answers. If a student marks a correct answer as correct, she will receive the according part of the total points. If a student marks a wrong answer as correct, the according part of the total points will be deducted. Minimum points are always zero, there are no negative points.
@@ -23,27 +22,27 @@ For multiple-answer-questions, the points a user will receive are calculated acc
 	- Question with four answers to chose from: 
 		- 2 answers are correct, 
 		- 2 answers are wrong. 
-	- The teaching team decided to award this questions with 4 points.  
+		- The teaching team decided to award this questions with 4 points.  
 
 	- Student one:
 	   - Marked two answers as correct. 
 	   - Both of the answers have been marked as correct by the teaching team as well.
-	   - ==> Student one will receive 4 points.
+	   ==> Student one will receive 4 points.
 
 	- Student two:
-	   - Marked one answers as correct. 
+	   - Marked one answer as correct. 
 	   - The answer has been marked as correct by the teaching team as well.
-	   - ==> Student two will receive 2 points.  
+	   ==> Student two will receive 2 points.  
 
 	- Student three:
       - Marked two answers as correct. 
       - One of the answers is correct, the other one is wrong.
-      - ==> Student three will receive 0 points.
+      ==> Student three will receive 0 points.
 
  	- Student four:
       - Marked two answers as correct. 
       - Both answers are wrong.
-      - ==> Student four will receive 0 points.   
+      ==> Student four will receive 0 points.   
 
 
 
@@ -102,7 +101,7 @@ Possible mistakes during quizdesign, which can lead to a regrading, can be as fo
 
 **Add answer submission:** The platform team can set answers as given directly in the data base. This also requires that an additional update has to be run afterwards.
 
-**Remove question**
+**Remove question:**
 A complete question could be removed from the quiz. As this leads to undesired side effects, such as the recalculation of the amount of overall points, this should be avoided. A Jackpot regrading might be the better choice.
 
 **Add additional correct answer (multiple choice only):** For multiple choice questions additional answers can be checked as correct. This also requires the update skript to be run. If applied to a multiple answer question, the amount of points per answer might change, users that answered the question as it was originally intended will lose points.
