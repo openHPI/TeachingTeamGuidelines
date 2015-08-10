@@ -15,6 +15,7 @@ This guide enables course instructors to become familiar with teaching an online
    - [10. Peer Assessment](10_peer-assessment.md)
    - [11. LTI](11_lti.md)
    - [12. Code Ocean](12_code-ocean.md)
+   - [13. User Tests](13_user-tests.md)
    - [19. Communicating With Learners](05_community-management.md)
    - [20. End of Course](06_end-of-course.md)
    - [i. Communication Matrix](07_communication-matrix.md)
