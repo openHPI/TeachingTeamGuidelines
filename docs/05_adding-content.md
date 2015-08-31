@@ -57,20 +57,20 @@ Each course consists of several modules or sections. In general these modules co
 
 The platform team will create the course for you. Fill it with content.
 
-![course structure](img/04/course_admin_menu.png)
+![course structure](img/05/course_admin_menu.png)
 
 *Fig. 01: Course administration => Course structure and content*
 
 
 ####Add Section####
 
-![add section](img/04/add_section.png)
+![add section](img/05/add_section.png)
 
 *Fig. 02: Add section button*
 
 A section generally contains a course week. It can also contain special purpose content, such as a Final Exam, an Excursion, or a Survey.
 
-![add section](img/04/section_form.png)
+![add section](img/05/section_form.png)
 
 *Fig. 03: Create section form*
 
@@ -88,7 +88,7 @@ A section generally contains a course week. It can also contain special purpose 
 
 **Close discussions:** Discussions can be closed for certain sections if required. It is no more possible to comment, answer, or start new threads anymore in this case.
 
-![add section](img/04/section_backend.png)
+![add section](img/05/section_backend.png)
 
 *Fig. 04: Successfully created section in course admin view*
 
@@ -102,7 +102,7 @@ Additionally, the platform supports [LTI items](todo://link), which can be used 
 **Start and end date:**  
 Important: When creating items, DO NOT set an end date if you don't have a really important reason to do so. Generally, it is also not necessary to set a start date.
 
-![add section](img/04/item_form.png)
+![add section](img/05/item_form.png)
 
 *Fig. 05: Create new item form*
 
@@ -119,7 +119,7 @@ The provision of reading material can be generally carried out in three forms:
  - as a PDF download, or 
  - as a web link
 
-![adding text](img/04/create_item_text.png)
+![adding text](img/05/create_item_text.png)
 
 *Fig. 06: Create new text item form*
 
@@ -135,7 +135,7 @@ To link to a file for download:
 - Click on the add image icon and select the file that you have just uploaded.
 - In the text field: remove the "!" in front of the link. And add some meaning ful text within the brackets (see fig. 07.)
 
-![linking files for download](img/04/link_for_download.png)
+![linking files for download](img/05/link_for_download.png)
 
 *Fig. 07: Manipulate image link to turn it into a download link*
 
@@ -155,7 +155,7 @@ The platform's database is synchronized with Vimeo on a daily basis. See also be
 API support for other providers is currently not supported.
 Admins (not teachers or teaching team members), however, can manually add video streams that are hosted with other providers. 
 
-![adding streams](img/04/add_stream.png)
+![adding streams](img/05/add_stream.png)
 
 *Fig. 08: Add stream form (Administration => Videos)*
 
@@ -170,7 +170,7 @@ Admins (not teachers or teaching team members), however, can manually add video 
 **Poster-image URL:** Set a custom poster image (will be displayed before the video is started) for the video.
 
 
-![adding video](img/04/create_video_item.png)
+![adding video](img/05/create_video_item.png)
 
 *Fig. 09: Create new video item form*
 
