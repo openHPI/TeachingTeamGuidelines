@@ -1,4 +1,6 @@
-## Supporting & looking after your community ##
+![HPI Logo](img/HPI_Logo.png)
+
+# Supporting & looking after your community
 
 For contact with the learning community you can chose from the following channels:
 
@@ -14,7 +16,7 @@ We suggest to use these communication channels for different types of communicat
 Global announcements – messages to ALL openHPI users (not course specific) have to be coordinated with the platform team.
 
 
-### Conventions ###
+## Conventions
 
 *Communication and appearance*
 
@@ -40,7 +42,7 @@ The following conventions have proven to work out alright
  - Unterstützung wird hier auch vom openHPI-Team gewährt
 
 
-### Sanctions ###
+## Sanctions
 
 In case of disregarding Netiquette, the forum rules or the code of honor suitable sanctions need to be prepared – if required in different escalation levels. To these belong:
  
@@ -51,7 +53,7 @@ In case of disregarding Netiquette, the forum rules or the code of honor suitabl
  - 
 It is important to handle sanctions carefully. The experience of the past courses show, that usually the community takes care of sanctions and admonitions in case of disregarding forum rules or aggressive communication towards the team.
 
-### Discussion Forum ###
+## Discussion Forum
 
 The available for a in a course can be divided into the “Common Forum” and the “Weekly Forum”. In the weekly forum more specific questions about weekly course topics can be discussed. In the general forum as well as technical discussions. Technical discussions should be tagged as such so that they can be found in the appropriate area.
 
@@ -68,16 +70,16 @@ Certain discussion topics can be emphasized via “Sticky Post” feature. Marke
 A little hint: the learning community appreciates posts by the course lecturers / teachers themselves.
 
 
-### Helpdesk / Technical Support ###
+## Helpdesk / Technical Support
 
 In general, the technical support should only happen via Helpdesk. In case that individual technical questions arriving via forum or email the sender should be ask to come back via Helpdesk. This is also important to communicate at course start. (in the welcome message).
 Technical questions posted in the forum which are relevant to other users as well can be discussed there. As well as technical questions, which arrive via helpdesk – (sometimes many arrive to the same topic) can anser the teaching / support team in the general forum via sticky post in case they are relevant to other users.
 
 
-### Social Media ###
+## Social Media
 
 Support requests or content related questions addressed at the teaching team via Social Media (WeiBo, Twitter oder Facebook Messages) should be forwarded to helpdesk or discussion forum. Are these public requests, the forwarding should take place to other channels as well.
 
-### openHPI Blog ###
+### openHPI Blog
 
-Here, at least on a weekly base, a short report with a photo should be posted. OpenHPI Bloginformation have to be discussed with the platform team.
+Here, at least on a weekly base, a short report with a photo should be posted. openHPI Bloginformation have to be discussed with the platform team.

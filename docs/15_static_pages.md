@@ -1,3 +1,3 @@
 ![HPI Logo](img/HPI_Logo.png)
 
-# CodeOcean
+# Static Pages

@@ -1,4 +1,6 @@
-# Templates #
+![HPI Logo](img/HPI_Logo.png)
+
+# Templates
 
 ----------
 ## Course Registration Form
@@ -9,9 +11,9 @@ BILD
 LINK
 
 
-## Course Announcements ##
+## Course Announcements
 
-### Template | Global Announcement 4 weeks prior to course start ###
+### Template | Global Announcement 4 weeks prior to course start
 
 *Deutsch*
 
@@ -41,11 +43,11 @@ Dear Learning-Community,
 		
 		Kind regards, The openHPI-Team
 
-### Template | Global Announcement Friday before course start - Reminder ###
+### Template | Global Announcement Friday before course start - Reminder
 
 *Deutsch*
 
-### Template | Welcome Message - week 1 ###
+### Template | Welcome Message - week 1
 
 *German*
 
@@ -58,7 +60,7 @@ Dear Learning-Community,
 		Wir wünschen Ihnen viel Spaß mit diesem Kurs,
 		Ihr openHPI-Team „Sicherheit im Internet“
 
-### Template | Introduction to week n ###
+### Template | Introduction to week n
 
 *German*
 
@@ -100,7 +102,7 @@ Dear Learning-Community,
 		Kind regards, The openHPI-Team
 
 
-### Template | Annoucement - exam week ###
+### Template | Annoucement - exam week
 
 *Deutsch*
 
@@ -141,7 +143,7 @@ Dear Learning-Community,
 		
 		Kind regards, The openHPI-Team
 
-### Template | Thank you and goodbye message by the instructor - After course has endet ###
+### Template | Thank you and goodbye message by the instructor - After course has endet
 
 *Deutsch*
  
@@ -174,9 +176,9 @@ Dear Course Participants,
 ----------
 
 
-## Messages on the Platform ##
+## Messages on the Platform
 
-### Template | Welcome Message Prior Course Start ###
+### Template | Welcome Message Prior Course Start
  
 	**Abbildung 13 Screenshot automatisierte Willkommensnachricht bei Kurseinschreibung**
 
@@ -204,7 +206,7 @@ Dear Course Participants,
 		Kind regards,
 		Your teaching team from “COURSE NAME”
 
-### Template | Automatic Reply during a course ###
+### Template | Automatic Reply during a course
 
 *German*
 
@@ -225,7 +227,7 @@ Dear Course Participants,
 
 		Announcement text here
 
-### Template | Automatic Reply after a course is finished ###
+### Template | Automatic Reply after a course is finished
 
 *German*
 
@@ -244,7 +246,7 @@ Dear Course Participants,
 
 		Announcement text here
 
-### Template | Willkommensnachricht auf Kursseite ###
+### Template | Willkommensnachricht auf Kursseite
  
 		Abbildung 14 Screenshot Willkommensnachricht auf der Kursseite
 

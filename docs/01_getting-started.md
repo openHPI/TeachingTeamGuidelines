@@ -1,16 +1,18 @@
-## Getting Started: Designing your Course ##
+![HPI Logo](img/HPI_Logo.png)
+
+# Getting Started: Designing your Course
 
 For general information about course design we recommend to look at the suggestions of the [MOOC Canvas Framework](http://mooccanvas.com/use.html).
 
 Another great resource is the [MOOC Design Patterns Project](http://www.moocdesign.cde.london.ac.uk/), particularly, their set of [design pattern cards] (https://docs.google.com/viewer?a=v&pid=sites&srcid=bW9vY2Rlc2lnbi5jZGUubG9uZG9uLmFjLnVrfGhvbWV8Z3g6MzA4OWIyNzUxZmRmNDlmYw).
 
-### Introduction: 
+## Introduction: 
 
 You have decided that you want to offer educational resources or need training for a large number of people. How do you do that? How to MOOC?
 
 From our own experience we recommend the following:
 
-###Course Design
+## Course Design
 
  -	Define your **target audience**: do you want to address your employees or the open public? A general or specialist audience? Should your course be of academic nature or focus on practical aspects? Do you aim at a specific age group, e.g. pupils, professionals, silver surfers?
 

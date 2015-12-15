@@ -1,4 +1,6 @@
-## Communication Matrix ##
+![HPI Logo](img/HPI_Logo.png)
+
+# Communication Matrix
 
 About this matrix:
 

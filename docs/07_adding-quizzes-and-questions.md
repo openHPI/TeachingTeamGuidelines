@@ -1,13 +1,15 @@
-## Adding quizzes and questions ##
+![HPI Logo](img/HPI_Logo.png)
 
-### Adding quizzes ###
+# Adding quizzes and questions
+
+## Adding quizzes
 Please, refer to the [adding content page]() for the quiz settings. 
 
 The platform offers the possibility to add graphics or images (best suited are PNGs) for questions and answers. Please scale those files down for webuse before inserting them.
 
-### Adding questions ###
+## Adding questions
 
-####Available question types:####
+### Available question types:
 
 **Multiple choice:** Multiple options but only one correct answer. Displayed with radio buttons to signal the user that only one of the options is correct.
 
@@ -25,7 +27,7 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 *Fig. 01: Select question type*
 
 
-####Adding the question:####
+### Adding the question:
 
 ![course structure](img/07/add_question.png)
 
@@ -46,7 +48,7 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 *Fig. 03: The question has been added*
 
 
-####Adding answers:####
+### Adding answers:
 
 ![course structure](img/07/add_answer.png)
 

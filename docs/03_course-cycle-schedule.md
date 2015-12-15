@@ -1,4 +1,6 @@
-## Recommended Course Cycle ##
+![HPI Logo](img/HPI_Logo.png)
+
+# Recommended Course Cycle
 
 Three course formats have turned out to be successful:
 
@@ -34,7 +36,7 @@ The following demonstrates the **ideal schedule** of a weekly cycle of a 6+1 wee
 
 **Time Zone**: All times mentioned on the platforn are indicated in UTC. It is important to point this out repeatedly to the participants.
  
-### Experience from course supervision & suggestions ###
+## Experience from course supervision & suggestions
 
 **Publishing of course materials:**
 In practice it turned out to be very well appreciated by the participants when course materials and weekly assignments are published on the Saturday preceding the official start of the week (beginning with week 2.) This allows participants more freedom in their time management without splitting the learning community too much.

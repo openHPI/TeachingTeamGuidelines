@@ -1,4 +1,6 @@
-## End of Your Course / Wrap Up ##
+![HPI Logo](img/HPI_Logo.png)
+
+# End of Your Course / Wrap Up
 
 At the end of a course, (shortly after the release of final exam sample solution) platform team and teaching team come together to go through the final steps needed to finish the course alright.
 

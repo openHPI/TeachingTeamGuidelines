@@ -1,4 +1,6 @@
-## Curriculum Design ##
+![HPI Logo](img/HPI_Logo.png)
+
+# Curriculum Design
 
 In general, a course week consists of the following elements:
 

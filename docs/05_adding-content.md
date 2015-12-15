@@ -1,13 +1,15 @@
-## Adding your content to the platform ##
+![HPI Logo](img/HPI_Logo.png)
+
+# Adding your content to the platform
 
 
-### Preparation of course materials ###
+## Preparation of course materials
 
 We recommend to start with the preparation of the course materials at minimum 2 months before course start.
 
  The first task here is the design of the course outline.
  
-###Recording of lecture videos in the studio###
+## Recording of lecture videos in the studio
  
 Tips from the camera crew:
 
@@ -18,13 +20,13 @@ Tips from the camera crew:
 -	Due to the studio lights it can become quite warm in the recording room. 
 
  
-###PR – Video – Course Introduction###
+## PR – Video – Course Introduction
 
 It has proven in the past, that it makes sense to create a short video teaser, (apart from the course introduction video) This short teaser video shouldn’t have a duration of more than 2 minutes. The teaser is used for marketing purposes. The course introduction video gives a more detailed overview of course content and structure and perhaps the typical course cycle.
 Both videos should be published on YouTube or a similar platform. They should be linked to the course details page.
 The Youtube links should also be provided to your PR department.
 
-###Teaching-Team – Person in charge as per week###
+## Teaching-Team – Person in charge as per week
 
 We recommend to choose one member of the teaching team as the person in charge for each week prior to course start. 
 
@@ -36,11 +38,11 @@ This person’s tasks are the first outline of the weekly content. (concrete: Qu
 - Coordination of fora and support during the course week (together with team leader)
 This approach and procedure is not mandatory but it has proven worth in the past. 
 
-###Setting the Course Content on the Platform###
+## Setting the Course Content on the Platform
 
 It is advisable to keep the surface of the course website clean and comprehensible for the learners.
 
-####Course Structure####
+### Course Structure
 
 Each course consists of several modules or sections. In general these modules comprise 1 week of the course. They can, however, have arbitrary names and are not necessarily restricted to last exactly one week. A typical 6 week course structure could look like this:
 
@@ -62,7 +64,7 @@ The platform team will create the course for you. Fill it with content.
 *Fig. 01: Course administration => Course structure and content*
 
 
-####Add Section####
+### Add Section
 
 ![add section](img/05/add_section.png)
 
@@ -93,7 +95,7 @@ A section generally contains a course week. It can also contain special purpose 
 *Fig. 04: Successfully created section in course admin view*
 
 
-####Add Item####
+### Add Item
 Standard items are **text**, **video**, and **quiz**.
 Additionally, the platform supports [LTI items](todo://link), which can be used to connect external tools to the platform. The platform also supports [peer assessments](todo://link).
 
@@ -111,7 +113,7 @@ Important: When creating items, DO NOT set an end date if you don't have a reall
 **Show in course navigation:** Particularly important items can be shown in the left hand navigation. Please, use this scarcely.
 
 
-#####Type Text #####
+#### Type Text
 
 The provision of reading material can be generally carried out in three forms: 
 
@@ -139,7 +141,7 @@ To link to a file for download:
 
 *Fig. 07: Manipulate image link to turn it into a download link*
 
-#####Type Video#####
+#### Type Video
 
 >The workflow of video production and post production, in terms of allocation of videos, can be carried out in different ways and therefore will not be discussed further in this document. Instead, we assume that you already have a produced video at hand, which you want to bring to the platform.
 
@@ -214,7 +216,7 @@ All the vtt files will have to be added to the same directory, which then can be
 
 **Synchronize streams with vimeo:** Streams are synchronized with Vimeo on a daily basis. If you want to add a Vimeo stream that has been uploaded to vimeo more recently, you might have to synchronize the platform with Vimeo. (This applies only for platforms that are hosting the videos on Vimeo. It does not apply for the Chinese platforms.)
 
-####Type quiz####
+### Type quiz
 
 **Exercise type:** Select between *Self-test*, *Survey*, *Main*, and *Bonus*.
 Self-tests are awarded with points. These points, however, are not counting into the final results at all. Quizzes of type *Main* are e.g. the weekly assignments (WA) or the final exam (FE). The sum of their points (plus possibly the points from peer assessments and practical exercises) constitutes the maximum of available points (MaxPoints) in the course. Quizzes of type *Bonus* are not summing up to the MaxPoints, but they can help to compensate points that have been lost in the *Main* assignments.
@@ -269,7 +271,7 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 
 **Skip welcome page:** If this option is selected, the user will be directed automatically into the quiz. Which means that the timer will start (and cannot be stopped by any means) and one attempt is subtracted from the max. amount of attempts. This option, therefore, should only be set for self-tests or surveys that have no time limits. 
 
-####Type external exercise tool####
+### Type external exercise tool
 This option allows to add custom tools for practical exercises.
 Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.imsglobal.org/lti/) standard can be added here. 
 
@@ -290,7 +292,7 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 **Additional parameters for this exercise:** Some tool providers require additional parameters. These can be set here as key value pairs. Consult the tool providers documentation to see which parameters are required.
 
 
-####Type peer assessment####
+### Type peer assessment
 Peer assessment provides the possibility to scale out exercises that can not be graded automatically.
 Participants will be enabled to grade each others work.
 

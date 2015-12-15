@@ -1,3 +1,5 @@
+![HPI Logo](img/HPI_Logo.png)
+
 # User Tests
 The user test dashboard is available for administrators in the administration menu.
 

@@ -1,3 +1,5 @@
+![HPI Logo](img/HPI_Logo.png)
+
 # Overview MOOC planning and - execution
 
 ## Course planning

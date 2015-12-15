@@ -1,4 +1,6 @@
-##Granting permissions to users##
+![HPI Logo](img/HPI_Logo.png)
+
+# Granting permissions to users
 
 Platform admins and course admins can grant permissions to a course under the course administration menu.
 
@@ -8,9 +10,9 @@ Platform admins and course admins can grant permissions to a course under the co
 *Fig. 01: Course Administration => Course permissions*
 
 
-### Groups ###
+## Groups
 
-#### Course Admins ####
+### Course Admins
 
 Course admins can:
 
@@ -26,7 +28,7 @@ Course admins can:
 *Fig. 02: Granting admin permissions to a user*
 
 
-#### Teachers ####
+### Teachers
 
 Teachers can:
 
@@ -36,7 +38,7 @@ Teachers can:
 - inspect student's (quiz) submissions
 
 
-#### Moderators ####
+### Moderators
 
 Moderators can:
 
@@ -45,7 +47,7 @@ Moderators can:
 - moderate the pinboard
 - inspect student's (quiz) submissions
 
-#### Students ####
+### Students
 Students can:
 
 - access the published course content
