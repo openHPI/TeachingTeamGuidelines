@@ -1,8 +1,10 @@
+![HPI Logo](img/HPI_Logo.png)
+
 #Teaching Team Guidelines#
 
-This guide enables course instructors to become familiar with teaching an online course in general and with learning how to use the openHPI course admin interface specifically.
+This guide enables course instructors to become familiar with teaching an online course in general and with learning how to use the **mooc.house** course admin interface specifically.
 
-   - [0. Overview](index.md)
+<!--   - [0. Overview](index.md)
    - [1. Getting Started](01_getting-started.md)
    - [2. Conceptualizing Your Curriculum](02_curriculum-design.md)
    - [3. Course Cycle](03_course-cycle-schedule.md)
@@ -20,4 +22,14 @@ This guide enables course instructors to become familiar with teaching an online
    - [20. End of Course](06_end-of-course.md)
    - [i. Communication Matrix](07_communication-matrix.md)
    - [ii. Checklist](checklist.md)
-   - [iii. Templates](templates.md)
+   - [iii. Templates](templates.md)-->
+- Getting Started ---------------------------------------------- 2
+- Curriculum Design ------------------------------------------ 3
+- Recommended Course Cycle --------------------------- 4
+- Course Settings --------------------------------------------- 6
+- Course Permissions ---------------------------------------- 10
+- Adding Content --------------------------------------------- 12
+- Quiz Design ------------------------------------------------- 24
+- Adding Quizzes --------------------------------------------- 28
+- Gamification ------------------------------------------------- 31
+- Course End/Certificates ---------------------------------- 33
