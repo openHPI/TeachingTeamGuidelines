@@ -2,4 +2,8 @@ site_name: Guidelines and Documentation
 pages:
 - Home: 'index.md'
 - Teacher Guidelines:
-  - [01_getting-started.md, 1. Getting Started]
+  - 'Writing your docs': 'user-guide/writing-your-docs.md'
+  - 'Styling your docs': 'user-guide/styling-your-docs.md'
+- About:
+  - 'License': 'about/license.md'
+  - 'Release Notes': 'about/release-notes.md'
