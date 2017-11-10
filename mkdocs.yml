@@ -1,3 +1,5 @@
 site_name: Guidelines and Documentation
 pages:
 - Home: 'index.md'
+- Teacher Guidelines:
+  - [01_getting-started.md, 1. Getting Started]
