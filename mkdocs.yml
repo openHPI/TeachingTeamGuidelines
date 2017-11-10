@@ -5,7 +5,7 @@ pages:
   - 'Getting Started: Designing your Course': '01_getting-started.md'
   - 'Curriculum Design': '02_curriculum-design.md'
   - 'Recommended Course Cycle': '03_course-cycle-schedule.md'
-  - 'Setting up the course's properties': '04_course-settings.md'
+  - 'Setting up the course\'s properties': '04_course-settings.md'
   - 'Granting permissions to users': '04a_course-permissions.md'
   - 'Adding your content to the platform': '05_adding-content.md'
   - 'Quiz Design': '06-quiz-design.md'
