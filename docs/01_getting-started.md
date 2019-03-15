@@ -4,7 +4,7 @@
 
 For general information about course design we recommend to look at the suggestions of the [MOOC Canvas Framework](http://mooccanvas.com/use.html).
 
-Another great resource is the [MOOC Design Patterns Project](http://www.moocdesign.cde.london.ac.uk/), particularly, their set of [design pattern cards](https://docs.google.com/viewer?a=v&pid=sites&srcid=bW9vY2Rlc2lnbi5jZGUubG9uZG9uLmFjLnVrfGhvbWV8Z3g6MzA4OWIyNzUxZmRmNDlmYw).
+Another great resource is the [MOOC Design Patterns Project](http://www.moocdesign.cde.london.ac.uk/), particularly, their set of [design pattern cards](http://www.moocdesign.cde.london.ac.uk/outputs/design-pattern-cards).
 
 ## Introduction: 
 
