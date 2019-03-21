@@ -117,3 +117,15 @@ Here is a sample text:
 - Statistics have been generated (see below).
 
 **Generate Statistics:** As soon as all deadlines have passed and all re-gradings have been done, press this button. You will receive an (in-platform) notification when it's done (takes some seconds). This button calculates only the value for *top X* for each user. This, in general, is required before the certificates can be released.
+
+![course properties](img/04/course_setting1.png)
+![course properties](img/04/course_setting2.png)
+![course properties](img/04/course_setting3.png)
+
+
+
+
+
+
+
+
