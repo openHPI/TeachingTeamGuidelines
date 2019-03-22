@@ -66,6 +66,8 @@ If a large amount of teachers will be conducting the course, you can provide an 
 **Course language**
 Will be used for filtering in the course list.
 
+![course properties](img/04/language_setting.png)
+
 **Categories** (Inside advanced settings)
 Create or select any category that fits your purpose. The categories will be used for filtering in the courses list.
 
@@ -95,6 +97,8 @@ Here is a sample text:
     Course Instructor's Name
   
 
+![course properties](img/04/welcome_email.png)
+
 ## Advanced settings (click on the button to expand)
 
 **External course URL and External course delay:** If you do not know what it is you should keep it as it is. The platform team will make the correct settings. This is only for cross-promoting courses from sister-platforms such as *openHPI* or *openSAP*.
@@ -103,9 +107,13 @@ Here is a sample text:
 
 **Course is hidden:** You can use this setting to hide a course from the course list. Can be used for old iterations of a course to keep the course list tidy, or for experiments. The course is completely functionable and accessible for whoever knows the direct URL.
 
+![course properties](img/04/hidden_course.png)
+
 **Invitation required:** This feature can be used if you do not want the participants to enrol directly by themselves, rather the enrolment would be on the basis of invitation, for example, the link to the course can be sent to a small group of participants and whosoever knows the URL can enrol for the said course.
 
 **Show Syllabus:** This should be generally turned on. If you do not want to show a syllabus page (Listing of all the course contents), turn it off.
+
+![course properties](img/04/syllabus.png)
 
 **Auto archive after course end:** Leave the setting as it is if you do not know exactly what you're doing.
 
@@ -121,6 +129,7 @@ Here is a sample text:
 ![course properties](img/04/course_setting1.png)
 ![course properties](img/04/course_setting2.png)
 ![course properties](img/04/course_setting3.png)
+
 
 
 
