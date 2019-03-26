@@ -41,6 +41,10 @@ It has proven in the past, that it makes sense to create a short video teaser, (
  The course introduction video will have a more detailed overview of course content, structure and perhaps the typical course cycle.
 Both the videos should be published on YouTube or other video platforms and the registration link along with the teaser video should be shared in social media. The YouTube links should also be provided to your PR department.
 
+![course structure](img/05/course_introduction.png)
+
+*Fig. 01: course introduction video* 
+
 ## Teaching-Team – Person in charge as per week
 
 The following tasks are required to be controlled by the teaching team:
@@ -75,7 +79,23 @@ The platform team will create the course for you. Fill it with your content.
 
 
 <center>  
+![course structure](img/05/course_introduction1.png)
 
+*Fig. 02: an example of setion 1* 
+</center>
+<center> 
+![course structure](img/05/course_structure2.png)
+
+*Fig. 03: an example of setion 6* 
+</center>
+<center> 
+![course structure](img/05/course_structure3.png)
+
+*Fig. 03: an example of final exam and survey* 
+</center>
+
+The platform team will create the course for you. Fill it with content.
+<center> 
 ![course structure](img/05/course_admin_menu.png)
 
 *Fig. 01: Course administration* => *Course structure and content*
