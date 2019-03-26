@@ -44,7 +44,7 @@ All members of this group are granted the following roles and permissions:
 
 <center>
 
-  ![course permissions](img/04a/course_admin_group.png)
+![course permissions](img/04a/course_administrators.png)
 
 *Fig. 02: Granting admin permissions to a user*
 </center>
@@ -66,7 +66,9 @@ All members of this group are granted the following roles and permissions:
 
   
 
-  
+![course permissions](img/04a/teachers.png)
+
+*Fig. 03: Granting admin permissions to teachers*  
 
 ### Course Moderators
 
@@ -80,7 +82,16 @@ All members of this group are granted the following roles and permissions:
 - **Pin board moderation**: edit, delete, block/ unblock, move, close pinboard contributions, or mark them sticky, access pinboard abuse report
 - **Quiz inspection**: view student submissions
 
+
+![course permissions](img/04a/course_moderators.png)
+
+*Fig. 04: Granting admin permissions to moderators*
+
 ### Students
 All members of this group are granted the following roles and permissions:
 
 - **Student**: basic permissions for registered and enrolled users (without special roles)
+
+![course permissions](img/04a/students.png)
+
+*Fig. 05: Granting admin permissions to students* 
