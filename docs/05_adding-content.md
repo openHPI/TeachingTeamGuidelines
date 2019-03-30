@@ -181,6 +181,10 @@ Additionally, the platform supports [LTI items](http://www.imsglobal.org/lti/), 
 
 *Fig. 09: Create new item form*
 
+![adding text](img/05/item_type.png)
+
+*Fig. 10: the type of items*  
+
 #### Type Text
 
 The provision of reading material can be generally carried out in three forms: 
@@ -193,7 +197,7 @@ The provision of reading material can be generally carried out in three forms:
 
 ![adding text](img/05/create_item_text.png)
 
-*Fig. 10: Create new text item form*
+*Fig. 11: Create new text item form*
 </center>  
 
   
@@ -214,7 +218,7 @@ To link a file for download:
 
 ![linking files for download](img/05/link_for_download.png)
 
-*Fig. 11: Manipulate image link to turn it into a download link*
+*Fig. 12: Manipulate image link to turn it into a download link*
 </center>
 
 #### Type Video
@@ -233,14 +237,14 @@ The platform's database is synchronized with Vimeo on a daily basis. See also be
 
 ![adding video](img/05/create_video_item.png)
 
-*Fig. 08: Create new video item form*
+*Fig. 13: Create new video item form*
 </center>
 
 <center>  
 
 ![adding video](img/05/create_video_item_1.png)
 
-*Fig. 09: Add new video data*
+*Fig. 14: Add new video data*
 </center>
 
 **PIP stream, Lecturer stream, and Slides stream:**  
@@ -291,7 +295,7 @@ Subtitles can also be generated from external agencies like poliTrans (MLLP) or 
 
 ![adding video](img/05/type_quiz.png)
 
-*Fig. 10: Create new quiz item form*
+*Fig. 15: Create new quiz item form*
 </center>
 
 **Exercise type:** Select between *Self-test*, *Survey*, *Main*, and *Bonus*.
@@ -354,7 +358,7 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 
 ![adding video](img/05/external_exercise_tool.png)
 
-*Fig. 11: Create new external exercise tool item form*
+*Fig. 16: Create new external exercise tool item form*
 </center>
 
 **Exercise type:** Can be *Self-test*, *Main*, and *Bonus*. Ignore the *Survey* option.
@@ -373,14 +377,14 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 
 ![adding video](img/05/lti_provider.png)
 
-*Fig. 12: Select LTI provider*
+*Fig. 17: Select LTI provider*
 </center>
 
 <center>  
 
 ![adding video](img/05/new_lti_provider.png)
 
-*Fig. 13: Add new LTI provider*
+*Fig. 18: Add new LTI provider*
 </center>
 
 **Optional exercise title:** ??
@@ -399,7 +403,7 @@ and an example for the calculation of grades [here](https://open.hpi.de/pages/p_
 
 ![adding video](img/05/peer_assessment.png)
 
-*Fig. 13: Create new peer assessment item form*
+*Fig. 19: Create new peer assessment item form*
 </center>
 
 **Exercise type:** Can be *Self-test*, *Main*, and *Bonus*. Ignore the *Survey* option.
