@@ -91,14 +91,14 @@ The platform team will create the course for you. Fill it with your content.
 <center> 
 ![course structure](img/05/course_structure3.png)
 
-*Fig. 03: an example of final exam and survey* 
+*Fig. 04: an example of final exam and survey* 
 </center>
 
 The platform team will create the course for you. Fill it with content.
 <center> 
 ![course structure](img/05/course_admin_menu.png)
 
-*Fig. 01: Course administration* => *Course structure and content*
+*Fig. 05: Course administration* => *Course structure and content*
 </center>
 
 ### Add Section
@@ -107,17 +107,21 @@ The platform team will create the course for you. Fill it with content.
 
 ![add section](img/05/add_section.png)
 
-*Fig. 02: Add section button*
+*Fig. 06: Add section button*
 </center>  
-
 
 A section generally contains a course week. It can also contain special purpose content, such as a Final Exam, an Excursion, or a Survey.
 
-<center>  
+<center>
+![add section](img/05/final_exam_and_survey.png)
 
+*Fig. 07-1: final exam and survey*  
+</center>
+
+<center>
 ![add section](img/05/section_form.png)
 
-*Fig. 03: Create section form*
+*Fig. 07: Create section form*
 </center>  
 
 **Title:** Could be something like Week 1, Excursion, or Final Exam. This will be visible for the user in the course's left hand navigation bar, the course syllabus, and the course content list on the course detail page.
@@ -136,7 +140,6 @@ A section generally contains a course week. It can also contain special purpose 
 
 
 <center>  
-
 ![add section](img/05/section_backend.png)
 
 *Fig. 04: Successfully created section in course admin view*
@@ -153,6 +156,11 @@ Standard items are
  
 Additionally, the platform supports [LTI items](http://www.imsglobal.org/lti/), which can be used to connect external tools to the platform. The platform also supports [peer assessments](todo://link).
 
+<center> 
+![add section](img/05/LTI.png)
+
+*Fig. 08: LTI Providers*
+</center>
 
 <center>  
 
@@ -169,6 +177,9 @@ Additionally, the platform supports [LTI items](http://www.imsglobal.org/lti/), 
 
 **Show in course navigation:** Particularly important items can be shown in the left hand navigation. Please, use this scarcely.
 
+![add section](img/05/item_form.png)
+
+*Fig. 09: Create new item form*
 
 #### Type Text
 
@@ -182,7 +193,7 @@ The provision of reading material can be generally carried out in three forms:
 
 ![adding text](img/05/create_item_text.png)
 
-*Fig. 06: Create new text item form*
+*Fig. 10: Create new text item form*
 </center>  
 
   
@@ -203,7 +214,7 @@ To link a file for download:
 
 ![linking files for download](img/05/link_for_download.png)
 
-*Fig. 07: Manipulate image link to turn it into a download link*
+*Fig. 11: Manipulate image link to turn it into a download link*
 </center>
 
 #### Type Video
