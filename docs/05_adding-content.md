@@ -216,7 +216,7 @@ To link a file for download:
 
 <center>  
 
-![linking files for download](img/05/link_for_download.png)
+![linking files for download](img/05/link_for_down.png)
 
 *Fig. 12: Manipulate image link to turn it into a download link*
 </center>
@@ -288,6 +288,12 @@ Subtitles can also be generated from external agencies like poliTrans (MLLP) or 
 **Audio:** For the optional provision of separate audio tracks for the videos. Audio streams can easily be produced with the ffmpeg tool. It is also available for download.
 
 **Synchronize streams with Vimeo:** Streams are synchronized with Vimeo on a daily basis. If you want to add a Vimeo stream that has been uploaded to Vimeo more recently, you might have to synchronize the platform with Vimeo.
+
+
+![adding video](img/05/add_videos.png)
+
+*Fig. 09: Create new video item form* 
+
 
 ### Type quiz
 
