@@ -163,7 +163,6 @@ Additionally, the platform supports [LTI items](http://www.imsglobal.org/lti/), 
 </center>
 
 <center>  
-
 ![add section](img/05/item_form.png)
 
 *Fig. 05: Create new item form*
@@ -199,7 +198,6 @@ The provision of reading material can be generally carried out in three forms:
 
 *Fig. 11: Create new text item form*
 </center>  
-
   
 
 Text-pages can be formatted in markdown, it is possible to include images, weblinks, and links to files. 
@@ -231,6 +229,24 @@ The integration for the Vimeo API from within the platform is sufficiently good.
 Basically there is a Vimeo Pro account that exists for the platform, from which videos are delivered. The streams can be uploaded from within the platform to Vimeo. See also [Uploading videos to Vimeo](https://vimeo.zendesk.com/hc/en-us/categories/201496018-Uploading-to-Vimeo).  
 The filenames of the streams should begin with the course's course\_code. Please note that the system is case sensitive. As soon as one stream with the course\_code prefix is available, only those streams that start with the course\_code prefix will be listed in the dropdowns.
 The platform's database is synchronized with Vimeo on a daily basis. See also below: [*Synchronize streams with vimeo*](https://github.com/openHPI/TeachingTeamGuidelines/blame/new_update_2020/docs/05_adding-content.md#L217)
+
+**Integrating videos hosted by other providers:**
+API support for other providers is currently not supported.
+Admins (not teachers or teaching team members), however, can manually add video streams that are hosted with other providers. 
+
+![adding streams](img/05/add_stream.png)
+
+*Fig. 14: Add stream form (Administration => Videos)*
+
+**Title:** The title of the streams should begin with the course's course\_code. Please note that the system operates case sensitive here. As soon as one stream with the course\_code prefix is available, only those streams that start with the course\_code prefix will be listed in the dropdowns.
+
+**HD / SD URL:** The location where the respective strream can be found on the server.
+
+**Width / Height:** The size of the video.
+
+**Duration:** The length of the video.
+
+**Poster-image URL:** Set a custom poster image (will be displayed before the video is started) for the video.
 
 
 <center>  
@@ -356,6 +372,14 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 
 **Unlimited attempts / Allowed attempts:** *Self-tests* are provided with unlimited attempts, attempts for *Main* and *Bonus* exercises should be limited. *Surveys* need to be limited to one attempt.
 
+<center>
+![adding video](img/05/quiz1.png)
+![adding video](img/05/quiz2.png)
+![adding video](img/05/quiz3.png)
+
+*Fig. 16: Create new quiz* 
+</center>
+
 ### Type external exercise tool
 This option allows to add custom tools for practical exercises.
 Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.imsglobal.org/lti/) standard can be added here. 
@@ -397,6 +421,13 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 
 **Additional parameters for this exercise:** Some tool providers require additional parameters. These can be set here as key value pairs. Consult the tool providers documentation to see which parameters are required.
 
+<center>
+![adding video](img/05/type_external_exercise_tool.png)
+  
+![adding video](img/05/type_extenal_exercise_tool_2.png)
+
+*Fig. 17: Create new exercise tools*
+</center>
 
 ### Type peer assessment
 Peer assessment provides the possibility to scale out exercises that can not be graded automatically.
