@@ -429,6 +429,12 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 *Fig. 17: Create new exercise tools*
 </center>
 
+
+
+![adding video](img/05/example_for_using_exercise_tool.png)
+
+*Fig. 18: an example for using exercise tools* 
+
 ### Type peer assessment
 Peer assessment provides the possibility to scale out exercises that can not be graded automatically.
 Participants will be enabled to grade each others work.
@@ -447,4 +453,6 @@ and an example for the calculation of grades [here](https://open.hpi.de/pages/p_
 
 **New / existing assessment:** Existing peer assessments can be linked here so that they are accessible from different places. E.g. the submission phase (Week 1) of the assessment might be separated from the grading phase (Week 2).
 
+![adding video](img/05/peer_assessment.png)
 
+*Fig. 18: edite a peer assessment* 
