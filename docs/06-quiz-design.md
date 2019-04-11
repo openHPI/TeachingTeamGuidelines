@@ -121,9 +121,21 @@ A complete question could be removed from the quiz. As this leads to undesired s
 **Add additional correct answer (multiple choice only):** For multiple choice questions additional answers can be checked as correct. This also requires the update skript to be run. If applied to a multiple answer question, the amount of points per answer might change, users that answered the question as it was originally intended will lose points.
 
 <center>
+![add section](img/06/question1_quiz.png)
+
+*Fig. 03: edited questions of the quiz* 
+</center>
+
+<center>
+![add section](img/06/question2_quiz.png)
+
+*Fig. 04: add a new question to the quiz* 
+</center>
+
+<center>
 ![add section](img/06/quiz_example.png)
 
-*Fig. 03: an example from the corrected quiz* 
+*Fig. 04: an example from the corrected quiz* 
 </center>
 
 ## Background information – Quiz-Engine
