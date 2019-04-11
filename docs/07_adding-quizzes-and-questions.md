@@ -31,9 +31,11 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 
 ### Adding the question:
 
-![course structure](img/07/add_question.png)
+<center>
+![course structure](img/07/question_sample1.png)
 
-*Fig. 02: Add question and explanation*
+![course structure](img/07/question_sample2.png)
+</center>
 
 **Question type:** can be any of *Multiple Choice*, *Multiple Answer*, *Essay* or *Free Text*
 
@@ -52,6 +54,6 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 
 ### Adding answers:
 
-![course structure](img/07/add_answer.png)
+![course structure](img/07/add_answers_sample.png)
 
-*Fig. 04: Add answer*
+*Fig. 04: Add new answers*
