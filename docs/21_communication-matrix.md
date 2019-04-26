@@ -38,3 +38,18 @@ About this matrix:
     <td class="tg-031e">Responding to most common administrative and content-related questions<br></td>
   </tr>
 </table>
+
+Example for a [course Announcement](https://blog.openhpi.de/2016/02/course-on-internet-security-starts-on-february-8/)
+
+![course structure](img/21/course_announcement.png)
+
+*Fig. 01: a global announcement for a course*
+
+
+![course structure](img/21/welcome_message.png)
+
+*Fig. 02: welcome video on the course page*
+
+![course structure](img/21/welcome_message_onweek1.png)
+
+*Fig. 02: welcome message on week 1*
