@@ -17,7 +17,7 @@ The platform offers the possibility to add graphics or images (best suited are P
 
 *Note: once the type of a question has been saved it cannot be changed anymore.*
 
-**Free Text:** Only for short texts. Correctness is tested by direct string comparison.
+**Free Text:** Only for short texts. Correctness is tested by direct string comparison. 
 A correct answer must be specified in the quiz setup, otherwise the quiz will crash.
 
 *Note: we use this type of question only for special purposes, e.g. when a password can be retrieved by solving an external task.*

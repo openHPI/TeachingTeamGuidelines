@@ -49,20 +49,26 @@ Other than the other items, the peer assessment internals are not located under 
 
 ### Workflow Steps
 
-![peer assessment workflow steps](img/10/pa_workflow_steps.png)
+![peer assessment workflow steps](img/10/workflow_phases_peer_assessment.png)
 *Fig. 05: Select the workflow steps for the peer assessment*
+
+![peer assessment rubrics](img/10/workflow_phases_peer_assessment2.png)
+*Fig. 06: explain work flow steps for the peer assessment*
 
 ### Rubrics
 
-![peer assessment rubrics](img/10/pa_rubrics.png)
-*Fig. 06: Add rubrics for the peer assessment*
+![peer assessment rubrics](img/10/grading_rubric_peer_assessment.png)
+*Fig. 07: Add rubrics for the peer assessment*
 
 
 ### The Example for Peer Assessment
+
+
+
 ![peer assessment rubrics](img/10/peer-assessment-explain.png)
-*Fig. 07: explain a example of peer-assessments *
+*Fig. 08: explain a example of peer-assessments*
 
 
 ### The Statistic information for Peer Assessment
-![peer assessment rubrics](img/10/statistic-information-peer-assessment.png)
-*Fig. 07: The example of the statistic information of Peer-Assessments *
+![peer assessment rubrics](img/10/peer_Assessment_1.png)
+*Fig. 09: The example of the statistic information of Peer-Assessments* 

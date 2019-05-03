@@ -105,12 +105,12 @@ Support requests or content related questions addressed at the teaching team via
 <center>
 ![course structure](img/19/tweet-hpi.png)
 
-*Fig. 05: write a ticket on twitter*
+*Fig. 05: to sent messages on twitter*
 </center>
 
 
 <center>
 ![course structure](img/19/facebook-hpi.png)
 
-*Fig. 06: write a ticket on facebook*
+*Fig. 06: to sent messages on facebook*
 </center>
