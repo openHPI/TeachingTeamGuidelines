@@ -11,14 +11,14 @@ Badges are available in three states. Gold, silver and bronze.
 Currently supported are the following:
 
 - Communication: Users that are active in the forum  
-![communication badge](img\communicator_0.png)
+![communication badge](img/communicator_0.png)
    - 	Gold (3), silver (8), and bronze (13) posts (questions/answers/comments) in the forum.
 
 - Knowledge: Users that receive good feedback (votes, accepted answers) in the forum.
-![communication badge](img\knowledgeable_0.png)
+![communication badge](img/knowledgeable_0.png)
    - 	Gold (3), silver (8), and bronze (13) accepted answers in the forum.
 - Self-test: Users that have solved all self-tests with a score better than 0
-![communication badge](img\self_tested_0.png)
+![communication badge](img/self_tested_0.png)
 
 Badges are displayed on the user's dashboard and the user's private profile page.
 All available badges are displayed here. 
