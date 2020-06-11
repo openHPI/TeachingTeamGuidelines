@@ -2,6 +2,12 @@
 
 # Overview MOOC planning and - execution
 
+Copy the table from CHECKLIST - from the mail
+
+## Teaching Team
+
+to be defined
+
 ## Course planning
 
 -	Coordination within your department: Is a course needed?
