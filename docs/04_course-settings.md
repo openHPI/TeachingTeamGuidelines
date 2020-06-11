@@ -69,9 +69,6 @@ Custom text for the welcome mail that is sent to the users when they enroll for 
 
 **External course URL and External course delay:** If you do not know what it is you should keep it as it is. The platform team will have made the correct settings yet. This is only for cross-promoting courses from sister-platforms such as *openHPI* or *openSAP*.
 
-**Enable Tele-board:** The same here. If you do not know what it is you will not need it.
-
-
 **Forum is locked:** If you want to lock the forum when the course goes to archive mode, you can set that here. In general, we recommend to do that if noone is keeping an eye on the forum anymore.
 
 **Course is hidden:** You can use this setting to hide a course from the course list. Can be used for old iterations of a course to keep the course list tidy, or for experiments. The course is completely functionable and accessible for whoever knows the direct URL.
