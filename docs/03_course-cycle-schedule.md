@@ -21,28 +21,6 @@ The following demonstrates the **ideal schedule** of a weekly cycle of a 6+1 wee
   | Thursday | 12:00 | Publishing of sample solution for weekly assignments (week N - 1) <br /> Final Exam Solution |
   | Friday | Working Hours | Monitoring  of discussion forum, Support via helpdesk and email messages |
 
-	Monday (week n)
-	08:00 Hrs	Publishing of course material of week n
-				incl. weekly assignment
-				Publishing of final exam (only week 6)
-				
-	08:00 Hrs	Announcement for course start (only week 1)
-
-	20:00 Hrs	Deadline weekly assignment (week n - 1) or final exam
-
-	Tuesday (week n)
-	12:00 Hrs	Publishing of sample solution for 
-	            weekly assignments (week n - 1) or final exam
-	
-	Tuesday / Wednesday / Thursday (week n)
-	(optional)	Publishing of additional videos such as tutorials or office hours 
-
-	Monday – Friday (During working Hours)
-	Monitoring  of discussion forum, Support via helpdesk and email messages
-	
-	Friday
-	12:00 Hrs	Announcement for week n + 1
-
 **Time Zone**: All times mentioned on the platforn are indicated in UTC. It is important to point this out repeatedly to the participants.
  
 ## Experience from course supervision & suggestions
