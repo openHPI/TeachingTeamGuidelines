@@ -2,21 +2,21 @@
 # Quiz Design
 ## General Remarks
 
-The term quiz is used here for any kind of test or assignment. The quiz tool of the platform allows to create the [Self-tests](), the [Weekly Assignments]() and the [Final Exams]().
-Generally, the following is essential: When designing questions for quizzes, it has proven successful to start creating as many questions as possible for each single video item. The best is to do that, while choosing the course content and presentations for the videos. Based on this pool of questions it can be decided which questions to choose for self tests and which for assignments. The weekly assignments should be complemented by some questions, which desire the application and transfer of the acquired knowledge. Weekly assignments can also contain modified questions from the selftests. The same applies for the final exam.
-For all questions in the quizzes a thorough quality check is vital. Unclear answers should be avoided in any case. Distractors (wrong answers to choose from in a multiple choice quiz) have to be researched thouroughly. Perhaps there is an internet source people can use to state that this choice is a correct answer? Mistakes in quizzes lead to undesired frustrations among the the learning community or discussions in the forum. For self-tests, however, it might be intended to trigger discussions by "unclear" questions. With "unclear" we do not mean badly designed but rather s.th such as rare edge cases, etc. These discussions can be leveraging the learning process.
+The term quiz is used here for any kind of test or assignment. The quiz tool of the platform allows to create the Self-tests, the Weekly Assignments and the Final Exams.
+Generally, the following is essential: When designing questions for quizzes, it has proven successful to start creating as many questions as possible for each single video item. The best is to do that, while choosing the course content and presentations for the videos. Based on this pool of questions it can be decided which questions to choose for self tests and which for assignments. The weekly assignments should be complemented by some questions, which desire the application and transfer of the acquired knowledge. Weekly assignments can also contain modified questions from the self-tests. The same applies for the final exam.
+For all questions in the quizzes a thorough quality check is vital. Unclear answers should be avoided in any case. Distractors (wrong answers to choose from in a multiple choice quiz) have to be researched thoroughly. Perhaps there is an internet source people can use to state that this choice is a correct answer? Mistakes in quizzes lead to undesired frustrations among the the learning community or discussions in the forum. In the worst-case scenario, they might require a re-grading. For self-tests, however, it might be intended to trigger discussions by "unclear" questions. With "unclear" we do not mean badly designed but rather something such as rare edge cases, etc. These discussions can be leveraging the learning process.
 
 The University of Texas provides some [good advice]((https://www.utexas.edu/academic/ctl/assessment/iar/students/plan/method/exams-mchoice-write.php)) for creating multiple choice questions.
 
 ## Self-Tests
 
-Self-tests help repeating and deepening the learnings from the previosly seen video clips. Contentwise, questions should be designed in a way, that they take up the most important learnings and findings from the videos. 
+Self-tests help repeating and deepening the learnings from the previously seen video clips. Content-wise, questions should be designed in a way, that they take up the most important learnings and findings from the videos. 
 Alternatively, self-tests can also be used to encourage the students to deepen their knowledge, e.g. with some research of their own.
 Depending on length and level of difficulty, video content should be reflected within 2-5 questions.
 The points users can earn for self-tests should, in general, match with the ones from the weekly assignments. The number of points for a question depends on its type and the level of difficulty. In general, multiple-answer-questions are considered to be more difficult than multiple-choice-questions. 
 
 Questions with more answers to choose from should earn more points. The amount of points should not match the number of correct answers, however.
-For multiple-answer-questions, the points a user will receive are calculated according to their correct answers. The value of the result is determined by the sum of correct answers. If a student marks a correct answer as correct, she will receive the according part of the total points. If a student marks a wrong answer as correct, the according part of the total points will be deducted. Minimum points are always zero, there are no negative points.
+For multiple-answer-questions, the points a user will receive are calculated according to their correct answers. The value of the result is determined by the sum of correct answers. If a student marks a correct answer as correct, he/she will receive the according part of the total points. If a student marks a wrong answer as correct, the according part of the total points will be deducted. Minimum points are always zero, there are no negative points.
 
 	Example: 
 
@@ -47,10 +47,8 @@ For multiple-answer-questions, the points a user will receive are calculated acc
 
 
 
-**We strongly discourage to tell the students how many answers are correct in a multiple answer question.** Practice has shown that this increases the need for regradings, while simultaneously reducing the choice of possible regradings.
+**We strongly discourage to tell the students how many answers are correct in a multiple answer question.** Practice has shown that this increases the need for re-gradings, while simultaneously reducing the choice of possible re-gradings.
 
-For the self tests, the *Skip intro page* setting might be switched to "ON". In this case the participants are sent to the quiz directly when they click on the quiz item button in the navigation. In case the self-test's setting are according to our suggestions (no time-limit and unlimited attempts) this is no problem.
- 
 
 
 ## Weekly assignments and Final exam
@@ -78,16 +76,15 @@ In case of e.g. technical problems, a second attempt can be given to affected us
 
 A common scenario is, that a user has started the weekly assignment of the upcoming week instead the one of the current week. In those cases we allow an additional attempt without further discussion.
 
-In the setting of weekly assignments / exams the *Skip intro page* has to be switched „OFF“.
-Otherwise the timer starts as soon as the user clicks on the quiz item's navigation element. The quiz would start right away as soon as the learner has navigated to that item. There is **NO** possibility to stop the countdown. Neither the closing of the browser nor unplugging the computer will help in this situation.
+The quiz would start right away as soon as the learner has navigated to that item. There is **NO** possibility to stop the countdown. Neither the closing of the browser nor unplugging the computer will help in this situation.
 The timer can only be stopped by handing-in the quiz. An undesired hand-in of incomplete exam results can lead to a great frustration and “shit storm” in the forum and social media.
 
 ## Re-Grading
 
 In case the teaching team learns that a question of an exam or weekly assignment was incorrect or unclear certain options for re-gradings exist.
-Regradings can only be carried out be the platform team and shouldn’t be necessary in the best case (quality control).
+Re-gradings can only be carried out be the platform team and shouldn’t be necessary in the best case (quality control).
 
-Possible mistakes during quizdesign, which can lead to a regrading, can be as follows:
+Possible mistakes during quiz design, which can lead to a regrading, can be as follows:
 
  - Unclear answers. The choice of answers can be interpreted in a way, that is not corresponding to the desired answer scheme.
  - Wrong answers are marked as correct (or the other way around) by mistake during quiz creation.
@@ -109,4 +106,4 @@ A complete question could be removed from the quiz. As this leads to undesired s
 
 ## Background information – Quiz-Engine
 
-Quizzes in openHPI are saved „versionized“, which means that each editing (and publication) of a quiz generates a new version. If a user wants to take the quiz, a copy with the latest version of that quiz is stored in a database table. Therefore, a modification of the already released quiz doesn’t have an impact on already submitted questions. Some regradings (e.g. Jackpot) only corrects the POINTS for submitted answers, not the answers themselves. So please be aware that an inconsistency between correct answers of a student and her points can arise.
+Quizzes in openHPI are saved "versionized", which means that each editing (and publication) of a quiz generates a new version. If a user wants to take the quiz, a copy with the latest version of that quiz is stored in a database table. Therefore, a modification of the already released quiz doesn’t have an impact on already submitted questions. Some - (e.g. Jackpot) only corrects the POINTS for submitted answers, not the answers themselves. So please be aware that an inconsistency between correct answers of a student and her points can arise.

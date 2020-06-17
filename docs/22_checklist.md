@@ -49,7 +49,7 @@ to be defined
 
 ## Friday prior course start
 
-- Course announcement about course start communikation matrix 
+- Course announcement about course start communication matrix 
 
 ## Course supervision
 

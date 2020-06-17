@@ -241,7 +241,8 @@ If subtitles are to be provided in multiple languages, all the filenames have to
 
 	video-subtitles.vtt => video-subtitles.de.vtt
 	
-All the vtt files will have to be added to the same directory, which then can be zipped and uploaded here.
+All the vtt files will have to be added to the same directory, which then can be zipped and uploaded here.  
+Subtitles can also be generated from external agencies like poliTrans (MLLP) or Amazon (AWS) etc.
 
 **Slides:** The slide sets can be provided as a PDF download, just like normal reading material. Slides to the videos should be added directly to the video item. Collected slide sets additionally can be made available to download on the 'materials' web page. For mobile apps, only the slides that have been provided with the video item will be included.
 
@@ -251,7 +252,7 @@ All the vtt files will have to be added to the same directory, which then can be
 
 **Audio:** For the optional provision of separate audio tracks for the videos. Audio streams can easily be produced with the ffmpeg tool. It is also available for download.
 
-**Synchronize streams with Vimeo:** Streams are synchronized with Vimeo on a daily basis. If you want to add a Vimeo stream that has been uploaded to Vimeo more recently, you might have to synchronize the platform with Vimeo. (This applies only for platforms that are hosting the videos on Vimeo. It does not apply for the Chinese platforms.)
+**Synchronize streams with Vimeo:** Streams are synchronized with Vimeo on a daily basis. If you want to add a Vimeo stream that has been uploaded to Vimeo more recently, you might have to synchronize the platform with Vimeo.
 
 ### Type quiz
 
@@ -296,13 +297,13 @@ The participants can achieve a maximum of 90 points.
 
 	==> 90 points
 
-*Surveys* are not rewarded with points, nevertheless, to avoid problems it is better to assign at least 1 point to a survey question. FreeText answers require that at least one answer is provided, which needs to be marked as correct. Otherwise, the system will break. 
+*Surveys* are not rewarded with points, nevertheless, to avoid problems it is better to assign at least 1 point to a survey question. FreeText answers require that at least one answer (dummy) is provided, which needs to be marked as correct. Otherwise, the system will break. 
 
 **Quizzes come with the optimal presets for their exercise type preselected. Change these settings only if you know exactly what you are doing.**
 
 **Maximal points:** These are the maximal points that can be reached for this assignment. The value is read only and results from the sum of the points for the quizzes' questions 
 
-**Submission deadline:** Set the deadline for the quiz. The deadline is hard. After this date it is no more possible to hand in a solution. The results of the participants ar autosaved whenever something has changed. When the deadline has passed and the participant is still in the quiz, the results are automatically submitted and the quiz is closed. It is not possible to extend the deadline for single users. In [masquerade mode](todo://link) an admin can submit the quiz for a user even if the deadline has passed. 
+**Submission deadline:** Set the deadline for the quiz. The deadline is hard. After this date it is no more possible to hand in a solution. The results of the participants are autosaved whenever something has changed. When the deadline has passed and the participant is still in the quiz, the results are automatically submitted and the quiz is closed. It is not possible to extend the deadline for single users. In [masquerade mode](todo://link) an admin can submit the quiz for a user even if the deadline has passed. 
 
 
 **Submission publishing date:** The date when the results for the quiz will be published. Should be after the deadline. Should be set for *Main* and *Bonus* quizzes so that participants cannot spoiler the results in the forum. Self-tests, normally, do not have a deadline or a submission publishing date.
@@ -314,11 +315,16 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 
 **Unlimited attempts / Allowed attempts:** *Self-tests* are provided with unlimited attempts, attempts for *Main* and *Bonus* exercises should be limited. *Surveys* need to be limited to one attempt.
 
-**Skip welcome page:** If this option is selected, the user will be directed automatically into the quiz. Which means that the timer will start (and cannot be stopped by any means) and one attempt is subtracted from the max. amount of attempts. This option, therefore, should only be set for self-tests or surveys that have no time limits. 
-
 ### Type external exercise tool
 This option allows to add custom tools for practical exercises.
 Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.imsglobal.org/lti/) standard can be added here. 
+
+<center>  
+
+![adding video](img/05/external_exercise_tool.png)
+
+*Fig. 11: Create new external exercise tool item form*
+</center>
 
 **Exercise type:** Can be *Self-test*, *Main*, and *Bonus*. Ignore the *Survey* option.
 
@@ -330,7 +336,21 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 
 **Instructions:** See quiz.
 
-**Lti provider:** Select from the supported [LTI providers](todo://LTIProvider).
+**LTI provider:** Select from the supported [LTI providers](todo://LTIProvider).
+
+<center>  
+
+![adding video](img/05/lti_provider.png)
+
+*Fig. 12: Select LTI provider*
+</center>
+
+<center>  
+
+![adding video](img/05/new_lti_provider.png)
+
+*Fig. 13: Add new LTI provider*
+</center>
 
 **Optional exercise title:** ??
 
@@ -344,8 +364,15 @@ Participants will be enabled to grade each others work.
 You can find a general description of the Peer Assessment Feature [here](https://open.hpi.de/pages/p_a)
 and an example for the calculation of grades [here](https://open.hpi.de/pages/p_a_grading).  
 
+<center>  
+
+![adding video](img/05/peer_assessment.png)
+
+*Fig. 13: Create new peer assessment item form*
+</center>
+
 **Exercise type:** Can be *Self-test*, *Main*, and *Bonus*. Ignore the *Survey* option.
 
-**New / existing assessment:** Existing peer assessments can be linked here so that they are accessible from different places. E.g. the submission phase (Week 1) of the assessment might be separated from the grading phase (Week 2). If you do not want to link to an existing peer assessment, create a new one.
+**New / existing assessment:** Existing peer assessments can be linked here so that they are accessible from different places. E.g. the submission phase (Week 1) of the assessment might be separated from the grading phase (Week 2).
 
 
