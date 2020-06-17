@@ -1,53 +1,86 @@
 ![HPI Logo](img/HPI_Logo.png)
 
-# Granting permissions to users
+# Granting permissions
 
 Platform admins and course admins can grant permissions to a course under the course administration menu.
+  
+  <center>  
 
 
 ![course permissions](img/04a/permission_menu.png)
 
 *Fig. 01: Course Administration => Course permissions*
+</center>
 
 
 ## Groups
 
-### Course Admins
+### Course Administrators
 
-Course admins can:
+All members of this group are granted the following roles and permissions:
 
-- edit the course properties
-- edit the course contents
-- preview the course content
-- create, edit and send course announcements
-- moderate the pinboard
-- inspect student's (quiz) submissions
+- **User search**: find users when filtering submissions, etc.
+- **Certificate administration**: add, edit and delete certificate templates, preview certificates
+- **Collab space administration**: access, manage, close and delete collab spaces, manage collab space members
+- **Collab space mentoring**: access team collab spaces
+- **Course management**: edit course settings, manage course content, manage course permissions, view course dashboard and statistics, manage enrollments
+- **Global course management**: add and edit teachers (legacy permission from former permission system)
+- **Course preview**: view unpublished course content
+- **QC Alert administration**: delete alerts for all users
+- **QC Alerting**: list and ignore (own) alerts
+- **LTI administration**: manage LTI providers
+- **LTI**: use LTI providers
+- **News management**: create, edit, delete and send announcements
+- **Peer assessment management**: view PA settings (evaluation criteria etc.), manage submissions (= view submissions/ reviews/ points/ progress, grant additional attempts, create regrading requests), manage training samples, manage conflicts, rate and mark submissions for best-of gallery
+- **Pin board moderation**: edit, delete, block/ unblock, move, close pinboard contributions, or mark them sticky, access pinboard abuse report
+- **Quiz administration**: manage submissions, grant extra attempts
+- **Quiz statistics**: view submission statistics
+- **Quiz inspection**: view student submissions
+- **Video controlling**: view video statistics
+- **Subtitle editing**: upload and delete subtitles for videos
+- **Peer assessment administration**: view and edit PA settings (evaluation criteria etc.), manage submissions (= view submissions/ reviews/ points/ progress, grant additional attempts, create regrading requests), manage training samples, manage conflicts, rate and mark submissions for best-of gallery, create best of gallery  
 
-![course permissions](img/04a/course_admin_group.png)
+  
+
+<center>
+
+  ![course permissions](img/04a/course_admin_group.png)
 
 *Fig. 02: Granting admin permissions to a user*
-
+</center>
 
 ### Teachers
 
-Teachers can:
+All members of this group are granted the following roles and permissions:
 
-- preview the course content
-- preview announcements
-- moderate the pinboard
-- inspect student's (quiz) submissions
+- **User search**: find users when filtering submissions, etc.
+- **Course preview**: view unpublished course content
+- **Teacher**: legacy role for old teacher permissions
+- **QC Alerting**: list and ignore (own) alerts
+- **News preview**: view unpublished announcements
+- **Pin board moderation**: edit, delete, block/ unblock, move, close pinboard contributions, or mark them sticky, access pinboard abuse report
+- **Quiz statistics**: view submission statistics
+- **Quiz inspection**: view student submissions
+- **Video controlling**: view video statistics
+- **Peer assessment expert**: rate submissions, manage conflicts, manage training samples  
 
+  
 
-### Moderators
+  
 
-Moderators can:
+### Course Moderators
 
-- preview the course content
-- preview announcements
-- moderate the pinboard
-- inspect student's (quiz) submissions
+All members of this group are granted the following roles and permissions:
+
+- **User search**: find users when filtering submissions, etc.
+- **Collab space mentoring**: access team collab spaces
+- **Course preview**: view unpublished course content
+- **QC Alerting**: list and ignore (own) alerts
+- **News preview**: view unpublished announcements
+- **Pin board moderation**: edit, delete, block/ unblock, move, close pinboard contributions, or mark them sticky, access pinboard abuse report
+- **Quiz inspection**: view student submissions
 
 ### Students
-Students can:
+All members of this group are granted the following roles and permissions:
 
-- access the published course content
+- **Student**: basic permissions for registered and enrolled users (without special roles)
