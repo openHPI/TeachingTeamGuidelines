@@ -46,7 +46,7 @@ The following conventions have proven to work out alright
 In case of disregarding Netiquette, the forum rules or the code of honor suitable sanctions need to be prepared – if required in different escalation levels. To these belong:
  
  - Personal or public admonition
- - Temporary blocking of access to openHPI accoount
+ - Temporary blocking of access to openHPI account
  - Permanent exclusion from a course
  - Permanent exclusion from the platform
 
@@ -72,13 +72,10 @@ A little hint: the learning community appreciates posts by the course lecturers 
 ## Helpdesk / Technical Support
 
 In general, the technical support should only happen via Helpdesk. In case that individual technical questions arriving via forum or email the sender should be ask to come back via Helpdesk. This is also important to communicate at course start. (in the welcome message).
-Technical questions posted in the forum which are relevant to other users as well can be discussed there. As well as technical questions, which arrive via helpdesk – (sometimes many arrive to the same topic) can anser the teaching / support team in the general forum via sticky post in case they are relevant to other users.
+Technical questions posted in the forum which are relevant to other users as well can be discussed there. As well as technical questions, which arrive via helpdesk – (sometimes many arrive to the same topic) can answer the teaching / support team in the general forum via sticky post in case they are relevant to other users.
 
 
 ## Social Media
 
-Support requests or content related questions addressed at the teaching team via Social Media (Twitter oder Facebook Messages) should be forwarded to helpdesk or discussion forum. Are these public requests, the forwarding should take place to other channels as well.
+Support requests or content related questions addressed at the teaching team via Social Media (Twitter or Facebook Messages) should be forwarded to helpdesk or discussion forum. Are these public requests, the forwarding should take place to other channels as well.
 
-### openHPI Blog
-
-Here, at least on a weekly base, a short report with a photo should be posted. openHPI Bloginformation have to be discussed with the platform team.
