@@ -1,4 +1,6 @@
-![HPI Logo](img/HPI_Logo.png)
+<center>
+<img src="img/HPI_Logo.png" >  
+</center>
 
 ## Teacher Documentation openUNE.cn
 

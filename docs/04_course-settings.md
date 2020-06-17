@@ -39,7 +39,7 @@ On the course detail page the following information can be found:
   - Perquisites for the course
   - Short detail about the course instructor.
   - Time required to finish the course.
-  - Certificate details and requirements for achievement.
+  - Exam & Certification details along with requirements for achievement.
 
   
 ## Course visual and introduction video
