@@ -1,4 +1,4 @@
-![HPI Logo](img/HPI_Logo.png)
+<img src="img/HPI_Logo.png" width="500">
 
 # Gamification
 

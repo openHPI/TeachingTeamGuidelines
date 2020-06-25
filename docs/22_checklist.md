@@ -1,12 +1,80 @@
-![HPI Logo](img/hpi_logo.jpg)
+![HPI Logo](img/HPI_Logo.png)
 
-# Overview MOOC planning and - execution
 
-Copy the table from CHECKLIST - from the mail
+# Checklist
+## Course structure
+| Course Structure and Volume Guidelines |
+| :--: |
+| The course structure has been finalized before starting with content development | 
+| The course is planned with 2/4/6 course weeks (see openHPI course formats) https://open.hpi.de/pages/faq#which-kind-of-course-formats-are-offered-on-openhpi-how-long-does-a-course-take |
+| Each week is planned with 4-8 learning units |
+| Each unit (video) is planned with 5-10 minutes |
+| In sum each week will not exceed 90-110 minutes of video |  
+  
+<br />
+
+| Storyline and Target Audience |
+| :--: |
+| The course has a consistent storyline |
+| The course description (short and long version) is understandable and motivates learners to take part in the course. It contains all relevant information on the topics covered in the course |
+| The content is appropriate for the defined target audience (please make clear in the description if prior knowledge is necessary to successfully participate in the course) |  
+
+<br />  
+
+## Template
+
+| Template |
+| :--: |
+| The correct PPT Template is used for authoring (https://drive.google.com/file/d/1Z8OZ-81s0SPtgYtNeC4HkHgvNYoGPnIa/view?usp=sharing) |  
+
+<br />  
+  
+| Title Slide |
+| :--: |
+| A course title picture has been selected by the teaching team and the openHPI project manager |
+| This title picture is used in all PPT slides for the course |
+| You follow the title structure for each unit Week xx, Unit yy: <Title of Unit> |
+| The Week Title does not exceed 38 chars (including spaces) |
+| The Unit Title does not exceed 65 chars (including spaces) |  
+
+<br />  
+
+## Slide development
+
+| General |
+| :--: |
+| A Graphic Check and Copy Edit is planned by the teaching team |
+| You stay close to the template |
+| You always have a graphic or an image on each slide |
+| You avoid any text heavy slides |  
+
+<br />
+
+| Images |
+| :--: |
+| Always quote the source where the image/graphic comes from |
+| Graphics (Images and screenshots) are large enough for readability in the videos |
+| You avoid (complex) animations |  
+
+<br />
+
+| Speaker Notes| 
+| :--: |
+| You plan an intro for each week |
+| You plan a transition to the next week/unit at the end of each unit |  
+
 
 ## Teaching Team
 
-to be defined
+The following tasks are required to be controlled by the teaching team:
+
+- Course concept must be created 3 months prior to the release of the course.
+- Create a team of around 3-5 members to assist in the course content management.
+- Organisation of content creation (e.g. timely recording and post production of videos, preparation of reading materials, etc.).
+- Preparation and moderation of editorial meetings for the particular course week.
+- Approval of weekly platform content as well as coordination of quality assurance.
+- Coordination of fora and support during the course week (together with team leader).
+This approach and procedure is not mandatory but it has proven worth in the past.
 
 ## Course planning
 
@@ -14,7 +82,7 @@ to be defined
 -	Definition of teaching/ course team (who is in charge?)
 -	Course Layout: Things to keep in mind when designing the course.
 -	Course registration at openHPI with Course Template
--	Application time for 6-Week courses of the following year ist October of a legal year
+-	Application time for 6-Week courses of the following year is October of a legal year
 
 ## 2-3 months prior course start
 
@@ -25,7 +93,7 @@ to be defined
 ## 4-6 weeks prior course start
 
 - Registration of course with openHPI as soon as course duration is known  Course Template
-- Information about ourse execution and Course Design
+- Information about course execution and Course Design
 - Kick off-Meeting with platform team contact Kick-off Meeting
 - Coordination with PR-Team – Press Release and course communication
 - Communication matrix communication templates
@@ -40,16 +108,8 @@ to be defined
 - Presentation (Slides)
 - Audio 
 - Video
-- Quiz Quizdesign- Self tests Assignments Exams Regrading
+- Quiz design- Self tests Assignments Exams Regrading
 -	Global announcement about course start communication matrix 
-
-## 1 week prior course start
-
-- Test course with chosen testers
-
-## Friday prior course start
-
-- Course announcement about course start communication matrix 
 
 ## Course supervision
 
