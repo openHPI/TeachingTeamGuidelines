@@ -254,7 +254,7 @@ Subtitles can also be generated from external agencies like poliTrans (MLLP) or 
 
 **Synchronize streams with Vimeo:** Streams are synchronized with Vimeo on a daily basis. If you want to add a Vimeo stream that has been uploaded to Vimeo more recently, you might have to synchronize the platform with Vimeo.
 
-### Type quiz
+#### Type quiz
 
 <center>  
 
@@ -315,7 +315,7 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 
 **Unlimited attempts / Allowed attempts:** *Self-tests* are provided with unlimited attempts, attempts for *Main* and *Bonus* exercises should be limited. *Surveys* need to be limited to one attempt.
 
-### Type external exercise tool
+#### Type external exercise tool
 This option allows to add custom tools for practical exercises.
 Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.imsglobal.org/lti/) standard can be added here. 
 
@@ -357,7 +357,7 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 **Additional parameters for this exercise:** Some tool providers require additional parameters. These can be set here as key value pairs. Consult the tool providers documentation to see which parameters are required.
 
 
-### Type peer assessment
+#### Type peer assessment
 Peer assessment provides the possibility to scale out exercises that can not be graded automatically.
 Participants will be enabled to grade each others work.
 
