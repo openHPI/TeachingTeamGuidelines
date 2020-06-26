@@ -257,20 +257,6 @@ Admins (not teachers or teaching team members), however, can manually add video 
 **Poster-image URL:** Set a custom poster image (will be displayed before the video is started) for the video.
 
 
-<center>  
-
-![adding video](img/05/create_video_item.png)
-
-*Fig. 13: Create new video item form*
-</center>
-
-<center>  
-
-![adding video](img/05/create_video_item_1.png)
-
-*Fig. 14: Add new video data*
-</center>
-
 **PIP stream, Lecturer stream, and Slides stream:**  
 All videos can be integrated via a dropdown menu directly using the Vimeo API. In case the appropriate videos are named according to the specification above (name begins with abbreviation), only the course relevant videos will be listed in the dropdown menu. Videos that are not named in respect to this convention will not be listed. The platform must be synchronized with Vimeo once again, when a video's title has been changed there.
 

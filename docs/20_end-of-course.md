@@ -86,29 +86,37 @@ Following are some examples for CoPs and RoAs templates and final documents.
 
 ##### The Template (without dynamic data)
 
-<img src="img/20/RoA_temp.png" alt="RoA Template" style="width: 200px;"/>
+<center>
+![RoA Template](img/20/RoA_temp.png)
 
+*Fig. 03: Template for Record of Achievements*
+</center>
 
 ##### The Document (including dynamic data)
 
-<img src="img/20/RoA.png" alt="RoA Final" style="width: 200px;"/>
+<center>
+![RoA Final](img/20/RoA.png)
 
+*Fig. 04: Exemplary Record of Achievements*
+</center>
 
 #### Confirmation of Participation
 
 ##### The Template (without dynamic data)
 
+<center>
+![CoP Template](img/20/CoP_temp.png)
+
+*Fig. 05: Template for Confirmation of Participation*
+</center>
+
 <img src="img/20/CoP_temp.png" alt="CoP Template" style="width: 200px;"/>
 
 #### The Document (including dynamic data)
 
-<img src="img/20/CoP.png" alt="CoP Final" style="width: 200px;"/>
+<center>
+![CoP Final](img/20/CoP.png)
 
+*Fig. 06: Exemplary Confirmation of Participation*
 
-
-
-
-
-
-
-
+</center>
