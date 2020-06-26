@@ -1,64 +1,10 @@
 ![HPI Logo](img/HPI_Logo.png)
 
 # Checklist
-## Course structure
-| Course Structure and Volume Guidelines |
-| :--: |
-| The course structure has been finalized before starting with content development | 
-| The course is planned with 2/4/6 course weeks (see openHPI course formats) https://open.hpi.de/pages/faq#which-kind-of-course-formats-are-offered-on-openhpi-how-long-does-a-course-take |
-| Each week is planned with 4-8 learning units |
-| Each unit (video) is planned with 5-10 minutes |
-| In sum each week will not exceed 90-110 minutes of video |
 
-<br />
+## Course Structure  
 
-| Storyline and Target Audience |
-| :--: |
-| The course has a consistent storyline |
-| The course description (short and long version) is understandable and motivates learners to take part in the course. It contains all relevant information on the topics covered in the course |
-| The content is appropriate for the defined target audience (please make clear in the description if prior knowledge is necessary to successfully participate in the course) |
-
-
-## Template
-
-| Template |
-| :--: |
-| The correct PPT Template is used for authoring (https://drive.google.com/file/d/1Z8OZ-81s0SPtgYtNeC4HkHgvNYoGPnIa/view?usp=sharing) |
-
-<br />
-
-| Title Slide |
-| :----: |
-| A course title picture has been selected by the teaching team and the openHPI project manager |
-| This title picture is used in all PPT slides for the course |
-| You follow the title structure for each unit Week xx, Unit yy: <Title of Unit> |
-| The Week Title does not exceed 38 chars (including spaces) |
-| The Unit Title does not exceed 65 chars (including spaces) |
-
-## Slide development
-
-| General |
-| :--: |
-| A Graphic Check and Copy Edit is planned by the teaching team |
-| You stay close to the template |
-| You always have a graphic or an image on each slide |
-| You avoid any text heavy slides |
-
-<br />
-
-| Images |
-| :--: |
-| Always quote the source where the image/graphic comes from |
-| Graphics (Images and screenshots) are large enough for readability in the videos |
-| You avoid (complex) animations |
-
-<br />
-
-| Speaker Notes| 
-| :--: |
-| You plan an intro for each week |
-| You plan a transition to the next week/unit at the end of each unit |
-
+  - [x] Venus
 
 ## Teaching Team
 
