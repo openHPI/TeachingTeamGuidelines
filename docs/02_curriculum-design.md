@@ -26,9 +26,11 @@ In general, a course week consists of the following elements:
 
  - **Special Interest Features** (Optional):  
 
-   - *Team Peer Assessments*: More complex exercises and exams can be created by using the Peer Assessment feature. Students have to form a team either by random assignment or personal choice. The team will hand in one solution for the given task, which can be of any nature. The submissions will be graded as a teamwork, however individual students might score bonus points based on their performance in the team. The second part of this assessment type is the obligatory grading of a certain amount of submissions from their peers by the participants. Collaboration is made possible by collab spaces, Etherpad or Google Hangout.   
+    - *Peer Assessments*: More complex exercises and exams can be created by using the Peer Assessment feature. The participants will hand in a solution for the given task, which can be of any nature (but results in an digital artefact that can be uploaded to the platform). The submissions will be graded by peers, other participants, who have also participated in the same task. Grading and reviewing a certain amount of submissions is mandatory. The amount of required reviews is defined by the instructors.   
    (**Remark**: This assessment type can severely increase the workload for both participants and teaching team.)
+   
+    - *Team Peer Assessments*: Peer assessments can can also be defined as team tasks. The teams are formed by the instructors with the support of a tool provided by the openHPI Team. If you're interested in employing a team assignment, please contact the openHPI team.
 
-   - *Coding Exercises with Automated Grading*: coding exercises in almost any programming language can be assigned using the add-on tool [CodeOcean](https://github.com/openHPI/codeocean). Upon submitting the exercises, the points will be automatically reflected in openHPI platform.
+    - *Coding Exercises with Automated Grading*: coding exercises in almost any programming language can be assigned using the add-on tool [CodeOcean](https://github.com/openHPI/codeocean). Upon submitting the exercises, the points will be automatically reflected in openHPI platform. CodeOcean is an open source project offered by the openHPI team. If you want to employ CodeOcean exercises in your courses, you will have to deploy and operate a CodeOcean instance on your own servers or contact the openHPI team.
 
-   - *Custom Exercises*: Teaching teams can invent and integrate almost any kind of exercise using the platform's [LTI interface](http://www.imsglobal.org/lti/). 
+    - *Custom Exercises*: Teaching teams can invent and integrate almost any kind of exercise using the platform's [LTI interface](http://www.imsglobal.org/lti/). 

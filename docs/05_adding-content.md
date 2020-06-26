@@ -323,7 +323,7 @@ Subtitles can also be generated from external agencies like poliTrans (MLLP) or 
 </center>
 
 
-### Type quiz
+#### Type quiz
 
 <center>  
 
@@ -392,7 +392,7 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 *Fig. 17: Create new quiz* 
 </center>
 
-### Type external exercise tool
+#### Type external exercise tool
 This option allows to add custom tools for practical exercises.
 Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.imsglobal.org/lti/) standard can be added here. 
 
@@ -434,7 +434,7 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 **Additional parameters for this exercise:** Some tool providers require additional parameters. These can be set here as key value pairs. Consult the tool providers documentation to see which parameters are required.
 
 
-### Type peer assessment
+#### Type peer assessment
 Peer assessment provides the possibility to scale out exercises that can not be graded automatically.
 Participants will be enabled to grade each others work.
 
