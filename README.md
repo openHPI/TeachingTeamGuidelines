@@ -32,7 +32,7 @@ A webservice using MkDocs as one backend for building the documentation out of m
 
 ### 2nd step: Building Process
 
-- Log in at [--> ReadTheDocs](https:/readthedocs.org)
+- Log in at [--> ReadTheDocs](https://readthedocs.org)
 - **make a new build**. ReadTheDocs will fetch the files from GitHub and update the documentary immediately. For more info about this process look up the ReadTheDocs documentation (link below).
 
 ![rtd environment](docs/img/readme_screenshot-2.png)
