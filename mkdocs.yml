@@ -20,3 +20,4 @@ pages:
   - 'Communication Matrix': '21_communication-matrix.md'
   - 'Checklist': '22_checklist.md'
   - 'Templates': '23_templates.md'
+theme: readthedocs
