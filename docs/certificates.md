@@ -27,6 +27,8 @@ If you’ve earned a Record of Achievement, then your open badge comes along wit
 
 ![Badge_Gold](img/Badge_Gold.jpg)
 
+*Sample Badge*
+
 - **Qualified Certificate**  
 On openHPI, we also offer qualified certificates for many courses. A qualified certificate contains the participant’s photo and a supplement with detailed course information. 
 The participant agrees to be proctored via webcam during the graded exercises and exams. With the help of this online proctoring technology, we determine that the registered user is taking the assignments and the final exam in person. If you are interested in offering this kind of certificate, please contact the openHPI team.
