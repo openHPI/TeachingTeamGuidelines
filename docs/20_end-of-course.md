@@ -8,11 +8,26 @@ Please make sure that the course's end date is not before the deadline of the fi
 
 As often the course end date is initially set to the date when the "official" part of the course ends, but in fact the course provides the chance to work for some more time on the lasst weekly assignment or the final exam, this date, currently, needs to be re-adjusted not later than during the last week of the course. (A ticket exists to provide the possibility to add two end dates, the official and the effective. So this will no longer be necessary in future.)
 
+
+<center>
+
+![course date on course list](img/20/course_date.png)
+
+*Fig. 01: course date information for the current course*
+</center>
+
 ## Course Summary
 
  - If there is interest in special statistical data from the course, the generation of those statistics can be discussed with the platform team. These are also interesting to the learning community. 
  - At the end of each course statistics and special course characteristics should be published on suitable places on the course site and also on the openHPI Blog. Relevant articles of the teaching team are explicitly desired and very welcome.
  - The platform team is very interested in Feedback of the teaching teams, particularly in feature requests that help to improve the system.
+ 
+<center>
+
+![submission statistics](img/20/summary_course.png)
+
+*Fig. 02: statistics for one course item*
+</center>
 
 ## Settings to be changed at the end of the course
 
@@ -73,30 +88,39 @@ Following are some examples for CoPs and RoAs templates and final documents.
 
 ##### The Template (without dynamic data)
 
-<img src="img/20/RoA_temp.png" alt="RoA Template" style="width: 200px;"/>
+<center>
 
+![RoA Template](img/20/RoA_temp.png)
+
+*Fig. 03: Template for Record of Achievements*
+</center>
 
 ##### The Document (including dynamic data)
 
-<img src="img/20/RoA.png" alt="RoA Final" style="width: 200px;"/>
+<center>
 
+![RoA Final](img/20/RoA.png)
+
+*Fig. 04: Exemplary Record of Achievements*
+</center>
 
 #### Confirmation of Participation
 
 ##### The Template (without dynamic data)
 
-<img src="img/20/CoP_temp.png" alt="CoP Template" style="width: 200px;"/>
+<center>
+
+![CoP Template](img/20/CoP_temp.png)
+
+*Fig. 05: Template for Confirmation of Participation*
+</center>
 
 #### The Document (including dynamic data)
 
-<img src="img/20/CoP.png" alt="CoP Final" style="width: 200px;"/>
+<center>
 
+![CoP Final](img/20/CoP.png)
 
+*Fig. 06: Exemplary Confirmation of Participation*
 
-
-
-
-
-
-
-
+</center>

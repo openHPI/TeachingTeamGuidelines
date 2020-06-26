@@ -17,23 +17,30 @@ The platform offers the possibility to add graphics or images (best suited are P
 
 *Note: once the type of a question has been saved it cannot be changed anymore.*
 
-**Free Text:** Only for short texts. Correctness is tested by direct string comparison.
+**Free Text:** Only for short texts. Correctness is tested by direct string comparison. 
 A correct answer must be specified in the quiz setup, otherwise the quiz will crash.
 
 *Note: we use this type of question only for special purposes, e.g. when a password can be retrieved by solving an external task.*
 
 **Essay:** Only for longer texts. Participants are required to write a comprehensive type answer showing their knowledge and expressing their ideas. It can't be graded automatically, so the instructor has to go through the answers manually and grade them.
 
+<center>
+
 ![course structure](img/07/question_type.png)
 
 *Fig. 01: Select question type*
-
+</center>
 
 ### Adding the question:
 
-![course structure](img/07/add_question.png)
+<center>
+
+![course structure](img/07/question_sample1.png)
+
+![course structure](img/07/question_sample2.png)
 
 *Fig. 02: Add question and explanation*
+</center>
 
 **Question type:** can be any of *Multiple Choice*, *Multiple Answer*, *Essay* or *Free Text*
 
@@ -45,13 +52,11 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 
 **Shuffle answers:** if "ON" the answers will be shown in random order.
 
-![course structure](img/07/question_added.png)
-
-*Fig. 03: The question has been added*
-
-
 ### Adding answers:
 
-![course structure](img/07/add_answer.png)
+<center>
 
-*Fig. 04: Add answer*
+![course structure](img/07/add_answers_sample.png)
+
+*Fig. 03: Add new answers*
+</center>

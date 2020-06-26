@@ -8,11 +8,9 @@ You will have to complete a few settings, however.
 
 Platform admins or course admins can edit the course's properties under the course administration menu.  
 
-  
-<center>  
+<center>
 
 ![course properties](img/04/properties_menu.png)
-
 
 *Fig. 01: Course Administration* => *Course properties*
 </center>
@@ -66,6 +64,13 @@ If a large amount of teachers will be conducting the course, you can provide an 
 **Course language**
 Will be used for filtering in the course list.
 
+<center>
+
+![course properties - language setting](img/04/language_setting.png)
+
+*Fig. 02: Language filter in the course list* 
+</center>
+
 **Categories** (Inside advanced settings)
 Create or select any category that fits your purpose. The categories will be used for filtering in the courses list.
 
@@ -95,6 +100,13 @@ Here is a sample text:
     Course Instructor's Name
   
 
+<center>
+
+![course properties - welcome email](img/04/welcome_email.png)
+
+*Fig. 03: Example welcome email* 
+</center>
+
 ## Advanced settings (click on the button to expand)
 
 **External course URL and External course delay:** If you do not know what it is you should keep it as it is. The platform team will make the correct settings. This is only for cross-promoting courses from sister-platforms such as *openHPI* or *openSAP*.
@@ -103,9 +115,23 @@ Here is a sample text:
 
 **Course is hidden:** You can use this setting to hide a course from the course list. Can be used for old iterations of a course to keep the course list tidy, or for experiments. The course is completely functionable and accessible for whoever knows the direct URL.
 
+<center>
+
+![course properties - hidden course](img/04/hidden_course.png)
+
+*Fig. 04: Hidden course in the course list for administrators and teachers*
+</center>
+
 **Invitation required:** This feature can be used if you do not want the participants to enrol directly by themselves, rather the enrolment would be on the basis of invitation, for example, the link to the course can be sent to a small group of participants and whosoever knows the URL can enrol for the said course.
 
 **Show Syllabus:** This should be generally turned on. If you do not want to show a syllabus page (Listing of all the course contents), turn it off.
+
+<center>
+
+![course properties - syllabus](img/04/syllabus.png)
+
+*Fig. 05: Syllabus accessible by all learners*
+</center>
 
 **Auto archive after course end:** Leave the setting as it is if you do not know exactly what you're doing.
 
@@ -117,3 +143,7 @@ Here is a sample text:
 - Statistics have been generated (see below).
 
 **Generate Statistics:** As soon as all deadlines have passed and all re-gradings have been done, press this button. You will receive an (in-platform) notification when it's done (takes some seconds). This button calculates only the value for *top X* for each user. This, in general, is required before the certificates can be released.
+
+![course properties](img/04/course_setting1.png)
+![course properties](img/04/course_setting2.png)
+![course properties](img/04/course_setting3.png)

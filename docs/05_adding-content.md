@@ -41,6 +41,13 @@ It has proven in the past, that it makes sense to create a short video teaser, (
  The course introduction video will have a more detailed overview of course content, structure and perhaps the typical course cycle.
 Both the videos should be published on YouTube or other video platforms and the registration link along with the teaser video should be shared in social media. The YouTube links should also be provided to your PR department.
 
+<center>
+
+![course structure](img/05/course_introduction.png)
+
+*Fig. 01: course introduction video* 
+</center>
+
 ## Teaching-Team – Person in charge as per week
 
 The following tasks are required to be controlled by the teaching team:
@@ -74,11 +81,34 @@ The platform team will create the course for you. Fill it with your content.
 
 
 
-<center>  
+<center>
+
+![course structure](img/05/course_introduction1.png)
+
+*Fig. 02: an example of setion 1* 
+</center>
+
+<center>
+
+![course structure](img/05/course_structure2.png)
+
+*Fig. 03: an example of setion 6* 
+</center>
+
+<center>
+
+![course structure](img/05/course_structure3.png)
+
+*Fig. 04: an example of final exam and survey* 
+</center>
+
+The platform team will create the course for you. Fill it with content.
+
+<center>
 
 ![course structure](img/05/course_admin_menu.png)
 
-*Fig. 01: Course administration* => *Course structure and content*
+*Fig. 05: Course administration* => *Course structure and content*
 </center>
 
 ### Add Section
@@ -87,17 +117,23 @@ The platform team will create the course for you. Fill it with your content.
 
 ![add section](img/05/add_section.png)
 
-*Fig. 02: Add section button*
+*Fig. 06: Add section button*
 </center>  
-
 
 A section generally contains a course week. It can also contain special purpose content, such as a Final Exam, an Excursion, or a Survey.
 
-<center>  
+<center>
+
+![add section - final exam and survey](img/05/final_exam_and_survey.png)
+
+*Fig. 07-1: final exam and survey*  
+</center>
+
+<center>
 
 ![add section](img/05/section_form.png)
 
-*Fig. 03: Create section form*
+*Fig. 07: Create section form*
 </center>  
 
 **Title:** Could be something like Week 1, Excursion, or Final Exam. This will be visible for the user in the course's left hand navigation bar, the course syllabus, and the course content list on the course detail page.
@@ -115,11 +151,11 @@ A section generally contains a course week. It can also contain special purpose 
 
 
 
-<center>  
+<center>
 
 ![add section](img/05/section_backend.png)
 
-*Fig. 04: Successfully created section in course admin view*
+*Fig. 08: Successfully created section in course admin view*
 </center>  
 
 
@@ -133,13 +169,19 @@ Standard items are
  
 Additionally, the platform supports [LTI items](http://www.imsglobal.org/lti/), which can be used to connect external tools to the platform. The platform also supports [peer assessments](todo://link).
 
+<center>
 
-<center>  
+![add LTI provider](img/05/lti_provider.png)
+
+*Fig. 09: LTI Providers*
+</center>
+
+<center>
 
 ![add section](img/05/item_form.png)
 
-*Fig. 05: Create new item form*
-</center>  
+*Fig. 10: Create new item form*
+</center>
 
 **Title:** The item's title.
 
@@ -149,6 +191,19 @@ Additionally, the platform supports [LTI items](http://www.imsglobal.org/lti/), 
 
 **Show in course navigation:** Particularly important items can be shown in the left hand navigation. Please, use this scarcely.
 
+<center>
+
+![add item](img/05/item_form.png)
+
+*Fig. 11: Create new item form*
+</center>
+
+<center>
+
+![adding text](img/05/item_type.png)
+
+*Fig. 12: the type of items*  
+</center>
 
 #### Type Text
 
@@ -162,9 +217,8 @@ The provision of reading material can be generally carried out in three forms:
 
 ![adding text](img/05/create_item_text.png)
 
-*Fig. 06: Create new text item form*
+*Fig. 13: Create new text item form*
 </center>  
-
   
 
 Text-pages can be formatted in markdown, it is possible to include images, weblinks, and links to files. 
@@ -181,9 +235,9 @@ To link a file for download:
 
 <center>  
 
-![linking files for download](img/05/link_for_download.png)
+![linking files for download](img/05/link_for_down.png)
 
-*Fig. 07: Manipulate image link to turn it into a download link*
+*Fig. 14: Manipulate image link to turn it into a download link*
 </center>
 
 #### Type Video
@@ -197,20 +251,27 @@ Basically there is a Vimeo Pro account that exists for the platform, from which 
 The filenames of the streams should begin with the course's course\_code. Please note that the system is case sensitive. As soon as one stream with the course\_code prefix is available, only those streams that start with the course\_code prefix will be listed in the dropdowns.
 The platform's database is synchronized with Vimeo on a daily basis. See also below: [*Synchronize streams with vimeo*](https://github.com/openHPI/TeachingTeamGuidelines/blame/new_update_2020/docs/05_adding-content.md#L217)
 
+**Integrating videos hosted by other providers:**
+API support for other providers is currently not supported.
+Admins (not teachers or teaching team members), however, can manually add video streams that are hosted with other providers. 
 
-<center>  
+<center>
 
-![adding video](img/05/create_video_item.png)
+![adding video streams](img/05/add_stream.png)
 
-*Fig. 08: Create new video item form*
+*Fig. 15: Add stream form (Administration => Videos)*
 </center>
 
-<center>  
+**Title:** The title of the streams should begin with the course's course\_code. Please note that the system operates case sensitive here. As soon as one stream with the course\_code prefix is available, only those streams that start with the course\_code prefix will be listed in the dropdowns.
 
-![adding video](img/05/create_video_item_1.png)
+**HD / SD URL:** The location where the respective strream can be found on the server.
 
-*Fig. 09: Add new video data*
-</center>
+**Width / Height:** The size of the video.
+
+**Duration:** The length of the video.
+
+**Poster-image URL:** Set a custom poster image (will be displayed before the video is started) for the video.
+
 
 **PIP stream, Lecturer stream, and Slides stream:**  
 All videos can be integrated via a dropdown menu directly using the Vimeo API. In case the appropriate videos are named according to the specification above (name begins with abbreviation), only the course relevant videos will be listed in the dropdown menu. Videos that are not named in respect to this convention will not be listed. The platform must be synchronized with Vimeo once again, when a video's title has been changed there.
@@ -254,13 +315,26 @@ Subtitles can also be generated from external agencies like poliTrans (MLLP) or 
 
 **Synchronize streams with Vimeo:** Streams are synchronized with Vimeo on a daily basis. If you want to add a Vimeo stream that has been uploaded to Vimeo more recently, you might have to synchronize the platform with Vimeo.
 
+
+<center>
+
+![adding video](img/05/create_video_item.png)
+
+![adding video](img/05/videos.png)
+
+![adding video](img/05/add_videos.png)
+
+*Fig. 15: Create new video item form* 
+</center>
+
+
 #### Type quiz
 
 <center>  
 
 ![adding video](img/05/type_quiz.png)
 
-*Fig. 10: Create new quiz item form*
+*Fig. 16: Create new quiz item form*
 </center>
 
 **Exercise type:** Select between *Self-test*, *Survey*, *Main*, and *Bonus*.
@@ -315,15 +389,26 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 
 **Unlimited attempts / Allowed attempts:** *Self-tests* are provided with unlimited attempts, attempts for *Main* and *Bonus* exercises should be limited. *Surveys* need to be limited to one attempt.
 
+<center>
+
+![adding quiz](img/05/quiz1.png)
+
+![adding quiz](img/05/quiz2.png)
+
+![adding quiz](img/05/quiz3.png)
+
+*Fig. 17: Create new quiz* 
+</center>
+
 #### Type external exercise tool
 This option allows to add custom tools for practical exercises.
 Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.imsglobal.org/lti/) standard can be added here. 
 
 <center>  
 
-![adding video](img/05/external_exercise_tool.png)
+![adding external tool](img/05/external_exercise_tool.png)
 
-*Fig. 11: Create new external exercise tool item form*
+*Fig. 18: Create new external exercise tool item form*
 </center>
 
 **Exercise type:** Can be *Self-test*, *Main*, and *Bonus*. Ignore the *Survey* option.
@@ -340,16 +425,16 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 
 <center>  
 
-![adding video](img/05/lti_provider.png)
+![adding external tool - selecting LTI provider](img/05/lti_provider.png)
 
-*Fig. 12: Select LTI provider*
+*Fig. 19: Select LTI provider*
 </center>
 
 <center>  
 
-![adding video](img/05/new_lti_provider.png)
+![adding external tool - new LTI provider](img/05/new_lti_provider.png)
 
-*Fig. 13: Add new LTI provider*
+*Fig. 20: Add new LTI provider*
 </center>
 
 **Optional exercise title:** ??
@@ -366,13 +451,11 @@ and an example for the calculation of grades [here](https://open.hpi.de/pages/p_
 
 <center>  
 
-![adding video](img/05/peer_assessment.png)
+![adding a peer assessment](img/05/peer_assessment.png)
 
-*Fig. 13: Create new peer assessment item form*
+*Fig. 21: Create new peer assessment item form*
 </center>
 
 **Exercise type:** Can be *Self-test*, *Main*, and *Bonus*. Ignore the *Survey* option.
 
 **New / existing assessment:** Existing peer assessments can be linked here so that they are accessible from different places. E.g. the submission phase (Week 1) of the assessment might be separated from the grading phase (Week 2).
-
-

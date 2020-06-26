@@ -16,7 +16,6 @@ The following demonstrates the **ideal schedule** of a weekly cycle of a 6+1 wee
 *All timings are communicated in UTC format*
 <center>  
 
-
   | Day | Time | Details |
   |---|:---:|---|
   | Monday | Working Hours | Monitoring  of discussion forum, Support via helpdesk and email messages <br /> Publishing of additional videos (Optional)|

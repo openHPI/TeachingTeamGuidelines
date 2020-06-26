@@ -9,7 +9,7 @@ As a platform administrator, you can add new static pages by the following metho
     
 <center>  
 
-![adding video](img/static.png)
+![adding video](img/15/static.png)
 
 *Fig. 01: Static Page*
 </center>
@@ -23,7 +23,7 @@ After clicking on **Add English Translation** you should get this page -
 
 <center>  
 
-![adding video](img/add_static.png)
+![add static page](img/15/add_static.png)
 
 *Fig. 02: Edit Static Page*
 </center>
