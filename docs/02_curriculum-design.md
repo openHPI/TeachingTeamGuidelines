@@ -11,15 +11,16 @@ In general, a course week consists of the following elements:
  - **Additional Readings**: At the end of a learning week (prior to publishing the weekly assignments) a text page with links to additional readings is provided (Web-Links, PDF-documents, collected slides of the week, etc.). There should also be a provision for downloading the course material as a zip file.
 
  - **Weekly Assignments and Sample Solutions**: The last item of a week is the quiz, which will make up the weekly assignment. In order to create the sample solution the textual explanation possibilities offered in the quiz system (either at question and answer level) should be used. If the publishing date of the sample solution is stated correctly, the publishing of the answers will be carried out automatically after the quiz deadline has passed.  
- Participants will get only **ONE attempt** to finish the test or exam. The following marking scheme should be followed:  <center>
-   | Details   | Max Points  | Duration |
+ Participants will get only **ONE attempt** to finish the test or exam. The following marking scheme should be followed:
+ 
+ <center>
+ 
+   | Details     | Max Points  | Duration    |
    |:-----------:|:-----------:|:-----------:|
-   | Weekly Test | 15 points | 60 mins |
-   | Final Exam  | 90 points | 120 mins |
-   |             |           |
+   | Weekly Test | 15 points   | 60 mins     |
+   | Final Exam  | 90 points   | 120 mins    |
    
-
-   </center>
+ </center>
 
  - **Additional Learning Material** (Optional): Further videos, self-tests and excursus with learning material can be added after the weekly assignments. But only if these doesn’t belong to the actual learnings relevant to the contents of the weekly assignments. It is important to highlight these facts on the relevant pages.
 
