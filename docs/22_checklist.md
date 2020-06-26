@@ -56,4 +56,3 @@ The following tasks are required to be controlled by the teaching team:
 - [ ] Preparation and moderation of editorial meetings for the particular course week.
 - [ ] Approval of weekly platform content as well as coordination of quality assurance.
 - [ ] Coordination of fora and support during the course week (together with team leader).
-
