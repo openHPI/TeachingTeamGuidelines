@@ -67,6 +67,7 @@ All members of this group are granted the following roles and permissions:
   
 
 <center>
+
 ![course permissions - teachers](img/04a/teachers.png)
 
 *Fig. 03: Granting permissions to teachers*
@@ -86,6 +87,7 @@ All members of this group are granted the following roles and permissions:
 
 
 <center>
+
 ![course permissions - course moderators](img/04a/course_moderators.png)
 
 *Fig. 04: Granting permissions to moderators*

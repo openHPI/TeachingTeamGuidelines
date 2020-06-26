@@ -69,18 +69,21 @@ Certain discussion topics can be emphasized via “Sticky Post” feature. Marke
 A little hint: the learning community appreciates posts by the course lecturers / teachers themselves.
 
 <center>
+
 ![course forum overview](img/19/discuss-forum1.png)
 
 *Fig. 01: open the page of discussion*
 </center>
 
 <center>
+
 ![course thread view](img/19/discuss-forum2.png)
 
 *Fig. 02: answer one of the questions*
 </center>
 
 <center>
+
 ![course reply](img/19/discuss-forum3.png)
 
 *Fig. 03: edite answers*
@@ -92,9 +95,8 @@ In general, the technical support should only happen via Helpdesk. In case that 
 Technical questions posted in the forum which are relevant to other users as well can be discussed there. As well as technical questions, which arrive via helpdesk – (sometimes many arrive to the same topic) can answer the teaching / support team in the general forum via sticky post in case they are relevant to other users.
 
 
-
-
 <center>
+
 ![helpdesk modal](img/19/helpdesk.png)
 
 *Fig. 04: write a ticket at helpdesk*
@@ -105,13 +107,14 @@ Technical questions posted in the forum which are relevant to other users as wel
 Support requests or content related questions addressed at the teaching team via Social Media (Twitter or Facebook Messages) should be forwarded to helpdesk or discussion forum. Are these public requests, the forwarding should take place to other channels as well.
 
 <center>
+
 ![Tweet to HPI](img/19/tweet-hpi.png)
 
 *Fig. 05: sent messages on twitter to @HPI_DE or @openHPI*
 </center>
 
-
 <center>
+
 ![Facebook Message to HPI](img/19/facebook-hpi.png)
 
 *Fig. 06: sent messages on twitter to @HassoPlattnerInstitute @OpenHPI*

@@ -42,6 +42,7 @@ It has proven in the past, that it makes sense to create a short video teaser, (
 Both the videos should be published on YouTube or other video platforms and the registration link along with the teaser video should be shared in social media. The YouTube links should also be provided to your PR department.
 
 <center>
+
 ![course structure](img/05/course_introduction.png)
 
 *Fig. 01: course introduction video* 
@@ -115,12 +116,14 @@ The platform team will create the course for you. Fill it with content.
 A section generally contains a course week. It can also contain special purpose content, such as a Final Exam, an Excursion, or a Survey.
 
 <center>
+
 ![add section - final exam and survey](img/05/final_exam_and_survey.png)
 
 *Fig. 07-1: final exam and survey*  
 </center>
 
 <center>
+
 ![add section](img/05/section_form.png)
 
 *Fig. 07: Create section form*
@@ -179,12 +182,14 @@ Additionally, the platform supports [LTI items](http://www.imsglobal.org/lti/), 
 **Show in course navigation:** Particularly important items can be shown in the left hand navigation. Please, use this scarcely.
 
 <center>
+
 ![add item](img/05/item_form.png)
 
 *Fig. 11: Create new item form*
 </center>
 
 <center>
+
 ![adding text](img/05/item_type.png)
 
 *Fig. 12: the type of items*  
@@ -241,6 +246,7 @@ API support for other providers is currently not supported.
 Admins (not teachers or teaching team members), however, can manually add video streams that are hosted with other providers. 
 
 <center>
+
 ![adding video streams](img/05/add_stream.png)
 
 *Fig. 15: Add stream form (Administration => Videos)*
@@ -301,8 +307,11 @@ Subtitles can also be generated from external agencies like poliTrans (MLLP) or 
 
 
 <center>
+
 ![adding video](img/05/create_video_item.png)
+
 ![adding video](img/05/videos.png)
+
 ![adding video](img/05/add_videos.png)
 
 *Fig. 15: Create new video item form* 
@@ -371,8 +380,11 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 **Unlimited attempts / Allowed attempts:** *Self-tests* are provided with unlimited attempts, attempts for *Main* and *Bonus* exercises should be limited. *Surveys* need to be limited to one attempt.
 
 <center>
+
 ![adding quiz](img/05/quiz1.png)
+
 ![adding quiz](img/05/quiz2.png)
+
 ![adding quiz](img/05/quiz3.png)
 
 *Fig. 17: Create new quiz* 

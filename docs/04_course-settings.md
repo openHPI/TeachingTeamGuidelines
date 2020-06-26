@@ -8,11 +8,9 @@ You will have to complete a few settings, however.
 
 Platform admins or course admins can edit the course's properties under the course administration menu.  
 
-  
-<center>  
+<center>
 
 ![course properties](img/04/properties_menu.png)
-
 
 *Fig. 01: Course Administration* => *Course properties*
 </center>
@@ -67,7 +65,9 @@ If a large amount of teachers will be conducting the course, you can provide an 
 Will be used for filtering in the course list.
 
 <center>
+
 ![course properties - language setting](img/04/language_setting.png)
+
 *Fig. 02: Language filter in the course list* 
 </center>
 
@@ -101,7 +101,9 @@ Here is a sample text:
   
 
 <center>
+
 ![course properties - welcome email](img/04/welcome_email.png)
+
 *Fig. 03: Example welcome email* 
 </center>
 
@@ -114,7 +116,9 @@ Here is a sample text:
 **Course is hidden:** You can use this setting to hide a course from the course list. Can be used for old iterations of a course to keep the course list tidy, or for experiments. The course is completely functionable and accessible for whoever knows the direct URL.
 
 <center>
+
 ![course properties - hidden course](img/04/hidden_course.png)
+
 *Fig. 04: Hidden course in the course list for administrators and teachers*
 </center>
 
@@ -123,7 +127,9 @@ Here is a sample text:
 **Show Syllabus:** This should be generally turned on. If you do not want to show a syllabus page (Listing of all the course contents), turn it off.
 
 <center>
+
 ![course properties - syllabus](img/04/syllabus.png)
+
 *Fig. 05: Syllabus accessible by all learners*
 </center>
 

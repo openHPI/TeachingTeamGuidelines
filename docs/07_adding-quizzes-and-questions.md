@@ -25,6 +25,7 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 **Essay:** Only for longer texts. Participants are required to write a comprehensive type answer showing their knowledge and expressing their ideas. It can't be graded automatically, so the instructor has to go through the answers manually and grade them.
 
 <center>
+
 ![course structure](img/07/question_type.png)
 
 *Fig. 01: Select question type*
@@ -33,6 +34,7 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 ### Adding the question:
 
 <center>
+
 ![course structure](img/07/question_sample1.png)
 
 ![course structure](img/07/question_sample2.png)
@@ -53,6 +55,7 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 ### Adding answers:
 
 <center>
+
 ![course structure](img/07/add_answers_sample.png)
 
 *Fig. 03: Add new answers*
