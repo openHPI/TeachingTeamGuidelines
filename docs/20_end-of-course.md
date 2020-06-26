@@ -9,9 +9,11 @@ Please make sure that the course's end date is not before the deadline of the fi
 As often the course end date is initially set to the date when the "official" part of the course ends, but in fact the course provides the chance to work for some more time on the lasst weekly assignment or the final exam, this date, currently, needs to be re-adjusted not later than during the last week of the course. (A ticket exists to provide the possibility to add two end dates, the official and the effective. So this will no longer be necessary in future.)
 
 
-![course structure](img/20/course_date.png)
+<center>
+![course date on course list](img/20/course_date.png)
 
 *Fig. 01: course date information for the current course*
+</center>
 
 ## Course Summary
 
@@ -19,11 +21,11 @@ As often the course end date is initially set to the date when the "official" pa
  - At the end of each course statistics and special course characteristics should be published on suitable places on the course site and also on the openHPI Blog. Relevant articles of the teaching team are explicitly desired and very welcome.
  - The platform team is very interested in Feedback of the teaching teams, particularly in feature requests that help to improve the system.
  
- check the example for one [course summary](https://open.hpi.de/courses/blockchain2019/submission_statistics?stat_id=6215a0dc-6e81-42ba-8910-e5279e2f30c2)
- 
- ![course structure](img/20/summary_course.png)
+ <center> 
+ ![submission statistics](img/20/summary_course.png)
 
-*Fig. 02: statistics for one course*
+*Fig. 02: statistics for one course item*
+</center
 
 ## Settings to be changed at the end of the course
 
@@ -101,7 +103,6 @@ Following are some examples for CoPs and RoAs templates and final documents.
 #### The Document (including dynamic data)
 
 <img src="img/20/CoP.png" alt="CoP Final" style="width: 200px;"/>
-
 
 
 

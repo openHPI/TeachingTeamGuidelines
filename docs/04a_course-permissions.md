@@ -44,9 +44,9 @@ All members of this group are granted the following roles and permissions:
 
 <center>
 
-![course permissions](img/04a/course_administrators.png)
+![course permissions - course administrators](img/04a/course_administrators.png)
 
-*Fig. 02: Granting admin permissions to a user*
+*Fig. 02: Granting course admin permissions to a user*
 </center>
 
 ### Teachers
@@ -66,9 +66,11 @@ All members of this group are granted the following roles and permissions:
 
   
 
-![course permissions](img/04a/teachers.png)
+<center>
+![course permissions - teachers](img/04a/teachers.png)
 
-*Fig. 03: Granting admin permissions to teachers*  
+*Fig. 03: Granting permissions to teachers*
+</center>  
 
 ### Course Moderators
 
@@ -83,15 +85,19 @@ All members of this group are granted the following roles and permissions:
 - **Quiz inspection**: view student submissions
 
 
-![course permissions](img/04a/course_moderators.png)
+<center>
+![course permissions - course moderators](img/04a/course_moderators.png)
 
-*Fig. 04: Granting admin permissions to moderators*
+*Fig. 04: Granting permissions to moderators*
+</center>
 
 ### Students
 All members of this group are granted the following roles and permissions:
 
 - **Student**: basic permissions for registered and enrolled users (without special roles)
 
-![course permissions](img/04a/students.png)
+<center>
+![course permissions - students](img/04a/students.png)
 
-*Fig. 05: Granting admin permissions to students* 
+*Fig. 05: List of enrolled students* 
+</center>

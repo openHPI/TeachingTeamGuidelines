@@ -35,6 +35,8 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 ![course structure](img/07/question_sample1.png)
 
 ![course structure](img/07/question_sample2.png)
+
+*Fig. 02: Add question and explanation*
 </center>
 
 **Question type:** can be any of *Multiple Choice*, *Multiple Answer*, *Essay* or *Free Text*

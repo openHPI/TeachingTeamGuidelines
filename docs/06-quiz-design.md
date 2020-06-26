@@ -56,9 +56,9 @@ For multiple-answer-questions, the points a user will receive are calculated acc
 **We strongly discourage to tell the students how many answers are correct in a multiple answer question.** Practice has shown that this increases the need for re-gradings, while simultaneously reducing the choice of possible re-gradings.
 
 <center>
-![add section](img/06/edite_questions.png)
+![add section](img/06/edit_questions.png)
 
-*Fig. 02: edite questions at quiz part*
+*Fig. 02: edit questions at quiz part*
 </center>
 
 ## Weekly assignments and Final exam
@@ -121,21 +121,21 @@ A complete question could be removed from the quiz. As this leads to undesired s
 **Add additional correct answer (multiple choice only):** For multiple choice questions additional answers can be checked as correct. This also requires the update skript to be run. If applied to a multiple answer question, the amount of points per answer might change, users that answered the question as it was originally intended will lose points.
 
 <center>
-![add section](img/06/question1_quiz.png)
+![edit quiz - overview](img/06/question1_quiz.png)
 
-*Fig. 03: edited questions of the quiz* 
+*Fig. 04: edit questions of the quiz* 
 </center>
 
 <center>
-![add section](img/06/question2_quiz.png)
+![edit quiz - add new question](img/06/question2_quiz.png)
 
-*Fig. 04: add a new question to the quiz* 
+*Fig. 05: add a new question to the quiz* 
 </center>
 
 <center>
-![add section](img/06/quiz_example.png)
+![example quiz](img/06/quiz_example.png)
 
-*Fig. 04: an example from the corrected quiz* 
+*Fig. 06: an example from the corrected quiz* 
 </center>
 
 ## Background information – Quiz-Engine

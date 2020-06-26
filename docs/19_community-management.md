@@ -69,19 +69,19 @@ Certain discussion topics can be emphasized via “Sticky Post” feature. Marke
 A little hint: the learning community appreciates posts by the course lecturers / teachers themselves.
 
 <center>
-![course structure](img/19/discuss-forum1.png)
+![course forum overview](img/19/discuss-forum1.png)
 
 *Fig. 01: open the page of discussion*
 </center>
 
 <center>
-![course structure](img/19/discuss-forum2.png)
+![course thread view](img/19/discuss-forum2.png)
 
 *Fig. 02: answer one of the questions*
 </center>
 
 <center>
-![course structure](img/19/discuss-forum3.png)
+![course reply](img/19/discuss-forum3.png)
 
 *Fig. 03: edite answers*
 </center>
@@ -94,23 +94,25 @@ Technical questions posted in the forum which are relevant to other users as wel
 
 
 
-![course structure](img/19/helpdesk.png)
+<center>
+![helpdesk modal](img/19/helpdesk.png)
 
 *Fig. 04: write a ticket at helpdesk*
+</center>
 
 ## Social Media
 
 Support requests or content related questions addressed at the teaching team via Social Media (Twitter or Facebook Messages) should be forwarded to helpdesk or discussion forum. Are these public requests, the forwarding should take place to other channels as well.
 
 <center>
-![course structure](img/19/tweet-hpi.png)
+![Tweet to HPI](img/19/tweet-hpi.png)
 
-*Fig. 05: to sent messages on twitter*
+*Fig. 05: sent messages on twitter to @HPI_DE or @openHPI*
 </center>
 
 
 <center>
-![course structure](img/19/facebook-hpi.png)
+![Facebook Message to HPI](img/19/facebook-hpi.png)
 
-*Fig. 06: to sent messages on facebook*
+*Fig. 06: sent messages on twitter to @HassoPlattnerInstitute @OpenHPI*
 </center>
