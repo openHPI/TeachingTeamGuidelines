@@ -31,6 +31,6 @@ In general, a course week consists of the following elements:
    
     - *Team Peer Assessments*: Peer assessments can can also be defined as team tasks. The teams are formed by the instructors with the support of a tool provided by the openHPI Team. If you're interested in employing a team assignment, please contact the openHPI team.
 
-    - *Coding Exercises with Automated Grading*: coding exercises in almost any programming language can be assigned using the add-on tool [CodeOcean](https://github.com/openHPI/codeocean). Upon submitting the exercises, the points will be automatically reflected in openHPI platform. CodeOcean is an open source project offered by the openHPI team. If you want to employ CodeOcean exercises in your courses you will have to deploy and operate on your own servers.
+    - *Coding Exercises with Automated Grading*: coding exercises in almost any programming language can be assigned using the add-on tool [CodeOcean](https://github.com/openHPI/codeocean). Upon submitting the exercises, the points will be automatically reflected in openHPI platform. CodeOcean is an open source project offered by the openHPI team. If you want to employ CodeOcean exercises in your courses, you will have to deploy and operate a CodeOcean instance on your own servers or contact the openHPI team.
 
     - *Custom Exercises*: Teaching teams can invent and integrate almost any kind of exercise using the platform's [LTI interface](http://www.imsglobal.org/lti/). 
