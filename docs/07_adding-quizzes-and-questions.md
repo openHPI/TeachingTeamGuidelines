@@ -3,7 +3,7 @@
 # Adding quizzes and questions
 
 ## Adding quizzes
-Please, refer to the [adding content page]() for the quiz settings. 
+Please, refer to the [adding content page](https://github.com/openHPI/TeachingTeamGuidelines/blob/new_update_2020/docs/05_adding-content.md) for the quiz settings. 
 
 The platform offers the possibility to add graphics or images (best suited are PNGs) for questions and answers. Please scale those files down for webuse before inserting them.
 
@@ -22,7 +22,9 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 
 *Note: we use this type of question only for special purposes, e.g. when a password can be retrieved by solving an external task.*
 
-![course structure](img/07/question_types.png)
+**Essay:** Only for longer texts. Participants are required to write a comprehensive type answer showing their knowledge and expressing their ideas. It can't be graded automatically, so the instructor has to go through the answers manually and grade them.
+
+![course structure](img/07/question_type.png)
 
 *Fig. 01: Select question type*
 
@@ -33,11 +35,11 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 
 *Fig. 02: Add question and explanation*
 
-**Question type:** can be any of *Multiple Choice*, *Multiple Answer*, or *Free Text*
+**Question type:** can be any of *Multiple Choice*, *Multiple Answer*, *Essay* or *Free Text*
 
 **Question text:** the actual question
 
-**Explanation:** explanations can be added for both questions and answers and will only be visible after the student has submitted her solution.
+**Explanation:** explanations can be added for both questions and answers and will only be visible after the student has submitted its solution.
 
 **Points:** the max. amount of points to be earned for this question.
 

@@ -30,16 +30,15 @@ The teaching team and technical support should use and agree to the same communi
 		Christian Willems
 		openHPI Team
 
- - Profile photo for the Plattform (e.g.. Photo with HPI-Logo in the corner)
- - User name (e.g.. Christian Willems (HPI))
+  - User name (e.g.. Christian Willems (HPI))
 The following conventions have proven to work out alright
  - Address as personal as possible and informal (only first name)
  - To formal posts – answer in a formal way as well (is an email or a posting signed with full name please answer accordingly)
  - How to deal with difficult/critical/impolite Mails or Postings:
  - Don’t answer right away, please wait a few hours or a day after reading (after emotions have cooled down)
- - be polite, yet consistent
- - bei unhöflicher Ansprache: ggfs. Hinweis auf die gängigen Höflichkeitsformen („Wir bemühen uns gerne, Ihr Problem gemeinsam zu lösen – jedoch verbitten wir uns diesen Ton.“)
- - Unterstützung wird hier auch vom openHPI-Team gewährt
+ - Be polite, yet consistent
+ - In case of rude approach please answer "We will be happy to try and solve your problem together but we do not encourage this tone."
+ - Support will be provided by openHPI team
 
 
 ## Sanctions
@@ -47,10 +46,10 @@ The following conventions have proven to work out alright
 In case of disregarding Netiquette, the forum rules or the code of honor suitable sanctions need to be prepared – if required in different escalation levels. To these belong:
  
  - Personal or public admonition
- - Temporary blocking of access to openHPI accoount
+ - Temporary blocking of access to openHPI account
  - Permanent exclusion from a course
  - Permanent exclusion from the platform
- - 
+
 It is important to handle sanctions carefully. The experience of the past courses show, that usually the community takes care of sanctions and admonitions in case of disregarding forum rules or aggressive communication towards the team.
 
 ## Discussion Forum
@@ -73,13 +72,10 @@ A little hint: the learning community appreciates posts by the course lecturers 
 ## Helpdesk / Technical Support
 
 In general, the technical support should only happen via Helpdesk. In case that individual technical questions arriving via forum or email the sender should be ask to come back via Helpdesk. This is also important to communicate at course start. (in the welcome message).
-Technical questions posted in the forum which are relevant to other users as well can be discussed there. As well as technical questions, which arrive via helpdesk – (sometimes many arrive to the same topic) can anser the teaching / support team in the general forum via sticky post in case they are relevant to other users.
+Technical questions posted in the forum which are relevant to other users as well can be discussed there. As well as technical questions, which arrive via helpdesk – (sometimes many arrive to the same topic) can answer the teaching / support team in the general forum via sticky post in case they are relevant to other users.
 
 
 ## Social Media
 
-Support requests or content related questions addressed at the teaching team via Social Media (WeiBo, Twitter oder Facebook Messages) should be forwarded to helpdesk or discussion forum. Are these public requests, the forwarding should take place to other channels as well.
+Support requests or content related questions addressed at the teaching team via Social Media (Twitter or Facebook Messages) should be forwarded to helpdesk or discussion forum. Are these public requests, the forwarding should take place to other channels as well.
 
-### openHPI Blog
-
-Here, at least on a weekly base, a short report with a photo should be posted. openHPI Bloginformation have to be discussed with the platform team.
