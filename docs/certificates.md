@@ -25,6 +25,8 @@ You are eligible for a Record of Achievement if you have earned more than 50 per
 - **Open Badges**  
 If you’ve earned a Record of Achievement, then your open badge comes along with it and can be found on your certificates page. You can download the badge to your computer and upload it to a badge backpack of your choice, such as badgr or Open Badge Passport.
 
+![Badge_Gold](img/Badge_Gold.jpg)
+
 - **Qualified Certificate**  
 On openHPI, we also offer qualified certificates for many courses. A qualified certificate contains the participant’s photo and a supplement with detailed course information. 
 The participant agrees to be proctored via webcam during the graded exercises and exams. With the help of this online proctoring technology, we determine that the registered user is taking the assignments and the final exam in person. If you are interested in offering this kind of certificate, please contact the openHPI team.
