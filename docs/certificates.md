@@ -16,11 +16,11 @@ The Confirmation of Participation contains the following information:  Name of p
 You are eligible for a Record of Achievement if you have earned more than 50 percent of the available points in the weekly assignments and the final exam. The Record of Achievement contains the following information:
 
   - Participant's name
- - Date of birth (optional)
- - Course title and summary
- - Credits earned
- - Course performance (if you're among the top 5%, 10%, or 20% of participants)
- - Anti-counterfeit link and QR code
+  - Date of birth (optional)
+  - Course title and summary
+  - Credits earned
+  - Course performance (if you're among the top 5%, 10%, or 20% of participants)
+  - Anti-counterfeit link and QR code
  
 - **Open Badges**  
 If you’ve earned a Record of Achievement, then your open badge comes along with it and can be found on your certificates page. You can download the badge to your computer and upload it to a badge backpack of your choice, such as badgr or Open Badge Passport.
