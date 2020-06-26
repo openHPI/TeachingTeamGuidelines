@@ -3,14 +3,18 @@
 # Checklist
 
 ## Course Structure  
+**Course structure and volume guidelines**
+- [ ] The course structure has been finalized before starting with content development
+- [ ] The course is planned with 2/4/6 course weeks (see openHPI course formats) https://open.hpi.de/pages/faq#which-kind-of-course-formats-are-offered-on-openhpi-how-long-does-a-course-take 
+- [ ] Each week is planned with 4-8 learning units
+- [ ] Each unit (video) is planned with 5-10 minutes
+- [ ] In sum each week will not exceed 90-110 minutes of video  
 
-| Course Structure and Volume Guidelines |
-| :--: |
-|- [ ] The course structure has been finalized before starting with content development | 
-|- [ ] The course is planned with 2/4/6 course weeks (see openHPI course formats) https://open.hpi.de/pages/faq#which-kind-of-course-formats-are-offered-on-openhpi-how-long-does-a-course-take |
-|- [ ] Each week is planned with 4-8 learning units |
-|- [ ] Each unit (video) is planned with 5-10 minutes |
-|- [ ] In sum each week will not exceed 90-110 minutes of video |
+**Storyline and Target Audience**
+- [ ] The course has a consistent storyline
+- [ ] The course description (short and long version) is understandable and motivates learners to take part in the course. It contains all relevant information on the topics covered in the course.
+- [ ] The content is appropriate for the defined target audience (please make clear in the description if prior knowledge is necessary to successfully participate in the course)
+
 
 
 
