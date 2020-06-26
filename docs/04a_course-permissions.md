@@ -99,6 +99,7 @@ All members of this group are granted the following roles and permissions:
 - **Student**: basic permissions for registered and enrolled users (without special roles)
 
 <center>
+
 ![course permissions - students](img/04a/students.png)
 
 *Fig. 05: List of enrolled students* 

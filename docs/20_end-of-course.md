@@ -22,11 +22,12 @@ As often the course end date is initially set to the date when the "official" pa
  - At the end of each course statistics and special course characteristics should be published on suitable places on the course site and also on the openHPI Blog. Relevant articles of the teaching team are explicitly desired and very welcome.
  - The platform team is very interested in Feedback of the teaching teams, particularly in feature requests that help to improve the system.
  
- <center> 
- ![submission statistics](img/20/summary_course.png)
+<center>
+
+![submission statistics](img/20/summary_course.png)
 
 *Fig. 02: statistics for one course item*
-</center
+</center>
 
 ## Settings to be changed at the end of the course
 

@@ -81,24 +81,31 @@ The platform team will create the course for you. Fill it with your content.
 
 
 
-<center>  
+<center>
+
 ![course structure](img/05/course_introduction1.png)
 
 *Fig. 02: an example of setion 1* 
 </center>
-<center> 
+
+<center>
+
 ![course structure](img/05/course_structure2.png)
 
 *Fig. 03: an example of setion 6* 
 </center>
-<center> 
+
+<center>
+
 ![course structure](img/05/course_structure3.png)
 
 *Fig. 04: an example of final exam and survey* 
 </center>
 
 The platform team will create the course for you. Fill it with content.
-<center> 
+
+<center>
+
 ![course structure](img/05/course_admin_menu.png)
 
 *Fig. 05: Course administration* => *Course structure and content*
@@ -144,7 +151,8 @@ A section generally contains a course week. It can also contain special purpose 
 
 
 
-<center>  
+<center>
+
 ![add section](img/05/section_backend.png)
 
 *Fig. 08: Successfully created section in course admin view*
@@ -161,17 +169,19 @@ Standard items are
  
 Additionally, the platform supports [LTI items](http://www.imsglobal.org/lti/), which can be used to connect external tools to the platform. The platform also supports [peer assessments](todo://link).
 
-<center> 
+<center>
+
 ![add LTI provider](img/05/lti_provider.png)
 
 *Fig. 09: LTI Providers*
 </center>
 
-<center>  
+<center>
+
 ![add section](img/05/item_form.png)
 
 *Fig. 10: Create new item form*
-</center>  
+</center>
 
 **Title:** The item's title.
 
