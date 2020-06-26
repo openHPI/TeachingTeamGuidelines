@@ -90,7 +90,7 @@ Following are some examples for CoPs and RoAs templates and final documents.
 
 <center>
 
-![RoA Template](img/20/RoA_temp.png)
+![RoA Template](img/20/RoA_Temp.png)
 
 *Fig. 03: Template for Record of Achievements*
 </center>
@@ -110,7 +110,7 @@ Following are some examples for CoPs and RoAs templates and final documents.
 
 <center>
 
-![CoP Template](img/20/CoP_temp.png)
+![CoP Template](img/20/CoP_Temp.png)
 
 *Fig. 05: Template for Confirmation of Participation*
 </center>
