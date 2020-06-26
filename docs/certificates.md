@@ -23,7 +23,7 @@ You are eligible for a Record of Achievement if you have earned more than 50 per
   - Anti-counterfeit link and QR code
  
 - **Open Badges**  
-If you’ve earned a Record of Achievement, then your open badge comes along with it and can be found on your certificates page. You can download the badge to your computer and upload it to a badge backpack of your choice, such as badgr or Open Badge Passport.
+If you’ve earned a Record of Achievement, then your open badge comes along with it and can be found on your certificates page. You can download the badge to your computer and upload it to a badge backpack of your choice, such as badgr or Open Badge Passport. You can easily share it via social media or email. When you share your badge, the badge includes a verification link which your followers can access. Once they click this link, they will arrive at your verification page. This page will include your user information, with your name, the date of issue of the badge, and your results. 
 
 ![Badge_Gold](img/Badge_Gold.jpg)
 
