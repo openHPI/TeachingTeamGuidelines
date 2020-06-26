@@ -15,7 +15,7 @@ The Confirmation of Participation contains the following information:  Name of p
 - **Record of Achievement (RoA)**  
 You are eligible for a Record of Achievement if you have earned more than 50 percent of the available points in the weekly assignments and the final exam. The Record of Achievement contains the following information:
 
- -- Participant's name
+  - Participant's name
  - Date of birth (optional)
  - Course title and summary
  - Credits earned
