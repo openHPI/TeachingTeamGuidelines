@@ -9,8 +9,8 @@
 You can offer different types of certificates on the platform: 
 
 - **Confirmation of Participation (CoP)**  
-You are eligible for a Confirmation of Participation if you have visited at least 50 percent of the course material. 
-The Confirmation of Participation contains the following information:  Name of participant, date of birth (optional), course title and summary
+Everyone who has visited at least 50% of the course material receives a confirmation of participation. This threshold can be set for each course. We recommend that this threshold value be set uniformly for all courses throughout the platform.  
+The CoP contains the following information:  Name of participant, date of birth (optional), course title and summary
 
 - **Record of Achievement (RoA)**  
 You are eligible for a Record of Achievement if you have earned more than 50 percent of the available points in the weekly assignments and the final exam. The Record of Achievement contains the following information:
