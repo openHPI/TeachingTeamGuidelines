@@ -57,6 +57,7 @@ The following tasks are required to be controlled by the teaching team:
 - [ ] Approval of weekly platform content as well as coordination of quality assurance.
 - [ ] Coordination of fora and support during the course week (together with team leader).
 
+<html>
 <head> 
     <title> 
         Test
@@ -91,3 +92,4 @@ The following tasks are required to be controlled by the teaching team:
       Test 
   </label> 
 </body>
+</html>
