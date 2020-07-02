@@ -1,8 +1,57 @@
 ![HPI Logo](img/HPI_Logo.png)
 
+# Course Production Timeline
+
+<!-- ![Gantt Chart](img/Gantt_Chart.png)   -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script type="text/javascript">
+        google.charts.load('current', {'packages':['gantt']});
+        google.charts.setOnLoadCallback(drawChart);
+        function daysToms(days) {
+            return days * 24 * 60 * 60 * 1000;
+        }
+        function drawChart() {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Task ID');
+            data.addColumn('string', 'Task Name');
+            data.addColumn('date', 'Start Date');
+            data.addColumn('date', 'End Date');
+            data.addColumn('number', 'Duration');
+            data.addColumn('number', 'Percent Complete');
+            data.addColumn('string', 'Dependencies');
+
+            data.addRows([
+                ['Research', 'Find sources',
+                new Date(2015, 0, 1), new Date(2015, 0, 5), null,  100,  null],
+                ['Write', 'Write paper',
+                null, new Date(2015, 0, 9), daysToMilliseconds(3), 25, 'Research,Outline'],
+                ['Cite', 'Create bibliography',
+                null, new Date(2015, 0, 7), daysToMilliseconds(1), 20, 'Research'],
+                ['Complete', 'Hand in paper',
+                null, new Date(2015, 0, 10), daysToMilliseconds(1), 0, 'Cite,Write'],
+                ['Outline', 'Outline paper',
+                null, new Date(2015, 0, 6), daysToMilliseconds(1), 100, 'Research']
+            ]);
+            var options = {
+                height: 275
+            };
+            var chart = new google.visualization.Gantt(document.getElementById('chart_div'));
+            chart.draw(data, options);
+        }
+        </script>
+    </head>
+    <body>
+        <div id="chart_div"></div>
+    </body>
+</html>  
+ 
+  
 # Templates
 
-----------
 
 ## Course Announcements
 
@@ -29,7 +78,7 @@ Starting Monday, Oct. 27: German course "Internet Security" and the HPI at a gla
 
 Dear Learning-Community,
 
-		We are happy to announce that we just successfully finalized two major MOOCs. These were the third iteration of our IMDB coursefocusing on in-memory databases and their enterprise applications and also our first programming MOOC for high-school students. For this year, there is still one more to come.
+		We are happy to announce that we just successfully finalized two major MOOCs. These were the third iteration of our IMDB course focusing on in-memory databases and their enterprise applications and also our first programming MOOC for high-school students. For this year, there is still one more to come.
 		You certainly might have heard of HPI’s Identity Leak Checker, our tool which verifies whether your digital identity is safe. This fits perfectly to our upcoming German MOOC for everyone: “Internet Security” which starts this Monday, Oct 27 at 8:00 HRS UTC. This course, read by Prof. Meinel, provides an introduction to basic concepts of web security, explains safe passwords, how to protect the own identity while surfing the Internet, how to recognize phishing messages and highlights the importance of encryption just to name a few.
 		In addition, we would like to take this course announcement as an opportunity to inform you about other interesting activities of the Hasso-Plattner-Institute, the institution behind opnHPI. Indeed, HPI offers numerous offline events and projects in IT-research and Design-Thinking as well as activities specifically designed for high-school students. Here you can find out more.
 		Finally, we are now in the midst of planning for the upcoming year. As you are registered with openHPI, you will be informed about any exciting new courses as they are announced. You can join us on YouTube (HPIopen), Twitter (@openHPI) or find us on Facebook to keep up to date on all things regarding openHPI.
@@ -44,7 +93,7 @@ Dear Learning-Community,
 
 *German*
 
-		Liebe KursteilnehmerInnen,
+		Liebe Kursteilnehmerinnen,
 		
 		wir freuen uns, dass Sie mit uns gemeinsam in die erste Woche des Online-Kurses „Sicherheit im Internet“ gestartet sind. Seit heute 9:00 Uhr stehen für Sie diese Woche Kursvideos und dazugehörige Selbsttests zur Verfügung und können jederzeit abgerufen werden. Diese finden Sie unter Kursinhalte in der Symbolnavigation über dem Videoplayer.
 		Diese Woche befassen wir uns mit Grundbegriffen zum Thema XXX und die Motivation sowie XXX Sie sind herzlich eingeladen, sich auch im Forum zu diesen spannenden Themen mit anderen Kursteilnehmern auszutauschen.
@@ -57,7 +106,7 @@ Dear Learning-Community,
 
 *German*
 
-		Liebe KursteilnehmerInnen,
+		Liebe Kursteilnehmerinnen,
 		
 		wir hoffen, dass Ihnen unsere erste Kurswoche gefallen hat. Ab Montag geht es mit spannenden Themen weiter: dann werden Sie u.a. erfahren, wie passwortbasierte Anmeldungen funktionieren, wie zu schwache Passwörter geknackt werden und wie Sie selbst sichere Passwörter wählen können.
 		Darüber hinaus empfehlen wir Ihnen an dieser Stelle auch immer wieder, sich den interessanten Forumsdiskussionen anzuschließen.
@@ -79,7 +128,7 @@ Dear Learning-Community,
 
 *English Version*
 
-		Dear participants,
+		Dear course participants,
 		
 		This week, you will learn how to XXX …).
 		
@@ -99,7 +148,7 @@ Dear Learning-Community,
 
 *Deutsch*
 
-		Liebe KursteilnehmerInnen,
+		Liebe Kursteilnehmerinnen,
 		
 		ab sofort haben Sie die Möglichkeit, die Abschlussprüfung zu unserem Kurs "KURSNAME“abzulegen. Die Abgabefrist der Prüfung ist DATUM um ZEIT Uhr UTC (ZEIT Deutsche Zeit).
 		
@@ -140,7 +189,7 @@ Dear Learning-Community,
 
 *Deutsch*
  
-		Liebe KursteilnehmerInnen,
+		Liebe Kursteilnehmerinnen,
 		
 		mit dem Ende der Abschlussprüfung sind wir nun gemeinsam auch am Ende unseres Kurses „XXX“ angelangt. Dies war die letzte von vielen Abgabefristen der vergangenen intensiven Kurswochen. Inzwischen haben wir hier bei openHPI Ihre wohlverdienten Zeugnisse vorbereitet, damit Sie diese noch pünktlich vor Weihnachten in den Händen halten können. Sie können Ihre Zeugnisse und Teilnahmebestätigungen im Bereich "Dokumente" von "Mein openHPI" herunterladen. Insgesamt können wir über XXX Teilnehmern zum Bestehen des Kurses gratulieren!
 		Uns hat es sehr viel Spaß gemacht, gemeinsam mit Ihnen zu lernen. Ihr aktives Engagement sowie Ihre zahlreichen Kommentare und Nachfragen im Forum haben den Kurs sowohl für die anderen Teilnehmer als auch für uns unglaublich bereichert. Es freut mich auch zu sehen, dass über XXX Prozent der eingeschriebenen Teilnehmer aktiv an diesem Kurs teilgenommen haben. Gerade dies macht die Lehr- und Lernerfahrung in einem MOOC für mich als Dozenten so wertvoll.
@@ -177,7 +226,7 @@ Dear Course Participants,
 
 *German*
 
-		Liebe Kursteilnehmer,
+		Liebe Kursteilnehmerinnen,
 
 		schön, dass Sie sich für diesen Kurs angemeldet haben. Wir freuen uns, dass Sie sich gemeinsam mit uns mit dieser spannenden Thematik befassen wollen. Tatsächlich hilft ein gutes Verständnis der Gefährdungen und Angriffspunkte im Internet eigene Verhaltensweisen zu überdenken und erforderliche Schutzmaßnahmen zu treffen.
 		Bereits vor dem offiziellen Kursstart haben wir für Sie schon einige Kurzvorlesungen online gestellt. Unter der Rubrik „Gut zu wissen“ finden Sie darüber hinaus weiterführende Informationen zur Nutzung unserer Lernplattform.
@@ -203,7 +252,7 @@ Dear Course Participants,
 
 *German*
 
-		Liebe Kursteilnehmer,
+		Liebe Kursteilnehmerinnen,
 		
 		schön, dass Sie sich bei unserem Workshop “Sichere Email” angemeldet haben. Wir freuen uns über Ihr Interesse an dieser spannenden und stets aktuellen Thematik. 
 		Tatsächlich hilft ein gutes Verständnis zu Manipulationen im Email-Verkehr eigene Verhaltensweisen zu überdenken und erforderliche Schutzmaßnahmen zu treffen.
