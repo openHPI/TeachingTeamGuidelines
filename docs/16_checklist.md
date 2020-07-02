@@ -4,7 +4,41 @@
 
 ## Course Structure  
 
-**Course structure and volume guidelines**
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <style>
+            .desgin {
+                background-color: white;
+                border: 2px solid black;
+                color: blue;
+                padding: 5px 10px;
+                text-align: justify;
+                display: inline-block;
+                font-size: 20px;
+                margin: 10px 10px;
+                cursor: pointer;
+            }
+        </style>
+    </head>
+    <body>
+        <fieldset>
+            <legend>Course structure and volume guidelines</legend>
+            <label class="desgin">
+                <input type="checkbox" name="checkbox" value="checklist">
+                The course structure has been finalized before starting with content development
+            </label>
+            <label class="desgin">
+                <input type="checkbox" name="checkbox" value="checklist">
+                The course is planned with 2/4/6 course weeks (see openHPI course formats) https://open.hpi.de/pages/faq#which-kind-of-course-formats-are-offered-on-openhpi-how-long-does-a-course-take 
+            </label>
+        </fieldset>
+               
+    </body>
+</html>
+
+<!-- **Course structure and volume guidelines**
 - [ ] The course structure has been finalized before starting with content development
 - [ ] The course is planned with 2/4/6 course weeks (see openHPI course formats) https://open.hpi.de/pages/faq#which-kind-of-course-formats-are-offered-on-openhpi-how-long-does-a-course-take 
 - [ ] Each week is planned with 4-8 learning units
@@ -55,4 +89,4 @@ The following tasks are required to be controlled by the teaching team:
 - [ ] Organisation of content creation (e.g. timely recording and post production of videos, preparation of reading materials, etc.).
 - [ ] Preparation and moderation of editorial meetings for the particular course week.
 - [ ] Approval of weekly platform content as well as coordination of quality assurance.
-- [ ] Coordination of fora and support during the course week (together with team leader).
+- [ ] Coordination of fora and support during the course week (together with team leader). -->

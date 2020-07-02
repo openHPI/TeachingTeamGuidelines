@@ -2,7 +2,7 @@
 
 # Course Production Timeline
 
-![Gantt Chart](img/Gantt_Chart.png)  
+![Gantt Chart](img/Gantt_Chart.png)
 
 <!-- <!DOCTYPE html>
 <html>
@@ -57,7 +57,7 @@
 
 ### Template | Global Announcement 4 weeks prior to course start
 
-*Deutsch*
+*Deutsch Version*
 
 Ab Montag, den 27. Oktober: Ein neuer Kurs für Jedermann "Sicherheit im Internet" / Wissenswertes zum HPI
  
@@ -72,26 +72,27 @@ Ab Montag, den 27. Oktober: Ein neuer Kurs für Jedermann "Sicherheit im Interne
 		Ihr openHPI-Team
 
 
-*English*
+*English Version*
 
-Starting Monday, Oct. 27: German course "Internet Security" and the HPI at a glance
+Starting from Monday, Oct. 27: German course "Internet Security" and the HPI at a glance
 
-Dear Learning-Community,
+		Dear Learning-Community,
 
-		We are happy to announce that we just successfully finalized two major MOOCs. These were the third iteration of our IMDB course focusing on in-memory databases and their enterprise applications and also our first programming MOOC for high-school students. For this year, there is still one more to come.
-		You certainly might have heard of HPI’s Identity Leak Checker, our tool which verifies whether your digital identity is safe. This fits perfectly to our upcoming German MOOC for everyone: “Internet Security” which starts this Monday, Oct 27 at 8:00 HRS UTC. This course, read by Prof. Meinel, provides an introduction to basic concepts of web security, explains safe passwords, how to protect the own identity while surfing the Internet, how to recognize phishing messages and highlights the importance of encryption just to name a few.
-		In addition, we would like to take this course announcement as an opportunity to inform you about other interesting activities of the Hasso-Plattner-Institute, the institution behind opnHPI. Indeed, HPI offers numerous offline events and projects in IT-research and Design-Thinking as well as activities specifically designed for high-school students. Here you can find out more.
+		We are happy to announce that we just successfully finalized two major MOOCs. These were the third iteration of our IMDB course focusing on in-memory databases and their enterprise applications, and also our first programming MOOC for high-school students. For this year, there is still one more to come.
+		You certainly might have heard of HPI’s Identity Leak Checker, our tool which verifies whether your digital identity is safe. This fits perfectly to our upcoming German MOOC for everyone: “Internet Security” which starts this Monday, Oct 27 at 8:00 HRS UTC. This course, presented by Prof. Meinel, provides an introduction to basic concepts of web security, explains safe passwords, how to protect own identity while surfing the internet, how to recognize phishing messages and highlights the importance of encryption just to name a few.
+		In addition, we would like to take this course announcement as an opportunity to inform you about other interesting activities of the Hasso-Plattner-Institute, the institution behind openHPI. Indeed, HPI offers numerous offline events and projects in IT-research and Design-Thinking as well as activities specifically designed for high-school students. Here you can find out more.
 		Finally, we are now in the midst of planning for the upcoming year. As you are registered with openHPI, you will be informed about any exciting new courses as they are announced. You can join us on YouTube (HPIopen), Twitter (@openHPI) or find us on Facebook to keep up to date on all things regarding openHPI.
 		
-		Kind regards, The openHPI-Team
+		Kind regards, 
+		The openHPI-Team
 
 ### Template | Global Announcement Friday before course start - Reminder
 
-*Deutsch*
+*Deutsch Version*
 
 ### Template | Welcome Message - week 1
 
-*German*
+*Deutsch Version*
 
 		Liebe Kursteilnehmerinnen,
 		
@@ -104,7 +105,7 @@ Dear Learning-Community,
 
 ### Template | Introduction to week n
 
-*German*
+*Deutsch Version*
 
 		Liebe Kursteilnehmerinnen,
 		
@@ -146,7 +147,7 @@ Dear Learning-Community,
 
 ### Template | Annoucement - exam week
 
-*Deutsch*
+*Deutsch Version*
 
 		Liebe Kursteilnehmerinnen,
 		
@@ -171,7 +172,7 @@ Dear Learning-Community,
 		 - Manche Multiple-Choice Fragen haben mehr als nur eine korrekte Antwort.
 		 - Die Anzahl der genannten Punkte pro Prüfungsfrage ist kein Indikator für die Anzahl der korrekten Antworten.
 
-*English:*
+*English Version*
 
 		Dear course participants,
 		 
@@ -187,7 +188,7 @@ Dear Learning-Community,
 
 ### Template | Thank you and goodbye message by the instructor - After course has endet
 
-*Deutsch*
+*Deutsch Version*
  
 		Liebe Kursteilnehmerinnen,
 		
@@ -199,7 +200,7 @@ Dear Learning-Community,
 		Und auch bei Ihnen möchte mich bedanken für Ihr Interesse an unserem Kurs und Ihr aktive Kursteilnahme. Wenn der Kurs Ihnen Freude gemacht hat, laden Sie bitte auch Ihre Freunde und Bekannte ein, bei uns auf openHPI vorbeizuschauen. Ich wünsche Ihnen ein frohes Weihnachtsfest und einen guten Start in ein hoffentlich gesundes neues Jahr 2015 und ich freue mich schon jetzt, wenn wir Sie dann wieder bei einem unserer Kurse auf openHPI begrüßen kann.
 		Ihr DOZENT
 
-*English*
+*English Version*
 
 Dear Course Participants,
 
@@ -224,7 +225,7 @@ Dear Course Participants,
  
 	**Abbildung 13 Screenshot automatisierte Willkommensnachricht bei Kurseinschreibung**
 
-*German*
+*Deutsch Version*
 
 		Liebe Kursteilnehmerinnen,
 
@@ -239,7 +240,7 @@ Dear Course Participants,
 		Mit freundlichen Grüßen,
 		Ihr openHPI Team „KURSNAME“
 
-*English*
+*English Version*
 
 		Dear Course participant,
 		
@@ -250,7 +251,7 @@ Dear Course Participants,
 
 ### Template | Automatic Reply during a course
 
-*German*
+*Deutsch Version*
 
 		Liebe Kursteilnehmerinnen,
 		
@@ -265,13 +266,24 @@ Dear Course Participants,
 		Mit freundlichen Grüßen,
 		Ihr openHPI Team “Sichere Email”
 
-*English*
+*English Version*
 
-		Announcement text here
+		Dear course participants,
+
+	We are pleased that you have registered for our “Secure Email” workshop. We appreciate 	your interest in this exciting and always current topic.
+	In fact, a good understanding of manipulations in email traffic helps you to rethink your own behavior and take the necessary protective measures.
+	The teaching content of the first week of the course is already activated, i.e. You can watch the instructional videos at any time, check your newly acquired knowledge in interactive self-tests and actively exchange ideas in the forum. We will keep you up to date on further news and then on deadlines for homework as well as interesting information about the course. You can be excited!
+	We believe that secure email communication is extremely important. We would therefore be delighted if you would also recommend us to your friends and colleagues so that even more people can learn the encryption practices shown and apply them every day. Thank you so much!
+	Link to the introductory film about this free online course: https://www.youtube.com/watch?v=1JCFMgcrEII
+	Link to course registration: https://open.hpi.de/courses/ws-email2015
+	For information: We will send important information about the course in good time about the “news” that you will receive by email. To make sure that you also receive these messages, we ask you to activate the "Notifications" in your settings under -> My openHPI -> Settings. We look forward to a shared learning experience with you.
+
+Best regards,
+Your openHPI team “Secure Email”
 
 ### Template | Automatic Reply after a course is finished
 
-*German*
+*Deutsch Version*
 
 		Lieber Kursteilnehmer, liebe Kursteilnehmerin,
 		
@@ -284,7 +296,7 @@ Dear Course Participants,
 		Mit freundlichen Grüßen, 
 		Ihr openHPI Team „Sicherheit im Internet“
 
-*English*
+*English Version*
 
 		Announcement text here
 
@@ -292,7 +304,7 @@ Dear Course Participants,
  
 		Abbildung 14 Screenshot Willkommensnachricht auf der Kursseite
 
-*German*
+*Deutsch Version*
 
 		Liebe Lerngemeinschaft,
 		
@@ -305,7 +317,7 @@ Dear Course Participants,
 		
 		DOZENT und das openHPI Teaching Team
 
-*English*
+*English Version*
 
 		Announcement text here
 
