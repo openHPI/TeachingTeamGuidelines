@@ -2,9 +2,9 @@
 
 # Course Production Timeline
 
-<!-- ![Gantt Chart](img/Gantt_Chart.png)   -->
+![Gantt Chart](img/Gantt_Chart.png)  
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
     <body>
         <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -47,7 +47,7 @@
     
         <div id="chart_div"></div>
     </body>
-</html>  
+</html>   -->
  
   
 # Templates
