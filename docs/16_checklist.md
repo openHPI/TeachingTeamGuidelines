@@ -1,5 +1,7 @@
 ![HPI Logo](img/HPI_Logo.png)
-
+{
+    taskList : true
+}
 # Checklist  
 
 <html>
@@ -7,9 +9,9 @@
 <legend><h2>Course structure and volume guidelines</h2></legend>  
 
 <p>&#x2705;
-The course structure has been finalized before starting with content development.
+The course structure has been finalized before starting with content development.  
 
-<label><input type="checkbox" name="checkbox" value="checklist">The course is planned with 2/4/6 course weeks (see openHPI course formats) https://open.hpi.de/pages/faq#which-kind-of-course-formats-are-offered-on-openhpi-how-long-does-a-course-take</label>  
+- [ ] The course is planned with 2/4/6 course weeks (see openHPI course formats) https://open.hpi.de/pages/faq#which-kind-of-course-formats-are-offered-on-openhpi-how-long-does-a-course-take
 
 <label><input type="checkbox" name="checkbox" value="checklist">Each week is planned with 4-8 learning units</label>  
 
