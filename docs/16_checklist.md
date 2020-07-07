@@ -6,7 +6,8 @@
 <fieldset>
 <legend><h2>Course structure and volume guidelines</h2></legend>  
 
-<label><input type="checkbox">The course structure has been finalized before starting with content development</label>  
+<p>&#x2705;
+The course structure has been finalized before starting with content development.
 
 <label><input type="checkbox" name="checkbox" value="checklist">The course is planned with 2/4/6 course weeks (see openHPI course formats) https://open.hpi.de/pages/faq#which-kind-of-course-formats-are-offered-on-openhpi-how-long-does-a-course-take</label>  
 
