@@ -2,12 +2,12 @@
 
 # Checklist  
 
-<fieldset>
- <legend><h2>Course structure and volume guidelines</h2></legend>
- <label>
-  <input type="checkbox" name="checkbox" value="checklist">
-  The course structure has been finalized before starting with content development
- </label>
+<legend><h2>Course structure and volume guidelines</h2></legend>  
+
+<label>
+<input type="checkbox" name="checkbox" value="checklist">
+The course structure has been finalized before starting with content development
+</label>  
 
   <label>
 <input type="checkbox" name="checkbox" value="checklist">
@@ -143,7 +143,6 @@ Preparation and moderation of editorial meetings for the particular course week
   <input type="checkbox" name="checkbox" value="checklist">
   Coordination of fora and support during the course week (together with team leader)
  </label>
-</fieldset>
 
 <!-- # Checklist
 
