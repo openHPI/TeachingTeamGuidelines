@@ -6,7 +6,7 @@
 <fieldset>
 <legend><h2>Course structure and volume guidelines</h2></legend>  
 
-<label><input type="checkbox" name="checkbox" value="checklist">The course structure has been finalized before starting with content development</label>  
+<label><input type="checkbox">The course structure has been finalized before starting with content development</label>  
 
 <label><input type="checkbox" name="checkbox" value="checklist">The course is planned with 2/4/6 course weeks (see openHPI course formats) https://open.hpi.de/pages/faq#which-kind-of-course-formats-are-offered-on-openhpi-how-long-does-a-course-take</label>  
 
@@ -16,14 +16,13 @@
 
 <label><input type="checkbox" name="checkbox" value="checklist">In sum each week will not exceed 90-110 minutes of video</label>
 </fieldset>
-</hmtl>
+</hmtl>  
 
 <fieldset>
-<legend><h2>Storyline and Target Audience</h2></legend>
-<label>
-<input type="checkbox" name="checkbox" value="checklist">
-The course has a consistent storyline
-</label>
+<legend><h2>Storyline and Target Audience</h2></legend>  
+
+<label><input type="checkbox" name="checkbox" value="checklist">The course has a consistent storyline</label>  
+
 <label>
 <input type="checkbox" name="checkbox" value="checklist">
 The course description (short and long version) is understandable and motivates learners to take part in the course. It contains all relevant information on the topics covered in the course.
