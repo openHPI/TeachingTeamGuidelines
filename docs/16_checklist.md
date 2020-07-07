@@ -2,10 +2,10 @@
 
 # Checklist  
 
-## Course structure and volume guidelines  
+## Course Structure and Volume Guidelines  
 
 <p>&#x2705;
-The course structure has been finalized before starting with content development.  
+The course structure should be finalized before starting with content development  
 
 <p>&#x2705;
 The course is planned with 2/4/6 course weeks (see openHPI course formats) https://open.hpi.de/pages/faq#which-kind-of-course-formats-are-offered-on-openhpi-how-long-does-a-course-take
@@ -14,79 +14,89 @@ The course is planned with 2/4/6 course weeks (see openHPI course formats) https
 Each week is planned with 4-8 learning units
 
 <p>&#x2705;
-Each unit (video) is planned with 5-10 minutes
+Each unit is planned with 5-10 minutes of video
 
 <p>&#x2705;
-In sum each week will not exceed 90-110 minutes of video
+In total, each week should not exceed 90-110 minutes of video
 
 
 ## Storyline and Target Audience  
 
 <p>&#x2705;
-The course has a consistent storyline
+The course should have a consistent storyline
 
 <p>&#x2705;
-The course description (short and long version) is understandable and motivates learners to take part in the course. It contains all relevant information on the topics covered in the course.
+The course description (short and long version) should be understandable and motivate learners to take part in the course
 
 <p>&#x2705;
-The content is appropriate for the defined target audience (please make clear in the description if prior knowledge is necessary to successfully participate in the course)
+The longer version of the course description should contain all relevant information on the topics covered in the course
+
+<p>&#x2705;
+The content should be appropriate for the defined target audience
+
+<p>&#x2705;
+If prior knowledge is necessary to successfully participate in the course, please mention it clearly in the course description
 
 ## Template
 
 <p>&#x2705;
-The correct PPT Template is used for authoring (https://drive.google.com/file/d/1Z8OZ-81s0SPtgYtNeC4HkHgvNYoGPnIa/view?usp=sharing)
+The correct PPT Template should be used for authoring. Refer to https://drive.google.com/file/d/1Z8OZ-81s0SPtgYtNeC4HkHgvNYoGPnIa/view?usp=sharing
 
 ## Title Slide
 
 <p>&#x2705;
-A course title picture has been selected by the teaching team and the openHPI project manager
+A course title picture should be selected by the teaching team and the openHPI project manager
 
 <p>&#x2705;
-This title picture is used in all PPT slides for the course
+The chosen title picture must be used in all PPT slides for the course
 
 <p>&#x2705;
-You follow the title structure for each unit Week xx, Unit yy: <Title of Unit>
+You must follow the mentioned format of title structure for each unit:  
+
+    Week xx, Unit yy: <Title of Unit>
 
 <p>&#x2705;
-The Week Title does not exceed 38 chars (including spaces)
+The Week Title should not exceed 38 characters (including spaces)
 
 <p>&#x2705;
-The Unit Title does not exceed 65 chars (including spaces)
+The Unit Title should not exceed 65 characters (including spaces)
 
-## Slide Development: General
+## Slide Development:  
 
-<p>&#x2705;
-A Graphic Check and Copy Edit is planned by the teaching team
-
-<p>&#x2705;
-You stay close to the template
+### General
 
 <p>&#x2705;
-You always have a graphic or an image on each slide
+A Graphic Check and Copy Edit must be planned by the teaching team
 
 <p>&#x2705;
-You avoid any text heavy slides
-
-
-## Slide Development: Image
+You should maintain a uniform style throughout the slides and follow the template
 
 <p>&#x2705;
-Always quote the source where the image/graphic comes from
+You should always have a graphic or an image on each slide
 
 <p>&#x2705;
-Graphics (Images and screenshots) are large enough for readability in the videos
+You should avoid having slides with lots of text
+
+
+### Image
 
 <p>&#x2705;
-You avoid (complex) animations  
-
-
-## Slide Development: Speaker Notes
+Always cite the source wherever your images/graphics came from
 
 <p>&#x2705;
-You plan an intro for each week 
+Graphics (Images and Screenshots) should be large enough to be understood in the videos
 
 <p>&#x2705;
-You plan a transition to the next week/unit at the end of each unit
+You should avoid (complex) animations  
+
+
+### Speaker Notes
+
+<p>&#x2705;
+You should plan an introduction for each week
+
+<p>&#x2705;
+You should plan a transition to the next week/unit at the end of each unit
 
 
 ## Teaching Team
@@ -98,13 +108,13 @@ Course concept must be created 3 months prior to the release of the course
 Create a team of around 3-5 members to assist in the course content management
 
 <p>&#x2705;
-Organisation of content creation (e.g. timely recording and post production of videos, preparation of reading materials, etc.)
+Organization of content creation (e.g. timely recording and post production of videos, preparation of reading materials, etc.) must be done well ahead of time
 
 <p>&#x2705;
-Preparation and moderation of editorial meetings for the particular course week
+Follow proper schedule for preparation and moderation of editorial meetings for the particular course week
 
 <p>&#x2705;
-Approval of weekly platform content as well as coordination of quality assurance
+Take care of approval of weekly platform content as well as coordination of quality assurance
 
 <p>&#x2705;
-Coordination of fora and support during the course week (together with team leader)
+Fora must be coordinated and supported during the course week (together with team leader) without fail
