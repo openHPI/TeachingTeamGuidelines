@@ -46,13 +46,14 @@ pages:
   - 'Getting Started: Design your Course': 'bestpractices/gettingstarted.md'
   - 'Curriculum Design': 'bestpractices/curriculumdesign.md'
   - 'Recommended Course Cycles':
+    - Course Cycles: 'bestpractices/recommendedcoursecycles/coursecycles.md'
     - 'Scheduled': 
       - Lecture: 'bestpractices/recommendedcoursecycles/scheduled/lecture.md'
       - Hands-on: 'bestpractices/recommendedcoursecycles/scheduled/handson.md'
       - Workshop: 'bestpractices/recommendedcoursecycles/scheduled/workshop.md'
       - Nutshell: 'bestpractices/recommendedcoursecycles/scheduled/nutshell.md'
-  - 'Self-paced': 'bestpractices/recommendedcoursecycles/selfpaced.md'
-  - 'Blended': 'bestpractices/recommendedcoursecycles/blended.md'
+    - 'Self-paced': 'bestpractices/recommendedcoursecycles/selfpaced.md'
+    - 'Blended': 'bestpractices/recommendedcoursecycles/blended.md'
   - Quiz Design: 'bestpractices/quizdesign.md'
   - Community Management: 'bestpractices/communitymanagement.md'
   - End of Course: 'bestpractices/endofcourse.md'
