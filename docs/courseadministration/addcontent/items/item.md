@@ -11,15 +11,6 @@ Standard items are
  - External exercise tool
  - Peer Assessment  
  
-Additionally, the platform supports [LTI items](http://www.imsglobal.org/lti/), which can be used to connect external tools to the platform. The platform also supports peer assessments](todo://link).
-
-<center>
-
-![add LTI provider](../../../img/05/lti_provider.png)
-
-*Fig. 09: LTI Providers*
-</center>
-
 <center>
 
 ![add section](../../../img/05/item_form.png)
