@@ -12,7 +12,7 @@ The University of Texas provides some [good advice]((https://www.utexas.edu/acad
 
 ![add section](../img/06/quiz_type.png)
 
-*Fig. 01: select the type of the quiz*
+*Select the type of the quiz*
 </center>
 
 ## Self-Tests
@@ -60,7 +60,7 @@ For multiple-answer-questions, the points a user will receive are calculated acc
 
 ![add section](../img/06/edit_questions.png)
 
-*Fig. 02: edit questions at quiz part*
+*Edit questions at quiz part*
 </center>
 
 ## Weekly assignments and Final exam
@@ -69,7 +69,7 @@ For multiple-answer-questions, the points a user will receive are calculated acc
 
 ![add section](../img/06/weekly_assignments.png)
 
-*Fig. 03: an example about weekly assignments* 
+*An example about weekly assignments* 
 </center>
 
 The performance of openHPI learners is measured with weekly assignments and a final exam. 
@@ -127,21 +127,21 @@ A complete question could be removed from the quiz. As this leads to undesired s
 
 ![edit quiz - overview](../img/06/question1_quiz.png)
 
-*Fig. 04: edit questions of the quiz* 
+*Edit questions of the quiz* 
 </center>
 
 <center>
 
-![edit quiz - add new question](img/06/question2_quiz.png)
+![edit quiz - add new question](../img/06/question2_quiz.png)
 
-*Fig. 05: add a new question to the quiz* 
+*Add a new question to the quiz* 
 </center>
 
 <center>
 
 ![example quiz](../img/06/quiz_example.png)
 
-*Fig. 06: an example from the corrected quiz* 
+*An example from the corrected quiz* 
 </center>
 
 ## Background information – Quiz-Engine
