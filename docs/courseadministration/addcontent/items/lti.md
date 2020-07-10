@@ -6,9 +6,9 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 
 <center>  
 
-![adding external tool](img/05/external_exercise_tool.png)
+![adding external tool](../../../img/05/external_exercise_tool.png)
 
-*Fig. 18: Create new external exercise tool item form*
+*Create new external exercise tool item form*
 </center>
 
 **Exercise type:** Can be *Self-test*, *Main*, and *Bonus*. Ignore the *Survey* option.
@@ -25,16 +25,16 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 
 <center>  
 
-![adding external tool - selecting LTI provider](img/05/lti_provider.png)
+![adding external tool - selecting LTI provider](../../../img/05/lti_provider.png)
 
-*Fig. 19: Select LTI provider*
+*Select LTI provider*
 </center>
 
 <center>  
 
 ![adding external tool - new LTI provider](../../../img/05/new_lti_provider.png)
 
-*Fig. 20: Add new LTI provider*
+*Add new LTI provider*
 </center>
 
 **Optional exercise title:** ??
