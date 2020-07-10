@@ -15,7 +15,7 @@ Standard items are
 
 ![add section](../../../img/05/item_form.png)
 
-*Fig. 10: Create new item form*
+*Create new item form*
 </center>
 
 **Title:** The item's title.
