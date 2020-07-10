@@ -38,12 +38,9 @@ Users receive experience points (XP) for the following actions:
 - User receives an upvote on an answer: 10 XP
 - User’s answer is accepted by question author: 30 XP
 
-### Speed
+### Self-tests
 
-If user submits assignment before due date:  
-User will be awarded - N<sup>2</sup> × 5 XP  
-
-      N = Deadline - Submission Date (in days)  (Maximum 6 days allowed) 
+- User submits a 100% correct self-test for the first time: 1 XP
 
 XPs are displayed in the top navigation (when a user is logged in) and more detailed on the user's private profile page.  
 
