@@ -6,7 +6,7 @@
 
 ![adding video](../../../img/05/type_quiz.png)
 
-*Fig. 16: Create new quiz item form*
+*Create new quiz item form*
 </center>
 
 **Exercise type:** Select between *Self-test*, *Survey*, *Main*, and *Bonus*.
@@ -69,5 +69,5 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 
 ![adding quiz](../../../img/05/quiz3.png)
 
-*Fig. 17: Create new quiz* 
+*Create new quiz* 
 </center>
