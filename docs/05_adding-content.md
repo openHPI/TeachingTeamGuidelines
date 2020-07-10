@@ -248,7 +248,7 @@ To link a file for download:
 **Integrating videos hosted on Vimeo:**
 The integration for the Vimeo API from within the platform is sufficiently good. 
 Basically there is a Vimeo Pro account that exists for the platform, from which videos are delivered. The streams can be uploaded from within the platform to Vimeo. See also [Uploading videos to Vimeo](https://vimeo.zendesk.com/hc/en-us/categories/201496018-Uploading-to-Vimeo).  
-The filenames of the streams should begin with the course's course\_code. Please note that the system is case sensitive. As soon as one stream with the course\_code prefix is available, only those streams that start with the course\_code prefix will be listed in the dropdowns.
+The filenames of the streams should begin with the course code of the course. Please note that the system is case sensitive. As soon as one stream with the course code prefix is available, only those streams that start with the course code prefix will be listed in the drop-downs.
 The platform's database is synchronized with Vimeo on a daily basis. See also below: [*Synchronize streams with vimeo*](https://github.com/openHPI/TeachingTeamGuidelines/blob/new_update_2020/docs/05_adding-content.md#L217)
 
 **Integrating videos hosted by other providers:**
