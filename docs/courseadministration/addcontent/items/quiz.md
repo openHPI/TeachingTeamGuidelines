@@ -107,7 +107,7 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 
 ![course structure](../../../img/07/question_sample2.png)
 
-*Fig. 02: Add question and explanation*
+*Add question and explanation*
 </center>
 
 **Question type:** can be any of *Multiple Choice*, *Multiple Answer*, *Essay* or *Free Text*
@@ -126,5 +126,5 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 
 ![course structure](../../../img/07/add_answers_sample.png)
 
-*Fig. 03: Add new answers*
+*Add new answers*
 </center>
