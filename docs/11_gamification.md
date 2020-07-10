@@ -4,19 +4,21 @@
 
 The platform supports some basic gamification features. Users can achieve experience points (XP) and gain badges.
 
-## Badges 
+## Badges  
 
-Badges are available in three states. Gold, silver and bronze.  
+Badges are available in three states - **Gold**, **Silver** and **Bronze**.  
 
-Currently supported are the following:
+Currently the following are supported:
 
-- Communication: Users that are active in the forum
-![communication badge](img/14/communicator_0.png)
-   - 	Gold (3), silver (8), and bronze (13) posts (questions/answers/comments) in the forum.
+- **Communication**: Users that are active in the forum
+![communication badge](img/14/communicator_0.png)  
+
+      Gold (3), Silver (8), and Bronze (13) posts (questions/answers/comments) in the forum.
 
 - Knowledge: Users that receive good feedback (votes, accepted answers) in the forum.
-![communication badge](img/14/knowledgeable_0.png)
-   - 	Gold (3), silver (8), and bronze (13) accepted answers in the forum.
+![communication badge](img/14/knowledgeable_0.png)  
+
+      Gold (3), Silver (8), and Bronze (13) accepted answers in the forum.
 - Self-test: Users that have solved all self-tests with a score better than 0
 ![communication badge](img/14/self_tested_0.png)
 
@@ -36,12 +38,14 @@ Users receive experience points (XP) for the following actions:
 - User receives an upvote on an answer: 10 XP
 - User’s answer is accepted by question author: 30 XP
 
-### Speed
+### Self-tests
 
-- User submits assignment before due date: n^2 × 5 XP (n = deadline - submission date in days - max: 6 days) 
+- User submits a 100% correct self-test for the first time: 1 XP
 
+XPs are displayed in the top navigation (when a user is logged in) and more detailed on the user's private profile page.  
 
+<center>
 
-XPs are displayed in the top navigation (when a user is logged in) and more detailed on the user's private profile page.
+![XP](img/XP.png)
+</center>
 
-Further features in this area will follow.
