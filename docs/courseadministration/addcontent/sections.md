@@ -1,4 +1,4 @@
-![HPI Logo](../img/HPI_Logo.png)
+![HPI Logo](../../img/HPI_Logo.png)
 
 # Adding Sections
 
@@ -25,21 +25,21 @@ The platform team will create the course for you. Fill it with your content.
 
 <center>
 
-![course structure](../img/05/course_introduction1.png)
+![course structure](../../img/05/course_introduction1.png)
 
 *Fig. 02: an example of setion 1* 
 </center>
 
 <center>
 
-![course structure](../img/05/course_structure2.png)
+![course structure](../../img/05/course_structure2.png)
 
 *Fig. 03: an example of section 6* 
 </center>
 
 <center>
 
-![course structure](../img/05/course_structure3.png)
+![course structure](../../img/05/course_structure3.png)
 
 *Fig. 04: an example of final exam and survey* 
 </center>
@@ -48,7 +48,7 @@ The platform team will create the course for you. Fill it with content.
 
 <center>
 
-![course structure](img/05/course_admin_menu.png)
+![course structure](../../img/05/course_admin_menu.png)
 
 *Fig. 05: Course administration* => *Course structure and content*
 </center>
@@ -57,7 +57,7 @@ The platform team will create the course for you. Fill it with content.
 
 <center>  
 
-![add section](../img/05/add_section.png)
+![add section](../../img/05/add_section.png)
 
 *Fig. 06: Add section button*
 </center>  
@@ -66,14 +66,14 @@ A section generally contains a course week. It can also contain special purpose 
 
 <center>
 
-![add section - final exam and survey](../img/05/final_exam_and_survey.png)
+![add section - final exam and survey](../../img/05/final_exam_and_survey.png)
 
 *Fig. 07-1: final exam and survey*  
 </center>
 
 <center>
 
-![add section](../img/05/section_form.png)
+![add section](../../img/05/section_form.png)
 
 *Fig. 07: Create section form*
 </center>  
@@ -95,7 +95,7 @@ A section generally contains a course week. It can also contain special purpose 
 
 <center>
 
-![add section](../img/05/section_backend.png)
+![add section](../../img/05/section_backend.png)
 
 *Fig. 08: Successfully created section in course admin view*
 </center>  
