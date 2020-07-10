@@ -34,17 +34,3 @@ Additionally, the platform supports [LTI items](http://www.imsglobal.org/lti/), 
 **Published:** Only published items will be visible for the regular users.
 
 **Show in course navigation:** Particularly important items can be shown in the left hand navigation. Please, use this scarcely.
-
-<center>
-
-![add item](../../../img/05/item_form.png)
-
-*Fig. 11: Create new item form*
-</center>
-
-<center>
-
-![adding text](../../../img/05/item_type.png)
-
-*Fig. 12: the type of items*  
-</center>
