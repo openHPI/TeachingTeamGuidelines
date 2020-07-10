@@ -54,6 +54,7 @@ pages:
       - Nutshell: 'bestpractices/recommendedcoursecycles/scheduled/nutshell.md'
     - 'Self-paced': 'bestpractices/recommendedcoursecycles/selfpaced.md'
     - 'Blended': 'bestpractices/recommendedcoursecycles/blended.md'
+  - Prepare Material: 'bestpractices/preparematerial.md'
   - Quiz Design: 'bestpractices/quizdesign.md'
   - Community Management: 'bestpractices/communitymanagement.md'
   - End of Course: 'bestpractices/endofcourse.md'
@@ -85,13 +86,6 @@ pages:
 
 
 - Teacher Guidelines:
-  - 'Getting Started: Designing your Course': '01_getting-started.md'
-  - 'Curriculum Design': '02_curriculum-design.md'
-  - 'Recommended Course Cycle': '03_course-cycle-schedule.md'
-  - 'Setting up the course properties': '04_course-settings.md'
-  - 'Granting permissions to users': '04a_course-permissions.md'
-  - 'Adding your content to the platform': '05_adding-content.md'
-  - 'Quiz Design': '06-quiz-design.md'
   - 'Adding quizzes and questions': '07_adding-quizzes-and-questions.md'
   - 'Quiz Submissions': '08_quiz-submissions.md'
   - 'Peer Assessment': '10_peer-assessment.md'
