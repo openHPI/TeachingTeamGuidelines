@@ -1,9 +1,6 @@
 ![HPI Logo](../img/HPI_Logo.png)
 
-# Adding your content to the platform
-
-
-## Preparation of course materials
+# Preparation of course materials
 
 We recommend to start with the preparation of the course materials at minimum 2 months (or earlier depending on the course structure) before course starts.
 
