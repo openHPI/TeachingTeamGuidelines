@@ -47,12 +47,12 @@ pages:
   - 'Curriculum Design': 'bestpractices/curriculumdesign.md'
   - 'Recommended Course Cycles':
     - 'Scheduled': 
-      - Lecture: 'bestpractices/coursecycles/scheduled/recommendedcoursecycles/lecture.md'
-      - Hands-on: 'bestpractices/coursecycles/scheduled/recommendedcoursecycles/handson.md'
-      - Workshop: 'bestpractices/coursecycles/scheduled/recommendedcoursecycles/workshop.md'
-      - Nutshell: 'bestpractices/coursecycles/scheduled/recommendedcoursecycles/nutshell.md'
-  - 'Self-paced': 'bestpractices/coursecycles/selfpaced.md'
-  - 'Blended': 'bestpractices/coursecycles/blended.md'
+      - Lecture: 'bestpractices/recommendedcoursecycles/scheduled/lecture.md'
+      - Hands-on: 'bestpractices/recommendedcoursecycles/scheduled/handson.md'
+      - Workshop: 'bestpractices/recommendedcoursecycles/scheduled/workshop.md'
+      - Nutshell: 'bestpractices/recommendedcoursecycles/scheduled/nutshell.md'
+  - 'Self-paced': 'bestpractices/recommendedcoursecycles/selfpaced.md'
+  - 'Blended': 'bestpractices/recommendedcoursecycles/blended.md'
   - Quiz Design: 'bestpractices/quizdesign.md'
   - Community Management: 'bestpractices/communitymanagement.md'
   - End of Course: 'bestpractices/endofcourse.md'
