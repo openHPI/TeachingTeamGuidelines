@@ -39,9 +39,47 @@ pages:
   - Certificates: 'features/certificates.md'
   - Learning Objectives: 'features/learningobjectives.md'
   - Course Announcements: 'features/courseannouncements.md'
-  - External Tools: 'features/externaltools.md'
+  - External Tools: 
     - CodeOcean: 'features/externaltools/codeocean.md'
     - TeamBuilder: 'features/externaltools/teambuilder.md'
+- Best Practices:
+  - 'Getting Started: Design your Course': 'bestpractices/gettingstarted.md'
+  - 'Curriculum Design': 'bestpractices/curriculumdesign.md'
+  - 'Recommended Course Cycles':
+    - 'Scheduled': 
+      - Lecture: 'bestpractices/coursecycles/scheduled/recommendedcoursecycles/lecture.md'
+      - Hands-on: 'bestpractices/coursecycles/scheduled/recommendedcoursecycles/handson.md'
+      - Workshop: 'bestpractices/coursecycles/scheduled/recommendedcoursecycles/workshop.md'
+      - Nutshell: 'bestpractices/coursecycles/scheduled/recommendedcoursecycles/nutshell.md'
+  - 'Self-paced': 'bestpractices/coursecycles/selfpaced.md'
+  - 'Blended': 'bestpractices/coursecycles/blended.md'
+  - Quiz Design: 'bestpractices/quizdesign.md'
+  - Community Management: 'bestpractices/communitymanagement.md'
+  - End of Course: 'bestpractices/endofcourse.md'
+  - Checklist: 'bestpractices/checklist.md'
+  - Project Management Gantt Chart: 'bestpractices/projectmanagement.md'
+- Course Administration:
+  - Setup Course Properties: 'courseadministration/courseproperties.md'
+  - Grant Permissions: 'courseadministration/permissions.md'
+  - Add Content: 
+    - Sections: 'courseadministration/addcontent/sections.md'
+    - Items: 
+      - Quiz: 'courseadministration/addcontent/items/quiz.md' 
+      - Video: 'courseadministration/addcontent/items/video.md' 
+      - Text  : 'courseadministration/addcontent/items/text.md' 
+      - LTI: 'courseadministration/addcontent/items/lti.md' 
+      - Peer Assessment: 'courseadministration/addcontent/items/peerassessment.md'
+  - Setup Certificate Templates: 'courseadministration/certificatetemplates.md'
+  - Setup Learning Objectives: 'courseadministration/learningobjectives.md'
+  - Quiz Management: 
+    - Grant Additional Attempts: 'courseadministration/quizmanagement/additionalattempts.md'
+    - Regrading: 'courseadministration//quizmanagement/regrading.md'  
+  - Peer Assessment Management: 
+    - Grant Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
+    - Conflicts: 'courseadministration/peerassessmentmanagement/conflicts.md'
+    - Regrading: 'courseadministration/peerassessmentmanagement/regrading.md'
+- Glossary: 'glossary.md'
+  
 
 
 
