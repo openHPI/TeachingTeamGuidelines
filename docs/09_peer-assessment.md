@@ -108,15 +108,15 @@ Other than the other items, the peer assessment internals are not located under 
 
 <center>
 
-![peer assessment rubrics](img/10/peer_Assessment_2.png)
+![peer assessment rubrics](img/10/peer_assessment_2.png)
 
-![peer assessment rubrics](img/10/peer_Assessment_3.png)
+![peer assessment rubrics](img/10/peer_assessment_3.png)
 
-![peer assessment rubrics](img/10/peer_Assessment_4.png)
+![peer assessment rubrics](img/10/peer_assessment_4.png)
 
-![peer assessment rubrics](img/10/peer_Assessment_5.png)
+![peer assessment rubrics](img/10/peer_assessment_5.png)
 
-![peer assessment rubrics](img/10/peer_Assessment_6.png)
+![peer assessment rubrics](img/10/peer_assessment_6.png)
 
 *Fig. 10: The example of the statistic information of Peer-Assessments* 
 </center>
