@@ -1,8 +1,8 @@
-![HPI Logo](img/HPI_Logo.png)
+![HPI Logo](../img/HPI_Logo.png)
 
 # Course Production Timeline
 
-![Gantt Chart](img/Gantt_Chart.png) 
+![Gantt Chart](../img/Gantt_Chart.png) 
   
 
 # Teaching-Team – Person in charge as per week
