@@ -42,3 +42,36 @@ Any tool that supports the [Learning Tools Interoperability(LTI)](http://www.ims
 **Additional parameters for this exercise:** Some tool providers require additional parameters. These can be set here as key value pairs. Consult the tool providers documentation to see which parameters are required.
 
 
+
+# LTI
+
+<center>
+
+![course permissions](img/11/LTI_1.png)
+
+*Fig. 01: to find LTI Providers in the menu *
+</center>
+
+<center>
+
+![course permissions](img/11/LTI_2.png)
+
+*Fig. 02: one existing LTI Provider* 
+</center>
+
+<center>
+
+![course permissions](img/11/LTI_3.png)
+
+*Fig. 03: how to edit  LTI Providers* 
+</center>
+
+<center>
+
+![course permissions](img/11/LTI_4.png)
+
+*Fig. 04: to save new edited LTI Providers* 
+</center>
+
+
+
