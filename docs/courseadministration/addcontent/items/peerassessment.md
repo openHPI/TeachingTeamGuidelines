@@ -25,7 +25,7 @@ To set up the peer assessment go to *Course Administration=>Peer Assessment*
 
 <center>
 
-![peer assessment settings](img/10/pa_settings.png)
+![peer assessment settings](../../../img/10/pa_settings.png)
 
 *Fig. 02: Open the peer assessment settings* 
 </center>
@@ -36,7 +36,7 @@ Other than the other items, the peer assessment internals are not located under 
 
 <center>
 
-![peer assessment general settings](img/10/pa_general_settings.png)
+![peer assessment general settings](../../../img/10/pa_general_settings.png)
 
 *Fig. 03: General settings for the peer assessment*
 </center>
@@ -59,7 +59,7 @@ Other than the other items, the peer assessment internals are not located under 
 
 <center>
 
-![peer assessment file attachment](img/10/pa_files.png)
+![peer assessment file attachment](../../../img/10/pa_files.png)
 
 *Fig. 04: Add files to the peer assessment*
 </center>
@@ -68,13 +68,13 @@ Other than the other items, the peer assessment internals are not located under 
 
 <center>
 
-![peer assessment workflow steps](img/10/workflow_phases_peer_assessment.png)
+![peer assessment workflow steps](../../../img/10/workflow_phases_peer_assessment.png)
 *Fig. 05: Select the workflow steps for the peer assessment*
 </center>
 
 <center>
 
-![peer assessment rubrics](img/10/workflow_phases_peer_assessment2.png)
+![peer assessment rubrics](../../../img/10/workflow_phases_peer_assessment2.png)
 
 *Fig. 06: explain work flow steps for the peer assessment*
 </center>
@@ -83,7 +83,7 @@ Other than the other items, the peer assessment internals are not located under 
 
 <center>
 
-![peer assessment rubrics](img/10/grading_rubric_peer_assessment.png)
+![peer assessment rubrics](../../../img/10/grading_rubric_peer_assessment.png)
 
 *Fig. 07: Add rubrics for the peer assessment*
 </center>
@@ -92,7 +92,7 @@ Other than the other items, the peer assessment internals are not located under 
 
 <center>
 
-![peer assessment rubrics](img/10/peer-assessment-explain.png)
+![peer assessment rubrics](../../../img/10/peer-assessment-explain.png)
 
 *Fig. 08: explain a example of peer-assessments*
 </center>
@@ -101,7 +101,7 @@ Other than the other items, the peer assessment internals are not located under 
 
 <center>
 
-![peer assessment rubrics](img/10/peer_Assessment_1.png)
+![peer assessment rubrics](../../../img/10/peer_Assessment_1.png)
 
 *Fig. 09: The example of the statistic information of Peer-Assessments* 
 </center>
@@ -110,13 +110,13 @@ Other than the other items, the peer assessment internals are not located under 
 
 <center>
 
-![peer assessment rubrics](img/10/peer_Assessment_2.png)
+![peer assessment rubrics](../../../img/10/peer_Assessment_2.png)
 
-![peer assessment rubrics](img/10/peer_assessment_3.png)
+![peer assessment rubrics](../../../img/10/peer_assessment_3.png)
 
-![peer assessment rubrics](img/10/peer_assessment_5.png)
+![peer assessment rubrics](../../../img/10/peer_assessment_5.png)
 
-![peer assessment rubrics](img/10/peer_assessment_6.png)
+![peer assessment rubrics](../../../img/10/peer_assessment_6.png)
 
 *Fig. 10: The example of the statistic information of Peer-Assessments* 
 </center>
