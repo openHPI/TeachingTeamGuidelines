@@ -15,6 +15,7 @@ pages:
     - 'Peer Assessment': 'features/itemtypes/peerassessment.md'
    - Discussion Forum: 'features/discussionforum.md'
    - Collab spaces: 'features/collabspaces.md'
+   - Gamification: 'features/gamification.md'
   - Course management:
     - 'Student Enrollments': 'features/coursemanagement/studentenrollments.md'
     - 'Permissions': 'features/coursemanagement/permissions.md'
@@ -86,9 +87,6 @@ pages:
 
 
 - Teacher Guidelines:
-  - 'Quiz Submissions': '08_quiz-submissions.md'
-  - 'Peer Assessment': '10_peer-assessment.md'
-  - 'LTI': '11_lti.md'
   - 'Gamification': '14_gamification.md'
   - 'Static Pages': '15_static_pages.md'
   - 'Community Management': '19_community-management.md'
