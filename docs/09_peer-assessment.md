@@ -108,7 +108,7 @@ Other than the other items, the peer assessment internals are not located under 
 
 <center>
 
-![peer assessment rubrics](img/10/peer_assessment_2.png)
+![peer assessment rubrics](img/10/peer_Assessment_2.png)
 
 ![peer assessment rubrics](img/10/peer_assessment_3.png)
 
