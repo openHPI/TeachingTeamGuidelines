@@ -71,16 +71,16 @@ nav:
   - Add Content: 
     - Sections: 'courseadministration/addcontent/sections.md'
     - Items: 'courseadministration/addcontent/items/item.md'
-      - Quiz: 'courseadministration/addcontent/items/quiz.md' 
-      - Video: 'courseadministration/addcontent/items/video.md' 
-      - Text  : 'courseadministration/addcontent/items/text.md' 
-      - LTI: 'courseadministration/addcontent/items/lti.md' 
+      - Quiz: 'courseadministration/addcontent/items/quiz.md'
+      - Video: 'courseadministration/addcontent/items/video.md'
+      - Text: 'courseadministration/addcontent/items/text.md'
+      - LTI: 'courseadministration/addcontent/items/lti.md'
       - Peer Assessment: 'courseadministration/addcontent/items/peerassessment.md'
   - Setup Certificate Templates: 'courseadministration/certificatetemplates.md'
   - Setup Learning Objectives: 'courseadministration/learningobjectives.md'
   - Quiz Management: 
     - Grant Additional Attempts: 'courseadministration/quizmanagement/additionalattempts.md'
-    - Regrading: 'courseadministration//quizmanagement/regrading.md'  
+    - Regrading: 'courseadministration//quizmanagement/regrading.md'
   - Peer Assessment Management: 
     - Grant Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
     - Conflicts: 'courseadministration/peerassessmentmanagement/conflicts.md'
