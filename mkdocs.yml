@@ -66,7 +66,7 @@ nav:
   - Grant Permissions: 'courseadministration/permissions.md'
   - Add Content: 
     - Sections: 'courseadministration/addcontent/sections.md'
-    - Items: 
+    - Items: 'courseadministration/addcontent/items/item.md'
       - Quiz: 'courseadministration/addcontent/items/quiz.md' 
       - Video: 'courseadministration/addcontent/items/video.md' 
       - Text  : 'courseadministration/addcontent/items/text.md' 
@@ -86,13 +86,4 @@ nav:
   - Static Pages: 'platformadministration/staticpages.md'
 - Glossary: 'glossary.md'
   
-
-
-
-- Teacher Guidelines:
-  - 'Community Management': '19_community-management.md'
-  - 'End of Course': '20_end-of-course.md'
-  - 'Communication Matrix': '21_communication-matrix.md'
-  - 'Checklist': '22_checklist.md'
-  - 'Templates': '23_templates.md'
 theme: readthedocs
