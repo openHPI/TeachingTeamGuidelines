@@ -14,9 +14,9 @@ nav:
     - 'LTI': 'features/itemtypes/lti.md'
     - 'Peer Assessment': 'features/itemtypes/peerassessment.md'
   - Discussion Forum: 'features/discussionforum.md'
-  - Collab spaces: 'features/collabspaces.md'
+  - Collab Spaces: 'features/collabspaces.md'
   - Gamification: 'features/gamification.md'
-  - Course management:
+  - Course Management:
     - 'Student Enrollments': 'features/coursemanagement/studentenrollments.md'
     - 'Permissions': 'features/coursemanagement/permissions.md'
     - 'Pinboard abuse reports': 'features/coursemanagement/pinboardabusereports.md'
