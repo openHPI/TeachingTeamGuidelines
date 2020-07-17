@@ -14,9 +14,9 @@ nav:
     - 'LTI': 'features/itemtypes/lti.md'
     - 'Peer Assessment': 'features/itemtypes/peerassessment.md'
   - Discussion Forum: 'features/discussionforum.md'
-  - Collab spaces: 'features/collabspaces.md'
+  - Collab Spaces: 'features/collabspaces.md'
   - Gamification: 'features/gamification.md'
-  - Course management:
+  - Course Management:
     - 'Student Enrollments': 'features/coursemanagement/studentenrollments.md'
     - 'Permissions': 'features/coursemanagement/permissions.md'
     - 'Pinboard abuse reports': 'features/coursemanagement/pinboardabusereports.md'
@@ -44,7 +44,7 @@ nav:
     - CodeOcean: 'features/externaltools/codeocean.md'
     - TeamBuilder: 'features/externaltools/teambuilder.md'
 - Best Practices:
-  - 'Getting Started: Design your Course': 'bestpractices/gettingstarted.md'
+  - 'Getting Started - Design your Course': 'bestpractices/gettingstarted.md'
   - 'Curriculum Design': 'bestpractices/curriculumdesign.md'
   - 'Recommended Course Cycles':
     - Course Cycles: 'bestpractices/recommendedcoursecycles/coursecycles.md'
@@ -59,7 +59,7 @@ nav:
   - Quiz Design: 'bestpractices/quizdesign.md'
   - Project Management: 
     - Course Production Timeline: 'bestpractices/projectmanagement/courseproductiontimeline.md'
-    - Teaching Team: 'bestpractices/projectmanagement/checklist.md'
+    - Teaching Team: 'bestpractices/projectmanagement/teachingteam.md'
     - Communication Matrix: 'bestpractices/projectmanagement/communicationmatrix.md'
     - Checklist: 'bestpractices/projectmanagement/checklist.md'
     - Templates: 'bestpractices/projectmanagement/templates.md'
@@ -70,7 +70,8 @@ nav:
   - Grant Permissions: 'courseadministration/permissions.md'
   - Add Content: 
     - Sections: 'courseadministration/addcontent/sections.md'
-    - Items: 'courseadministration/addcontent/items/item.md'
+    - Items: 
+      - General: 'courseadministration/addcontent/items/item.md'
       - Quiz: 'courseadministration/addcontent/items/quiz.md'
       - Video: 'courseadministration/addcontent/items/video.md'
       - Text: 'courseadministration/addcontent/items/text.md'
