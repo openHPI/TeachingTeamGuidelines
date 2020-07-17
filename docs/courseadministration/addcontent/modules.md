@@ -1,6 +1,6 @@
 ![HPI Logo](../../img/HPI_Logo.png)
 
-# Adding Sections
+# Adding Modules
 
 It is advisable to keep the surface of the course website clean and comprehensible for the learners.
 

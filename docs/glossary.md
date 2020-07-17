@@ -1,4 +1,9 @@
+![HPI Logo](../../../img/HPI_Logo.png)
+
 # Terms and Abbreviations
+
+----------
+
 ## A
 
 ## B
