@@ -1,5 +1,5 @@
 site_name: Guidelines and Documentation
-pages:
+nav:
 - Home: 'index.md'
 - Platform Features:
   - Structure:
