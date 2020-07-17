@@ -70,7 +70,8 @@ nav:
   - Grant Permissions: 'courseadministration/permissions.md'
   - Add Content: 
     - Sections: 'courseadministration/addcontent/sections.md'
-    - Items: 'courseadministration/addcontent/items/item.md'
+    - Items: 
+      - General: 'courseadministration/addcontent/items/item.md'
       - Quiz: 'courseadministration/addcontent/items/quiz.md'
       - Video: 'courseadministration/addcontent/items/video.md'
       - Text: 'courseadministration/addcontent/items/text.md'
