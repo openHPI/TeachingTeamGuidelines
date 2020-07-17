@@ -44,7 +44,7 @@ nav:
     - CodeOcean: 'features/externaltools/codeocean.md'
     - TeamBuilder: 'features/externaltools/teambuilder.md'
 - Best Practices:
-  - 'Getting Started: Design your Course': 'bestpractices/gettingstarted.md'
+  - 'Getting Started - Design your Course': 'bestpractices/gettingstarted.md'
   - 'Curriculum Design': 'bestpractices/curriculumdesign.md'
   - 'Recommended Course Cycles':
     - Course Cycles: 'bestpractices/recommendedcoursecycles/coursecycles.md'
