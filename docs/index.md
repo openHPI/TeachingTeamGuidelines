@@ -10,3 +10,5 @@ In this chapter we share the experiences we've made while producing and offering
 
 ## Course Administration
 This chapter delivers practical hands-on guides how to use the openHPI platform's administration interface.
+
+# Platform Administration Guidelines
