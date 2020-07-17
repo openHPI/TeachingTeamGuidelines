@@ -1,23 +1,93 @@
 site_name: Guidelines and Documentation
-pages:
+nav:
 - Home: 'index.md'
-- Teacher Guidelines:
-  - 'Getting Started: Designing your Course': '01_getting-started.md'
-  - 'Curriculum Design': '02_curriculum-design.md'
-  - 'Recommended Course Cycle': '03_course-cycle-schedule.md'
-  - 'Setting up the course properties': '04_course-settings.md'
-  - 'Granting permissions to users': '04a_course-permissions.md'
-  - 'Adding your content to the platform': '05_adding-content.md'
-  - 'Quiz Design': '06-quiz-design.md'
-  - 'Adding quizzes and questions': '07_adding-quizzes-and-questions.md'
-  - 'Quiz Submissions': '08_quiz-submissions.md'
-  - 'Peer Assessment': '10_peer-assessment.md'
-  - 'LTI': '11_lti.md'
-  - 'Gamification': '14_gamification.md'
-  - 'Static Pages': '15_static_pages.md'
-  - 'Community Management': '19_community-management.md'
-  - 'End of Course': '20_end-of-course.md'
-  - 'Communication Matrix': '21_communication-matrix.md'
-  - 'Checklist': '22_checklist.md'
-  - 'Templates': '23_templates.md'
-theme: readthedocs
+- Platform Features:
+  - Structure:
+    - 'Courses': 'features/structure/courses.md'
+    - 'Sections': 'features/structure/sections.md'
+    - 'Items': 'features/structure/items.md'
+  - Item Types:
+    - 'Video': 'features/itemtypes/video.md'
+    - 'Quiz': 'features/itemtypes/quiz.md'
+    - 'Surveys': 'features/itemtypes/surveys.md'
+    - 'Text': 'features/itemtypes/text.md'
+    - 'LTI': 'features/itemtypes/lti.md'
+    - 'Peer Assessment': 'features/itemtypes/peerassessment.md'
+  - Discussion Forum: 'features/discussionforum.md'
+  - Collab spaces: 'features/collabspaces.md'
+  - Gamification: 'features/gamification.md'
+  - Course management:
+    - 'Student Enrollments': 'features/coursemanagement/studentenrollments.md'
+    - 'Permissions': 'features/coursemanagement/permissions.md'
+    - 'Pinboard abuse reports': 'features/coursemanagement/pinboardabusereports.md'
+    - 'Student Submissions': 'features/coursemanagement/studentsubmissions.md'
+  - Analytics:
+    - Dashboards:
+      - 'Item Visits': 'features/analytics/dashboards/itemvisits.md'
+      - 'Videos': 'features/analytics/dashboards/videos.md'
+      - 'Downloads': 'features/analytics/dashboards/downloads.md'
+      - 'Quizzes': 'features/analytics/dashboards/quizzes.md'
+      - 'Item Details': 'features/analytics/dashboards/itemdetails.md'
+      - 'Section Conversions': 'features/analytics/dashboards/sectionconversions.md'
+      - 'Forum': 'features/analytics/dashboards/forum.md'
+      - 'Activity': 'features/analytics/dashboards/activity.md'
+      - 'Geographic': 'features/analytics/dashboards/geographic.md'
+      - 'Announcements': 'features/analytics/dashboards/announcements.md'
+      - 'QC Alerts': 'features/analytics/dashboards/qcalerts.md'
+      - 'Social Shares': 'features/analytics/dashboards/socialshares.md'
+      - 'Referrer': 'features/analytics/dashboards/referrer.md'
+    - Progress: 'features/analytics/progress.md'
+  - Certificates: 'features/certificates.md'
+  - Learning Objectives: 'features/learningobjectives.md'
+  - Course Announcements: 'features/courseannouncements.md'
+  - External Tools: 
+    - CodeOcean: 'features/externaltools/codeocean.md'
+    - TeamBuilder: 'features/externaltools/teambuilder.md'
+- Best Practices:
+  - 'Getting Started: Design your Course': 'bestpractices/gettingstarted.md'
+  - 'Curriculum Design': 'bestpractices/curriculumdesign.md'
+  - 'Recommended Course Cycles':
+    - Course Cycles: 'bestpractices/recommendedcoursecycles/coursecycles.md'
+    - 'Scheduled': 
+      - Lecture: 'bestpractices/recommendedcoursecycles/scheduled/lecture.md'
+      - Hands-on: 'bestpractices/recommendedcoursecycles/scheduled/handson.md'
+      - Workshop: 'bestpractices/recommendedcoursecycles/scheduled/workshop.md'
+      - Nutshell: 'bestpractices/recommendedcoursecycles/scheduled/nutshell.md'
+    - 'Self-paced': 'bestpractices/recommendedcoursecycles/selfpaced.md'
+    - 'Blended': 'bestpractices/recommendedcoursecycles/blended.md'
+  - Prepare Material: 'bestpractices/preparematerial.md'
+  - Quiz Design: 'bestpractices/quizdesign.md'
+  - Project Management: 
+    - Course Production Timeline: 'bestpractices/projectmanagement/courseproductiontimeline.md'
+    - Teaching Team: 'bestpractices/projectmanagement/checklist.md'
+    - Communication Matrix: 'bestpractices/projectmanagement/communicationmatrix.md'
+    - Checklist: 'bestpractices/projectmanagement/checklist.md'
+    - Templates: 'bestpractices/projectmanagement/templates.md'
+  - Community Management: 'bestpractices/communitymanagement.md'
+  - End of Course: 'bestpractices/endofcourse.md'
+- Course Administration:
+  - Setup Course Properties: 'courseadministration/courseproperties.md'
+  - Grant Permissions: 'courseadministration/permissions.md'
+  - Add Content: 
+    - Sections: 'courseadministration/addcontent/sections.md'
+    - Items: 'courseadministration/addcontent/items/item.md'
+      - Quiz: 'courseadministration/addcontent/items/quiz.md' 
+      - Video: 'courseadministration/addcontent/items/video.md' 
+      - Text  : 'courseadministration/addcontent/items/text.md' 
+      - LTI: 'courseadministration/addcontent/items/lti.md' 
+      - Peer Assessment: 'courseadministration/addcontent/items/peerassessment.md'
+  - Setup Certificate Templates: 'courseadministration/certificatetemplates.md'
+  - Setup Learning Objectives: 'courseadministration/learningobjectives.md'
+  - Quiz Management: 
+    - Grant Additional Attempts: 'courseadministration/quizmanagement/additionalattempts.md'
+    - Regrading: 'courseadministration//quizmanagement/regrading.md'  
+  - Peer Assessment Management: 
+    - Grant Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
+    - Conflicts: 'courseadministration/peerassessmentmanagement/conflicts.md'
+    - Regrading: 'courseadministration/peerassessmentmanagement/regrading.md'
+- Platform Administration:
+  - Create Course: 'platformadministration/createcourse.md'
+  - Static Pages: 'platformadministration/staticpages.md'
+- Glossary: 'glossary.md'
+  
+theme: windmill
