@@ -57,10 +57,14 @@ nav:
     - 'Blended': 'bestpractices/recommendedcoursecycles/blended.md'
   - Prepare Material: 'bestpractices/preparematerial.md'
   - Quiz Design: 'bestpractices/quizdesign.md'
+  - Project Management: 
+    - Course Production Timeline: 'bestpractices/projectmanagement/courseproductiontimeline.md'
+    - Teaching Team: 'bestpractices/projectmanagement/checklist.md'
+    - Communication Matrix: 'bestpractices/projectmanagement/communicationmatrix.md'
+    - Checklist: 'bestpractices/projectmanagement/checklist.md'
+    - Templates: 'bestpractices/projectmanagement/templates.md'
   - Community Management: 'bestpractices/communitymanagement.md'
   - End of Course: 'bestpractices/endofcourse.md'
-  - Checklist: 'bestpractices/checklist.md'
-  - Project Management Gantt Chart: 'bestpractices/projectmanagement.md'
 - Course Administration:
   - Setup Course Properties: 'courseadministration/courseproperties.md'
   - Grant Permissions: 'courseadministration/permissions.md'

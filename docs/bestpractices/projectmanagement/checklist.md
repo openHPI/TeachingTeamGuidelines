@@ -1,4 +1,4 @@
-![HPI Logo](../img/HPI_Logo.png)
+![HPI Logo](../../img/HPI_Logo.png)
 
 # Checklist  
 
