@@ -1,6 +1,6 @@
 ![HPI Logo](img/HPI_Logo.png)
 
-#Teaching Team Guidelines
+# Teaching Team Guidelines
 
 ## Features of the openHPI platform family
 This chapter provides an overview on the functionalities of the openHPI learning platform. 
