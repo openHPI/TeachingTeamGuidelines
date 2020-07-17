@@ -90,4 +90,4 @@ nav:
   - Static Pages: 'platformadministration/staticpages.md'
 - Glossary: 'glossary.md'
   
-theme: readthedocs
+theme: windmill
