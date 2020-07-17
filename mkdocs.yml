@@ -2,11 +2,13 @@ site_name: Guidelines and Documentation
 nav:
 - Home: 'index.md'
 - Platform Features:
+  - Overview: 'features/platform.md'
   - Structure:
+    - 'Structure': 'features/structure/structure.md'
     - 'Courses': 'features/structure/courses.md'
-    - 'Sections': 'features/structure/sections.md'
-    - 'Items': 'features/structure/items.md'
-  - Item Types:
+    - 'Modules': 'features/structure/modules.md'
+    - 'Items': 'features/structure/learningunits.md'
+  - Learning Unit Types:
     - 'Video': 'features/itemtypes/video.md'
     - 'Quiz': 'features/itemtypes/quiz.md'
     - 'Surveys': 'features/itemtypes/surveys.md'
@@ -26,7 +28,6 @@ nav:
       - 'Item Visits': 'features/analytics/dashboards/itemvisits.md'
       - 'Videos': 'features/analytics/dashboards/videos.md'
       - 'Downloads': 'features/analytics/dashboards/downloads.md'
-      - 'Quizzes': 'features/analytics/dashboards/quizzes.md'
       - 'Item Details': 'features/analytics/dashboards/itemdetails.md'
       - 'Section Conversions': 'features/analytics/dashboards/sectionconversions.md'
       - 'Forum': 'features/analytics/dashboards/forum.md'
@@ -43,6 +44,7 @@ nav:
   - External Tools: 
     - CodeOcean: 'features/externaltools/codeocean.md'
     - TeamBuilder: 'features/externaltools/teambuilder.md'
+    - H5P: 'features/externaltools/h5p.md'
 - Best Practices:
   - 'Getting Started - Design your Course': 'bestpractices/gettingstarted.md'
   - 'Curriculum Design': 'bestpractices/curriculumdesign.md'
@@ -69,13 +71,13 @@ nav:
   - Setup Course Properties: 'courseadministration/courseproperties.md'
   - Grant Permissions: 'courseadministration/permissions.md'
   - Add Content: 
-    - Sections: 'courseadministration/addcontent/sections.md'
-    - Items: 
-      - General: 'courseadministration/addcontent/items/item.md'
-      - Quiz: 'courseadministration/addcontent/items/quiz.md'
-      - Video: 'courseadministration/addcontent/items/video.md'
-      - Text: 'courseadministration/addcontent/items/text.md'
-      - LTI: 'courseadministration/addcontent/items/lti.md'
+    - Modules: 'courseadministration/addcontent/modules.md'
+    - Learning Units: 
+      - General: 'courseadministration/addcontent/learningunits/learningunit.md'
+      - Quiz: 'courseadministration/addcontent/learningunits/quiz.md'
+      - Video: 'courseadministration/addcontent/learningunits/video.md'
+      - Text: 'courseadministration/addcontent/learningunits/text.md'
+      - LTI: 'courseadministration/addcontent/learningunits/lti.md'
       - Peer Assessment: 'courseadministration/addcontent/items/peerassessment.md'
   - Setup Certificate Templates: 'courseadministration/certificatetemplates.md'
   - Setup Learning Objectives: 'courseadministration/learningobjectives.md'
