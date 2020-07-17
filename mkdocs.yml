@@ -13,9 +13,9 @@ nav:
     - 'Text': 'features/itemtypes/text.md'
     - 'LTI': 'features/itemtypes/lti.md'
     - 'Peer Assessment': 'features/itemtypes/peerassessment.md'
-   - Discussion Forum: 'features/discussionforum.md'
-   - Collab spaces: 'features/collabspaces.md'
-   - Gamification: 'features/gamification.md'
+  - Discussion Forum: 'features/discussionforum.md'
+  - Collab spaces: 'features/collabspaces.md'
+  - Gamification: 'features/gamification.md'
   - Course management:
     - 'Student Enrollments': 'features/coursemanagement/studentenrollments.md'
     - 'Permissions': 'features/coursemanagement/permissions.md'
