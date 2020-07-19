@@ -1,6 +1,6 @@
 ![HPI Logo](../../img/HPI_Logo.png)
 
-# Student Submissions
+# Progress
 
 ----------
 TODO add content
