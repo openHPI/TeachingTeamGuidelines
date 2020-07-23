@@ -9,6 +9,7 @@ The HPI learning platform features many dedicated interactive components for a m
 ### Usage Scenario
 
 The interface offered by the HPI learning platform is a web-based link technology supporting the access of external educational resources. Opening an external offer through the interface has two main advantages:
+
 - Learners are recognized using a Single Sign-On within the external application. This allows a unified learning experience with saving the current progress and continuation on another device.
 - The external tool might return scores for activities back to the course within the HPI learning platform. These are handled similar to other scores and, depending on the settings, either count towards the certificate or self-test points.
 
@@ -37,7 +38,7 @@ LTI providers are a per-course setting and can be found within the `Course Admin
 
 ![LTI Providers in Course Administration menu](../../../img/11/LTI_1.png)
 
-*Fig. 01: LTI Providers in Course Administration menu*
+*LTI Providers in Course Administration menu*
 </center>
 
 Existing LTI providers are shown on the list and can be updated, deleted or supplemented by a new LTI provider:
@@ -46,7 +47,7 @@ Existing LTI providers are shown on the list and can be updated, deleted or supp
 
 ![List of LTI Providers](../../../img/11/LTI_2.png)
 
-*Fig. 02: List of LTI Providers* 
+*List of LTI Providers* 
 </center>
 
 Each LTI provider requires only little information for the setup process. Those are usually defined by the external tool and not know to the HPI MOOC platform. Before setting up an LTI provider, you should familiarize yourself with the required values.
@@ -55,7 +56,7 @@ Each LTI provider requires only little information for the setup process. Those 
 
 ![Edit LTI Providers](../../../img/11/LTI_3.png)
 
-*Fig. 03: Edit LTI Providers* 
+*Edit LTI Providers* 
 </center>
 
 
@@ -72,7 +73,7 @@ Each LTI provider requires only little information for the setup process. Those 
 
 ![Available values for LTI Providers and Save Action](../../../img/11/LTI_4.png)
 
-*Fig. 04: Available values for LTI Providers and Save Action* 
+*Available values for LTI Providers and Save Action* 
 </center>
 
 Once you put all required values in, you could save the LTI provider and use it in one of the exercises as shown below.
@@ -95,8 +96,8 @@ Many educational apps support the LTI standard. The [EduAppCenter](https://www.e
 
 At openHPI, we use some internal applications via LTI:
 
-- [CodeOcean](https://github.com/openHPI/codeocean) as an educational, web-based execution and development environment for practical programming exercises
-- A tool called TeamBuilder to create teams based on user preferences.
+- [CodeOcean](../../../features/externaltools/codeocean.md) as an educational, web-based execution and development environment for practical programming exercises
+- A tool called [TeamBuilder](../../../features/externaltools/teambuilder.md) to create teams based on user preferences.
 
 ### Selection of External LTI Applications
 
