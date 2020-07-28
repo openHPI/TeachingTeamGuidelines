@@ -50,7 +50,7 @@ All videos can be integrated via a dropdown menu directly using the Vimeo API. I
 	WEBVTT
 
 	00:00:03.500 --> 00:00:05.000
-        One of the really interesting questions in our epoch is whether
+	One of the really interesting questions in our epoch is whether
 
 	00:00:06.000 --> 00:00:09.000
 	we live in the best or the worst times for corporations.
@@ -58,9 +58,9 @@ All videos can be integrated via a dropdown menu directly using the Vimeo API. I
 	00:00:11.000 --> 00:00:14.000
 	Ipad or your computer basically is the computing power that
 	
-If subtitles are to be provided in multiple languages, all the filenames have to be extended with a short-form for the language:
+The filenames have to end with the [iso639-1 code] (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language:
 
-	video-subtitles.vtt => video-subtitles.de.vtt
+	video-subtitles.vtt => video-subtitles-en.vtt
 	
 All the vtt files will have to be added to the same directory, which then can be zipped and uploaded here.  
 Subtitles can also be generated from external agencies like poliTrans (MLLP) or Amazon (AWS) etc.
