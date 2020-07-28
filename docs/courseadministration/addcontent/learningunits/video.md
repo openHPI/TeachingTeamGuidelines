@@ -58,7 +58,7 @@ All videos can be integrated via a dropdown menu directly using the Vimeo API. I
 	00:00:11.000 --> 00:00:14.000
 	Ipad or your computer basically is the computing power that
 	
-The filenames have to end with the [iso639-1 code] (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language:
+The filenames have to end with the [iso639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language:
 
 	video-subtitles.vtt => video-subtitles-en.vtt
 	
