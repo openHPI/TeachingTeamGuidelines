@@ -50,13 +50,13 @@ All videos can be integrated via a dropdown menu directly using the Vimeo API. I
 	WEBVTT
 
 	00:00:03.500 --> 00:00:05.000
-	Ein männlicher Briefmark erlebte
+        One of the really interesting questions in our epoch is whether
 
 	00:00:06.000 --> 00:00:09.000
-	Was Schönes, bevor er klebte.
+	we live in the best or the worst times for corporations.
 
 	00:00:11.000 --> 00:00:14.000
-	Er war von einer Prinzessin beleckt.
+	Ipad or your computer basically is the computing power that
 	
 If subtitles are to be provided in multiple languages, all the filenames have to be extended with a short-form for the language:
 
