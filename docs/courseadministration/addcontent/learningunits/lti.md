@@ -104,6 +104,7 @@ At openHPI, we use some internal applications via LTI:
 - [PeerStudio](https://peerstudio.org)
 - [GitHub Classroom](https://classroom.github.com)
 - [Big Blue Button](https://bigbluebutton.org)
+- [Piazza](https://piazza.com/product/lti)
 
 ### Developer Resources
 
