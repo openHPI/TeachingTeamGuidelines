@@ -88,6 +88,7 @@ nav:
     - Grant Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
     - Conflicts: 'courseadministration/peerassessmentmanagement/conflicts.md'
     - Regrading: 'courseadministration/peerassessmentmanagement/regrading.md'
+  - Create Course Iteration: 'courseadministration/createcourseiteration.md'
 - Platform Administration:
   - Create Course: 'platformadministration/createcourse.md'
   - Static Pages: 'platformadministration/staticpages.md'
