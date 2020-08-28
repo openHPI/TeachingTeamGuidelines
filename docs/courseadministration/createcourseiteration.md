@@ -51,4 +51,4 @@ It might take a few seconds until all elements of the course are available.
 - If an exercise has been used in a previous course (just in case questions might pop-up in the forum):
   1. Old RFCs (Request for comments) might still appear
   2. If a participant has solved an exercise in the previous course, his/her solutions are still visible to him/her.
-  3. Do not clone exercises without consulting you contact at openHPI.
+  3. Do not clone exercises without consulting your contact at openHPI.
