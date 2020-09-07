@@ -19,7 +19,8 @@ Finally, courses can be offered to a restricted group of participants.
 The course list provides users with an overview of the courses on offer.  
 
 <img src="../../img/04/course_list.png" title="Preview of the course list">  
-*Preview of the Course List*  
+<p align="center"><i>Preview of the Course List</i></p>
+
   
 These lists can be filtered, based on certain criteria.  
 Channels can be created in order to clearly separate specific courses from the entire offer.  
