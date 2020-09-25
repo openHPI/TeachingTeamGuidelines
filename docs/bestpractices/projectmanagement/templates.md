@@ -35,6 +35,24 @@ Dear Learning-Community,
 Kind regards, 
 Mary, Paul, and Peter on behalf of the Teaching Team
 
+German version: 
+
+Liebe Kursteilnehmerin, lieber Kursteilnehmer,
+
+wir begrüßen Sie herzlich im Kurs "XY". Wir freuen uns, dass Sie dabei sind! In den kommenden Wochen wollen wir ...
+
+In Woche 1 erwarten Sie diese Themen:  
+-
+-
+-
+
+Wir freuen uns auf den Austausch mit Ihnen im Kursforum (LINK). Bei Fragen steht Ihnen das Kurs-Team dort gerne Rede und Antwort.
+
+Wenn Sie alle Lerninhalte der ersten Woche angesehen und durchgearbeitet haben, sollten Sie für die Hausaufgabe aus Woche 1 bestens gewappnet sein. Diese können Sie genau einmal ablegen. Sie haben dafür eine Stunde Zeit. Die Abgabefrist ist TAG, DATUM, UHRZEIT (UTC).
+Wir wünschen Ihnen viel Spaß und Erfolg!
+
+Viele Grüße
+Prof. XY und das Teaching Team
 ### Template | Introduction to week n
 
 Dear Learning-Community,
