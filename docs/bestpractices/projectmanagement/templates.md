@@ -150,5 +150,13 @@ Dear Learning-Community,
 Kind regards, 
 Mary, Paul, and Peter on behalf of the Teaching Team
 
+German version
+Liebe Kursteilnehmerin, lieber Kursteilnehmer,
 
+Sie haben sich für den Kurs "XY" angemeldet. Wir freuen uns schon, mit Ihnen über XYZ zu diskutieren. Sie müssen zu keiner bestimmten Uhrzeit im Kurs anwesend sein. Alle Lerninhalte (Videos, Aufgaben, Textbeiträge) zu Woche 1 werden am TAG, DATUM, UHRZEIT freigeschaltet. Gehen Sie dann einfach in den Kurs und klicken Sie auf "Lernmaterial". Hier finden Sie alle bereitgestellten Inhalte. Treten während des Kurses Fragen auf, so stellen Sie diese am besten im Diskussionsforum (Menüpunkt "Diskussionen").
+
+OPTIONAL: Bevor es losgeht, würden wir Ihnen gerne 2 Fragen stellen. Wir danken Ihnen für die Teilnahme an unserer Mini-Umfrage (LINK). Sie finden sie im Intro-Teil im Kurs.
+
+Beste Grüße
+das openHPI Team
 
