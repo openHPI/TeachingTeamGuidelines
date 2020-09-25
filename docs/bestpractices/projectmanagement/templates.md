@@ -4,13 +4,16 @@
 
 ## Global Announcements
 
-### Template | Global Announcement: 4 weeks prior to course start
+### Template | Global Announcement: 4 weeks prior to course start (EN)
 
-Starting from Monday, Oct. 27: German course "Internet Security" and the HPI at a glance
+On September 22nd we will start our basic course on XY (in German/English), to which we would like to invite you.
 
-Dear Learning-Community,
+Here's what it's all about
+..........
+Who is the course for?
+.......
 
-... To be added...
+Sounds interesting to you? Then please enroll here: LINK
 		
 Kind regards, 
 The openHPI-Team
@@ -63,7 +66,7 @@ Dear Learning-Community,
 Kind regards, 
 Mary, Paul, and Peter on behalf of the Teaching Team
 
-### Template | Announcement - exam week
+### Template | Announcement - exam week (EN)
 
 Dear Learning-Community,
 
@@ -72,7 +75,7 @@ Dear Learning-Community,
 Kind regards, 
 Mary, Paul, and Peter on behalf of the Teaching Team
 
-German version:
+### Template | Announcement - exam week (DE)
 
 Liebe Kursteilnehmerinnen und Kursteilnehmer,
 
@@ -110,7 +113,7 @@ Abschließend bleibt uns nur noch, Ihnen viel Erfolg zu wünschen. Wir hoffen, d
 
 Prof. XY und das openHPI Teaching Team
 
-### Template | Thank you and goodbye message by the instructor - After course has endet
+### Template | Thank you and goodbye message by the instructor - After course has ended (EN)
 
 Dear Learning-Community,
 
@@ -120,7 +123,7 @@ Kind regards,
 Mary, Paul, and Peter on behalf of the Teaching Team
 
 ----------
-German version:
+### Template | Thank you and goodbye message by the instructor - After course has ended (DE)
 
 Liebe Lerngemeinschaft,
 
@@ -139,9 +142,8 @@ Wir würden uns freuen, Sie bald wieder auf unserer Plattform begrüßen zu dür
 Viele Grüße
 Prof. XY und das Teaching Team
 
-## Messages on the Platform
 
-### Template | Welcome Message Prior Course Start
+### Template | Welcome Message Prior Course Start (EN)
  
 Dear Learning-Community,
 
@@ -150,7 +152,8 @@ Dear Learning-Community,
 Kind regards, 
 Mary, Paul, and Peter on behalf of the Teaching Team
 
-German version
+### Template | Welcome Message Prior Course Start (DE)
+
 Liebe Kursteilnehmerin, lieber Kursteilnehmer,
 
 Sie haben sich für den Kurs "XY" angemeldet. Wir freuen uns schon, mit Ihnen über XYZ zu diskutieren. Sie müssen zu keiner bestimmten Uhrzeit im Kurs anwesend sein. Alle Lerninhalte (Videos, Aufgaben, Textbeiträge) zu Woche 1 werden am TAG, DATUM, UHRZEIT freigeschaltet. Gehen Sie dann einfach in den Kurs und klicken Sie auf "Lernmaterial". Hier finden Sie alle bereitgestellten Inhalte. Treten während des Kurses Fragen auf, so stellen Sie diese am besten im Diskussionsforum (Menüpunkt "Diskussionen").
