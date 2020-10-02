@@ -18,7 +18,7 @@ Sounds interesting to you? Then please enroll here: LINK
 Kind regards,   
 The openHPI-Team  
 
-### Template | Global Announcement: 3-5 days before course start - Reminder  
+### Template | Global Announcement: 3-5 days before course start - Reminder (EN)  
 
 Dear Learning-Community,  
 
@@ -30,7 +30,7 @@ Could we spark your interest? Click here to register:
 Kind regards,   
 The openHPI-Team  
 
-German version  
+### Template | Global Announcement: 3-5 days before course start - Reminder (DE)  
 
 Aufgepasst: Onlinekurs XY startet am ...  
 
@@ -47,7 +47,7 @@ Beste Grüße
 das openHPI Team  
 
 
-### Template | Welcome Message - week 1
+### Template | Welcome Message - week 1 (EN)
 
 
 Dear course participant,  
@@ -70,7 +70,7 @@ Prof. XY and the teaching team
 
 
 
-German version:   
+### Template | Welcome Message - week 1 (DE)  
 
 Liebe Kursteilnehmerin, lieber Kursteilnehmer,  
 
@@ -254,29 +254,29 @@ Zu guter Letzt wollen wir uns auch ganz herzlich bei allen Nutzer:innen bedanken
 Viele, viele weitere, die wir hier leider nicht alle aufzählen können!  
 Wir würden uns freuen, Sie bald wieder auf unserer Plattform begrüßen zu dürfen.   
 
-Viele Grüße  
-Prof. XY und das Teaching Team  
+Viele Grüße    
+Prof. XY und das Teaching Team    
 
 
 ### Template | Welcome Message Prior Course Start (EN)
  
-Dear Learning-Community,
+Dear Learning-Community,  
 
-You have registered for the course "XY". We look forward to discussing XYZ with you. You do not have to be present at any particular time in the course. All learning contents (videos, tasks, text contributions) for week 1 will be activated on DAY, DATE, TIME. Then simply go to the course and click on "Learning material". Here you will find all the content provided. If questions arise during the course, it is best to ask them in the discussion forum (menu item "discussions").
+You have registered for the course "XY". We look forward to discussing XYZ with you. You do not have to be present at any particular time in the course. All learning contents (videos, tasks, text contributions) for week 1 will be activated on DAY, DATE, TIME. Then simply go to the course and click on "Learning material". Here you will find all the content provided. If questions arise during the course, it is best to ask them in the discussion forum (menu item "discussions").  
 
-OPTIONAL: Before we start, we would like to ask you 2 questions. We thank you for participating in our mini-survey (LINK). You will find it in the intro part of the course.
+OPTIONAL: Before we start, we would like to ask you 2 questions. We thank you for participating in our mini-survey (LINK). You will find it in the intro part of the course.  
 
-Best regards from the openHPI team
+Best regards from the openHPI team  
 
 
 ### Template | Welcome Message Prior Course Start (DE)
 
-Liebe Kursteilnehmerin, lieber Kursteilnehmer,
+Liebe Kursteilnehmerin, lieber Kursteilnehmer,  
 
-Sie haben sich für den Kurs "XY" angemeldet. Wir freuen uns schon, mit Ihnen über XYZ zu diskutieren. Sie müssen zu keiner bestimmten Uhrzeit im Kurs anwesend sein. Alle Lerninhalte (Videos, Aufgaben, Textbeiträge) zu Woche 1 werden am TAG, DATUM, UHRZEIT freigeschaltet. Gehen Sie dann einfach in den Kurs und klicken Sie auf "Lernmaterial". Hier finden Sie alle bereitgestellten Inhalte. Treten während des Kurses Fragen auf, so stellen Sie diese am besten im Diskussionsforum (Menüpunkt "Diskussionen").
+Sie haben sich für den Kurs "XY" angemeldet. Wir freuen uns schon, mit Ihnen über XYZ zu diskutieren. Sie müssen zu keiner bestimmten Uhrzeit im Kurs anwesend sein. Alle Lerninhalte (Videos, Aufgaben, Textbeiträge) zu Woche 1 werden am TAG, DATUM, UHRZEIT freigeschaltet. Gehen Sie dann einfach in den Kurs und klicken Sie auf "Lernmaterial". Hier finden Sie alle bereitgestellten Inhalte. Treten während des Kurses Fragen auf, so stellen Sie diese am besten im Diskussionsforum (Menüpunkt "Diskussionen").  
 
-OPTIONAL: Bevor es losgeht, würden wir Ihnen gerne 2 Fragen stellen. Wir danken Ihnen für die Teilnahme an unserer Mini-Umfrage (LINK). Sie finden sie im Intro-Teil im Kurs.
+OPTIONAL: Bevor es losgeht, würden wir Ihnen gerne 2 Fragen stellen. Wir danken Ihnen für die Teilnahme an unserer Mini-Umfrage (LINK). Sie finden sie im Intro-Teil im Kurs.  
 
-Beste Grüße
+Beste Grüße  
 das openHPI Team
 
