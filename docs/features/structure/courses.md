@@ -18,7 +18,7 @@ Finally, courses can be offered to a restricted group of participants.
 
 The course list provides users with an overview of the courses on offer.  
 
-<img src="../../img/features/course_list.png" title="Preview of the course list">  
+<img src="../../img/features/structure/course_list.png" title="Preview of the course list">  
 <p align="center"><i>Preview of the Course List</i></p>
 
   
