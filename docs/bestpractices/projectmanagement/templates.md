@@ -22,21 +22,53 @@ The openHPI-Team
 
 Dear Learning-Community,
 
-... To be added...
+You can look forward to a new course on XY starting on DATE. XY (teacher) introduces the basics of ... 
+(a few sentences about the content of the course)
+The course is aimed at students, and ...
+Could we spark your interest? Click here to register:
 		
 Kind regards, 
 The openHPI-Team
+
+German version
+
+Aufgepasst: Onlinekurs XY startet am ...
+
+Liebe Lerngemeinschaft,  
+am ... ist es soweit: Im Kurs XY erfahren Sie, wie ...
+Geleitet wird der x-wöchige Kurs in englischer/deutscher Sprache von ...
+Der Kurs richtet sich an ...
+(Ein paar Sätze zum Inhalt des Kurses)
+Interesse geweckt? Hier geht es zur Einschreibung: LINK
+
+Wir freuen uns, Sie im Kurs begrüßen zu dürfen.
+
+Beste Grüße
+das openHPI Team
 
 
 ### Template | Welcome Message - week 1
 
 
-Dear Learning-Community,
+Dear course participant,
 
-... To be added...
-		
-Kind regards, 
-Mary, Paul, and Peter on behalf of the Teaching Team
+We would like to welcome you to course "XY". We are pleased that you are here! In the coming weeks we want ...
+
+In week 1 you can expect these topics:  
+
+-
+-
+-
+
+We look forward to the exchange with you in the course forum (LINK). If you have any questions, the course team there will be happy to answer them.
+
+Once you have looked at and worked through all the learning contents of the first week, you should be well prepared for the homework from week 1. You can do this exactly once. You have one hour to do it. The deadline is DAY, DATE, TIME (UTC).
+We wish you lots of fun and success!
+
+Many greetings
+Prof. XY and the teaching team
+
+
 
 German version: 
 
@@ -70,10 +102,44 @@ Mary, Paul, and Peter on behalf of the Teaching Team
 
 Dear Learning-Community,
 
-... To be added...
-		
-Kind regards, 
-Mary, Paul, and Peter on behalf of the Teaching Team
+We hope you enjoyed the six weeks with us and learned quite a lot. 
+Welcome to the examination week. During this time, you can take the final exam at any time - so you have several days to prepare carefully.
+
+Important Dates:
+
+- DAY, DATE, TIME (UTC): Results of weekly assignments of week X are published
+- DAY, DATE, TIME (UTC): Deadline ends for weekly assignment/bonus assignment
+- Day, DATE, TIME (UTC): Deadline ends for final exam
+
+The course will stay online as a self paced one.
+
+About the final examination:
+There are no prerequisites for taking the final examination in terms of a minimum number of points to be achieved from the homework. You have 120 minutes to work on the questions. The final examination is worth another 90 points, i.e. 50% of the total points to be achieved.
+
+Please remember that you cannot interrupt the final exam once you have started - closing the browser window does not stop the countdown. So please make sure that you have enough time and a quiet learning environment before you start the quiz. We also advise you to check your answers before submitting your solutions.
+
+Also, please remember that the final exam exam will review content from every 6 weeks.
+
+FAQ about the final exam:
+Before we start, we have summarised some answers to frequently asked questions about the final exam.
+
+How do I qualify for a certificate? What information will it contain?
+
+You will receive a certificate if you achieve at least 50% of the maximum points from the weekly homework and the final examination. If you achieve 15 points from each of the six homework assignments and 90 points from the final examination, you will therefore receive a certificate if you achieve 90 points or more.
+
+On the certificate you will find your name, e-mail address and date of birth (optional), as well as information about the course (duration, duration, content) and the number of points you achieved (absolute and percentage). If you are among the best 5%, 10% or 20% of the participants, this will also be noted on the certificate.
+
+Where can I find the final certificate?
+
+As soon as the certificate has been released, you can download it as a PDF document on the page Course Progress or in the documents (in the menu under your profile picture).
+
+How can I prepare for the final exam?
+
+If you have worked diligently during the course and have worked through all the videos, self-tests and homework, you are certainly well prepared. To prepare for the exam, you are welcome to use our Quiz Recap tool, in which questions from the course are repeated in random order. We also recommend that you always take a look at the course forum - many topics from the course have been discussed more intensively over the past weeks than was possible in the videos.
+
+We wish you good results for the final exam.
+
+XY on behalf of the teaching team
 
 ### Template | Announcement - exam week (DE)
 
