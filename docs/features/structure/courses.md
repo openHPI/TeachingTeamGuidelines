@@ -8,7 +8,7 @@ Channels can be created in order to clearly separate specific courses from the e
 
 On openHPI, besides the channel with the courses there is another channel where video recordings of HPI events are made available to the public.
 
-<img src="../../img/features/structure/course_list.png" title="Preview of the course list">  
+<img src="../../../img/features/structure/course_list.png" title="Preview of the course list">  
 <p align="center"><i>Preview of the Course List</i></p>
 
 # Courses
