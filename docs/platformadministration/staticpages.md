@@ -11,7 +11,7 @@ This will open a page that shows an error message (as that page doesn't exist ye
     
 <center>  
 
-![adding video](../img/15/static.png)
+![adding video](../img/platformadministration/static.png)
 
 *Static Page*
 </center>
@@ -27,7 +27,7 @@ After clicking on **Add English Translation** you should get this page:
 
 <center>  
 
-![add static page](../img/15/add_static.png)
+![add static page](../img/platformadministration/add_static.png)
 
 *Edit Static Page*
 </center>
