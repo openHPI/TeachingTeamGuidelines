@@ -33,5 +33,5 @@ After clicking on **Add English Translation** you should get this page:
 </center>
 
 You can define a new **Title** but you can not edit the **Name**  and **Language** as those are already pre-defined. Add your contents and once you are done, click **Save**.
-The content can be styled using some basic formatting elements, such as lists, headlines, links, images. You can also use HTML tags but HTML content will most probably not be displayed correctly in the native mobile apps.
+The content can be styled using basic formatting elements in Markdown, such as lists, headlines, links, images. Alternatively you can insert HTML elements. This, however, is strongly discouraged as it offen doesn't work well in a mixed fashion and it might not necessarily be supported in our mobile apps in the future.
 
