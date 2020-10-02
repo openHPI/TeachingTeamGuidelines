@@ -89,14 +89,46 @@ Wir wünschen Ihnen viel Spaß und Erfolg!
 
 Viele Grüße
 Prof. XY und das Teaching Team
-### Template | Introduction to week n
+
+### Template | Introduction to week n (EN)
 
 Dear Learning-Community,
 
-... To be added...
-		
-Kind regards, 
-Mary, Paul, and Peter on behalf of the Teaching Team
+Welcome to the second/third week of the course “XY“!
+
+Hopefully you enjoyed the SECOND/.. week. We wish you much success in your further learning at the start of the 3rd week.
+
+It is time to move to the .... (short overview of what to expect in the coming week). The lectures in this week are given by X, Y, Z. 
+
+Important Dates:
+
+- DAY, DATE, TIME (UTC): Results of weekly assignments of week X are published
+- DAY, DATE, TIME (UTC): Deadline ends for weekly assignment/bonus assignment
+- Day, DATE, TIME (UTC): Release of content of week X
+
+We are looking forward to your active participation and wish you a lot of fun and success!
+
+XY on behalf of the teaching team
+
+### Template | Introduction to week n (DE)
+
+Liebe Lerngemeinschaft,
+
+willkommen zur Kurswoche X im Kurs "XY"!
+
+Hiffentlich hat Ihnen die letzte Kurswoche gefallen und Sie konnten interessante Einblicke ins Thema XY gewinnen. 
+
+In der nächsten Woche wollen wir uns ... genauer ansehen. (Kurzer Überblcik über die Woche). X, Y, Z werden Ihnen diese Themen näherbringen.
+
+Wichtige Termine:
+- Tag, Datum, Uhrzeit: Veröffentlichung der Ergebnisse der Hausaufgabe aus Woche x
+- Tag, Datum, Uhrzeit: Abgabefrist für Hausaufgabe zu Woche x
+- Tag, Datum, Uhrzeit: Freischaltung der Lerninhalte zu Woche x#
+
+Wir freuen uns auf Ihre aktive Teilnahme im Kurs und wünschen Ihnen viel Spaß beim Lernen!
+
+Viele Grüße
+XY für das Teaching Team
 
 ### Template | Announcement - exam week (EN)
 
@@ -181,12 +213,25 @@ Prof. XY und das openHPI Teaching Team
 
 ### Template | Thank you and goodbye message by the instructor - After course has ended (EN)
 
-Dear Learning-Community,
+Dear learning community,
 
-... To be added...
-		
-Kind regards, 
-Mary, Paul, and Peter on behalf of the Teaching Team
+Our course ends with the release of the confirmations of participation and the records of achievement. We would like to thank you very much for your participation and hope you enjoy your certificate!
+
+All documents are available for download on certificates tab of your profile or on the progress page of the course (LINK).
+
+We would be pleased if you would take part in our course completion survey. We would like to use your feedback to help us plan the next courses and further develop our learning platform. You can also give us detailed feedback in the I like, I wish section of the course forum (LINK).
+
+Last but not least, we would like to thank all users who have been active in the forum, have given questions and answers and thus have actively contributed to the design of this course. The cooperation in the forum is one of the main aspects of "simultaneous" online learning and we are very pleased that many of you were always present to answer your fellow participants' questions in detail! Special thanks go here to, among others:
+
+-
+-
+-
+
+Many, many more, which we unfortunately cannot list all here!
+We look forward to welcoming you to our platform again soon.  
+
+Many greetings
+Prof. XY and the Teaching Team Greetings from the openHPI Team
 
 ----------
 ### Template | Thank you and goodbye message by the instructor - After course has ended (DE)
@@ -201,6 +246,10 @@ Wir freuen uns, wenn Sie an unserer Umfrage zum Kursabschluss teilnehmen. Wir m�
 
 Zu guter Letzt wollen wir uns auch ganz herzlich bei allen Nutzer:innen bedanken, die im Forum aktiv waren, Fragen und Antworten gegeben haben und so diesen Kurs aktiv mitgestaltet haben. Das Miteinander im Forum ist einer der Hauptaspekte des "gleichzeitigen" Online-Lernens und wir freuen uns sehr, dass hier viele von Ihnen stets zugegen waren, um ihren Mitteilnehmer:innen Fragen ausführlichst zu beantworten! Besonderer Dank geht hier u.A. an:
 
+-
+-
+-
+
 
 Viele, viele weitere, die wir hier leider nicht alle aufzählen können!
 Wir würden uns freuen, Sie bald wieder auf unserer Plattform begrüßen zu dürfen.  
@@ -213,10 +262,12 @@ Prof. XY und das Teaching Team
  
 Dear Learning-Community,
 
-... To be added...
-		
-Kind regards, 
-Mary, Paul, and Peter on behalf of the Teaching Team
+You have registered for the course "XY". We look forward to discussing XYZ with you. You do not have to be present at any particular time in the course. All learning contents (videos, tasks, text contributions) for week 1 will be activated on DAY, DATE, TIME. Then simply go to the course and click on "Learning material". Here you will find all the content provided. If questions arise during the course, it is best to ask them in the discussion forum (menu item "discussions").
+
+OPTIONAL: Before we start, we would like to ask you 2 questions. We thank you for participating in our mini-survey (LINK). You will find it in the intro part of the course.
+
+Best regards from the openHPI team
+
 
 ### Template | Welcome Message Prior Course Start (DE)
 
