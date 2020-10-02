@@ -6,16 +6,16 @@
 
 ### Template | Global Announcement: 4 weeks prior to course start (EN)
 
-On September 22nd we will start our basic course on XY (in German/English), to which we would like to invite you.
+On September 22nd we will start our basic course on XY (in German/English), to which we would like to invite you.  
 
-Here's what it's all about
+Here's what it's all about  
 ..........
-Who is the course for?
+Who is the course for?  
 .......
 
-Sounds interesting to you? Then please enroll here: LINK
+Sounds interesting to you? Then please enroll here: LINK  
 		
-Kind regards, 
+Kind regards,   
 The openHPI-Team
 
 ### Template | Global Announcement: 3-5 days before course start - Reminder
