@@ -28,7 +28,7 @@ To date there have been four nearly identical instances of the HPI MOOC platform
 
 * The platform is also used as the e-learning component in the research projects AI-Campus and eGov-Campus and serves as the basis for Humboldts17, the sustainability platform of Berlin's Humboldt university.
 
-The platform is created as multilingual and currently supports the following languages (as of Jan. 2019): 
+The platform is multilingual and currently supports the following languages (as of Sept. 2020): 
 
 * English 
 * German 
