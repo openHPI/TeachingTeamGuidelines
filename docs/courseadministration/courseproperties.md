@@ -173,5 +173,5 @@ Collab spaces offer smaller groups within a course the possibility to work toget
 
 **Generate Ranking:** As soon as all deadlines have passed and all re-gradings have been done, press this button. You will receive an (in-platform) notification when it's done (takes some seconds). This button calculates only the value for *top X* for each user. This, in general, is required before the certificates can be released.
 
-![course properties](docs/img/courseadministration/courseproperties/Courseproperties_1.png)
+![course properties](https://github.com/openHPI/TeachingTeamGuidelines/blob/OlgaSee-patch-1/docs/img/courseadministration/courseproperties/Courseproperties_1.png?raw=true)
 ![course properties](docs/img/courseadministration/courseproperties/Courseproperties_2.png)
