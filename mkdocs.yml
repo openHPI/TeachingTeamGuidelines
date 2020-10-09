@@ -43,6 +43,7 @@ nav:
   - Course Announcements: 'features/courseannouncements.md'
   - External Tools: 
     - CodeOcean: 'features/externaltools/codeocean.md'
+    - CodeHarbor: 'features/externaltools/codeharbor.md'
     - TeamBuilder: 'features/externaltools/teambuilder.md'
     - H5P: 'features/externaltools/h5p.md'
 - Best Practices:
