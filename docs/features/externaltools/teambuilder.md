@@ -44,8 +44,7 @@ While the TeamBuilder attempts to build teams fully automated, it still allows m
 
 <center>
 
-![The basic workflow of the TeamBuilder tool
-](../img/externaltools/teambuilder/teambuilder_wf.png)
+![The basic workflow of the TeamBuilder tool](../img/externaltools/teambuilder/teambuilder_wf.png)
 
 *The basic workflow of the TeamBuilder tool*
 
@@ -53,6 +52,6 @@ While the TeamBuilder attempts to build teams fully automated, it still allows m
 
 ## Further assistance and contact
 
-The TeamBuilder is a proprietary tool, operated and owned by the Hasso Plattner Institute. It is not part of the HPI learning platform by default but is available as an add-on to any course. If you have any questions about the usage of the TeamBuilder, please get in touch via email to discuss details. 
+The TeamBuilder is a proprietary tool, operated and owned by the Hasso Plattner Institute. It is not part of the HPI learning platform by default but is available as an add-on to any course. If you have any questions about the usage of the TeamBuilder, please get in touch via email to discuss further details. 
 
 Contact: openhpi-info@hpi.de
