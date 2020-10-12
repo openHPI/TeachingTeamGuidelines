@@ -15,6 +15,9 @@ For closed collab space
 * Participants need to first apply for membership to gain entry 
 * Request for membership must be confirmed by the **founder** of the collab space before admission into the group  
 
+![HPI Logo](../img/features/structure/collab_space.png)  
+*Preview of a sample Collab Space in a course*  
+
 Besides offering a members-only discussion forum, learning spaces provide a whole range of other communication and collaboration tools:   
 
 * Video Conference 
