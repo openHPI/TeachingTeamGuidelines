@@ -29,7 +29,7 @@ It is also possible for the teaching team to block posts independently of partic
 
 To support active participation in the forum, the system rewards so-called eXperience Points (XP).  
 Participants receive these points for especially high-quality contributions (answers with many positive reviews or ones that are marked as correct).  
-Participants who have exceeded a certain threshold of XP, receive recognition in the forum with the reward of a “judo belt.”  
+Participants who have exceeded a certain threshold of XP, receive recognition in the forum with the reward of a ***judo belt***.  
 The bigger the number of XP, the higher the grade of the judo belt.  
 
 ![Discusssion Forum](../img/features/structure/judo_belt_preview.png)  
