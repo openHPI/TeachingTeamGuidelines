@@ -133,7 +133,7 @@ In the following weeks and on the final test, the participant achieves the maxim
 Participant also achieves the maximum *10* points on the bonus task  
 >
 >**Result**:  
-***5 x 15 + 90 + 10*** = ***175*** points  
+***(5 x 15) + 90 + 10*** = ***175*** points  
 >
 >
 >**Participant #2**  
@@ -141,7 +141,7 @@ Participant earns the total number of possible points every week and on the fina
 Participant also achieves the maximum *10* points on the bonus task  
 >
 >**Result**:  
-***6 x 15 + 90 + 10*** = ***190*** points.  
+***(6 x 15) + 90 + 10*** = ***190*** points.  
 The result is capped at the maximum achievable ***180*** points 
 >
 >For both participants, the points scored on the self-test have no bearing on the result.
