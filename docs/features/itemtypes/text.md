@@ -8,6 +8,4 @@ Images and links to other websites or to downloadable PDFs may be embedded in th
 An adaption and change of the formatting is possible within the framework of the CI Guidelines.  
 
 ![Text](../../img/features/itemtypes/text_item.png)
-<div align="center"><i>  
-Fig. Text unit within a course
-</i></div>
+*Fig. Text unit within a course*

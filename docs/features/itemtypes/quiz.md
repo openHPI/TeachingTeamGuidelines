@@ -13,21 +13,21 @@ Fig. Sample preview of a quiz
 So far there are four different types of questions to choose from:  
 
 * Multiple choice questions (ONLY ONE correct answer) 
-* Multiple answer questions (MORE THAN ONE possible correct answer)
-* Free-text questions (with a stored list of correct answers) 
+* Multiple answer questions (MORE THAN ONE possible correct answers)
+* Free-text questions (with a configurable list of correct answers) 
 * Essay questions (not evaluated automatically)
 
 With the exception of essay questions, the evaluation of quizzes is a fully automatic operation. The evaluation for automatically graded questions are listed below with an example:  
 
 * ### Multiple Choice Question:  
     There is only one correct answer.  
-    For right answer, the specified number of points for the task will be awarded.  
-    For incorrect answer, the participants gets 0 points for the task.   
+    For the correct answer, the specified number of points for the task will be awarded.  
+    The participant receives 0 points for an incorrect answer.   
 
 * ### Multiple Answer Question:   
-    There is more than one possible answer.  
+    There are more than one possible answers.  
     The maximum number of points possible is divided by the number of correct alternatives.
-    The resulting value is used as the base.  
+    The resulting value is used as the base value.  
     For every correctly chosen alternative, the base value is given.  
     For every incorrectly chosen alternative, the base value is deducted.  
     If the total result is negative, then 0 points are given.  
@@ -40,25 +40,18 @@ With the exception of essay questions, the evaluation of quizzes is a fully auto
 
 <br>
 
-The creation of a quiz is done via a user interface within the platform; besides that, different import options also exist.  
+The platform provides a user interface to create quizzes. Alternatively, quizzes can be imported from Google Spreadsheets and via an XML import format. Please contact your platform adminsitrator for further instructions to work with the import formats. 
+
+As all item types, quizzes in a course are located within a course section.
 
 ![Quiz Admin](../../img/features/itemtypes/quiz_admin.png)
-<div align="center"><i>  
-Fig. Sample preview of the user interface to create quizzes
-</i></div>
-<br>
+*Fig. Sample preview of the user interface to create quizzes*
 
 ![Quiz Process](../../img/features/itemtypes/quiz_process.png)
-<div align="center"><i>  
-Fig. Steps to create quiz for a course module
-</i></div>
-<br>
+*Fig. Steps to create quiz for a course module*
 
 ![Questions](../../img/features/itemtypes/quiz_questions.png)
-<div align="center"><i>  
-Fig. Sample preview of a question list for the quiz
-</i></div>
-<br>
+*Fig. Sample preview of a question list for the quiz*
 
 Despite the quality control and great care taken in creating the tests, the possibility of errors or ambiguities cannot be wholly eliminated. If for some reason an error has slipped into one of the questions, there are different ways of re-grading it:  
 
@@ -104,6 +97,8 @@ The following re-grading options are supported by the HPI platform:
 
     >**Example**:  
     When none of the other mechanisms apply. 
+    
+Please contact your platform administrator if you have to regrade on of your quizzes.
   
 <br>
 
