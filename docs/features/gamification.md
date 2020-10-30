@@ -12,7 +12,7 @@ Currently the following are supported:
 
 - **Communication**: Users that are active in the forum
 
-<img src="../img/14/communicator_0.png" width="250" height="250">
+<img src="../img/features/communicator_0.png" width="250" height="250">
 
       Gold (3), Silver (8), and Bronze (13) posts (questions/answers/comments) in the forum.
 
@@ -23,7 +23,7 @@ Currently the following are supported:
       Gold (3), Silver (8), and Bronze (13) accepted answers in the forum.
 - Self-test: Users that have solved all self-tests with a score better than 0
 
-<img src="../img/14/self_tested_0.png" width="250" height="250">
+<img src="../img/features/self_tested_0.png" width="250" height="250">
 
 Badges are displayed on the user's dashboard and the user's private profile page.
 All available badges are displayed here. 
@@ -47,8 +47,7 @@ Users receive experience points (XP) for the following actions:
 
 XPs are displayed in the top navigation (when a user is logged in) and more detailed on the user's private profile page.  
 
-<center>  
       
-![XP](../img/XP.png)
-</center>
+![XP](../img/features/XP.png)
+
 
