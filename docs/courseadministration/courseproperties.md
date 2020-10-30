@@ -20,7 +20,7 @@ You can change the course title anytime you want. You should, however, stick to 
 
 ## Course Code
 The course code will be visible to the participants in the course's URL.
-Apart from that it only serves for internal purposes and should not be changed anymore later on as some features relies on it, for instance the automatic filtering of the course videos for the video item dropdown.
+Apart from that it only serves for internal purposes and should not (cannot) be changed anymore later on as some features rely on it, for instance the automatic filtering of the course videos for the video item dropdown.
 
 ## Abstract and Description
 
@@ -33,7 +33,7 @@ It will include:
   - and a link to either enrol/un-enrol or enter the course.
 
 - **Description**
-The description shows the course content and execution in more detail. 
+The description shows the course content, learning objectives and target audience in more detail. 
 It should include:
   - a brief summary of the course,
   - the goal of the course along with an explanation about how it can be applied later,
@@ -45,7 +45,8 @@ It should include:
   
 ## Course visual and introduction video
 
-The course visual is shown in the the course list and course details view. Please add an image, which is related to the content. 
+The course visual is shown in the course list and course details view. Please add an image, which is related to the content. 
+Ideally, the image is free of copyrights, alternatively images under a Creative Commons license or stock photos from commercial providers can be used. In these cases the license has to be provided in the course description.
 A short teaser video (maximum 90 seconds) is required to be published a month prior to releasing the course. The video needs to highlight important information about the course and to motivate interested participants to enrol.
 
 
@@ -72,16 +73,9 @@ The status describes, which mode your course is currently in. You can choose bet
 **Course language**
 Within the course list, the course could be also filtered by the chosen course language.  
 
-By expanding the avanced settings you will also find the following course classifiers:
+By expanding the avanced settings you will also find the additional course classifiers.
 
-**Categories** 
-Create or select any category that fits your purpose. The categories will be used for filtering in the courses list.
-
-**Reporting Type**
-
-**Enrollment Delta**
-
-**Skills**
+These course classifiers can be defined differently for each platform instance. Depending on your platform instance, these classifiers might be e.g. the difficulty level, the target audience or the course topic. Additional classifiers can be discussed with the platform administration team.
 
 ## Channel Setting
 
