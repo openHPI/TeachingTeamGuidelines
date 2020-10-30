@@ -12,18 +12,18 @@ Currently the following are supported:
 
 - **Communication**: Users that are active in the forum
 
-<img src="../img/features/communicator_0.png" width="250" height="250">
+![Communicator](../img/features/communicator_1.png)
 
       Gold (3), Silver (8), and Bronze (13) posts (questions/answers/comments) in the forum.
 
 - Knowledge: Users that receive good feedback (votes, accepted answers) in the forum.
 
-<img src="../img/14/knowledgeable_0.png" width="250" height="250">
+![Knowledgeable](../img/features/knowledgeable_1.png)
 
       Gold (3), Silver (8), and Bronze (13) accepted answers in the forum.
 - Self-test: Users that have solved all self-tests with a score better than 0
 
-<img src="../img/features/self_tested_0.png" width="250" height="250">
+![Self tested](../img/features/self_tested_1.png)
 
 Badges are displayed on the user's dashboard and the user's private profile page.
 All available badges are displayed here. 
