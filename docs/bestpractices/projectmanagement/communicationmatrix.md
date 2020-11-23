@@ -37,4 +37,20 @@ About this matrix:
     <td class="tg-031e"></td>
     <td class="tg-031e">Responding to most common administrative and content-related questions<br></td>
   </tr>
+  <tr>
+    <th class="tg-031e">Social Media Channels<br></th>
+    <td class="tg-031e">Individual hastag for every course<br></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <th class="tg-031e">Print<br>Media</th>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
 </table>
