@@ -126,18 +126,18 @@ The following data is added dynamically by the platform -
   
 * The following XML snippet in the dynamic content box:
   
-  ```xml
-  <?xml version="1.0" encoding="utf-8"?>
-  <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Basic//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd">
-  <svg version="1.1" baseProfile="basic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Basic//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd">
+<svg version="1.1" baseProfile="basic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
     y="0px" width="595" height="842" viewBox="0 0 595 842" xml:space="preserve">
     <g id="Dynamic data">
-  <text fill="#3B3939"  stroke-width="0" x="257.62" y="130"  font-size="20" font-family="NeoSansMedium" text-anchor="left" xml:space="preserve">##NAME##</text>
-  <text fill="#3B3939"  stroke-width="0" x="257.62" y="150"  font-size="12" font-family="NeoSans" text-anchor="left" xml:space="preserve">##EMAIL##</text>
-      <text fill="#3B3939" stroke-width="0" x="256.62" y="170"  font-size="12" font-family="NeoSans" text-anchor="left" xml:space="preserve">##BIRTHDAY##</text>
-                  <text fill="#3B3939" stroke="#3B3939" stroke-width="0" x="258" y="800"  font-size="9" font-family="NeoSans" text-anchor="left" xml:space="preserve">Potsdam, ##ISSUED_AT##</text>
+        <text fill="#3B3939"  stroke-width="0" x="257.62" y="130"  font-size="20" font-family="NeoSansMedium" text-anchor="left" xml:space="preserve">##NAME##</text>
+        <text fill="#3B3939"  stroke-width="0" x="257.62" y="150"  font-size="12" font-family="NeoSans" text-anchor="left" xml:space="preserve">##EMAIL##</text>
+        <text fill="#3B3939" stroke-width="0" x="256.62" y="170"  font-size="12" font-family="NeoSans" text-anchor="left" xml:space="preserve">##BIRTHDAY##</text>
+        <text fill="#3B3939" stroke="#3B3939" stroke-width="0" x="258" y="800"  font-size="9" font-family="NeoSans" text-anchor="left" xml:space="preserve">Potsdam, ##ISSUED_AT##</text>
     </g>
-  </svg>
+</svg>
 ```
 
 Font types, positions need to be adjusted depending on the template.  
