@@ -4,6 +4,6 @@
 }
 
 /* Hide caret at the end of the current open page */
-.wm-page-toc-opener.wm-page-toc-open > .wm-toc-text::after {
+.wm-page-toc-opener > .wm-toc-text::after {
     display: none;
 }
