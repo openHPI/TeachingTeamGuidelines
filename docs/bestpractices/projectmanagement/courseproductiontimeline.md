@@ -4,8 +4,12 @@
 
 Respective members of the teaching team are required to follow the course production timeline within the span of ****13 weeks**** prior to the commencement of the course, as described in the Gantt Chart.  
 
-![Gantt Chart](../../img/Gantt_Chart.png)  
+![Gantt Chart](../../img/bestpractices/projectmanagement/Gantt_Chart.png)  
 *Fig. Gantt Chart for the openHPI course production timeline*  
+<br>
+
+[Download Gantt Chart as pdf](../../img/bestpractices/projectmanagement/Gantt_Chart.pdf)    
+[Download course production planner as xlsx](../../img/bestpractices/projectmanagement/Course_Deadlines.xlsx)
 <br>
 
 ## Course Detail Page  
