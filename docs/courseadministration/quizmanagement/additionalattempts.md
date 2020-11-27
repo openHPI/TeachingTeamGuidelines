@@ -10,3 +10,6 @@ Usually, learners have exactly one attempt for the graded assignments. However, 
 - Click on "submissions". You now see an overview of all submissions of this user. You can see if the participant has any remaining attempts.
 - Select the assignment for which you want to grant another attempt and click on "add attempt".
 - You will immediately see that an attempt was added. Now you can inform the user that he can try again.
+
+![Grant attempt](../../img/courseadministration/quizmanagement/add_attempt.png)
+*Grant an additional attempt to a quiz*
