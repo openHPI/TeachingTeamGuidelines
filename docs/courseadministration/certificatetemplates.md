@@ -19,17 +19,24 @@ Course administrators have the permission to create a new certificate template o
 Course administrator can add up to three different types of certificates:  
 
 ## Qualified Certificate:  
-The template should contain the following information -  
+The template has to contain the following information -  
+* Course title and summary
+* Bullet points of most important course elements
+* Signature of the course instructors and the person in charge of the platform
+* Page 2: detailed course description
+* Page 3: grading scheme
+
+The following data is added dynamically by the platform -   
 * Participant's name
 * Participant's e-mail address
 * Participant's verified picture (through automatic face recognition)
 * Date of birth (optional)
-* Course title and summary
 * Credits earned
 * Course performance (if you're among the top 5%, 10%, or 20% of participants)
-* Signature of the Head of openHPI and course instructors
 * Anti-counterfeit link and QR code that allows e.g. employers to check if the certificate is genuine
-* Current date
+* Date of issue: Current date
+
+
 * The following XML snippet in the dynamic content box:
 
   ```xml
@@ -48,22 +55,29 @@ The template should contain the following information -
     </g>
   </svg>
 <br>  
+  
+Font types, positions need to be adjusted depending on the template.  
 
 ![Certificate](../img/courseadministration/certificate/Certificate.png)  
 *Fig. Preview of Qualified Certificate*  
 <br>
 
 ## Record of Achievement:  
-The template should contain the following information -  
+The template has to contain the following information -  
+* Course title and summary
+* Bullet points of most important course elements
+* Signature of the course instructors and the person in charge of the platform
+
+The following data is added dynamically by the platform -   
 * Participant's name
 * Participant's e-mail address
+* Participant's verified picture (through automatic face recognition)
 * Date of birth (optional)
-* Course title and summary
 * Credits earned
 * Course performance (if you're among the top 5%, 10%, or 20% of participants)
-* Signature of the Head of openHPI and course instructors
-* Current Date
 * Anti-counterfeit link and QR code that allows e.g. employers to check if the certificate is genuine
+* Date of issue: Current date
+  
 * The following XML snippet in the dynamic content box:
 
   ```xml
@@ -89,11 +103,16 @@ The template should contain the following information -
 
 ## Confirmation of Participation:  
 The template should contain the following information -  
+* Course title and summary
+* Bullet points of most important course elements
+  
+The following data is added dynamically by the platform -  
 * Participant's name
 * Participant's e-mail address
 * Date of birth (optional)
 * Course title and summary
 * Current date
+  
 * The following XML snippet in the dynamic content box:
   
   ```xml
