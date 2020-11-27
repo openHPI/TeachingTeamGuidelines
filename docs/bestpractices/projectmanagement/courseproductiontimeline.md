@@ -8,6 +8,10 @@ Respective members of the teaching team are required to follow the course produc
 *Fig. Gantt Chart for the openHPI course production timeline*  
 <br>
 
+[Download Gantt Chart as pdf](../../img/bestpractices/projectmanagement/Gantt_Chart.pdf)    
+[Download course production planner as xlsx](../../img/bestpractices/projectmanagement/Course_Deadlines.xlsx)
+<br>
+
 ## Course Detail Page  
 
 A course details page must be completed **11 weeks** before the course begins and should contain the following:  
