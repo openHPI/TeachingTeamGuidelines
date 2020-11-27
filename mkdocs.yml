@@ -96,3 +96,6 @@ nav:
 - Glossary: 'glossary.md'
   
 theme: windmill
+
+extra_css:
+  - css/hide_toc.css

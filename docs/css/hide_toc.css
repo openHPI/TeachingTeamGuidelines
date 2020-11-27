@@ -1,0 +1,9 @@
+/* Hide table of contents of a specific page */
+.wm-page-toc .wm-toctree {
+    display: none;
+}
+
+/* Hide caret at the end of the current open page */
+.wm-page-toc-opener.wm-page-toc-open > .wm-toc-text::after {
+    display: none;
+}
