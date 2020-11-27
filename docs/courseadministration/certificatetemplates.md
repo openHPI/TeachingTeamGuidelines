@@ -58,8 +58,7 @@ The following data is added dynamically by the platform -
     </g>
   </svg>
 ```
-<br>  
-  
+
 Font types, positions need to be adjusted depending on the template.  
 
 ![Certificate](../img/courseadministration/certificate/Certificate.png)  
@@ -103,7 +102,8 @@ The following data is added dynamically by the platform -
     </g>
   </svg>
 ```
-<br>  
+
+Font types, positions need to be adjusted depending on the template.  
 
 ![RoA](../img/courseadministration/certificate/RoA.png)  
 *Fig. Preview of Record of Achievement*  
@@ -139,7 +139,8 @@ The following data is added dynamically by the platform -
     </g>
   </svg>
 ```
-<br>  
+
+Font types, positions need to be adjusted depending on the template.  
 
 ![CoP](../img/courseadministration/certificate/CoP.png)  
 *Fig. Preview of Confirmation of Participation*  
