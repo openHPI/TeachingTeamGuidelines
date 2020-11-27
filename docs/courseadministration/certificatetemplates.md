@@ -19,7 +19,9 @@ Course administrators have the permission to create a new certificate template o
 Course administrator can add up to three different types of certificates:  
 
 ## Qualified Certificate:  
+
 The template has to contain the following information -  
+
 * Course title and summary
 * Bullet points of most important course elements
 * Signature of the course instructors and the person in charge of the platform
@@ -27,6 +29,7 @@ The template has to contain the following information -
 * Page 3: grading scheme
 
 The following data is added dynamically by the platform -   
+
 * Participant's name
 * Participant's e-mail address
 * Participant's verified picture (through automatic face recognition)
@@ -54,6 +57,7 @@ The following data is added dynamically by the platform -
   <text fill="#3B3939"  stroke-width="0" x="258" y="815"  font-size="7" font-family="NeoSans" text-anchor="left" xml:space="preserve">##VERIFY##</text>
     </g>
   </svg>
+```
 <br>  
   
 Font types, positions need to be adjusted depending on the template.  
@@ -63,12 +67,15 @@ Font types, positions need to be adjusted depending on the template.
 <br>
 
 ## Record of Achievement:  
+
 The template has to contain the following information -  
+
 * Course title and summary
 * Bullet points of most important course elements
 * Signature of the course instructors and the person in charge of the platform
 
 The following data is added dynamically by the platform -   
+
 * Participant's name
 * Participant's e-mail address
 * Participant's verified picture (through automatic face recognition)
@@ -95,6 +102,7 @@ The following data is added dynamically by the platform -
   <text fill="#3B3939"  stroke-width="0" x="258" y="815"  font-size="7" font-family="NeoSans" text-anchor="left" xml:space="preserve">##VERIFY##</text>
     </g>
   </svg>
+```
 <br>  
 
 ![RoA](../img/courseadministration/certificate/RoA.png)  
@@ -102,11 +110,14 @@ The following data is added dynamically by the platform -
 <br>
 
 ## Confirmation of Participation:  
+
 The template should contain the following information -  
+
 * Course title and summary
 * Bullet points of most important course elements
   
 The following data is added dynamically by the platform -  
+
 * Participant's name
 * Participant's e-mail address
 * Date of birth (optional)
@@ -127,6 +138,7 @@ The following data is added dynamically by the platform -
                   <text fill="#3B3939" stroke="#3B3939" stroke-width="0" x="258" y="800"  font-size="9" font-family="NeoSans" text-anchor="left" xml:space="preserve">Potsdam, ##ISSUED_AT##</text>
     </g>
   </svg>
+```
 <br>  
 
 ![CoP](../img/courseadministration/certificate/CoP.png)  
