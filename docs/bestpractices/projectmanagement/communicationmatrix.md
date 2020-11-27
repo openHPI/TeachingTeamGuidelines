@@ -7,7 +7,7 @@ About this matrix:
 <table class="tg">
   <tr>
     <th class="tg-031e">What<br>When</th>
-    <th class="tg-031e">As soon as the course is online<br></th>
+    <th class="tg-031e">As soon as the course details page is online<br></th>
     <th class="tg-031e">4 weeks before the course<br></th>
     <th class="tg-031e">Friday before week 0<br></th>
     <th class="tg-031e">Friday before week 1<br></th>
@@ -36,5 +36,21 @@ About this matrix:
     <td class="tg-031e">Who is there? Introducing to your class mates<br></td>
     <td class="tg-031e"></td>
     <td class="tg-031e">Responding to most common administrative and content-related questions<br></td>
+  </tr>
+  <tr>
+    <th class="tg-031e">Facebook, Instagram, Twitter and YouTube<br></th>
+    <td class="tg-031e">Individual hashtag for every course (e.g. <b>#ibmpower2020</b>)<br></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <th class="tg-031e">Print<br>Media</th>
+    <td class="tg-031e">Press release</td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Reminder to the press that has received the press release</td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
   </tr>
 </table>
