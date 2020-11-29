@@ -54,7 +54,7 @@ It might take a few seconds until all elements of the course are available.
   3. Do not clone exercises without consulting your contact at openHPI.
   
 ## H5P Exercises
-- H%P exercises always are part of the context of a course
+- H5P exercises always are part of the context of a course
 - Each course has its own H5P library
 - H5P exercises can be "borrowed" from one course to another. 
 - Borrowing means that the exercise is referenced in the new course but not copied. 
