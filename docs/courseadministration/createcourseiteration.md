@@ -52,3 +52,22 @@ It might take a few seconds until all elements of the course are available.
   1. Old RFCs (Request for comments) might still appear
   2. If a participant has solved an exercise in the previous course, his/her solutions are still visible to him/her.
   3. Do not clone exercises without consulting your contact at openHPI.
+  
+## H5P Exercises
+- H%P exercises always are part of the context of a course
+- Each course has its own H5P library
+- H5P exercises can be "borrowed" from one course to another. 
+- Borrowing means that the exercise is referenced in the new course but not copied. 
+- When a course is cloned, the cloned exercise items link to such borrowed H5P exercises.
+- The H5P exercises themselves are not cloned, the new exercise items still link to the H5P exercises, which have been created in the context of the original course.
+- The H5P exercise library of the clone is empty.
+- For the participants the H5P exercises are fully functionable.
+
+**But:**
+- The H5P exercises cannot be edited from within the new course, only from the original.
+- If H5P exercises are used from within two different courses, the (internal H5P) learning analytics data will probably be messed up.
+- If H5P exercises are to be copied from one course to another, this has to be done manually by exporting them from one H5P course library and importing them to the other H5P couyrse library.
+
+
+
+
