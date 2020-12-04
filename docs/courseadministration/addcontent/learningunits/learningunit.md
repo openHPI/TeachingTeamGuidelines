@@ -8,12 +8,13 @@ Standard items are
  - External exercise tool
  - Peer Assessment  
  
-<center>
+
 
 ![add section](../../../img/05/item_form.png)
 
-*Create new learninhg unit form*
-</center>
+*Fig. Create new learninhg unit form*  
+<br>
+
 
 **Title:** The learning unit's title.
 

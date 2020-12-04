@@ -8,12 +8,12 @@ The provision of reading material can be generally carried out in three forms:
  - as a PDF download, or 
  - as a web link
 
-<center>  
+  
 
 ![adding text](../../../img/05/create_item_text.png)
 
-*Create new text item form*
-</center>  
+*Fig. Create new text item form*
+  
   
 
 Text-pages can be formatted in markdown, it is possible to include images, weblinks, and links to files. 
@@ -28,9 +28,9 @@ To link a file for download:
 - Click on the add image icon and select the file that you have just uploaded.
 - In the text field: remove the "!" in front of the link. And add some meaningful text within the brackets (see fig. 07.)
 
-<center>  
+  
 
 ![linking files for download](../../../img/05/link_for_down.png)
 
-*Manipulate image link to turn it into a download link*
-</center>
+*Fig. Manipulate image link to turn it into a download link*
+

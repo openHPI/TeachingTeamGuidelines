@@ -7,12 +7,12 @@ Participants will be enabled to grade each others work.
 You can find a general description of the Peer Assessment Feature [here](https://open.hpi.de/pages/p_a)
 and an example for the calculation of grades [here](https://open.hpi.de/pages/p_a_grading).  
 
-<center>  
+  
 
 ![adding a peer assessment](../../../img/05/peer_assessment.png)
 
-*Create new peer assessment item form*
-</center>
+*Fig. Create new peer assessment item form*
+
 
 **Exercise type:** Set either *Main* or *Bonus* (Self test and Survey do not make sense here). 
 Points for a peer assessment of type *Main* will be added to the amount of achievable points. Points for a peer assessment of type *Bonus* can be used to make up for regular points that have been missed. In this respect peer assessments behave just like standard quizzes. 
@@ -23,23 +23,23 @@ Points for a peer assessment of type *Main* will be added to the amount of achie
 ## Peer assessment settings
 To set up the peer assessment go to *Course Administration=>Peer Assessment* 
 
-<center>
+
 
 ![peer assessment settings](../../../img/10/pa_settings.png)
 
-*Open the peer assessment settings* 
-</center>
+*Fig. Open the peer assessment settings* 
+
 
 Other than the other items, the peer assessment internals are not located under the *Course structure & content* menu item but have a separate menu item *Peer Assessments*. 
 
 ### General settings
 
-<center>
+
 
 ![peer assessment general settings](../../../img/10/pa_general_settings.png)
 
-*General settings for the peer assessment*
-</center>
+*Fig. General settings for the peer assessment*
+
 
 **Title:** The title of the assignment  
 **Assignment instructions:** Describe what you expect the participants to do. Be as precise as possible. Particularly, in terms of what the participants will have to upload, file formats,etc.   
@@ -57,58 +57,58 @@ Other than the other items, the peer assessment internals are not located under 
 
 ### File Attachments
 
-<center>
+
 
 ![peer assessment file attachment](../../../img/10/pa_files.png)
 
-*Add files to the peer assessment*
-</center>
+*Fig. Add files to the peer assessment*
+
 
 ### Workflow Steps
 
-<center>
+
 
 ![peer assessment workflow steps](../../../img/10/workflow_phases_peer_assessment.png)
-*Fig. 05: Select the workflow steps for the peer assessment*
-</center>
+*Fig. Select the workflow steps for the peer assessment*
 
-<center>
+
+
 
 ![peer assessment rubrics](../../../img/10/workflow_phases_peer_assessment2.png)
 
-*explain work flow steps for the peer assessment*
-</center>
+*Fig. Explain work flow steps for the peer assessment*
+
 
 ### Rubrics
 
-<center>
+
 
 ![peer assessment rubrics](../../../img/10/grading_rubric_peer_assessment.png)
 
-*Add rubrics for the peer assessment*
-</center>
+*Fig. Add rubrics for the peer assessment*
+
 
 ### The Example for Peer Assessment
 
-<center>
+
 
 ![peer assessment rubrics](../../../img/10/peer-assessment-explain.png)
 
-*Explain an example of peer assessment*
-</center>
+*Fig. Explain an example of peer assessment*
+
 
 ### The Statistic information for Peer Assessment
 
-<center>
 
-![peer assessment rubrics](../../../img/10/peer_Assessment_1.png)
 
-*The example of the statistic information of Peer-Assessments* 
-</center>
+![peer assessment rubrics](../../img/features/itemtypes/peer_Assessment_1.png)
+
+*Fig. The example of the statistic information of Peer-Assessments* 
+
 
 ### General Peer Assessment Configuration
 
-<center>
+
 
 ![peer assessment rubrics](../../../img/10/peer_Assessment_2.png)
 
@@ -118,5 +118,5 @@ Other than the other items, the peer assessment internals are not located under 
 
 ![peer assessment rubrics](../../../img/10/peer_assessment_6.png)
 
-*The example of the statistic information of peer assessment* 
-</center>
+*Fig. The example of the statistic information of peer assessment* 
+

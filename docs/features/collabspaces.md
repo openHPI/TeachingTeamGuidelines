@@ -19,7 +19,7 @@ For closed collab spaces
 * request for membership must be confirmed by the **creator/administrator** of the collab space before admission into the group  
 
 ![HPI Logo](../img/features/structure/collab_space.png)  
-*Preview of a sample Collab Space in a course*  
+*Fig. Preview of a sample Collab Space in a course*  
 
 Collab spaces provide a whole range of communication and collaboration tools:   
 

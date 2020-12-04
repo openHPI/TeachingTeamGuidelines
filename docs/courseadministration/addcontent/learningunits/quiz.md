@@ -2,12 +2,12 @@
 
 # Type quiz
 
-<center>  
+  
 
 ![adding video](../../../img/05/type_quiz.png)
 
-*Create new quiz item form*
-</center>
+*Fig. Create new quiz item form*
+
 
 **Exercise type:** Select between *Self-test*, *Survey*, *Main*, and *Bonus*.
 Self-tests are awarded with points, however, they are not counted into the final results at all. Quizzes of type *Main* are the weekly assignments (WA) or the final exam (FE). The sum of their points (plus possibly the points from peer assessments and practical exercises) constitutes the maximum of available points (MaxPoints) in the course. Quizzes of type *Bonus* are not summing up to the MaxPoints, but they can help to compensate points that have been lost in the *Main* assignments.
@@ -61,7 +61,7 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 
 **Unlimited attempts / Allowed attempts:** *Self-tests* are provided with unlimited attempts, attempts for *Main* and *Bonus* exercises should be limited. *Surveys* need to be limited to one attempt.
 
-<center>
+
 
 ![adding quiz](../../../img/05/quiz1.png)
 
@@ -69,8 +69,8 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 
 ![adding quiz](../../../img/05/quiz3.png)
 
-*Create new quiz* 
-</center>
+*Fig. Create new quiz* 
+
 
 
 The platform offers the possibility to add graphics or images (best suited are PNGs) for questions and answers. Please scale those files down for webuse before inserting them.
@@ -92,23 +92,23 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 
 **Essay:** Only for longer texts. Participants are required to write a comprehensive type answer showing their knowledge and expressing their ideas. It can't be graded automatically, so the instructor has to go through the answers manually and grade them.
 
-<center>
+
 
 ![course structure](../../../img/07/question_type.png)
 
-*Select question type*
-</center>
+*Fig. Select question type*
+
 
 ### Adding the question:
 
-<center>
+
 
 ![course structure](../../../img/07/question_sample1.png)
 
 ![course structure](../../../img/07/question_sample2.png)
 
-*Add question and explanation*
-</center>
+*Fig. Add question and explanation*
+
 
 **Question type:** can be any of *Multiple Choice*, *Multiple Answer*, *Essay* or *Free Text*
 
@@ -122,9 +122,9 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 
 ### Adding answers:
 
-<center>
+
 
 ![course structure](../../../img/07/add_answers_sample.png)
 
-*Add new answers*
-</center>
+*Fig. Add new answers*
+

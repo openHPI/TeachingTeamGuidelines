@@ -8,12 +8,12 @@ You will have to complete a few settings, however.
 
 Platform admins or course admins can edit the course's properties under the course administration menu.  
 
-<center>
+
 
 ![course properties](../img/04/properties_menu.png)
 
-*Fig. 01: Course Administration* => *Course properties*
-</center>
+*Fig. Course Administration* => *Course properties*
+
 
 ## Course Title
 You can change the course title anytime you want. You should, however, stick to the chosen title as soon as the course has been published or announced.
@@ -73,7 +73,7 @@ The status describes, which mode your course is currently in. You can choose bet
 **Course language**
 Within the course list, the course could be also filtered by the chosen course language.  
 
-By expanding the avanced settings you will also find the additional course classifiers.
+By expanding the advanced settings you will also find the additional course classifiers.
 
 These course classifiers can be defined differently for each platform instance. Depending on your platform instance, these classifiers might be e.g. the difficulty level, the target audience or the course topic. Additional classifiers can be discussed with the platform administration team.
 
@@ -82,7 +82,7 @@ These course classifiers can be defined differently for each platform instance. 
 **Channel**
 If you want to publish your course in a dedicated channel, you can select the channel here by using the dropdown.
 
-In the advanced setting you can find also the option to highlight the course on the channel stage, selecting the status "Show on stage". Chosing this, it is mandatory to add a stage visual and a statement.  
+In the advanced setting you can find also the option to highlight the course on the channel stage, selecting the status "Show on stage". Choosing this, it is mandatory to add a stage visual and a statement.  
 
 ## Course dates
 
@@ -93,17 +93,17 @@ In the advanced setting you can find also the option to highlight the course on 
 **End date:** The end date of the course.
 
 ## Course Certificates 
-For completing the course, particpants could get the opportunity to receive a certificate. There are three certificate options: 
+For completing the course, participants could get the opportunity to receive a certificate. There are three certificate options: 
 
 **Offer Record of Achievement**
 You are eligible for a Record of Achievement if you have earned more than 50 percent of the available points in the weekly assignments and the final exam. The Record of Achievement contains the following information:
 
-Participant's name
-Date of birth (optional)
-Course title and summary
-Credits earned
-Course performance (if you're among the top 5%, 10%, or 20% of participants)
-Anti-counterfeit link and QR code
+* Participant's name
+* Date of birth (optional)
+* Course title and summary
+* Credits earned
+* Course performance (if you're among the top 5%, 10%, or 20% of participants)
+* Anti-counterfeit link and QR code
 
 **Offer Confirmation of Participation**
 You are eligible for a Confirmation of Participation if you have visited at least 50 percent of the course material. The Confirmation of Participation contains the following information: Name of participant, date of birth (optional), course title and summary
@@ -119,16 +119,16 @@ A Qualified Certificate contains the participant’s photo and a supplement with
 
 Besides the photo, the Qualified Certificate contains the following information:
 
-Participant's name
-Date of birth (optional)
-Course title and summary
-Credits earned
-Course performance (information about whether the participant is part of the best 5%, 10% or 20% of all participants)
-Anti-counterfeit link and QR code
+* Participant's name
+* Date of birth (optional)
+* Course title and summary
+* Credits earned
+* Course performance (information about whether the participant is part of the best 5%, 10% or 20% of all participants)
+* Anti-counterfeit link and QR code
 
 ## Advanced settings
 
-**Welcomemail**
+**Welcome Mail**
 
 A custom text can be written here that will be sent to all the participants enrolling in the course.  
 Here is a sample text:
@@ -168,4 +168,5 @@ Collab spaces offer smaller groups within a course the possibility to work toget
 **Generate Ranking:** As soon as all deadlines have passed and all re-gradings have been done, press this button. You will receive an (in-platform) notification when it's done (takes some seconds). This button calculates only the value for *top X* for each user. This, in general, is required before the certificates can be released.
 
 ![course properties](../img/courseadministration/courseproperties/Courseproperties_1.png)
-![course properties](../img/courseadministration/courseproperties/Courseproperties_2.png)
+![course properties](../img/courseadministration/courseproperties/Courseproperties_2.png)  
+*Fig. Preview of the course properties*

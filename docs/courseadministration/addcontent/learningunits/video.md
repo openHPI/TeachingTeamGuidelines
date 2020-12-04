@@ -9,22 +9,22 @@
 The integration for the Vimeo API from within the platform is sufficiently good. 
 Basically there is a Vimeo Pro account that exists for the platform, from which videos are delivered. The streams can be uploaded from within the platform to Vimeo. See also [Uploading videos to Vimeo](https://vimeo.zendesk.com/hc/en-us/categories/201496018-Uploading-to-Vimeo).  
 The filenames of the streams should begin with the course code of the course. Please note that the system is case sensitive. As soon as one stream with the course code prefix is available, only those streams that start with the course code prefix will be listed in the drop-downs automatically. To add a video with a different prefix to a course, you can start typing that prefix then all videos with that prefix will be listed.
-The platform's database is synchronized with Vimeo on a daily basis. See also below: [*Synchronize streams with vimeo*](https://teachingteamguidelines.readthedocs.io/05_adding-content.md#L217)
+The platform's database is synchronized with Vimeo on a daily basis. See also below: [*Synchronize streams with Vimeo*](https://teachingteamguidelines.readthedocs.io/05_adding-content.md#L217)
 
 **Integrating videos hosted by other providers:**
 API support for other providers is currently not supported.
 Platform admins (not teachers or teaching team members), however, can manually add video streams that are hosted with other providers. 
 
-<center>
+
 
 ![adding video streams](../../../img/05/add_stream.png)
 
-*Add stream form (Administration => Videos)*
-</center>
+*Fig. Add stream form (Administration => Videos)*
+
 
 **Title:** The title of the streams should begin with the course's course\_code. Please note that the system operates case sensitive here. As soon as one stream with the course\_code prefix is available, only those streams that start with the course\_code prefix will be listed in the dropdowns.
 
-**HD / SD URL:** The location where the respective strream can be found on the server.
+**HD / SD URL:** The location where the respective stream can be found on the server.
 
 **Width / Height:** The size of the video.
 
@@ -76,7 +76,7 @@ Subtitles can also be generated from external agencies like poliTrans (MLLP) or 
 **Synchronize streams with Vimeo:** Streams are synchronized with Vimeo on a daily basis. If you want to add a Vimeo stream that has been uploaded to Vimeo more recently, you might have to synchronize the platform with Vimeo.
 
 
-<center>
+
 
 ![adding video](../../../img/05/create_video_item.png)
 
@@ -84,5 +84,5 @@ Subtitles can also be generated from external agencies like poliTrans (MLLP) or 
 
 ![adding video](../../../img/05/add_videos.png)
 
-*Create new video item form* 
-</center>
+*Fig. Create new video item form* 
+

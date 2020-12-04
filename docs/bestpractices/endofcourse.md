@@ -9,12 +9,11 @@ Please make sure that the course's end date is not before the deadline of the fi
 As often the course end date is initially set to the date when the "official" part of the course ends, but in fact the course provides the chance to work for some more time on the lasst weekly assignment or the final exam, this date, currently, needs to be re-adjusted not later than during the last week of the course. (A ticket exists to provide the possibility to add two end dates, the official and the effective. So this will no longer be necessary in future.)
 
 
-<center>
 
 ![course date on course list](../img/20/course_date.png)
 
-*Fig. 01: course date information for the current course*
-</center>
+*Fig. Course date information for the current course*
+
 
 ## Course Summary
 
@@ -22,12 +21,11 @@ As often the course end date is initially set to the date when the "official" pa
  - At the end of each course statistics and special course characteristics should be published on suitable places on the course site and also on the openHPI Blog. Relevant articles of the teaching team are explicitly desired and very welcome.
  - The platform team is very interested in Feedback of the teaching teams, particularly in feature requests that help to improve the system.
  
-<center>
 
 ![submission statistics](../img/20/summary_course.png)
 
-*Fig. 02: statistics for one course item*
-</center>
+*Fig. Statistics for one course item*
+
 
 ## Settings to be changed at the end of the course
 
@@ -76,9 +74,9 @@ Currently, the platform supports two document types, *Record of Achievement (RoA
 To earn a RoA, a user has to achieve a minimum of 50% of the available points in all assignments.
 We do not round but floor the percentages at this point. So 49.9% is not enough.
 
-To earn a CoP, a user has to visit a minimum of 50% of the available material. (Currently, starting a video is sufficient, a user does not have to watch it to the end - a fact that we do not comunicate in general).
+To earn a CoP, a user has to visit a minimum of 50% of the available material. (Currently, starting a video is sufficient, a user does not have to watch it to the end - a fact that we do not communicate in general).
 
-In future, a third document-a *Certificate* will be offered. Basically, the requirements are the same as for the RoA. Additionally, the user will have to buy *Veriface*, a tool to verify that the registered user has taken the exam. The certificate will contain an image of the user which has been taken during the veriface calibration phase.
+In future, a third document-a *Certificate* will be offered. Basically, the requirements are the same as for the RoA. Additionally, the user will have to buy *Veriface*, a tool to verify that the registered user has taken the exam. The certificate will contain an image of the user which has been taken during the VeriFace calibration phase.
 
 
 Following are some examples for CoPs and RoAs templates and final documents. 
@@ -88,39 +86,35 @@ Following are some examples for CoPs and RoAs templates and final documents.
 
 ##### The Template (without dynamic data)
 
-<center>
 
 ![RoA Template](../img/20/RoA_Temp.png)
 
-*Fig. 03: Template for Record of Achievements*
-</center>
+*Fig. Template for Record of Achievements*
+
 
 ##### The Document (including dynamic data)
 
-<center>
 
 ![RoA Final](../img/20/RoA.png)
 
-*Fig. 04: Exemplary Record of Achievements*
-</center>
+*Fig. Exemplary Record of Achievements*
+
 
 #### Confirmation of Participation
 
 ##### The Template (without dynamic data)
 
-<center>
 
 ![CoP Template](../img/20/CoP_Temp.png)
 
-*Fig. 05: Template for Confirmation of Participation*
-</center>
+*Fig. Template for Confirmation of Participation*
+
 
 #### The Document (including dynamic data)
 
-<center>
 
 ![CoP Final](../img/20/CoP.png)
 
-*Fig. 06: Exemplary Confirmation of Participation*
+*Fig. Exemplary Confirmation of Participation*
 
-</center>
+

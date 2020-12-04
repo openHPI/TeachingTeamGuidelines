@@ -19,7 +19,7 @@ We recommend using the interface only for interactive, trust-worthy exercises an
 
 Connecting an external offer requires compliance with a few supported web standards as defined by the MOOC platform. Our interface is based on the [Learning Tools Interoperability](https://www.imsglobal.org/activity/learning-tools-interoperability) standard, to which we will refer as _LTI_ in the following. The LTI standard is one of the most common standards in the area of learning tools and widely adopted within the industry. Many other platforms (such as Moodle or edX for example) also support that. It offers great support for the features required for use cases within the learning environment and provides the two main advantages listed in our [usage scenario](#usage-scenario). LTI uses the [OAuth](https://oauth.net) standard for secure authorization under the hood and support is hence also required. Additionally, a concrete exercise might be accessed through Deep Linking which enables users to start with the given task immediately without clicking through the external offer to find the referenced exercise. Any achieved score can be submitted (and updated) and is transmitted as percentage of the overall score as a float between `0.0` and `1.0`.
 
-Settings of LTI exercises are similar to those of a multiple-choice quiz, e.g. regarding the type, the maximal points or the deadline. We recommend providing as much information as possible and set those if availble in both platforms (the MOOC platform and the external tool) for the best user experience.
+Settings of LTI exercises are similar to those of a multiple-choice quiz, e.g. regarding the type, the maximal points or the deadline. We recommend providing as much information as possible and set those if available in both platforms (the MOOC platform and the external tool) for the best user experience.
 
 ## Connecting an External Tool with the HPI Learning Platform
 
@@ -34,30 +34,30 @@ Splitting the general and item-specific settings, changes (e.g. in the URL of th
 
 LTI providers are a per-course setting and can be found within the `Course Administration` > `LTI Providers`:
 
-<center>
+
 
 ![LTI Providers in Course Administration menu](../../../img/11/LTI_1.png)
 
-*LTI Providers in Course Administration menu*
-</center>
+*Fig. LTI Providers in Course Administration menu*
+
 
 Existing LTI providers are shown on the list and can be updated, deleted or supplemented by a new LTI provider:
 
-<center>
+
 
 ![List of LTI Providers](../../../img/11/LTI_2.png)
 
-*List of LTI Providers* 
-</center>
+*Fig. List of LTI Providers* 
+
 
 Each LTI provider requires only little information for the setup process. Those are usually defined by the external tool and not know to the HPI MOOC platform. Before setting up an LTI provider, you should familiarize yourself with the required values.
 
-<center>
+
 
 ![Edit LTI Providers](../../../img/11/LTI_3.png)
 
-*Edit LTI Providers* 
-</center>
+*Fig. Edit LTI Providers* 
+
 
 
 - `Name` and `Description` are only visible for course teachers and administrators and should help you to identify the service.
@@ -69,12 +69,12 @@ Each LTI provider requires only little information for the setup process. Those 
   - `iframe` embeds the content within the HPI learning platform - showing the course navigation and providing only a subset of the available space to the tool. Third-party cookies might be disabled in the learner's browser and hence break cookie-based authentication.
 - `Custom fields` are LTI specific parameters and are used in accordance with the LTI standard. Refer to the tool's documentation for more details about the parameters available for use. A common value would be `locale=en` to set the desired language of the external tool to English (if supported).
 
-<center>
+
 
 ![Available values for LTI Providers and Save Action](../../../img/11/LTI_4.png)
 
-*Available values for LTI Providers and Save Action* 
-</center>
+*Fig. Available values for LTI Providers and Save Action* 
+
 
 Once you put all required values in, you could save the LTI provider and use it in one of the exercises as shown below.
 

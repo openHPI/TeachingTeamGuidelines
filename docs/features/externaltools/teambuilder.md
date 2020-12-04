@@ -12,13 +12,13 @@ The openHPI Platform provides a toolset that allows instructors to assign tasks 
 
 While the Collab Spaces and the Peer Assessment System are built-in platform features, the TeamBuilder is a standalone tool that can be connected to any LMS supporting the LTI interface (see Figure 1). 
 
-<center>
+
 
 ![Connecting the TeamBuilder to an LMS](../img/externaltools/teambuilder/teambuilder_lti.png)
 
-*Connecting the TeamBuilder to an LMS*
+*Fig. Connecting the TeamBuilder to an LMS*
 
-</center>
+
 
 ## Features
 
@@ -42,13 +42,13 @@ It is possible, however, to deselect matching criteria later on if it turns out 
 
 While the TeamBuilder attempts to build teams fully automated, it still allows manual corrections. Then all decisions are made by the instructors. Participants can be moved from one team to another, new teams can be created and existing ones can be removed, etc. Finally, there are two options to export the created teams. The TeamBuilder can either create a CSV file for further usage, or it can directly create Collab Spaces on the platform and add the team members to their respective Collab Space.
 
-<center>
+
 
 ![The basic workflow of the TeamBuilder tool](../img/externaltools/teambuilder/teambuilder_wf.png)
 
-*The basic workflow of the TeamBuilder tool*
+*Fig. The basic workflow of the TeamBuilder tool*
 
-</center>
+
 
 ## Further assistance and contact
 

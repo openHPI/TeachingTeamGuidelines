@@ -4,10 +4,9 @@
 
 A quiz consists of questions and the corresponding answers. The points to be awarded are configured per question. Additional explanatory texts may be added to the questions and answers. The answer options are marked as correct or wrong by the teaching team behind the scenes. Answers to a question can be configured to be shown in random order.  
 
-![Sample quiz](../../img/features/itemtypes/quiz.png)
-<div align="center"><i>  
-Fig. Sample preview of a quiz
-</i></div>
+![Sample quiz](../../img/features/itemtypes/quiz.png)  
+
+*Fig. Sample preview of a quiz*
 <br>
 
 So far there are four different types of questions to choose from:  
@@ -40,7 +39,7 @@ With the exception of essay questions, the evaluation of quizzes is a fully auto
 
 <br>
 
-The platform provides a user interface to create quizzes. Alternatively, quizzes can be imported from Google Spreadsheets and via an XML import format. Please contact your platform adminsitrator for further instructions to work with the import formats. 
+The platform provides a user interface to create quizzes. Alternatively, quizzes can be imported from Google Spreadsheets and via an XML import format. Please contact your platform administrator for further instructions to work with the import formats. 
 
 As all item types, quizzes in a course are located within a course section.
 

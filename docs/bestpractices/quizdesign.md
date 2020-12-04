@@ -8,12 +8,12 @@ For all questions in the quizzes a thorough quality check is vital. Unclear answ
 
 The University of Texas provides some [good advice](https://facultyinnovate.utexas.edu/multiple-choice-questions) for creating multiple choice questions.
 
-<center>
+
 
 ![add section](../img/06/quiz_type.png)
 
-*Select the type of the quiz*
-</center>
+*Fig. Select the type of the quiz*
+
 
 ## Self-Tests
 
@@ -56,21 +56,21 @@ For multiple-answer-questions, the points a user will receive are calculated acc
 
 **We strongly discourage to tell the students how many answers are correct in a multiple answer question.** Practice has shown that this increases the need for re-gradings, while simultaneously reducing the choice of possible re-gradings.
 
-<center>
+
 
 ![add section](../img/06/edit_questions.png)
 
-*Edit questions at quiz part*
-</center>
+*Fig. Edit questions at quiz part*
+
 
 ## Weekly assignments and Final exam
 
-<center>
+
 
 ![add section](../img/06/weekly_assignments.png)
 
-*An example about weekly assignments* 
-</center>
+*Fig. An example about weekly assignments* 
+
 
 The performance of openHPI learners is measured with weekly assignments and a final exam. 
 
@@ -123,26 +123,26 @@ A complete question could be removed from the quiz. As this leads to undesired s
 
 **Add additional correct answer (multiple choice only):** For multiple choice questions additional answers can be checked as correct. This also requires the update skript to be run. If applied to a multiple answer question, the amount of points per answer might change, users that answered the question as it was originally intended will lose points.
 
-<center>
+
 
 ![edit quiz - overview](../img/06/question1_quiz.png)
 
-*Edit questions of the quiz* 
-</center>
+*Fig. Edit questions of the quiz* 
 
-<center>
+
+
 
 ![edit quiz - add new question](../img/06/question2_quiz.png)
 
-*Add a new question to the quiz* 
-</center>
+*Fig. Add a new question to the quiz* 
 
-<center>
+
+
 
 ![example quiz](../img/06/quiz_example.png)
 
-*An example from the corrected quiz* 
-</center>
+*Fig. An example from the corrected quiz* 
+
 
 ## Background information – Quiz-Engine
 

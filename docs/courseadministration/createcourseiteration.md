@@ -8,7 +8,7 @@ At the top of the page there is a button "Clone course" (if not, ask your platfo
 On click, it reveals a text input that allows to enter the **new** course code.
 Click on the "Clone course" button again and the course will be cloned.
 
-You can access the cloned course right away unter:  
+You can access the cloned course right away under:  
 https://yourinstance.of.theplatform/new_course_code
 It might take a few seconds until all elements of the course are available.
 
@@ -28,7 +28,7 @@ It might take a few seconds until all elements of the course are available.
 ## General
 - All deadlines need to be reset (course, sections, items, ...)
 - Unlock Forum (if previously locked)
-- Check all course items for links to other course specific elements (discussion forum posts, collab spaces, quizzzes, etc.)
+- Check all course items for links to other course specific elements (discussion forum posts, collab spaces, quizzes, etc.)
 - Re-adjust research queries if necessary
 - Re-create "pinned" forum threads if necessary
 - Check if office hour videos still make sense or need to be recorded again
@@ -66,7 +66,7 @@ It might take a few seconds until all elements of the course are available.
 **But:**
 - The H5P exercises cannot be edited from within the new course, only from the original.
 - If H5P exercises are used from within two different courses, the (internal H5P) learning analytics data will probably be messed up.
-- If H5P exercises are to be copied from one course to another, this has to be done manually by exporting them from one H5P course library and importing them to the other H5P couyrse library.
+- If H5P exercises are to be copied from one course to another, this has to be done manually by exporting them from one H5P course library and importing them to the other H5P course library.
 
 
 
