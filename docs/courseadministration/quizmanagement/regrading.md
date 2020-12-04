@@ -3,7 +3,8 @@
 # Regrading
 
 ----------
-Important: Once a graded quiz is online, teaching teams should not delete or change anything in the question or answer options any more (except typos). The reason is that maybe some participants have already taken the quiz. If you then delete for example an answer option, the calculation of points may be affected.
+# Important note: 
+Once a graded quiz is online, teaching teams should not delete or change anything in the question or answer options any more (except typos). The reason is that maybe some participants have already taken the quiz. If you then delete for example an answer option, the calculation of points may be affected.
 
 However, it happens sometimes that there is a mistake in a question which need to be corrected. In this case, teaching teams need to talk to the platform admins and ask for a regrading. We will then have a look at the specific question and decide which regrading option is the best one in this case.
 
@@ -20,3 +21,5 @@ For the regrading please contact the platform admins and provide quiz ID and que
 - remove answer: Removes an answer from a question in a quiz, removes the according submission_answers, and sets a new timestamp for quiz_version_at in the submissions.
 - update question: Updates points for a question after additional answer options have been added or answer options have been removed or changed (for other questions)
 These are only a few examples of how regrading can be done.
+
+Depending on the special case (which kind of mistake was made, how many users are affected, etc.), the platform admins will decide which regrading they perform.
