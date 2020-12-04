@@ -32,13 +32,7 @@ Points for a peer assessment of type *Bonus* can be used to make up for regular 
 
 
 ## Peer assessment settings
-To open the peer assessment dashbobard go to **`Course Administration`** and select **`Peer Assessment`**
-
-![PA](../../../img/courseadministration/peer_assessment/pa_dashboard.png)  
-
-*Fig. Peer assessment dashboard*  
-<br>
-
+To open the peer assessment dashboard go to **`Course Administration`** and select **`Peer Assessment`**
 
 ### General settings  
 
@@ -74,7 +68,7 @@ While editing the general configuration, please follow the guidelines mentioned 
 
 **Video Provider Name:** The name of the video provider to be used  
 
-**As team assessment:** It is optional  
+**As team assessment:**  
 
 
 
