@@ -8,7 +8,9 @@ Important: Once a graded quiz is online, teaching teams should not delete or cha
 However, it happens sometimes that there is a mistake in a question which need to be corrected. In this case, teaching teams need to talk to the platform admins and ask for a regrading. We will then have a look at the specific question and decide which regrading option is the best one in this case.
 
 # Which information is needed to do a regrading?
-For the regrading please contact the platform admins and provide quiz ID and question ID. You can find both when you go to course structure and content and then click on Show UUIDs.
+For the regrading please contact the platform admins and provide quiz ID and question ID. You can find both when you go to course structure and content and then click on Show UUIDs.  
+
+[show_ids](https://github.com/openHPI/TeachingTeamGuidelines/blob/Stefanie-HPI-patch-2/docs/img/courseadministration/quizmanagement/show_ids.png)
 
 
 # Different types of regrading
