@@ -10,6 +10,8 @@ However, it happens sometimes that there is a mistake in a question which need t
 # Which information is needed to do a regrading?
 For the regrading please contact the platform admins and provide quiz ID and question ID. You can find both when you go to course structure and content and then click on Show UUIDs.  
 
+![course_structure](https://github.com/openHPI/TeachingTeamGuidelines/blob/Stefanie-HPI-patch-2/docs/img/courseadministration/quizmanagement/course_structure.png)
+
 ![show_ids.png](https://github.com/openHPI/TeachingTeamGuidelines/blob/Stefanie-HPI-patch-2/docs/img/courseadministration/quizmanagement/show_ids.png)
 
 
