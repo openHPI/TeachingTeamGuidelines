@@ -10,17 +10,17 @@ For adding a quiz you can either use the quiz editor of the platform (as describ
 # How to fill in the Spread Sheet
 The spreadsheet consists of different sheets. Every sheet can be imported separately. Usually, there is one sheet per week and one extra sheet for the final exam. In the following we want to give an overview of the fields that are required:
 
-Name: Please insert the numbering and the naming of the quiz as it should appear in the course menu.
-Course section: The number defines in which section of the course the quiz will be added. Please consider that week 1 is not always section 1 (sometimes there might be an intro section, an excursus, ...)
-Quiz type: Define if this quiz is a self-test (ungraded), a weekly assignment (graded), a survey, a bonus exercise or the final exam.
-Instructions:
-Question:
-Question type:
-Points:
-Explanation:
-Exclude from recap:
-Answer 1:
-Correctness:
-Explanation:
-Answer 2:
-...
+Name: Please insert the numbering and the naming of the quiz as it should appear in the course menu.  
+Course section: The number defines in which section of the course the quiz will be added. Please consider that week 1 is not always section 1 (sometimes there might be an intro section, an excursus, ...)  
+Quiz type: Define if this quiz is a self-test (ungraded), a weekly assignment (graded), a survey, a bonus exercise or the final exam.  
+Instructions:  
+Question:  
+Question type:  
+Points:  
+Explanation:  
+Exclude from recap:  
+Answer 1:  
+Correctness:  
+Explanation:  
+Answer 2:  
+...  
