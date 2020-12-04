@@ -4,22 +4,21 @@
 
 ----------
 # Important note: 
-Once a graded quiz is online, teaching teams should not delete or change anything in the question or answer options any more (except typos). The reason is that maybe some participants have already taken the quiz. If you then delete for example an answer option, the calculation of points may be affected.
+Once a graded quiz is published, teaching teams should not delete or change anything in the question or answer options any more (except typos).  As participants already might have taken the quiz, the conditions for these participants will change and not only the quiz questions and answers but also the participants submissions will be affected. E.g. deleting an answer option will affect the calculation of points. Rephrasing a question or answer option will affect the understandability of that question or answer and, therefore, will result in different conditions for the participants before and after the change.
 
-However, it happens sometimes that there is a mistake in a question which need to be corrected. In this case, teaching teams need to talk to the platform admins and ask for a regrading. We will then have a look at the specific question and decide which regrading option is the best one in this case.
+Nevertheless, even the best quality control sometimes misses an ambiguity or mistake in a question, which has to be corrected. In this case, teaching teams need to contact the platform admins and ask for a regrading. We will then have a look at the specific question and discuss which regrading option is the best in each particular case.
 
 # Which information is needed to do a regrading?
-For the regrading please contact the platform admins and provide quiz ID and question ID. You can find both when you go to course structure and content and then click on Show UUIDs.  
+For the regrading please contact the platform admins and provide quiz ID and question ID Some regradings also require an answer ID. You can find these IDs when you go to "course structure and content" and there click on "Show UUIDs".  
 
-![course_structure](https://github.com/openHPI/TeachingTeamGuidelines/blob/Stefanie-HPI-patch-2/docs/img/courseadministration/quizmanagement/course_structure.png)
+![course_structure](../../img/courseadministration/quizmanagement/course_structure.png)
 
-![show_ids.png](https://github.com/openHPI/TeachingTeamGuidelines/blob/Stefanie-HPI-patch-2/docs/img/courseadministration/quizmanagement/show_ids.png)
+![show_ids.png](../../img/courseadministration/quizmanagement/show_ids.png)
 
 
 # Different types of regrading
 - Jackpot: Gives all users that have submitted something for this question the maximum amount of points. 
-- remove answer: Removes an answer from a question in a quiz, removes the according submission_answers, and sets a new timestamp for quiz_version_at in the submissions.
-- update question: Updates points for a question after additional answer options have been added or answer options have been removed or changed (for other questions)
-These are only a few examples of how regrading can be done.
+- Remove answer: Removes an answer from a question in a quiz, removes the according submission_answers, and sets a new timestamp for quiz_version_at in the submissions.
+- Update question: Updates points for a question, e.g. when an answer option has been changed from correct to wrong or vice versa.
 
-Depending on the special case (which kind of mistake was made, how many users are affected, etc.), the platform admins will decide which regrading they perform.
+More regrading options are available, please discuss with your platform admins, which suits best in your situation.
