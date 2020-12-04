@@ -4,6 +4,10 @@
 
 A quiz consists of questions and the corresponding answers. The points to be awarded are configured per question. Additional explanatory texts may be added to the questions and answers. The answer options are marked as correct or wrong by the teaching team behind the scenes. Answers to a question can be configured to be shown in random order.  
 
+To learn more about creating and configuring quizzes, please refer to [Quiz Design](https://teachingteamguidelines.readthedocs.io/#bestpractices/quizdesign/)  
+<br>  
+
+
 ![Sample quiz](../../img/features/itemtypes/quiz.png)  
 
 *Fig. Sample preview of a quiz*
