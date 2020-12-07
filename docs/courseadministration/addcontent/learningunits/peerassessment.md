@@ -1,8 +1,9 @@
 ![HPI Logo](../../../img/HPI_Logo.png)
 
 # Type peer assessment
-Peer assessment provides the possibility to scale out exercises that can not be graded automatically.
-Participants will be enabled to grade each others work.
+Peer assessment provides the possibility to scale out exercises that can not be graded automatically.  
+Participants will be enabled to grade each others work.  
+It is important to note that peer assessments should be completed within the duration of the course.  
 
 You can find a general description of the Peer Assessment Feature [here](https://open.hpi.de/pages/p_a)
 and an example for the calculation of grades [here](https://open.hpi.de/pages/p_a_grading).  
@@ -32,7 +33,10 @@ Points for a peer assessment of type *Bonus* can be used to make up for regular 
 
 
 ## Peer assessment settings
-To open the peer assessment dashboard go to **`Course Administration`** and select **`Peer Assessment`**
+To open the peer assessment dashboard go to **`Course Administration`** and select **`Peer Assessment`**  
+![PA](../../../img/course_admin_items/peer_assess.png)  
+*Fig. Select the Peer Assessment to modify the settings*  
+<br>  
 
 ### General settings  
 
@@ -70,9 +74,11 @@ While editing the general configuration, please follow the guidelines mentioned 
 
 **As team assessment:**  
 
+<br>  
 
-
-### File Attachments
+### File Attachments  
+Based on your choice of assignment, you may choose to upload files.   
+Those files will be shown as assignment attachments and will be downloadable by the students.
 
 ![PA File](../../../img/courseadministration/peer_assessment/pa_file_attach.png)  
 *Fig. Add files to the peer assessment*  
@@ -86,22 +92,46 @@ While editing the general configuration, please follow the guidelines mentioned 
 *Fig. Select the workflow steps for the peer assessment*  
 <br>  
 
+Each peer assessment always includes the following phases:  
+* **Submit your work** - This is the first step where participants submit their assignment. Ideally, participants are allowed a minimum of **2 weeks** to hand in their submission.
+* **Evaluate your peers** - This is the second step where participants can review their peer's work. You can set a minimum number of reviews to be made and participants can be allowed a minimum of **7 days** to submit their reviews.
+* **Evaluate yourself** - This is not essential and can be left out. You can toggle the option button as per will.
+* **View your results** - This is the final step where participants can view their reviewed results. The deadline for this step sets a time until which participants are able to report problems and rate their received reviews.  
 
+The unlock date of each phase determines when participants can start the next phase.  
+If unlock date is not specified, participants can start the next phase as soon as they have completed the previous phase.  
+The deadline for each phase is a mandatory field specifying a time for participants to complete the phase.
 
-### Grading Rubrics
+### Grading Rubrics  
 
-![Create PA Rubrics ](../../../img/courseadministration/peer_assessment/pa_grading_rubric.png)
+You can define your own grading rubrics by following the illustration as shown below:  
+
+![Create PA Rubrics ](../../../img/courseadministration/peer_assessment/pa_grading_rubric.png)  
+*Fig. Define your grading rubric*  
+<br>  
+
+First you need to select how many grading options you want for your grading rubric.  
 
 ![PA Rubrics](../../../img/courseadministration/peer_assessment/pa_grading_rubric_1.png)
 
 *Fig. Add rubrics for the peer assessment*  
-<br>
+<br>  
+
+**Number of grading options**: You need to mention the number of grading criteria you desire  
+
+**Rubric title**: Give a name to your custom defined rubric for future usage, for example, *completeness* , *presentation*, *readability* etc.  
+
+**Hints/General explanation**: Give a brief explanation for each criteria for easy and transparent grading.  
+
+**Rubric Options**: Define the grades for each criteria and set your grading scale    
+<br>  
 
 ![PA Rubrics Ex](../../../img/courseadministration/peer_assessment/pa_grading_rubric_example.png)  
 *Fig. An example of sample grading rubrics*  
 <br>  
 
 ### Team Evaluation Rubrics  
+If you have assigned a team for peer assessment then you have to define rubrics for team
 
 ![PA Team Rubrics](../../../img/courseadministration/peer_assessment/pa_team_rubric.png)  
 *Fig. Add team evaluation rubrics*  
@@ -115,6 +145,7 @@ While editing the general configuration, please follow the guidelines mentioned 
 
 
 ## Manage Peer Assessment Submissions  
+
 ![PA Submission](../../../img/courseadministration/peer_assessment/pa_submission.png)  
 
 ![PA Submit](../../../img/courseadministration/peer_assessment/pa_submission_1.png)  
@@ -122,6 +153,8 @@ While editing the general configuration, please follow the guidelines mentioned 
 <br>  
 
 ## Peer Assessment Conflicts  
+If any reviewer reports a complaint against the reviewed participant, you can manage the details and resolve the conflict by following the illustration:  
+
 ![PA conflicts](../../../img/courseadministration/peer_assessment/pa_conflicts.png)  
 ![PA Conflict manage](../../../img/courseadministration/peer_assessment/pa_conflicts_1.png)  
-*Fig. In this page, you can see all the subject of conflicts reported by the reviewer*
+*Fig. In this page, you can see all the subject of conflicts reported by the reviewer*  
