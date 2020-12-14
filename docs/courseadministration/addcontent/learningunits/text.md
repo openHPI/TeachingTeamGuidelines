@@ -8,15 +8,17 @@ The provision of reading material can be generally carried out in three forms:
  - as a PDF download, or 
  - as a web link
 
-  
+To create a text item, first select `Course Structure & Content`  
 
-![adding text](../../../img/05/create_item_text.png)
+![Text admin](../../../img/course_admin_items/course_structure_content.png)  
+![Text item](../../../img/features/itemtypes/survey_admin.png)
 
-*Fig. Create new text item form*
+![adding text](../../../img/features/itemtypes/text_item1.png)  
+*Fig. Select Text as the type and fill up the rest of the compulsory fields*  
+<br>
   
-  
-
-Text-pages can be formatted in markdown, it is possible to include images, weblinks, and links to files. 
+Text-pages are advised to be formatted in markdown so that the pages are displayed as intended on openHPI mobile apps.  
+It is possible to include images, weblinks, and links to files. 
 
 Downloads can be provided directly through the platform. In those regions of the platform where this possibility exists, a data upload field is provided for this purpose.
 
@@ -26,9 +28,8 @@ To link a file for download:
 
 - Upload the file via the drop zone.
 - Click on the add image icon and select the file that you have just uploaded.
-- In the text field: remove the "!" in front of the link. And add some meaningful text within the brackets (see fig. 07.)
 
-  
+Icon type:
 
 ![linking files for download](../../../img/05/link_for_down.png)
 

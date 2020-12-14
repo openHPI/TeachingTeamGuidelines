@@ -108,7 +108,7 @@ Possible mistakes during quiz design, which can lead to a regrading, can be as f
  - Unclear answers. The choice of answers can be interpreted in a way, that is not corresponding to the desired answer scheme.
  - Wrong answers are marked as correct (or the other way around) by mistake during quiz creation.
  - Wrong distractors – answers that were intended as distractors, turn out to be correct. Please, be especially careful with jokes or puns. These not seldom turn out to be actually true.
- - With free text questions it may happen, that students offer a correct answer which is not correctly assessed by the system. For example: A Password is required as an answer. The users receive this password by carrying out an assignment in an external tool. The expected result is „chnFTG56$“. It can happen that the user writes: “Password: chnFTG56$“. In such cases answers can be assessed as correct retrospectively.
+ - With free text questions it may happen, that students offer a correct answer which is not correctly assessed by the system. For example: A Password is required as an answer. The users receive this password by carrying out an assignment in an external tool. The expected result is **`chnFTG56$`**. It can happen that the user writes: **``“Password: chnFTG56$“``**. In such cases answers can be assessed as correct retrospectively.
 
 **Jackpot:** All users that have answered the question one way or the other receive the full amount of points. This is the backup if nothing else works. Often the only possibility when the amount of correct answers has been given in advance.
 

@@ -2,15 +2,16 @@
 
 # Quiz
 
-A quiz consists of questions and the corresponding answers. The points to be awarded are configured per question. Additional explanatory texts may be added to the questions and answers. The answer options are marked as correct or wrong by the teaching team behind the scenes. Answers to a question can be configured to be shown in random order.  
-
-To learn more about creating and configuring quizzes, please refer to [Quiz Design](https://teachingteamguidelines.readthedocs.io/#bestpractices/quizdesign/)  
-<br>  
-
-
+A quiz consists of questions and the corresponding answers.  
+The points to be awarded are configured per question.  
+Additional explanatory texts may be added to the questions and answers.  
+The answer options are marked as correct or incorrect by the teaching team behind the scenes.  
+Answers to a question can be configured to be shown in random order.  
+Once the quiz is completed and submitted, the participant would be able to view their result along with explanations for every wrong answers (if there is any explanations provided along with the answer by the teaching staff).  
+<br>
 ![Sample quiz](../../img/features/itemtypes/quiz.png)  
 
-*Fig. Sample preview of a quiz*
+*Fig. Sample preview of a quiz result after submission*
 <br>
 
 So far there are four different types of questions to choose from:  
@@ -45,16 +46,17 @@ With the exception of essay questions, the evaluation of quizzes is a fully auto
 
 The platform provides a user interface to create quizzes. Alternatively, quizzes can be imported from Google Spreadsheets and via an XML import format. Please contact your platform administrator for further instructions to work with the import formats. 
 
-As all item types, quizzes in a course are located within a course section.
+As all item types, quizzes in a course are located within a course section.  
+
+![Course Content](../../img/course_admin_items/course_structure_content.png)  
+*Fig. Select Course Structure & Content to add quiz item*  
+<br>
 
 ![Quiz Admin](../../img/features/itemtypes/quiz_admin.png)
-*Fig. Sample preview of the user interface to create quizzes*
+*Fig. Sample preview of the user interface to create quizzes*  
+<br>
 
-![Quiz Process](../../img/features/itemtypes/quiz_process.png)
-*Fig. Steps to create quiz for a course module*
-
-![Questions](../../img/features/itemtypes/quiz_questions.png)
-*Fig. Sample preview of a question list for the quiz*
+To learn more about creating and configuring quizzes, please refer to [Quiz Design](https://teachingteamguidelines.readthedocs.io/#bestpractices/quizdesign/) and [Quiz](https://teachingteamguidelines.readthedocs.io/#courseadministration/addcontent/learningunits/quiz/)  
 
 Despite the quality control and great care taken in creating the tests, the possibility of errors or ambiguities cannot be wholly eliminated. If for some reason an error has slipped into one of the questions, there are different ways of re-grading it:  
 

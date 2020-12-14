@@ -14,19 +14,19 @@ Course administrators have the permission to manage enrolled participants of the
 
 In the student enrollment page, course administrators can perform the following operations:  
 
-* Manage the profile of a participant  
+* Manage the profile of a participant by clicking on **`Details`**  
   
   ![Student profile](../../img/features/coursemanagement/student_profile.png)  
 *Fig. Details of a participant*  
 <br>  
 
-* Manage all the submissions in graded and bonus quizzes for individual participants  
+* Manage all the submissions in graded and bonus quizzes for individual participants by clicking on **`Submissions`**   
   
   ![Submission details](../../img/features/coursemanagement/st_en_submit.png)  
 *Fig. Preview of the submission details of a participant*  
 <br>
 
-* Check the progress details of a participant  
+* Check the progress details of a participant by clicking on **`Progress`**   
   
   ![Student progress](../../img/features/coursemanagement/st_progress.png)  
 *Fig. Preview of a participant's progress in the course*  

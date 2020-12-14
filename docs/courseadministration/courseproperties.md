@@ -21,27 +21,6 @@ You can change the course title anytime you want. You should, however, stick to 
 ## Course Code
 The course code will be visible to the participants in the course's URL.
 Apart from that it only serves for internal purposes and should not (cannot) be changed anymore later on as some features rely on it, for instance the automatic filtering of the course videos for the video item dropdown.
-
-## Abstract and Description
-
-- **Abstract** 
-The abstract is shown on the course list, title page, and the user's dashboard.
-It will include: 
-  - a brief information about the course schedule, 
-  - the language of the course, 
-  - the duration, 
-  - and a link to either enrol/un-enrol or enter the course.
-
-- **Description**
-The description shows the course content, learning objectives and target audience in more detail. 
-It should include:
-  - a brief summary of the course,
-  - the goal of the course along with an explanation about how it can be applied later,
-  - the structure of the course, explaining briefly about each week's expectation,
-  - the target audience and workload, including the time required to finish the course.
-  - short details about the course instructor,
-  - exam & certification details along with requirements for achievement.
-
   
 ## Course visual and introduction video
 
@@ -61,7 +40,7 @@ If a large amount of teachers will be conducting the course, you can provide an 
 
 ## Course Classifiers
 
-Your course will be classified by two characteristica within the course list: Status and Course Language. 
+Your course will be classified by two characteristics within the course list: Status and Course Language. 
 
 **Status**
 The status describes, which mode your course is currently in. You can choose between the following:

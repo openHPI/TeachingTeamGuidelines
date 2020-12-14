@@ -70,9 +70,9 @@ While editing the general configuration, please follow the guidelines mentioned 
 
 **Allow video upload:** Allow to upload videos to a specified video provider. Please, talk to the tech team before enabling this, as special measures have to be taken to make this work.  
 
-**Video Provider Name:** The name of the video provider to be used  
+**Video Provider Name:** The name of the video provider to be used.  
 
-**As team assessment:**  
+**As team assessment:**  Use this option if one team is reviewing another team's work.
 
 <br>  
 
@@ -91,12 +91,15 @@ Those files will be shown as assignment attachments and will be downloadable by 
 ![PA Work flow](../../../img/courseadministration/peer_assessment/pa_work_flow.png)  
 *Fig. Select the workflow steps for the peer assessment*  
 <br>  
+![Workflow](../../../img/courseadministration/peer_assessment/workflow.png)  
+*Fig. Workflow steps*  
+<br>
 
 Each peer assessment always includes the following phases:  
 * **Submit your work** - This is the first step where participants submit their assignment. Ideally, participants are allowed a minimum of **2 weeks** to hand in their submission.
 * **Evaluate your peers** - This is the second step where participants can review their peer's work. You can set a minimum number of reviews to be made and participants can be allowed a minimum of **7 days** to submit their reviews.
 * **Evaluate yourself** - This is not essential and can be left out. You can toggle the option button as per will.
-* **View your results** - This is the final step where participants can view their reviewed results. The deadline for this step sets a time until which participants are able to report problems and rate their received reviews.  
+* **View your results** - This is the final step where participants can view their reviewed results. The deadline for this step sets a time until which participants are able to report problems and rate their received reviews. Participants can award bonus points to its reviewer by rating the reviews.  
 
 The unlock date of each phase determines when participants can start the next phase.  
 If unlock date is not specified, participants can start the next phase as soon as they have completed the previous phase.  
@@ -131,20 +134,18 @@ First you need to select how many grading options you want for your grading rubr
 <br>  
 
 ### Team Evaluation Rubrics  
-If you have assigned a team for peer assessment then you have to define rubrics for team
+If you have assigned a team for peer assessment then you have to define rubrics for team.  
+By default there are three pre-defined rubrics in place.  
+If you desire to create another rubric, please follow the illustration below:  
+
 
 ![PA Team Rubrics](../../../img/courseadministration/peer_assessment/pa_team_rubric.png)  
 *Fig. Add team evaluation rubrics*  
 <br>  
 
-### The Example for Peer Assessment
-
-![peer assessment rubrics](../../../img/10/peer-assessment-explain.png)
-
-*Fig. Explain an example of peer assessment*
-
-
 ## Manage Peer Assessment Submissions  
+
+You can manage all the submitted reviews by following the below mentioned illustration:  
 
 ![PA Submission](../../../img/courseadministration/peer_assessment/pa_submission.png)  
 
@@ -152,9 +153,32 @@ If you have assigned a team for peer assessment then you have to define rubrics 
 *Fig. In this page, you can manage all the submitted peer assessments*  
 <br>  
 
+![View result](../../../img/courseadministration/peer_assessment/pa_submission_2.png)  
+*Fig. View the submission and peer reviews along with your rating for the participant's work*  
+<br>  
+![View Details](../../../img/courseadministration/peer_assessment/pa_submission_3.png)  
+*Fig. View the review details and facility for granting another attempt*  
+<br>  
+
+To learn more about additional attempts and regrading, please visit [Additional Attempts](https://teachingteamguidelines.readthedocs.io/#courseadministration/peerassessmentmanagement/additionalattempts/) and [Conflicts & Regrading](https://teachingteamguidelines.readthedocs.io/#courseadministration/peerassessmentmanagement/conflicts/)  
+
 ## Peer Assessment Conflicts  
 If any reviewer reports a complaint against the reviewed participant, you can manage the details and resolve the conflict by following the illustration:  
 
 ![PA conflicts](../../../img/courseadministration/peer_assessment/pa_conflicts.png)  
 ![PA Conflict manage](../../../img/courseadministration/peer_assessment/pa_conflicts_1.png)  
-*Fig. In this page, you can see all the subject of conflicts reported by the reviewer*  
+*Fig. In this page, you can see all conflicts reported by the reviewers and reviewed participants along with a brief subject mentioning the reason for conflict*  
+
+For conflict reconciliation, click on **`Reconcile`** and you will be displayed the following page:  
+
+![Conflict](../../../img/courseadministration/peer_assessment/reconcile_1.png)  
+*Fig. In this page, you see the details of the reported conflict along with the reviewer and reviewed participant(s).*  
+<br>  
+![Reconcile conflict](../../../img/courseadministration/peer_assessment/conflict_reconcile.png)  
+*Fig. In the same page down below, the teaching team can add a note and in some cases adjust the grade to close the conflict.*  
+<br>  
+If you choose to check the **Delta is absolute** box -  
+* The grade will be set to a fixed amount of points
+* Reviewer median and bonus points will be ignored  
+
+If you choose to set a delta value, the points will be applied on top of the overall grade.
