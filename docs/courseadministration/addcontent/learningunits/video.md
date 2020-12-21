@@ -73,10 +73,17 @@ Subtitles can also be generated from external agencies like poliTrans (MLLP) or 
 
 **Audio:** For the optional provision of separate audio tracks for the videos. Audio streams can easily be produced with the ffmpeg tool. It is also available for download.
 
-**Synchronize streams with Vimeo:** Streams are synchronized with Vimeo on a daily basis. If you want to add a Vimeo stream that has been uploaded to Vimeo more recently, you might have to synchronize the platform with Vimeo.
+**Synchronize streams with Vimeo:** Streams are synchronized with Vimeo on a daily basis. If you want to add a Vimeo stream that has been uploaded to Vimeo more recently, you might have to synchronize the platform with Vimeo.  
 
+**Open Mode allowed:** If this option is enabled, then anybody can watch the video without enrolling for the course. Please consult with the administration team before enabling this feature.
+<br>
 
+## Steps to add video  
+<br>
 
+![adding video](../../../img/course_admin_items/course_structure_content.png)  
+
+![add item](../../../img/features/itemtypes/survey_admin.png)
 
 ![adding video](../../../img/05/create_video_item.png)
 

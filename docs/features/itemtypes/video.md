@@ -20,4 +20,6 @@ Furthermore, it is possible to place extra texts and links below the videos (e.g
 *Fig. Errata and other information can be placed below the video player including ways to download the course video (can be downloaded as audio also) and presentation slide*
 
 Moreover, course providers, but also participants, can start discussions directly on the video playback page and ask video-related questions, which are then automatically assigned to this video and simultaneously enter the global discussion forum of the course.   
-Another feature of the course is the slide navigator, which allows participants to quickly track specific content in the video.
+Another feature of the course is the slide navigator, which allows participants to quickly track specific content in the video.  
+
+For more information on how to add videos to your course, please visit [Video](https://teachingteamguidelines.readthedocs.io/#courseadministration/addcontent/learningunits/video/)
