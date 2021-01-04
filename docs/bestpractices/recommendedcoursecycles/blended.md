@@ -8,4 +8,7 @@ These courses have a limited number of participant capacity which might include 
 
 These courses are also designed for training WHO staff and health workers.  
 
-Content and information among the participants and teaching team can be exchanged over [Discussion Forums](https://teachingteamguidelines.readthedocs.io/#features/discussionforum/) and [Collab Spaces](https://teachingteamguidelines.readthedocs.io/#features/collabspaces/)
+Content and information among the participants and teaching team can be exchanged over [Discussion Forums](https://teachingteamguidelines.readthedocs.io/#features/discussionforum/) and [Collab Spaces](https://teachingteamguidelines.readthedocs.io/#features/collabspaces/)  
+
+![blended](../../img/bestpractices/projectmanagement/blended.png)  
+*Fig. Schematics of the Blended course*
