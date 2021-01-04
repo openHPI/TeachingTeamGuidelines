@@ -3,11 +3,11 @@
 # Lecture
 
 
-These are in-depth courses like any lectures available in an University or higher learning institutions.  
+These are in-depth courses like any lectures available in a University or higher learning institutions.  
 
 These courses might last up to **6 weeks** with more weightage on theory rather than practical tasks.  
 
-During the course, participants will be given graded assignments at the end of each week and a final examination at the end.  
+Participants will be given graded assignments at the end of each week and they have to appear for a final examination after finishing the course.  
 
 These are non-intensive self paced course, however, the graded assignments carry a certain deadline.  
 
