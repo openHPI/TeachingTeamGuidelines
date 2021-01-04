@@ -9,7 +9,7 @@ These courses might last up to **6 weeks** with more weightage on theory rather 
 
 Participants will be given graded assignments at the end of each week and they have to appear for a final examination after finishing the course.  
 
-These are non-intensive self paced course, however, the graded assignments carry a certain deadline.  
+These are non-intensive self paced courses, however, the graded assignments carry a certain deadline.  
 
 Participants will also be required to perform peer assessments and self assessments during the course depending on the course guidelines. To learn more about peer assessments, please visit [Peer Assessment](https://teachingteamguidelines.readthedocs.io/#features/itemtypes/peerassessment/) and [Peer Assessment Settings](https://teachingteamguidelines.readthedocs.io/#courseadministration/addcontent/learningunits/peerassessment/).  
 
