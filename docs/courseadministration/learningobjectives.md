@@ -4,7 +4,7 @@
 
 This is a new feature that openHPI team is currently working on to implement.  
 This feature will allow the participant to set their preferred learning objectives and plan accordingly for an enrolled course.  
-At the moment, it is still in the beta phase and participants can ignore if they do not desire to set an objective.  
+At the moment, it is still in the beta phase and have not been implemented thorughout all the courses on openHPI platform. Participants can ignore if they do not desire to set an objective.  
 
 Learning objective option can be accessed from the **`Progress`** page as shown below:  
 

@@ -28,6 +28,7 @@ To link a file for download:
 
 - Upload the file via the drop zone.
 - Click on the add image icon and select the file that you have just uploaded.
+- In the text field: **remove** the "!" in front of the download link and add some meaningful text within the brackets
 
 Icon type:
 

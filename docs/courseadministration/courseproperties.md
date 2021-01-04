@@ -10,25 +10,28 @@ Platform admins or course admins can edit the course's properties under the cour
 
 
 
-![course properties](../img/04/properties_menu.png)
+![course properties](../img/course_admin_items/course_properties.png)
 
 *Fig. Course Administration* => *Course properties*
 
+![course properties 1](../img/courseadministration/courseproperties/course_prop_1.png)
 
 ## Course Title
 You can change the course title anytime you want. You should, however, stick to the chosen title as soon as the course has been published or announced.
 
 ## Course Code
 The course code will be visible to the participants in the course's URL.
-Apart from that it only serves for internal purposes and should not (cannot) be changed anymore later on as some features rely on it, for instance the automatic filtering of the course videos for the video item dropdown.
+Apart from that it only serves for internal purposes and should not (cannot) be changed anymore later on as some features rely on it, for instance the automatic filtering of the course videos for the video item dropdown.  
+
+![course properties 2](../img/courseadministration/courseproperties/course_prop_2.png)
   
 ## Course visual and introduction video
 
 The course visual is shown in the course list and course details view. Please add an image, which is related to the content. 
 Ideally, the image is free of copyrights, alternatively images under a Creative Commons license or stock photos from commercial providers can be used. In these cases the license has to be provided in the course description.
-A short teaser video (maximum 90 seconds) is required to be published a month prior to releasing the course. The video needs to highlight important information about the course and to motivate interested participants to enrol.
+A short teaser video (maximum 90 seconds) is required to be published a month prior to releasing the course. The video needs to highlight important information about the course and to motivate interested participants to enrol.  
 
-
+![course properties 3](../img/courseadministration/courseproperties/course_prop_3.png)
 
 ## Course Teachers
 
@@ -36,7 +39,9 @@ This is only for display reasons and does not provide any rights to the users th
 
 Please contact a platform administrator to promote a user to a teacher.
 
-If a large amount of teachers will be conducting the course, you can provide an alternative teacher text, which will be shown instead of an extensively long list of teachers. Therefore you have to click on the "Advanced Settings" button to expand the alternative teacher text option.
+If a large amount of teachers will be conducting the course, you can provide an alternative teacher text, which will be shown instead of an extensively long list of teachers. Therefore you have to click on the "Advanced Settings" button to expand the alternative teacher text option.  
+
+![course properties 4](../img/courseadministration/courseproperties/course_prop_4.png)
 
 ## Course Classifiers
 
@@ -54,7 +59,9 @@ Within the course list, the course could be also filtered by the chosen course l
 
 By expanding the advanced settings you will also find the additional course classifiers.
 
-These course classifiers can be defined differently for each platform instance. Depending on your platform instance, these classifiers might be e.g. the difficulty level, the target audience or the course topic. Additional classifiers can be discussed with the platform administration team.
+These course classifiers can be defined differently for each platform instance. Depending on your platform instance, these classifiers might be e.g. the difficulty level, the target audience or the course topic. Additional classifiers can be discussed with the platform administration team.  
+
+![course properties 5](../img/courseadministration/courseproperties/course_prop_5.png)
 
 ## Channel Setting
 
@@ -103,9 +110,14 @@ Besides the photo, the Qualified Certificate contains the following information:
 * Course title and summary
 * Credits earned
 * Course performance (information about whether the participant is part of the best 5%, 10% or 20% of all participants)
-* Anti-counterfeit link and QR code
+* Anti-counterfeit link and QR code  
+
+<br>  
 
 ## Advanced settings
+
+![course properties 6](../img/courseadministration/courseproperties/course_prop_6.png)
+
 
 **Welcome Mail**
 
@@ -123,7 +135,9 @@ Here is a sample text:
 
     Course Instructor's Name
 
-**Further Advanced Settings** (klick to expand)
+**Further Advanced Settings** (Click to expand)  
+
+![course properties 7](../img/courseadministration/courseproperties/course_prop_7.png)
 
 **External course URL and External course delay:** Usually you just should keep it as it is. The platform team will make the correct settings. This is only for cross-promoting courses from sister-platforms such as *openHPI* or *openSAP*.
 
