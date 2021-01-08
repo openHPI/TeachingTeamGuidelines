@@ -8,7 +8,7 @@ In our context, these are often courses to learn programming skills.
 
 The duration of the course is basically defined by the deadlines of assignemnts and exercises. The course material itself is generally available in self-paced mode after the deadlines have passed. 
 
-**Records of Achievement** can be earned during the runtime of the course. **Confirmations of Participation** can be earned during the course runtime and also in self-paced mode.
+**Records of Achievement** can be earned during the runtime of the course. **Confirmations of Participation** can be earned during the course runtime and also in self-paced mode. **Certificates** are not offered in Hands-on courses.
 
 <br>
 
