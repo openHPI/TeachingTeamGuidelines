@@ -2,18 +2,19 @@
 
 # Lecture
 
+The main course format on openHPI are courses that have been adapted from on-site lectures at the HPI to suit the online format.
 
-These are in-depth courses like any lectures available in a University or higher learning institutions.  
+Generally, we offer these courses in a duration of **6 weeks**. The focus is generally more theoretical than in the hands-on courses, still we often try to enhance these courses with some practical exercises or assignments.  
 
-These courses might last up to **6 weeks** with more weightage on theory rather than practical tasks.  
+Each course week offers a weekly assignment and the course is concluded with a final exam. 
+All graded assignments have deadlines. These deadlines define the 6-week duration. The course materials, however, will still be available when all the deadlines have passed.
 
-Participants will be given graded assignments at the end of each week and they have to appear for a final examination after finishing the course.  
+Additionally, to the weekly assignments the platform allows to offer peer assessed tasks and exercises. To learn more about peer assessments, please visit [Peer Assessment](https://teachingteamguidelines.readthedocs.io/#features/itemtypes/peerassessment/) and [Peer Assessment Settings](https://teachingteamguidelines.readthedocs.io/#courseadministration/addcontent/learningunits/peerassessment/).  
 
-These are non-intensive self paced courses, however, the graded assignments carry a certain deadline.  
+**Record of Achievements** and **Certificates** are only available during the actual runtime of the courses. In the near future it will also be possible to set individual deadlines per user (setting individual deadlines will involve costs).
 
-Participants will also be required to perform peer assessments and self assessments during the course depending on the course guidelines. To learn more about peer assessments, please visit [Peer Assessment](https://teachingteamguidelines.readthedocs.io/#features/itemtypes/peerassessment/) and [Peer Assessment Settings](https://teachingteamguidelines.readthedocs.io/#courseadministration/addcontent/learningunits/peerassessment/).  
+**Confirmations of Participation** can also be earned in self-paced mode after the deadlines have passed. 
 
-At the end of the course, participants will be awarded **Confirmation of Participation** and **Record of Achievement** after successfully completing all the criteria as mentioned in the course guidelines.  
 
 <br>  
 
