@@ -2,15 +2,16 @@
 
 # Hands-on
 
-These type of courses lasts up to **4 weeks** where you learn to solve practical problems and are given hands-on tasks.  
+One course format that is offered successfully on the openHPI platform are so-called Hands-on courses.
+Generally, we offer these courses in a duration of **4 weeks** with a strong focus on hands-on exercises and tasks.
+In our context, these are often courses to learn programming skills.
 
-Mostly these type of courses contains programming and practical oriented lessons.  
 <br>
 
 
-![handson course](../../../img/bestpractices/projectmanagement/handson_course.png)  
+![handson course](../../img/bestpractices/projectmanagement/handson_course.png)  
 *Fig. Example of a Hands-on course available at openHPI*  
 <br>
 
-![handson](../../../img/bestpractices/projectmanagement/hands_on.png)  
+![handson](../../img/bestpractices/projectmanagement/hands_on.png)  
 *Fig. Schematics of the Hands-on courses*
