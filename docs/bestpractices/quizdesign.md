@@ -101,7 +101,8 @@ The timer can only be stopped by handing-in the quiz. An undesired hand-in of in
 ## Re-Grading
 
 In case the teaching team learns that a question of an exam or weekly assignment was incorrect or unclear certain options for re-gradings exist.
-Re-gradings can only be carried out be the platform team and shouldn’t be necessary in the best case (quality control).
+Re-gradings can only be carried out by platform administrators and shouldn’t be necessary in the best case (quality control).
+**Important: Never edit a quiz that already has been published without contacting your platform administrator!**
 
 Possible mistakes during quiz design, which can lead to a regrading, can be as follows:
 
