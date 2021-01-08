@@ -3,9 +3,10 @@
 # Type peer assessment
 Peer assessment provides the possibility to scale out exercises that can not be graded automatically.  
 Participants will be enabled to grade each others work.  
-It is important to note that peer assessments should be completed within the duration of the course.  
+It is important to note that peer assessments should be completed within the duration of the course, or that it is communicated very clearly upfront that participants might need some extra time to fully complete the exercise after the actual course has already finished.  
+We also recommend to use peer assessments mainly as bonus exercises as otherwise the course completion rate might be lower.
 
-You can find a general description of the Peer Assessment Feature [here](https://open.hpi.de/pages/p_a)
+Participants can find a general description of the Peer Assessment Feature [here](https://open.hpi.de/pages/p_a)
 and an example for the calculation of grades [here](https://open.hpi.de/pages/p_a_grading).  
 
   
