@@ -106,5 +106,5 @@ Support requests or content related questions addressed at the teaching team via
 
 ![Facebook Message to HPI](../img/19/facebook-hpi.png)
 
-*Fig. Sent messages on twitter to @HassoPlattnerInstitute @OpenHPI*
+*Fig. Sent messages on Facebook to @HassoPlattnerInstitute @OpenHPI*
 
