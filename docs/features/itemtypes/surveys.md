@@ -2,8 +2,9 @@
 
 # Surveys
 
-Surveys are optional items that can provide valuable feedback and information from the participants which might be helpful for the development of the course.  
-Surveys can be added at the beginning and end of the course.  
+Surveys are optional items that can provide valuable feedback and information from the participants which might be helpful for the development of the platform or future courses or to answer certain research questions.  
+Surveys can be added anywhere in the course. 
+We recommend to use standardized surveys at the beginning and the end of the course.  
 
 To add survey items, please follow the illustrations shown below:  
 
