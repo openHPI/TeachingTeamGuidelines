@@ -3,10 +3,11 @@
 # Learning Objectives  
 
 This is a new feature that openHPI team is currently working on to implement.  
-This feature will allow the participant to set their preferred learning objectives and plan accordingly for an enrolled course.  
-At the moment, it is still in the beta phase and have not been implemented thorughout all the courses on openHPI platform. Participants can ignore if they do not desire to set an objective.  
+The feature will allow the participants to set their preferred learning objectives and plan accordingly for an enrolled course.  
+At the moment, the feature is in beta and has only been activated for selected courses on the openHPI platform. 
+Setting a personal learning objective is optional. Participants can skip this step if they are not interested.
 
-Learning objective option can be accessed from the **`Progress`** page as shown below:  
+When activated, the learning objective option can be accessed from the course's **`Progress`** page as shown below:  
 
 ![Learning objective](../img/features/itemtypes/learning_objective1.png)  
 *Fig. Select the learning objective to set your options*  
@@ -17,6 +18,8 @@ Learning objective option can be accessed from the **`Progress`** page as shown 
 <br>
 
 ## Learning objectives in detail:
+The following describes a certain setting for a particular course. Learning objectives are not pre-defined, but can be defined individually for each course by the teaching team. If you intend to use this feature, please talk to your platform administrator.
+
 ### 1. **I want to passively consume the course and finish with a certificate**:    
 
 Participants have to 
