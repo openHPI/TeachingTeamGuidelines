@@ -11,7 +11,6 @@ An adaption and change of the formatting is possible within the framework of the
 *Fig. Text unit within a course*  
 <br>  
 
-It is always advisable to add contents for the text item in **Markdown** format and should limit the usage of **HTML**.  
-This allows the text pages to be displayed as intended on openHPI mobile application.  
+Although the text items actually support both **HTML** and **Markdown**, the use of **HTML** is strongly discouraged except for few rare use cases. The mobile applications do not render the HTML tags but display them as source code.
 
 For more details on creating text items, please visit [Text](https://teachingteamguidelines.readthedocs.io/#courseadministration/addcontent/learningunits/text/)
