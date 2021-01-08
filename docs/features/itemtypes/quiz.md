@@ -6,8 +6,9 @@ A quiz consists of questions and the corresponding answers.
 The points to be awarded are configured per question.  
 Additional explanatory texts may be added to the questions and answers.  
 The answer options are marked as correct or incorrect by the teaching team behind the scenes.  
-Answers to a question can be configured to be shown in random order.  
-Once the quiz is completed and submitted, the participant would be able to view their result along with explanations for every wrong answers (if there is any explanations provided along with the answer by the teaching staff).  
+Answers to a question can be configured to be shown in random order. 
+Explanatory texts are only visible to a participant when the solution has been subitted and the results are published.
+  
 <br>
 ![Sample quiz](../../img/features/itemtypes/quiz.png)  
 
