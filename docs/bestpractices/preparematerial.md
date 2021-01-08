@@ -38,10 +38,9 @@ It has proven in the past, that it makes sense to create a short video teaser, (
  The course introduction video will have a more detailed overview of course content, structure and perhaps the typical course cycle.
 Both the videos should be published on YouTube or other video platforms and the registration link along with the teaser video should be shared in social media. The YouTube links should also be provided to your PR department.
 
-<center>
 
 ![course structure](../img/05/course_introduction.png)
 
-*Fig. 01: course introduction video* 
-</center>
+*Fig. Course introduction video* 
+
 

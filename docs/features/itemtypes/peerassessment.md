@@ -21,14 +21,15 @@ The evaluation of another participant’s task consists of a summative and a for
 
 The task, the timing, and the evaluation criteria are freely configurable by the teaching team.  
 
-![Peer Review](../../img/features/itemtypes/peer_review_scheme.png)
+![Peer Review](../../img/features/itemtypes/peer_review_scheme.png)  
 
 *Fig. Sample Peer Review Schematic*
 
 A participant’s work is assessed by co-participants based on various evaluation criteria that have been defined by the course team. For each criterion, the median of the scores is determined by all the peers and these values are added up for all criteria.  
 
 
-![Evaluation](../../img/features/itemtypes/peer_evaluation_score.png)
+![Evaluation](../../img/features/itemtypes/peer_evaluation_score.png)  
+
 *Fig. Example of peer evaluation*
 
 The median is used instead of the mean (average) because it is not distorted either upwards or downwards by any extreme assessments.
@@ -39,12 +40,14 @@ The median is used instead of the mean (average) because it is not distorted eit
 
 Participants can report submissions and reviews to the teaching team citing the reasons for them. The teaching team then has the opportunity to make a re-evaluation.  
 
-![Report](../../img/features/itemtypes/peer_report.png)
+![Report](../../img/features/itemtypes/peer_report.png)  
+
 *Fig. Sample preview of participants reporting the submissions and citing reasons for the same*
 
 Participants can rate the quality of their peers’ evaluation by awarding stars. Based on this rating, the authors of the written feedback get bonus points.    
 
-![Bonus Points](../img/../../img/features/itemtypes/peer_evaluation_bonus.png)
+![Bonus Points](../img/../../img/features/itemtypes/peer_evaluation_bonus.png)  
+
 *Fig. An example of bonus points for reviews that were rated helpful by peers*
 
 Another option is to activate an extra training phase, which allows participants to practice assessment based on sample evaluations from the teaching team.  
@@ -53,5 +56,6 @@ Additionally, another optional phase can be activated to evaluate one’s own wo
 For an accurate self-assessment of one’s own work (i.e., an assessment that comes close to the evaluation of the other participants), the participant also receives bonus points.  
 If the difference between the rating of the peer assessment and the participant’s self-assessment is less than 10% of the achievable score, the participants gets bonus points for an objective and accurate self-assessment (amounting to 5% of the maximum score).  
 
-![Self Assessment](../../img/features/itemtypes/self_assessment_bonus.png)
+![Self Assessment](../../img/features/itemtypes/self_assessment_bonus.png)  
+
 *Fig. An example of bonus points for an accurate self-assessment* 

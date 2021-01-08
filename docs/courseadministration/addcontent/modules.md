@@ -23,60 +23,60 @@ The platform team will create the course for you. Fill it with your content.
 
 
 
-<center>
+
 
 ![course structure](../../img/05/course_introduction1.png)
 
-*Fig. 02: an example of setion 1* 
-</center>
+*Fig. An example of setion 1* 
 
-<center>
+
+
 
 ![course structure](../../img/05/course_structure2.png)
 
-*Fig. 03: an example of section 6* 
-</center>
+*Fig. An example of section 6* 
 
-<center>
+
+
 
 ![course structure](../../img/05/course_structure3.png)
 
-*Fig. 04: an example of final exam and survey* 
-</center>
+*Fig. An example of final exam and survey* 
+
 
 The platform team will create the course for you. Fill it with content.
 
-<center>
+
 
 ![course structure](../../img/05/course_admin_menu.png)
 
-*Fig. 05: Course administration* => *Course structure and content*
-</center>
+*Fig. Course administration* => *Course structure and content*
+
 
 ## Add Section
 
-<center>  
+  
 
 ![add section](../../img/05/add_section.png)
 
-*Fig. 06: Add section button*
-</center>  
+*Fig. Add section button*
+  
 
 A section generally contains a course week. It can also contain special purpose content, such as a Final Exam, an Excursion, or a Survey.
 
-<center>
+
 
 ![add section - final exam and survey](../../img/05/final_exam_and_survey.png)
 
-*Fig. 07-1: final exam and survey*  
-</center>
+*Fig. Final exam and survey*  
 
-<center>
+
+
 
 ![add section](../../img/05/section_form.png)
 
-*Fig. 07: Create section form*
-</center>  
+*Fig. Create section form*
+  
 
 **Title:** Could be something like Week 1, Excursion, or Final Exam. This will be visible for the user in the course's left hand navigation bar, the course syllabus, and the course content list on the course detail page.
 
@@ -93,9 +93,9 @@ A section generally contains a course week. It can also contain special purpose 
 
 
 
-<center>
+
 
 ![add section](../../img/05/section_backend.png)
 
-*Fig. 08: Successfully created section in course admin view*
-</center>  
+*Fig. Successfully created section in course admin view*
+  

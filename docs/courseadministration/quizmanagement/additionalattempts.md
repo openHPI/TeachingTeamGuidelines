@@ -14,4 +14,5 @@ Sometimes the system provides a snapshot of the user's last entry (even if he ha
 - Select the assignment for which you want to grant another attempt and click on "add attempt".
 - You will immediately see that an attempt was added. Now you can inform the user that he can try again.
 
-![Grant attempt](../../img/courseadministration/quizmanagement/add_attempt.png)
+![Grant attempt](../../img/courseadministration/quizmanagement/add_attempt.png)  
+*Fig. You can add extra attempts on the submission page*

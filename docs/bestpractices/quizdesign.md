@@ -8,12 +8,12 @@ For all questions in the quizzes a thorough quality check is vital. Unclear answ
 
 The University of Texas provides some [good advice](https://facultyinnovate.utexas.edu/multiple-choice-questions) for creating multiple choice questions.
 
-<center>
+
 
 ![add section](../img/06/quiz_type.png)
 
-*Select the type of the quiz*
-</center>
+*Fig. Select the type of the quiz*
+
 
 ## Self-Tests
 
@@ -56,21 +56,21 @@ For multiple-answer-questions, the points a user will receive are calculated acc
 
 **We strongly discourage to tell the students how many answers are correct in a multiple answer question.** Practice has shown that this increases the need for re-gradings, while simultaneously reducing the choice of possible re-gradings.
 
-<center>
+
 
 ![add section](../img/06/edit_questions.png)
 
-*Edit questions at quiz part*
-</center>
+*Fig. Edit questions at quiz part*
+
 
 ## Weekly assignments and Final exam
 
-<center>
+
 
 ![add section](../img/06/weekly_assignments.png)
 
-*An example about weekly assignments* 
-</center>
+*Fig. An example about weekly assignments* 
+
 
 The performance of openHPI learners is measured with weekly assignments and a final exam. 
 
@@ -101,14 +101,15 @@ The timer can only be stopped by handing-in the quiz. An undesired hand-in of in
 ## Re-Grading
 
 In case the teaching team learns that a question of an exam or weekly assignment was incorrect or unclear certain options for re-gradings exist.
-Re-gradings can only be carried out be the platform team and shouldn’t be necessary in the best case (quality control).
+Re-gradings can only be carried out by platform administrators and shouldn’t be necessary in the best case (quality control).
+**Important: Never edit a quiz that already has been published without contacting your platform administrator!**
 
 Possible mistakes during quiz design, which can lead to a regrading, can be as follows:
 
  - Unclear answers. The choice of answers can be interpreted in a way, that is not corresponding to the desired answer scheme.
  - Wrong answers are marked as correct (or the other way around) by mistake during quiz creation.
  - Wrong distractors – answers that were intended as distractors, turn out to be correct. Please, be especially careful with jokes or puns. These not seldom turn out to be actually true.
- - With free text questions it may happen, that students offer a correct answer which is not correctly assessed by the system. For example: A Password is required as an answer. The users receive this password by carrying out an assignment in an external tool. The expected result is „chnFTG56$“. It can happen that the user writes: “Password: chnFTG56$“. In such cases answers can be assessed as correct retrospectively.
+ - With free text questions it may happen, that students offer a correct answer which is not correctly assessed by the system. For example: A Password is required as an answer. The users receive this password by carrying out an assignment in an external tool. The expected result is **`chnFTG56$`**. It can happen that the user writes: **``“Password: chnFTG56$“``**. In such cases answers can be assessed as correct retrospectively.
 
 **Jackpot:** All users that have answered the question one way or the other receive the full amount of points. This is the backup if nothing else works. Often the only possibility when the amount of correct answers has been given in advance.
 
@@ -123,26 +124,26 @@ A complete question could be removed from the quiz. As this leads to undesired s
 
 **Add additional correct answer (multiple choice only):** For multiple choice questions additional answers can be checked as correct. This also requires the update skript to be run. If applied to a multiple answer question, the amount of points per answer might change, users that answered the question as it was originally intended will lose points.
 
-<center>
+
 
 ![edit quiz - overview](../img/06/question1_quiz.png)
 
-*Edit questions of the quiz* 
-</center>
+*Fig. Edit questions of the quiz* 
 
-<center>
+
+
 
 ![edit quiz - add new question](../img/06/question2_quiz.png)
 
-*Add a new question to the quiz* 
-</center>
+*Fig. Add a new question to the quiz* 
 
-<center>
+
+
 
 ![example quiz](../img/06/quiz_example.png)
 
-*An example from the corrected quiz* 
-</center>
+*Fig. An example from the corrected quiz* 
+
 
 ## Background information – Quiz-Engine
 

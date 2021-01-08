@@ -1,16 +1,27 @@
 ![HPI Logo](../../../img/HPI_Logo.png)
 
-# Type quiz
+# Type quiz  
 
-<center>  
+![Course Content](../../../img/course_admin_items/course_structure_content.png)  
+*Fig. Select Course Structure & Content to add quiz item*  
+<br>
 
-![adding video](../../../img/05/type_quiz.png)
+![Quiz Admin](../../../img/features/itemtypes/quiz_admin.png)
+*Fig. Sample preview of the user interface to create quizzes*  
+<br>
 
-*Create new quiz item form*
-</center>
+![adding video](../../../img/05/type_quiz.png)  
+*Fig. Create new quiz item form*
+<br>  
 
-**Exercise type:** Select between *Self-test*, *Survey*, *Main*, and *Bonus*.
-Self-tests are awarded with points, however, they are not counted into the final results at all. Quizzes of type *Main* are the weekly assignments (WA) or the final exam (FE). The sum of their points (plus possibly the points from peer assessments and practical exercises) constitutes the maximum of available points (MaxPoints) in the course. Quizzes of type *Bonus* are not summing up to the MaxPoints, but they can help to compensate points that have been lost in the *Main* assignments.
+### Exercise type:  
+Select among *Self-test*, *Survey*, *Main*, and *Bonus*.  
+
+**Self-tests** are awarded with points, however, they are not counted into the final results at all.  
+
+Quizzes of type **Main** are the weekly assignments (WA) or the final exam (FE). The sum of their points (plus possibly the points from peer assessments and practical exercises) constitutes the maximum of available points (MaxPoints) in the course.  
+
+Quizzes of type **Bonus** are not summing up to the MaxPoints, but they can help to compensate points that have been lost in the **Main** assignments.
 
 Example: 
 
@@ -43,14 +54,13 @@ The participants can achieve a maximum of 90 points.
 
 	==> 90 points
 
-*Surveys* are not rewarded with points, nevertheless, to avoid problems it is better to assign at least 1 point to a survey question. FreeText answers require that at least one answer (dummy) is provided, which needs to be marked as correct. Otherwise, the system will break. 
+**Surveys** are not rewarded with points, nevertheless, to avoid problems it is better to assign at least 1 point to a survey question. FreeText answers require that at least one answer (dummy) is provided, which needs to be marked as correct. Otherwise, the system will break. 
 
 **Quizzes come with the optimal presets for their exercise type preselected. Change these settings only if you know exactly what you are doing.**
 
 **Maximal points:** These are the maximal points that can be reached for this assignment. The value is read only and results from the sum of the points for the quizzes' questions 
 
-**Submission deadline:** Set the deadline for the quiz. The deadline is hard. After this date it is no more possible to hand in a solution. The results of the participants are autosaved whenever something has changed. When the deadline has passed and the participant is still in the quiz, the results are automatically submitted and the quiz is closed. It is not possible to extend the deadline for single users. In [masquerade mode](todo://link) an admin can submit the quiz for a user even if the deadline has passed. 
-
+**Submission deadline:** Set the deadline for the quiz. The deadline is hard. After this date it is no more possible to hand in a solution. The results of the participants are autosaved whenever something has changed. When the deadline has passed and the participant is still in the quiz, the results are automatically submitted and the quiz is closed. It is not possible to extend the deadline for single users.  
 
 **Submission publishing date:** The date when the results for the quiz will be published. Should be after the deadline. Should be set for *Main* and *Bonus* quizzes so that participants cannot spoiler the results in the forum. Self-tests, normally, do not have a deadline or a submission publishing date.
 
@@ -61,7 +71,7 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 
 **Unlimited attempts / Allowed attempts:** *Self-tests* are provided with unlimited attempts, attempts for *Main* and *Bonus* exercises should be limited. *Surveys* need to be limited to one attempt.
 
-<center>
+
 
 ![adding quiz](../../../img/05/quiz1.png)
 
@@ -69,8 +79,8 @@ This of course can be adjusted to your needs. If you e.g. want to make sure that
 
 ![adding quiz](../../../img/05/quiz3.png)
 
-*Create new quiz* 
-</center>
+*Fig. Create new quiz* 
+
 
 
 The platform offers the possibility to add graphics or images (best suited are PNGs) for questions and answers. Please scale those files down for webuse before inserting them.
@@ -79,36 +89,36 @@ The platform offers the possibility to add graphics or images (best suited are P
 
 ### Available question types:
 
-**Multiple choice:** Multiple options but only one correct answer. Displayed with radio buttons to signal the user that only one of the options is correct.
+* **Multiple choice:** Multiple options but only one correct answer. Displayed with radio buttons to signal the user that only one of the options is correct.
 
-**Multiple answer:** Multiple options, more than one possibly correct answer. Displayed with check boxes to signal the user that more options might be correct. It is also possible to use this question type with only one correct answer to raise the difficulty of a multiple choice question.
+* **Multiple answer:** Multiple options, more than one possibly correct answer. Displayed with check boxes to signal the user that more options might be correct. It is also possible to use this question type with only one correct answer to raise the difficulty of a multiple choice question.
 
-*Note: once the type of a question has been saved it cannot be changed anymore.*
+	*Note: once the type of a question has been saved it cannot be changed anymore.*
 
-**Free Text:** Only for short texts. Correctness is tested by direct string comparison. 
+* **Free Text:** Only for short texts. Correctness is tested by direct string comparison. 
 A correct answer must be specified in the quiz setup, otherwise the quiz will crash.
 
-*Note: we use this type of question only for special purposes, e.g. when a password can be retrieved by solving an external task.*
+	*Note: we use this type of question only for special purposes, e.g. when a password can be retrieved by solving an external task.*
 
-**Essay:** Only for longer texts. Participants are required to write a comprehensive type answer showing their knowledge and expressing their ideas. It can't be graded automatically, so the instructor has to go through the answers manually and grade them.
+* **Essay:** Only for longer texts. Participants are required to write a comprehensive type answer showing their knowledge and expressing their ideas. It can't be graded automatically, so the instructor has to go through the answers manually and grade them.
 
-<center>
+
 
 ![course structure](../../../img/07/question_type.png)
 
-*Select question type*
-</center>
+*Fig. Select question type*
+
 
 ### Adding the question:
 
-<center>
+
 
 ![course structure](../../../img/07/question_sample1.png)
 
 ![course structure](../../../img/07/question_sample2.png)
 
-*Add question and explanation*
-</center>
+*Fig. Add question and explanation*
+
 
 **Question type:** can be any of *Multiple Choice*, *Multiple Answer*, *Essay* or *Free Text*
 
@@ -120,11 +130,9 @@ A correct answer must be specified in the quiz setup, otherwise the quiz will cr
 
 **Shuffle answers:** if "ON" the answers will be shown in random order.
 
-### Adding answers:
+### Adding answers:  
 
-<center>
 
-![course structure](../../../img/07/add_answers_sample.png)
+![course structure](../../../img/07/add_answers_sample.png)  
+*Fig. Add new answers*
 
-*Add new answers*
-</center>

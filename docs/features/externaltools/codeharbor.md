@@ -4,13 +4,13 @@
 
 Auto-gradable hands-on programming exercises are a key element for scalable programming courses. A variety of auto-graders already exist, however, creating suitable high-quality exercises in a sufficient amount is a very time-consuming and tedious task. One way to approach this problem is to enable the sharing of auto-gradable exercises between several interested parties. School-teachers, MOOC instructors, workshop providers, and university level teachers need programming exercises to provide their students with hands-on experience. Auto-gradability of these exercises is an important requirement. [CodeHarbor](https://codeharbor.openhpi.de) is a tool that enables the sharing of such exercises and addresses the various needs and requirements of the different stakeholders.
 
-<center>
+
 
 ![Schematic view of relation between LMS, auto-grader and exercise repository](../img/externaltools/codeharbor/bigPicture.png)
 
-*Schematic view of the relation between LMS, auto-grader, and exercise repository*
+*Fig. Schematic view of the relation between LMS, auto-grader, and exercise repository*
 
-</center>
+
 
 ### Availability
 
@@ -30,12 +30,11 @@ CodeHarbor provides the following features:
 4. **Exercise Versions, Forks, and Clones.** Versioning, forking, and cloning are key features for any kind of repository. CodeHarbor allows defining relationships between exercises, e.g. _Ex.2_ translates _Ex.1_ to another natural language or _Ex.3_ ports _Ex.1_ from C++ to Java. _Ex.4_ is an improved version of _Ex.2_, etc. Modeling these relationships enhances the probability to quickly find the right exercises for the given purpose.
    It will also become important to provide the possibility to trace the revision history of an exercise, reset it to an older revision, compare different revisions, and to track and merge changes once the users start to work on the material in a collaborative fashion.
    
-<center>
+
 
 ![Possible location of CodeHarbor in a landscape of LMS’, MOOC platforms and auto-graders.](../img/externaltools/codeharbor/landscape.png)
 
-*Possible location of CodeHarbor in a landscape of LMS’, MOOC platforms, and auto-graders.*
-</center>
+*Fig. Possible location of CodeHarbor in a landscape of LMS’, MOOC platforms, and auto-graders.*
 
 ## Supported Languages
 

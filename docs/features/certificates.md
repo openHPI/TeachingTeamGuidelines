@@ -2,7 +2,6 @@
 
 # Certificates
 
-----------
 
 For participation and successful completion of a course, participants receive a record of achievement. Three different types of performance records are offered at the HPI platform:
 
@@ -12,7 +11,7 @@ The required percentage is configurable on a per course basis. We recommend, how
 The CoP contains the following information:  Name of participant, date of birth (optional), course title and summary.
 
 ![CoP_template](../img/CoP_template.jpg)
-*Sample Confirmation of Participation*
+*Fig. Sample Confirmation of Participation*
 
 - **Record of Achievement (RoA)**  
 Given to those who have earned at least 50% of the points in the course. Points are available for the weekly assignments and the final exam.
@@ -39,6 +38,6 @@ Records of Achievement and Qualified Certificates, furthermore, feature a verifi
 If you’ve earned a Record of Achievement, then your open badge comes along with it and can be found on your certificates page. You can download the badge to your computer and upload it to a badge backpack of your choice, such as badgr or Open Badge Passport. You can easily share it via social media or email. When you share your badge, the badge includes a verification link which your followers can access. Once they click this link, they will arrive at your verification page. This page will include your user information, with your name, the date of issue of the badge, and your results. 
 
   ![Badge_Gold](../img/features/Badge_Gold.jpg)
-  *Sample Badge*
+  *Fig. Sample Badge*
 
 

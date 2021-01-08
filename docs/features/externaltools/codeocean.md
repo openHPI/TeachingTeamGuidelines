@@ -8,12 +8,12 @@ CodeOcean is an educational, web-based execution and development environment for
 
 Based on the [LTI](../../courseadministration/addcontent/learningunits/lti.md) standard, CodeOcean is a tool for the automated assessment of programming exercises. It allows learners to work on given programming assignments through a web-browser and gain points for tests specified by the teaching team. Users are able to edit the code, execute it remotely on the CodeOcean server, get feedback through unit tests, and ask fellow learners for assistance.
 
-<center>
+
 
 ![CodeOcean implementation interface](../img/externaltools/codeocean/implement.png)
 
-*CodeOcean implementation interface for learners*
-</center>
+*Fig. CodeOcean implementation interface for learners*
+
 
 ### Availability
 
