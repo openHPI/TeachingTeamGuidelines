@@ -8,7 +8,7 @@ Course administrators have the permission to manage and check the submissions in
 *Fig. To manage the submissions of all participants in the course*  
 <br>
 
-On this page, teaching team can manage all the submissions. They are allowed to award additional points to target participants by filling in the box under **Actions** column as shown in the figure below:  
+This page provides an overview on the students submissions. Teaching team members can search for particular solutions by certain students for trouble-shooting. If necessary, additional points can be added to certain submissions by particular students e.g. to compensate points that are missing due to technical issues:  
 
 ![Student Submission](../../img/features/coursemanagement/st_submit.png)  
 *Fig. Preview of the student submissions page*  
@@ -25,4 +25,4 @@ To allow additional attempts, please click at the **`user's name`** on the page 
 *Fig. On this page, you can allow an additional attempt to the selected participant*  
 <br>  
 
-### Teaching staff are advised to consult the teaching team administrator before awarding any additional points or attempts.
+### Teaching staff are advised to consult the platform administrator before awarding any additional points or attempts.
