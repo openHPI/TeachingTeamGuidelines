@@ -75,7 +75,7 @@ Subtitles can also be generated from external agencies like poliTrans (MLLP) or 
 
 **Synchronize streams with Vimeo:** Streams are synchronized with Vimeo on a daily basis. If you want to add a Vimeo stream that has been uploaded to Vimeo more recently, you might have to synchronize the platform with Vimeo.  
 
-**Open Mode allowed:** If this option is enabled, then anybody can watch the video without enrolling for the course. Please consult with the administration team before enabling this feature.
+**Open Mode allowed:** If this option is enabled, then anybody can watch the video without enrolling for the course. Please consult with your platform administrator before enabling this feature.
 <br>
 
 ## Steps to add video  
