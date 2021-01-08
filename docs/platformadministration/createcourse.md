@@ -33,4 +33,4 @@ Here's an example:
 * java2018-1 (could be either the first part of a course or the first iteration of the course)
 * java2018-2 (could be either the second part (different content than part 1) of a course or the second iteration of the course (same content as iteration 1)
 
-It is up to you how define the schema for your course codes, we strongly recommend, however, to define it exactly so that you always can follow the same pattern and don't have to think about again and again.  
+It is up to you to define the schema for your course codes, we strongly recommend, however, to define it in a way that allows you to always follow the same pattern and don't have to think about again and again.  
