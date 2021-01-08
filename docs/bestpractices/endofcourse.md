@@ -71,12 +71,12 @@ Depending on the templates, the process of adjusting the system might take some 
 ### Document Types
 Currently, the platform supports three document types, *Record of Achievement (RoA)*, *Confirmation of Participation (CoP)*, and *Certificate*.
 
-To earn a RoA, a user has to achieve a minimum of 50% of the available points in all assignments.
+To earn a RoA, a user has to achieve a minimum of 50% (default value, can be adjusted per course) of the available points in all assignments.
 We do not round but floor the percentages at this point. So 49.9% is not enough.
 
-To earn a CoP, a user has to visit a minimum of 50% of the available material. (Currently, starting a video is sufficient, a user does not have to watch it to the end - a fact that we do not communicate in general).
+To earn a CoP, a user has to visit a minimum of 50% (default value, can be adjusted per course) of the available material.
 
-The requirements for the *Certificate* are the same as for the RoA. Additionally, the participant has to book an online proctoring option that allows us to determine if the registered participant her-/himself has taken the required exams and assignments. 
+The requirements for the *Certificate* are the same as for the RoA. Additionally, the participant has to book an online proctoring option that allows us to determine if the registered participant her-/himself has taken the required exams and assignments. The *Certificate* is currently only available on the openHPI instance of the platform.
 
 Following are some examples for CoPs and RoAs templates and final documents. The Certificates additionally contain more detailed information about the course duration, course contents, grading, and the recommended ECTS credits.
 
