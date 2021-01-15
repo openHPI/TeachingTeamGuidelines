@@ -18,9 +18,9 @@ During the runtime of the course, the course forum is open for discussions among
 <br>
 
 
-![handson course](../../img/bestpractices/projectmanagement/handson_course.png)  
+![handson course](../../../img/bestpractices/projectmanagement/handson_course.png)  
 *Fig. Example of a Hands-on course available at openHPI*  
 <br>
 
-![handson](../../img/bestpractices/projectmanagement/hands_on.png)  
+![handson](../../../img/bestpractices/projectmanagement/hands_on.png)  
 *Fig. Schematics of the Hands-on courses*
