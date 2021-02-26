@@ -36,7 +36,7 @@ It is possible to use H5P for a variety of use cases. As an example it can be us
 3. **Drag and Drop** In this quiz the participants drag and drop words either on marked areas over a picture or in question fields. They are not as easy to set up as the others. However it is more flexible than the other quizzes. It is possible to define which words can be dropped into which zones. Additionally the number of words per zone can be set as well. This makes the following examples possible:  
 
 ![Drag-and-Drop 1](../img/externaltools/h5p/drag_and_drop_1.png) 
-![Drag and Drop 2](../img/externaltools/h5p/drag_and_drop_2.png)
+![Drag-and-Drop 2](../img/externaltools/h5p/drag_and_drop_2.png)
 
 4. **Image Sequencing** This quiz allows you to set pictures in a correcter order. It will then mix them up for the participants. This is easy to set up and use. The example from the course looks like this: 
  ![Image sequencing](../img/externaltools/h5p/image_sequencing.png)
