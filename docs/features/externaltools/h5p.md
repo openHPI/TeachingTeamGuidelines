@@ -16,7 +16,7 @@ H5P is a free open-source project under the MIT license. The source code can be 
 
 
 ## How to use it
-1. **(Lti provider anlegen)**
+1. **(Create Lti Provider)**
 2. **Add the H5P Dummy to the course (placeholder on how to do that)**. 
 3. **Create Content**  Execute the dummy task. You should see the Course Library. This is the section where you manage the h5p content for your course. You can create new content with the button on the top. Next, select the desired type of content. This is also the place where you can upload h5p content if you previously downloaded it. Once you selected the content type, you can add your content. Depending on the chosen type it can be text and/ or images. For the quizzes there are two sections on the bottom where you can set specific feedback for score ranges or the behavioral settings of the quiz. This allows you to define penalties, retries and other visual behavior of the task. Once the content is created you have to save the item. Now you will see the item as it is display for the participants of the course. Additionally you can see a box at the bottom that looks similar to this one:
 ![Content Setup](../img/externaltools/h5p/content_setup.png)
