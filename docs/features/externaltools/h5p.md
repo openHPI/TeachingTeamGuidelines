@@ -56,7 +56,7 @@ There are a couple of things you should be aware of when using this tool.
   A further problem is that the flexibility for the drag and drop quiz is unexpectedly good, but it needs a lot of settings in order to configure it. You can set the drop zones for each text and then specify in each drop zone which text(s) should be the correct one(s). 
   
 3. In some quizzes there are small problems with attending the quiz. 
-- In the find the words quiz it is very difficult to select a word in the top row because the mouse is not aligned with the selection on the word field. 
+- In the find-the-words quiz it is very difficult to select a word in the top row because the mouse is not aligned with the selection on the word field. 
 - A second problem we found is that it is also difficult to place larger texts in small drop zones in the drag and drop quiz. 
 In both cases it is not impossible to successfully complete the task but it might be very annoying for the users.
 
