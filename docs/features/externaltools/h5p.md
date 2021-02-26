@@ -9,7 +9,8 @@ H5P is an open source library which delivers interactive html content. It can be
 
 
 ## Introduction 
-H5P delivers interactive content that can be embedded in various ways into the platform. It's main advantage is the interactive content types. Examples are: Drag and Drop, Fill in the Blanks,  Find the Hotspot and Interactive Video. These content types can be used to either show something in an interactive way or to create a quiz. These interactive quizzes are currently an addition to the openHPI platform and make it possible to have an interactive self-check for the  participants. However this cannot be used for final exams due to the fact that the answers can be seen in the source code of the website.
+H5P delivers interactive content that can be embedded in various ways into the platform. Its main feature is the interactive content types. Examples are: Drag and Drop, Fill in the Blanks, Find the Hotspot and Interactive Video. These content types can be used to either show something in an interactive way or to create a quiz.
+Interactive quizzes are currently an addition to the openHPI platform and make it possible to have an interactive self-check for the participants. However, this cannot be used for final exams due to the fact that the answers can be seen in the source code of the website.
 ### Availability
 H5P is a free open source project under the MIT license. The source code can be found in the [Github repository](https://github.com/h5p). The project is currently funded by a company called Joubel which is an open source company. H5P aims to be community driven. Therefore, a part of the development is outsourced to the community. It is unclear how long the funding is secured but it is used by some other univercities and has available plugins for different learning platforms like moodle. The website can be found under [h5p.org](https://h5p.org/).
 
