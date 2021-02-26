@@ -53,7 +53,7 @@ There are a couple of things you should be aware of when using this tool.
 2. Creating the quizzes might be a lot of work in some cases. Some quizzes like the memory are pretty easy and intuitive. Other quizzes such as the drag and drop are not intuitive and have some missing translations. In these cases, one needs a lot of try and error to create a quiz as desired. 
   Be especially aware of this non-translated red button. You might think that this just discards the changes, but in practice it deletes the entire object. 
 ![Problem 3](../img/externaltools/h5p/problem_3.png)
-  A further problem is that the flexibility for the drag and drop quiz is unexpectedly good, but it needs a lot of settings in order to configure it. You can set the drop zones for each text and then specify in each drop zone which text(s) should be the correct one(s). 
+  A further problem is that the flexibility for the drag-and-drop quiz is unexpectedly good, but it needs a lot of settings in order to configure it. You can set the drop zones for each text and then specify in each drop zone which text(s) should be the correct one(s). 
   
 3. In some quizzes there are small problems with attending the quiz. 
 - In the find-the-words quiz it is very difficult to select a word in the top row because the mouse is not aligned with the selection on the word field. 
