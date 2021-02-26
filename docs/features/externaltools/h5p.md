@@ -2,7 +2,7 @@
 
 # H5P 
 
-H5P is an open source library which delivers interactive html content. It can be embedded through iframes and also offers integrations for different platforms like moodle. Currently, it is mainly used for educational content.
+H5P is an open source library which delivers interactive html content. It can be embedded through iframes and also offers integrations for different platforms (e.g. moodle). Currently, it is mainly used for educational content.
 
 
 
@@ -69,4 +69,3 @@ In both cases it is not impossible to successfully complete the task but it migh
 
 Details are to be discussed. 
 Contact: openhpi-info@hpi.de
-
