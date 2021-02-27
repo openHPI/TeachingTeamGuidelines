@@ -26,9 +26,16 @@ To link a file for download:
 
 - Upload the file via the file upload drop zone next to the text input field.
 - Click on the add image icon and select the file that you have just uploaded.
-- In the text field: **remove** the "!" in front of the download link and add some meaningful text within the brackets
-
-Icon type:
+- In the text field: **remove** the ***!*** in front of the download link and add some meaningful text within the brackets followed by the link.
+- For the link, you can also add a number like footnote and list the link numbers at the bottom of your text in the following format:  
+  
+    >--start of text--  
+    [Digital Identities][2]  
+    ...  
+    --end of text--  
+    [2]: https://open.hpi.de/courses/identities2021
+    
+<br>
 
 ![linking files for download](../../../img/05/link_for_down.png)
 
