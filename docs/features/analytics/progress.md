@@ -8,17 +8,16 @@ During the course period, participants can view their learning progress with det
 *Fig. Sample learning progress page*  
 <br>  
 
-openHPI team added a new experimental feature called **Learning Objective**. For more details, please visit [Learning Objective](https://teachingteamguidelines.readthedocs.io/#features/learningobjectives/)  
+To represent the learning items, openHPI uses the following legends:  
 
-It can be used to plan course participant's individual effort for learning and progressing through the course.  
-
-![Learning Objectives](../../img/features/progress/learn_objective.png)  
-*Fig. You can select your learning objective by clicking the highlighted link*  
-
-![Objectives](../../img/features/itemtypes/learning_objective.png)  
-*Fig. Learning objectives available for participants*  
-<br>
-At the bottom of the page, participants can download their respective certificates if they fulfil the required criterion.  
-
-![Certificate](../../img/features/progress/certificate.png)  
-*Fig. Download buttons for respective certificates*
+| Legend | Explanation |
+|---|---|
+| ![text](../../img/features/analytics/progress_legends/text.png) | This item represents a text page |
+| ![video](../../img/features/analytics/progress_legends/video.png) | This item represents a video |
+| ![quiz](../../img/features/analytics/progress_legends/quiz.png) | This item represents a quiz |
+| ![assignment](../../img/features/analytics/progress_legends/Assignment.png) | This item represents an assignment or homework |
+| ![survey](../../img/features/analytics/progress_legends/survey.png) | This item represents a survey |
+| ![stat](../../img/features/analytics/progress_legends/infp-graphic_stats.png) | This item represents an info-graphical statistics |
+| ![info-graph](../../img/features/analytics/progress_legends/infp-graphic_quiz.png) | This item represents an info-graphical quiz |
+| ![conference](../../img/features/analytics/progress_legends/conference.png) | This item represents a video conference |
+| ![adjust](../../img/features/analytics/progress_legends/adjust_point.png) | This item represents an issue with the points due to misconfiguration by admins. Participants will get full points in this case |
