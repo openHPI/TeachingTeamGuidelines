@@ -23,6 +23,7 @@ In the page shown in the picture above, the following text boxes have to be fill
 - **Test** - Write the contents of your announcement
 
 Below the page you will find three command buttons:  
+
 - **Save** - Your announcement will be saved but will not be sent
 - **Save and send** - Your announcement will be saved and sent
 - **Save and send test mail** - Your announcement will be saved but will not be sent, however, the announcement will be sent to your email (or whoever is writing the announcement). If you are happy with the announcement, click **`Save and send`**
