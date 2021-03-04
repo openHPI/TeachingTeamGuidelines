@@ -11,7 +11,7 @@
 ![QC Alerts](../../../img/features/analytics/dashboard/qc_alerts.png)  
 *Fig. Navigate the QC Alerts section from the drop-down list under the Statistics button*  
 
-In this page, you can view all the QC alerts based on the **QC Rules** set by the course administrators. QC rules are a set of rules that are defined by the course administrators for their respective courses. Further details about the QC rules are mentioned in the page below.  
+In this page, you can view all the QC alerts based on the **QC Rules** set by the platform administrators. QC rules are a set of rules that are defined by the platform administrators for all the courses. Further details about the QC rules are mentioned in the page below.  
 In the image shown below, you will find the list of QC alerts listed according to the specific QC rules along with its severity and status for a particular course.  
 
 ![QC Alerts 1](../../../img/features/analytics/dashboard/qc_alerts_details.png)  
@@ -34,7 +34,7 @@ To find the QC Rules, click on the **Administration** button found above the pag
 ![QC Rules](../../../img/features/analytics/dashboard/qc_rules.png)  
 *Fig. Navigate the QC Rules section from the drop-down list under the Administration button on top of the page*  
 
-In this page, you will find a set of pre-defined rules that will govern all the courses available on openHPI. Course administrators can choose to turn off all the rules or select a set of rules based on their choice. If a certain event occurs, respective rules will be triggered which will be listed in the **QC Alerts** page. The rules are fairly easy to understand as shown in the image below:  
+In this page, you will find a set of pre-defined rules that will govern all the courses available on openHPI. Platform administrators can choose to turn off all the rules or select a set of rules based on their choice. Course administrators are advised to consult the platform admins if they desire to turn off certain rules. If a certain event occurs, respective rules will be triggered which will be listed in the **QC Alerts** page. The rules are fairly easy to understand as shown in the image below:  
 
 ![QC Rules 1](../../../img/features/analytics/dashboard/qc_rules_details.png)  
 *Fig. Available QC Rules on openHPI*

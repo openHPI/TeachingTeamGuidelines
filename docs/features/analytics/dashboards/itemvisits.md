@@ -18,7 +18,7 @@ In this page, you can find the list of all items available in the specific cours
 
 To further explain the statistics, the following headings are used as mentioned in the image above:  
 - **Item**	- Lists all the items available in the specific course
-- **Position**	- Popularity of the specific item in that particular course
+- **Position**	- Shows the position of the item in the course structure according to the scheme [`Section_Number.Item_Number`]. For example, Position 1.3 would mean that the particular item will be found in the 1st section and chronologically placed in the 3rd position
 - **Content Type**	- Type of the specific item's content
 - **Exercise Type**	- Type of the exercise if the content type is Quiz
 - **Visits**	- Total number of visits

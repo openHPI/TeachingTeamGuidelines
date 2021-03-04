@@ -20,13 +20,13 @@ This page shows the statistics of the announcements that were made for a particu
 
 The following headings are used to further explain the statistics as shown in the figure above:
 
-* **News Title**: It lists all the items that were introduced in the course
-* **Total**: It shows the total number of announcements made under a specific item
-* **Success**: It shows the total number of successful announcements made under a specific item
-* **Error**: It shows the total number of errors or retracted announcements made under a specific item
-* **Disabled**: It shows the total number of announcement notifications which were disabled by the users under a specific item
-* **Read**: It shows the total number of announcements that were read by the users under a specific item
-* **Newest** and **Oldest**: It shows the date of the announcement that were made or edited under a specific item
-* **Status**: It shows the status of the announcements made under a specific item
-* **Progress**: It shows the progress of the announcements made under a specific item
-* **Read State Progress**: It shows the percentage of the users that have read the announcements made under a specific item
+* **News Title**: It lists all the headings of the announcements that were sent during a particular course
+* **Total**: It shows the total number of announcements sent to all the participants during a particular course
+* **Success**: It shows the total number of announcements that were received by participants during a particular course
+* **Error**: It shows the total number of announcements that could not be sent during a particular course
+* **Disabled**: It shows the total number of participants that disabled the announcement during a particular course
+* **Read**: It shows the total number of announcements that were read by the users during a particular course
+* **Newest** and **Oldest**: It shows the date of the announcement that were made or edited during a particular course
+* **Status**: It shows the status of the announcements sent during a particular course
+* **Progress**: It shows the progress of the announcements sent during a particular course
+* **Read State Progress**: It shows the percentage of the users that have read the announcements sent during a particular course

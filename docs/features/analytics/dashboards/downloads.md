@@ -15,7 +15,7 @@ This page shows all the details pertaining to the downloads of all the video ite
 
 As shown in the figure below, we use the following headings to explain the statistics:
 * **Item**	- Lists all the video items in that specific course
-* **Position**	- Popularity of the specific video item in that particular course
+* **Position**	- Shows the position of the item in the course structure according to the scheme [`Section_Number.Item_Number`]. For example, Position 1.3 would mean that the particular item will be found in the 1st section and chronologically placed in the 3rd position
 * **Total Downloads (by Unique Users)**	- Shows the total number of time a specific video was downloaded
 * **HD Video Downloads (by Unique Users)**	- Shows the total number of time a specific video's High Definition version was downloaded
 * **SD Video Downloads (by Unique Users)**	- Shows the total number of time a specific video's Standard Definition version was downloaded
