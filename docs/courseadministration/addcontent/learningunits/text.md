@@ -26,6 +26,7 @@ To link a file for download:
 
 - Upload the file via the file upload drop zone next to the text input field.
 - Click on the add image icon and select the file that you have just uploaded.
+- Be sure to add ***!*** in the text field before adding an image from a link.
 - In the text field: **remove** the ***!*** in front of the download link and add some meaningful text within the brackets followed by the link.
 - For the link, you can also add a number like footnote and list the link numbers at the bottom of your text in the following format:  
   
@@ -39,5 +40,8 @@ To link a file for download:
 
 ![linking files for download](../../../img/05/link_for_down.png)
 
-*Fig. Manipulate image link to turn it into a download link*
+*Fig. Manipulate image link to turn it into a download link*  
 
+
+![add image](../../../img/courseadministration/courseproperties/text_item.png)  
+*Fig. Steps to add an image from file upload*
