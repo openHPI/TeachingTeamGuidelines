@@ -39,7 +39,6 @@ nav:
       - 'Referrer': 'features/analytics/dashboards/referrer.md'
     - Progress: 'features/analytics/progress.md'
   - Certificates: 'features/certificates.md'
-  - Learning Objectives: 'features/learningobjectives.md'
   - Course Announcements: 'features/courseannouncements.md'
   - External Tools: 
     - CodeOcean: 'features/externaltools/codeocean.md'
