@@ -19,8 +19,15 @@ To represent the learning items, openHPI uses the following icons:
 | ![survey](../../img/features/analytics/progress_legends/survey.png) | This item represents a survey |
 | ![stat](../../img/features/analytics/progress_legends/infp-graphic_stats.png) | This item can represent a chart or statistical figure  |
 | ![info-graph](../../img/features/analytics/progress_legends/infp-graphic_quiz.png) | This item can represents an external quiz hosted on a different platform or external exercise tool |
-| ![conference](../../img/features/analytics/progress_legends/conference.png) | This item can represent a video conference or an assitant |
+| ![conference](../../img/features/analytics/progress_legends/conference.png) | This item can represent a video conference or an assistant |
 | ![adjust](../../img/features/analytics/progress_legends/adjust_point.png) | This item represents a bonus quiz |
 | ![youtube](../../img/features/analytics/progress_legends/youtube.png) | This item represents a YouTube video |
 | ![moderator](../../img/features/analytics/progress_legends/moderator.png) | This item can represent an audio conference or a moderator |
-| ![external_video](../../img/features/analytics/progress_legends/external_video.png) | This item represents an external video  |
+| ![external_video](../../img/features/analytics/progress_legends/external_video.png) | This item represents an external video  |  
+
+The following legends represent the state of the icons:  
+
+| Icons | State |
+|---|---|
+| ![not visited](../../img/features/analytics/progress_legends/visit_nc.png) | This represents that the participant has not visited the item  |
+| ![visited](../../img/features/analytics/progress_legends/complete.png) | This represents that the participant has visited the item |
