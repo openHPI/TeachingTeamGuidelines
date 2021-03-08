@@ -17,44 +17,44 @@ The University of Texas provides some [good advice](https://facultyinnovate.utex
 
 ## Self-Tests
 
-Self-tests help repeating and deepening the learnings from the previously seen video clips. Content-wise, questions should be designed in a way, that they take up the most important learnings and findings from the videos. 
+Self-tests help repeating and deepening the learnings from the previously seen video clips. Content-wise, questions should be designed in a way, that they take up the most important learnings and findings from the videos.
 Alternatively, self-tests can also be used to encourage the students to deepen their knowledge, e.g. with some research of their own.
 Depending on length and level of difficulty, video content should be reflected within 2-5 questions.
-The points users can earn for self-tests should, in general, match with the ones from the weekly assignments. The number of points for a question depends on its type and the level of difficulty. In general, multiple-answer-questions are considered to be more difficult than multiple-choice-questions. 
+The points users can earn for self-tests should, in general, match with the ones from the weekly assignments. The number of points for a question depends on its type and the level of difficulty. In general, multiple-answer-questions are considered to be more difficult than multiple-choice-questions.
 
 Questions with more answers to choose from should earn more points. The amount of points should not match the number of correct answers, however.
 For multiple-answer-questions, the points a user will receive are calculated according to their correct answers. The value of the result is determined by the sum of correct answers. If a student marks a correct answer as correct, he/she will receive the according part of the total points. If a student marks a wrong answer as correct, the according part of the total points will be deducted. Minimum points are always zero, there are no negative points.
 
-	Example: 
+	Example:
 
-	- Question with four answers to chose from: 
-		- 2 answers are correct, 
-		- 2 answers are wrong. 
+	- Question with four answers to chose from:
+		- 2 answers are correct,
+		- 2 answers are wrong.
 		- The teaching team decided to award this questions with 4 points.  
 
 	- Student one:
-	   - Marked two answers as correct. 
+	   - Marked two answers as correct.
 	   - Both of the answers have been marked as correct by the teaching team as well.
 	   ==> Student one will receive 4 points.
 
 	- Student two:
-	   - Marked one answer as correct. 
+	   - Marked one answer as correct.
 	   - The answer has been marked as correct by the teaching team as well.
 	   ==> Student two will receive 2 points.  
 
 	- Student three:
-      - Marked two answers as correct. 
+      - Marked two answers as correct.
       - One of the answers is correct, the other one is wrong.
       ==> Student three will receive 0 points.
 
  	- Student four:
-      - Marked two answers as correct. 
+      - Marked two answers as correct.
       - Both answers are wrong.
       ==> Student four will receive 0 points.   
 
 
 
-**We strongly discourage to tell the students how many answers are correct in a multiple answer question.** Practice has shown that this increases the need for re-gradings, while simultaneously reducing the choice of possible re-gradings.
+**We strongly discourage to tell the students how many answers are correct in a Multi Select question.** Practice has shown that this increases the need for re-gradings, while simultaneously reducing the choice of possible re-gradings.
 
 
 
@@ -69,10 +69,10 @@ For multiple-answer-questions, the points a user will receive are calculated acc
 
 ![add section](../img/06/weekly_assignments.png)
 
-*Fig. An example about weekly assignments* 
+*Fig. An example about weekly assignments*
 
 
-The performance of openHPI learners is measured with weekly assignments and a final exam. 
+The performance of openHPI learners is measured with weekly assignments and a final exam.
 
 **We suggest to allocate a total of 180 points per course:**
 
@@ -89,7 +89,7 @@ For weekly assignments and the final exam, we suggest to set a time limit and to
 - Final exam: 1 attempt, 120 minutes
 
 Some teaching teams have gained good experience with more narrow time slots. This way a *closed book exam* can be simulated.
-As this setting is rather unusual on the platform it can (will) lead to undesired help desk traffic and forum posts. 
+As this setting is rather unusual on the platform it can (will) lead to undesired help desk traffic and forum posts.
 
 In case of e.g. technical problems, a second attempt can be given to affected users individually. This is only possible, however, before the deadline of the quiz has passed.
 
@@ -122,30 +122,29 @@ Possible mistakes during quiz design, which can lead to a regrading, can be as f
 **Remove question:**
 A complete question could be removed from the quiz. As this leads to undesired side effects, such as the recalculation of the amount of overall points, this should be avoided. A Jackpot regrading might be the better choice.
 
-**Add additional correct answer (multiple choice only):** For multiple choice questions additional answers can be checked as correct. This also requires the update skript to be run. If applied to a multiple answer question, the amount of points per answer might change, users that answered the question as it was originally intended will lose points.
+**Add additional correct answer (Single Select only):** For Single Select questions additional answers can be checked as correct. This also requires the update skript to be run. If applied to a Multi Select question, the amount of points per answer might change, users that answered the question as it was originally intended will lose points.
 
 
 
 ![edit quiz - overview](../img/06/question1_quiz.png)
 
-*Fig. Edit questions of the quiz* 
+*Fig. Edit questions of the quiz*
 
 
 
 
 ![edit quiz - add new question](../img/06/question2_quiz.png)
 
-*Fig. Add a new question to the quiz* 
+*Fig. Add a new question to the quiz*
 
 
 
 
 ![example quiz](../img/06/quiz_example.png)
 
-*Fig. An example from the corrected quiz* 
+*Fig. An example from the corrected quiz*
 
 
 ## Background information – Quiz-Engine
 
 Quizzes in openHPI are saved "versionized", which means that each editing (and publication) of a quiz generates a new version. If a user wants to take the quiz, a copy with the latest version of that quiz is stored in a database table. Therefore, a modification of the already released quiz doesn’t have an impact on already submitted questions. Some - (e.g. Jackpot) only corrects the POINTS for submitted answers, not the answers themselves. So please be aware that an inconsistency between correct answers of a student and her points can arise.
-

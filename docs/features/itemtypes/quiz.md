@@ -6,9 +6,9 @@ A quiz consists of questions and the corresponding answers.
 The points to be awarded are configured per question.  
 Additional explanatory texts may be added to the questions and answers.  
 The answer options are marked as correct or incorrect by the teaching team behind the scenes.  
-Answers to a question can be configured to be shown in random order. 
+Answers to a question can be configured to be shown in random order.
 Explanatory texts are only visible to a participant when the solution has been subitted and the results are published.
-  
+
 <br>
 ![Sample quiz](../../img/features/itemtypes/quiz.png)  
 
@@ -17,19 +17,19 @@ Explanatory texts are only visible to a participant when the solution has been s
 
 So far there are four different types of questions to choose from:  
 
-* Multiple choice questions (ONLY ONE correct answer) 
-* Multiple answer questions (MORE THAN ONE possible correct answers)
-* Free-text questions (with a configurable list of correct answers) 
+* Single select questions (ONLY ONE correct answer)
+* Multi Select questions (MORE THAN ONE possible correct answers)
+* Free-text questions (with a configurable list of correct answers)
 * Essay questions (not evaluated automatically)
 
 With the exception of essay questions, the evaluation of quizzes is a fully automatic operation. The evaluation for automatically graded questions are listed below with an example:  
 
-* ### Multiple Choice Question:  
+* ### Single Select Question:  
     There is only one correct answer.  
     For the correct answer, the specified number of points for the task will be awarded.  
     The participant receives 0 points for an incorrect answer.   
 
-* ### Multiple Answer Question:   
+* ### Multi Select Question:   
     There are more than one possible answers.  
     The maximum number of points possible is divided by the number of correct alternatives.
     The resulting value is used as the base value.  
@@ -45,7 +45,7 @@ With the exception of essay questions, the evaluation of quizzes is a fully auto
 
 <br>
 
-The platform provides a user interface to create quizzes. Alternatively, quizzes can be imported from Google Spreadsheets and via an XML import format. Please contact your platform administrator for further instructions to work with the import formats. 
+The platform provides a user interface to create quizzes. Alternatively, quizzes can be imported from Google Spreadsheets and via an XML import format. Please contact your platform administrator for further instructions to work with the import formats.
 
 As all item types, quizzes in a course are located within a course section.  
 
@@ -62,24 +62,24 @@ To learn more about creating and configuring quizzes, please refer to [Quiz Desi
 Despite the quality control and great care taken in creating the tests, the possibility of errors or ambiguities cannot be wholly eliminated. If for some reason an error has slipped into one of the questions, there are different ways of re-grading it:  
 
 * Re-grading scripts can be used to regenerate point calculation for all participants.
-* It is also possible to credit individual participants with points. 
+* It is also possible to credit individual participants with points.
 * Before expiration of the deadline, extra attempts can be activated individually on a per participant basis.
 
 The following re-grading options are supported by the HPI platform:   
 
-* ### Multiple Correct Answers for Multiple Choice Questions:  
-    In multiple choice questions, additional answers can be marked as correct after the fact.  
+* ### Multiple Correct Answers for Single Select Questions:  
+    In Single Select questions, additional answers can be marked as correct after the fact.  
     All participants who have selected one of the newly marked correct answers will receive the full number of points.  
 
-* ### Removing an Answer: 
-    In multiple answer questions, both correct and incorrect answers can be removed at a later date.  
+* ### Removing an Answer:
+    In Multi Select questions, both correct and incorrect answers can be removed at a later date.  
     The points are then re-calculated for all participants.  
     It is possible that some participants will end up with fewer points than before the re-grading.
 
     >**Example**:  
     One of the wrong answers given was ambiguously formulated.
 
-* ### Choosing One Answer for all Participants: 
+* ### Choosing One Answer for all Participants:
     Here one specific answer is chosen for all participants.  
     The points are then recalculated.  
     Afterwards, all participants involved will have more points.  
@@ -88,7 +88,7 @@ The following re-grading options are supported by the HPI platform:
     One of the answers given as correct was formulated ambiguously.  
     Some participants decided to play it safe and chose not to select the answer.
 
-* ### Adding an Answer: 
+* ### Adding an Answer:
     Other correct answers can be added at a later date for free-text questions.  
 
 
@@ -102,16 +102,16 @@ The following re-grading options are supported by the HPI platform:
     Alternatively, the full number of points could be given to all participants who took the test but did not answer that particular question.  
 
     >**Example**:  
-    When none of the other mechanisms apply. 
-    
+    When none of the other mechanisms apply.
+
 Please contact your platform administrator if you have to regrade on of your quizzes.
-  
+
 <br>
 
 A quiz can be used as a self-test or a graded test:  
 
 * In the self-checking function, the correct answers are displayed immediately after the self-test has been completed.  
-  
+
 * In the case of the graded test, the results are time-delayed following expiration of the set publication date to prevent discussions from occurring too early.  
 
 Furthermore, quizzes can be defined as a bonus exercise. In this case, the quiz is similar to a graded quiz except that the points earned are only used to make up for missing points on other quizzes.
@@ -122,7 +122,7 @@ Furthermore, quizzes can be defined as a bonus exercise. In this case, the quiz 
 One weekly evaluated task: worth *15* points each  
 One final test: *90* points  
 One bonus task: *10* points  
-Approx. 30 self-tests: worth *4* points each (*120* points total) 
+Approx. 30 self-tests: worth *4* points each (*120* points total)
 >
 >
 >Maximum possible points in the course: ***[(6 x 15) 90 + 90]*** = ***180*** points  
@@ -143,7 +143,7 @@ Participant also achieves the maximum *10* points on the bonus task
 >
 >**Result**:  
 ***(6 x 15) + 90 + 10*** = ***190*** points.  
-The result is capped at the maximum achievable ***180*** points 
+The result is capped at the maximum achievable ***180*** points
 >
 >For both participants, the points scored on the self-test have no bearing on the result.
 
