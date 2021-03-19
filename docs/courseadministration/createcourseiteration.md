@@ -66,6 +66,7 @@ It might take a few seconds until all elements of the course are available.
 - For the participants the H5P exercises are fully functionable.
 
 **But:**
+
 - The H5P exercises cannot be edited from within the new course, only from the original.
 - If H5P exercises are used from within two different courses, the (internal H5P) learning analytics data will probably be messed up.
 - If H5P exercises are to be copied from one course to another, this has to be done manually by exporting them from one H5P course library and importing them to the other H5P course library.
