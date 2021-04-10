@@ -29,7 +29,7 @@ It is possible to use H5P for a variety of use cases. As an example it can be us
 
 1. **Memory** You can either set the pictures to be the same or to match different pictures. In the first case the participant will have to find pairs. In the second case the participant has to find matching pictures. As long as the participant completes the memory game, full points will be rewarded. An example looks like this:   
 <img src="../img/externaltools/h5p/memory.png" alt="memory"	title="Memory example" width=40% height=auto />
- 
+
 2. **Find the words** In this quiz you can define a list of words that will be hidden in a field of letters. This will be done automatically. The words will appear in any possible way and direction in the letter field. It is possible for a word to be backwards diagonal. There are no penalties so the full points will be rewarded for finding all words. An example:
 <img src="../img/externaltools/h5p/find_the_words.png" alt="words" title="Find the words example" width=50% height=auto />
   
@@ -47,9 +47,9 @@ There are a couple of things you should be aware of when using this tool.
 <img src="../img/externaltools/h5p/problem_1.png" alt="Problem 1" width=auto height=260px /> <img src="../img/externaltools/h5p/problem_2.png" alt="Problem 2" width=auto height=260px />
 
 2. Creating the quizzes might be a lot of work in some cases. Some quizzes like the memory are pretty easy and intuitive. Other quizzes such as the drag and drop are not intuitive and have some missing translations. In these cases, one needs a lot of try and error to create a quiz as desired. 
-  Be especially aware of this non-translated red button. You might think that this just discards the changes, but in practice it deletes the entire object. 
+    Be especially aware of this non-translated red button. You might think that this just discards the changes, but in practice it deletes the entire object. 
 <img src="../img/externaltools/h5p/problem_3.png" alt="Problem 3" width=auto height=500px />
-  A further problem is that the flexibility for the drag-and-drop quiz is unexpectedly good, but it needs a lot of settings in order to configure it. You can set the drop zones for each text and then specify in each drop zone which text(s) should be the correct one(s). 
+A further problem is that the flexibility for the drag-and-drop quiz is unexpectedly good, but it needs a lot of settings in order to configure it. You can set the drop zones for each text and then specify in each drop zone which text(s) should be the correct one(s). 
   
 3. In some quizzes there are small problems with attending the quiz. 
 - In the find-the-words quiz it is very difficult to select a word in the top row because the mouse is not aligned with the selection on the word field. 
@@ -59,7 +59,18 @@ In both cases it is not impossible to successfully complete the task but it migh
 
 ## User Feedback
 
+### Negative User Feedback
 
+Especially the 3. point of the problems was discussed heavily by the users. Many users could not complete the exercise find-the-words. This caused many users to be annoyed and communicate that in the discussion forum. Due to the issue with the find-the-word exercise we had a lot of moderation and communication work with negaive comments.
+There were also smaller hickups that annoyed users e.g. problems with drag and drop. We also received the feedback that the usefulness of the exercises is limited. It was seen as a small playfulness feature instead of being usefull content. 
+
+### Positive User Feedback
+
+Only a few user liked diversity with the additional H5P exercises compared to only having multiple choice exercises. We did not receive any other positive feedback probably as a result of having issues with some exercises. 
+
+## Conclusion 
+
+H5P brings new diversity for the exercises. Especially with pictures it is nice to use something different then multiple choice question. Nevertheless H5P finished and polished state. Some exercise types still need some work. For both the content creation and the user experience. We had a lot of negative feedback since some exercises did not work and until they are not finished we would not recommend this tool. This is due to the decreased user experience if the exercises do not work and the additional work to discuss these problems in the forum.
 
 ----------
 
