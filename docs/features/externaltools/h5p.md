@@ -61,16 +61,17 @@ In both cases it is not impossible to successfully complete the task but it migh
 
 ### Negative User Feedback
 
-Especially the 3. point of the problems was discussed heavily by the users. Many users could not complete the exercise find-the-words. This caused many users to be annoyed and communicate that in the discussion forum. Due to the issue with the find-the-word exercise we had a lot of moderation and communication work with negaive comments.
-There were also smaller hickups that annoyed users e.g. problems with drag and drop. We also received the feedback that the usefulness of the exercises is limited. It was seen as a small playfulness feature instead of being usefull content. 
+Especially the third point of the problems was discussed heavily by the users. Many users could not complete the exercise find-the-words. Even though we encountered this problem ourselves when testing the exercises, it was always possible to finish the exercise after a fex tries. For some users though it turned out to be impossible to finish the task at all. This caused many users to be annoyed and communicate that in the discussion forum. Due to the issue with the find-the-word exercise we had a lot of moderation and communication work with negative comments.
+There were also smaller hickups that annoyed users e.g. problems with drag and drop. We also received the feedback that the usefulness of the exercises is limited. It was seen as a small playfull feature instead of being usefull content. 
+Also some users reported issues when trying to open h5p exercises from the openHPI IOS App, but they were not further described in the discussion forum. 
 
 ### Positive User Feedback
 
-Only a few user liked diversity with the additional H5P exercises compared to only having multiple choice exercises. We did not receive any other positive feedback probably as a result of having issues with some exercises. 
+Only a few user liked the diversity with the additional H5P exercises compared to only having multiple choice exercises. We did not receive any other positive feedback probably as a result of having issues with some exercises. 
 
 ## Conclusion 
 
-H5P brings new diversity for the exercises. Especially with pictures it is nice to use something different then multiple choice question. Nevertheless H5P finished and polished state. Some exercise types still need some work. For both the content creation and the user experience. We had a lot of negative feedback since some exercises did not work and until they are not finished we would not recommend this tool. This is due to the decreased user experience if the exercises do not work and the additional work to discuss these problems in the forum.
+H5P brings new diversity to the exercises. It is nice to use something different than multiple choice questions once in a while. Nevertheless H5P is not in a finished and polished state. Some exercise types still need some work for both, the content creation and the user experience. We had a lot of negative feedback since some exercises did not work and until they are not finished we would not recommend using this tool. This is due to the unpleasant user experience if the exercises do not and the additional work for moderators to discuss these problems in the forum.
 
 ----------
 
