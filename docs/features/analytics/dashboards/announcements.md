@@ -1,12 +1,17 @@
 ![HPI Logo](../../../img/HPI_Logo.png)
 
 # Announcements
+All visualizations of course data can be found in the course dashboard and its more detailed sub-pages.
 
 ![Dashboard](../../../img/course_admin_items/dashboard.png)  
 *Fig. Navigate the Dashboard button from the drop-down list under the Course Administration button*  
 
+To get to the detailed sub-pages, you can use the statistics menu on the course dashboard.
+
 ![Statistics](../../../img/features/analytics/dashboard/statistics.png)  
 *Fig. Find the Statistics button on the right hand side of the page*  
+
+There, you'll also find the announcements overview, which shows you the status of all your course announcements.
 
 ![Announcements](../../../img/features/analytics/dashboard/announcements.png)  
 *Fig. Navigate the Announcement section from the drop-down list under the Statistics button*  
@@ -18,15 +23,15 @@ This page shows the statistics of the announcements that were made for a particu
 ![Announcements Details](../../../img/features/analytics/dashboard/announcements_details.png)  
 *Fig. Preview of the Announcement Statistics for a particular course*  
 
-The following headings are used to further explain the statistics as shown in the figure above:
+A short explanation of the used labels:
 
-* **News Title**: It lists all the items that were introduced in the course
-* **Total**: It shows the total number of announcements made under a specific item
-* **Success**: It shows the total number of successful announcements made under a specific item
-* **Error**: It shows the total number of errors or retracted announcements made under a specific item
-* **Disabled**: It shows the total number of announcement notifications which were disabled by the users under a specific item
-* **Read**: It shows the total number of announcements that were read by the users under a specific item
-* **Newest** and **Oldest**: It shows the date of the announcement that were made or edited under a specific item
-* **Status**: It shows the status of the announcements made under a specific item
-* **Progress**: It shows the progress of the announcements made under a specific item
-* **Read State Progress**: It shows the percentage of the users that have read the announcements made under a specific item
+* **News Title**: The title of ypur announcement
+* **Total**: How many participants could have potentially been addressed.
+* **Success**: How many announcements have been successfully delivered.
+* **Error**: How many participants' email endpoints returned an error.
+* **Disabled**: How many participants' had disabled the announcements in their account settings.
+* **Read**: How many announcement recipients have returned a confirmation that the email was read. 
+* **Newest** and **Oldest**: The time frame in which the announcement emails have been delivered.
+* **Status**: The announcements sent status
+* **Progress**: The progress that sending the announcement has reached
+* **Read State Progress**: The progress of the read state confirmations
