@@ -3,6 +3,7 @@
 # Course Activity
 
 All visualizations of course data can be found in the course dashboard and its more detailed sub-pages.
+
 ![Dashboard](../../../img/course_admin_items/dashboard.png)  
 *Fig. Navigate the Dashboard button from the drop-down list under the Course Administration button*  
 
