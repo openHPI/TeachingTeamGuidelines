@@ -27,6 +27,8 @@ Although HTML is allowed to be used for particular purposes, we strongly discour
   
 Next to simple formatting options such as headlines, bold and italic text, lists, etc., the supported markdown allows to include images and links to download files, create weblinks, and insert tables. 
 
+## Images and File Downloads
+
 To add an image:
 
 - Upload the file via the file upload drop zone next to the text input field.
@@ -102,3 +104,15 @@ Only when the text item has been saved, the image/file will permanently be store
 ```
 
 Files that are uploaded and remain unused, will be automatically deleted from the server.
+
+
+## Links
+
+Links in text items can be created in two different ways:
+1. You just include a valid URL in your text. The system will recognize this and convert it to a clickable link.
+2. You use the link tool in the text area toolbar. You will be asked to enter a URL and the text to be displayed. The text will then be linked to the URL.
+
+
+## Tables 
+
+You can enter the markdown for a table manually. However, we recommend the use of a markdown table generator such as https://www.tablesgenerator.com/markdown_tables for your convenience.
