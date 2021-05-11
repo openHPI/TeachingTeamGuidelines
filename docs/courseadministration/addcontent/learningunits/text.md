@@ -29,7 +29,7 @@ To add an image:
 - This will create a link to the image in the following format:  
   
     >--start of text--  
-    ![enter image description here][1]  
+    \![enter image description here][1]  
     ...  
     --end of text--  
     [1]: upload://ad6c111b-2cc9-4045-ba29-c774bcad1ca0/my_file.png
@@ -40,7 +40,7 @@ Replace the "enter image description here" part in the brackets with a proper te
 This text is supposed to improve the accessibility of your content. Be sure it makes sense when it is e.g. read by a screen reader.
 
  >--start of text--  
-    ![This image shows a yellow submarine attacked by a giant octopus][1]  
+    \![This image shows a yellow submarine attacked by a giant octopus][1]  
     ...  
     --end of text--
 
@@ -51,7 +51,7 @@ To add a file for download:
 - This will create a link to the image in the following format: . 
   
     >--start of text--  
-    ![enter image description here][1] 
+    \![enter image description here][1] 
     ...  
     --end of text--  
    
