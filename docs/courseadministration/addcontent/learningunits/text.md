@@ -48,16 +48,14 @@ This text is supposed to improve the accessibility of your content. Be sure it m
 To add a file for download:
 
 - Follow the same procedure as for adding an image.
-- This will create a link to the image in the following format: . 
-  
+- This will create a link to the image in the following format:
+
+
     >--start of text--  
-    ! [enter image description here][1] 
+    ![enter image description here][1] 
     ...  
-    --end of text--  
-   
+    --end of text-- 
     [1]: upload://ad6c111b-2cc9-4045-ba29-c774bcad1ca0/my_file.pdf
-    
-<br>
  
 Now **remove** the ***!*** in front of the brackets and enter a proper text that indicates that this is a download link.
 
