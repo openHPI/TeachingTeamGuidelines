@@ -4,9 +4,9 @@
 
 The provision of reading material can be generally carried out in three forms: 
 
- - directly as a text-page, 
- - as a PDF download, or 
- - as a web link
+ - directly as a text item, 
+ - as a PDF download (within a text item, forum discussion, etc. ), or 
+ - as a web link (within a text item, forum discussion, etc. )
 
 To create a text item, first select `Course Structure & Content`  
 
@@ -29,7 +29,7 @@ To add an image:
 - This will create a link to the image in the following format:  
 
 ```markdown
-    >--start of text--  
+    --start of text--  
     ! [enter image description here][1]  
     ...  
     --end of text--  
@@ -47,11 +47,12 @@ This text is supposed to improve the accessibility of your content. Be sure it m
     ...  
     --end of text--
 ```
+<br>
 
 ![add image](../../../img/courseadministration/courseproperties/text_item.png)  
 *Fig. Steps to add an image from file upload*
 
-
+<br>
 To add a file for download:
 
 - Follow the same procedure as for adding an image.
@@ -64,6 +65,7 @@ To add a file for download:
     --end of text-- 
     [1]: upload://ad6c111b-2cc9-4045-ba29-c774bcad1ca0/my_file.pdf
 ``` 
+<br>
 Now **remove** the ***!*** in front of the brackets and enter a proper text that indicates that this is a download link.
 
 ```markdown
@@ -78,7 +80,7 @@ Now **remove** the ***!*** in front of the brackets and enter a proper text that
 *Fig. Manipulate image link to turn it into a download link*  
 
 
-
+<br>
 
 **Important!**
 
