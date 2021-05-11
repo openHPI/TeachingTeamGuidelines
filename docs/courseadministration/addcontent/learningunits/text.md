@@ -11,7 +11,12 @@ The provision of reading material can be generally carried out in three forms:
 To create a text item, first select `Course Structure & Content`  
 
 ![Text admin](../../../img/course_admin_items/course_structure_content.png)  
+
+Add a text item:
+
 ![Text item](../../../img/features/itemtypes/survey_admin.png)
+
+Enter title and content.
 
 ![adding text](../../../img/features/itemtypes/text_item1.png)  
 *Fig. Select Text as the type and fill up the rest of the compulsory fields*  
