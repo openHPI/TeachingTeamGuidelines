@@ -84,6 +84,6 @@ Before the text item has been saved for the first time, the link to the image/fi
     
 Only when the text item has been saved, the image/file will permanently be stored on the server. Also the address of the file will change:
 
- [1]: s3://openhpi-public/courses/2wqZ6yHfEotFJ01yZ2yIzC/rtfiles/1IKJQy66is0f3cefCpfe4q/my_file.pdf
+    [1]: s3://openhpi-public/courses/2wqZ6yHfEotFJ01yZ2yIzC/rtfiles/1IKJQy66is0f3cefCpfe4q/my_file.pdf
  
 Files that are uploaded and remain unused, will be automatically deleted from the server.
