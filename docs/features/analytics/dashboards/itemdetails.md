@@ -1,6 +1,6 @@
 ![HPI Logo](../../../img/HPI_Logo.png)
 
-# Learning Unit Details
+# Learning Unit (Item) Details
 
 All visualizations of course data can be found in the course dashboard and its more detailed sub-pages.
 
