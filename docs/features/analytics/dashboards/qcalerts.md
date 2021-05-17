@@ -24,7 +24,7 @@ QC alerts can have different severities. Some of them should necessarily be addr
 ![QC Alerts 1](../../../img/features/analytics/dashboard/qc_alerts_details.png)  
 *Fig. Preview of sample QC alerts of a specific course*  
 
-- **Actions**	- QC Alerts can be ignored if the teaching team thinks decides that they are irrelevant.
+- **Actions**	- "Ignore": the alert is removed from your QC Alerts list. "Ignore for all": the alert is removed from all course admins' QC Alerts lists
 - **Rule**	- the name of the QC rule that triggered the alert
 - **Status**	- Status of the QC alert
 - **Severity**	- Severity of the QC alert
