@@ -41,7 +41,7 @@ nav:
   - Certificates: 'features/certificates.md'
   - Learning Objectives: 'features/learningobjectives.md'
   - Course Announcements: 'features/courseannouncements.md'
-  - External Tools: 
+  - External Tools:
     - CodeOcean: 'features/externaltools/codeocean.md'
     - CodeHarbor: 'features/externaltools/codeharbor.md'
     - TeamBuilder: 'features/externaltools/teambuilder.md'
@@ -51,7 +51,7 @@ nav:
   - 'Curriculum Design': 'bestpractices/curriculumdesign.md'
   - 'Recommended Course Cycles':
     - Course Cycles: 'bestpractices/recommendedcoursecycles/coursecycles.md'
-    - 'Scheduled': 
+    - 'Scheduled':
       - Lecture: 'bestpractices/recommendedcoursecycles/scheduled/lecture.md'
       - Hands-on: 'bestpractices/recommendedcoursecycles/scheduled/handson.md'
       - Workshop: 'bestpractices/recommendedcoursecycles/scheduled/workshop.md'
@@ -62,7 +62,7 @@ nav:
   - Quiz Design: 'bestpractices/quizdesign.md'
   - Community Management: 'bestpractices/communitymanagement.md'
   - End of Course: 'bestpractices/endofcourse.md'
-  - Project Management: 
+  - Project Management:
     - Course Production Timeline: 'bestpractices/projectmanagement/courseproductiontimeline.md'
     - Teaching Team: 'bestpractices/projectmanagement/teachingteam.md'
     - Communication Matrix: 'bestpractices/projectmanagement/communicationmatrix.md'
@@ -71,9 +71,10 @@ nav:
 - Course Administration:
   - Setup Course Properties: 'courseadministration/courseproperties.md'
   - Grant Permissions: 'courseadministration/permissions.md'
-  - Add Content: 
+  - Add Content:
     - Modules: 'courseadministration/addcontent/modules.md'
-    - Learning Units: 
+    - Quiz Import: 'courseadministration/addcontent/quiz_import.md'
+    - Learning Units:
       - General: 'courseadministration/addcontent/learningunits/learningunit.md'
       - Quiz: 'courseadministration/addcontent/learningunits/quiz.md'
       - Video: 'courseadministration/addcontent/learningunits/video.md'
@@ -82,10 +83,10 @@ nav:
       - Peer Assessment: 'courseadministration/addcontent/learningunits/peerassessment.md'
   - Setup Certificate Templates: 'courseadministration/certificatetemplates.md'
   - Setup Learning Objectives: 'courseadministration/learningobjectives.md'
-  - Quiz Management: 
+  - Quiz Management:
     - Grant Additional Attempts: 'courseadministration/quizmanagement/additionalattempts.md'
     - Regrading: 'courseadministration//quizmanagement/regrading.md'
-  - Peer Assessment Management: 
+  - Peer Assessment Management:
     - Grant Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
     - Conflicts: 'courseadministration/peerassessmentmanagement/conflicts.md'
     - Regrading: 'courseadministration/peerassessmentmanagement/regrading.md'
@@ -94,7 +95,7 @@ nav:
   - Create Course: 'platformadministration/createcourse.md'
   - Static Pages: 'platformadministration/staticpages.md'
 - Glossary: 'glossary.md'
-  
+
 theme: windmill
 
 extra_css:
