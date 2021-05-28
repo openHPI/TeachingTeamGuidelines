@@ -73,10 +73,10 @@ nav:
   - Grant Permissions: 'courseadministration/permissions.md'
   - Add Content:
     - Modules: 'courseadministration/addcontent/modules.md'
-    - Quiz Import: 'courseadministration/addcontent/quiz_import.md'
     - Learning Units:
       - General: 'courseadministration/addcontent/learningunits/learningunit.md'
       - Quiz: 'courseadministration/addcontent/learningunits/quiz.md'
+      - Quiz Import: 'courseadministration/addcontent/quiz/quiz_import.md'
       - Video: 'courseadministration/addcontent/learningunits/video.md'
       - Text: 'courseadministration/addcontent/learningunits/text.md'
       - LTI: 'courseadministration/addcontent/learningunits/lti.md'

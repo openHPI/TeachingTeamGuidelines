@@ -10,7 +10,7 @@ We can provide you with a quiz template that you can copy
 
 ![How our quiz template looks like](../../img/courseadministration/quizmanagement/quiz_template.png)
 
-### Find the non-to-be-edited quiz structure template [here](https://docs.google.com/spreadsheets/d/1_b8wO9_HlrrHQxagYan1iM6BBK0XtnD6vESxmhnML5s/edit#gid=0)
+### Find the non-to-be-edited quiz structure template [here](https://docs.google.com/spreadsheets/d/1_b8wO9_HlrrHQxagYan1iM6BBK0XtnD6vESxmhnML5s)
 
 ### Before proceeding, remember:
 ## Please, do not edit directly the template, but make a copy of it* - see below how to do it.
@@ -24,26 +24,28 @@ Please note that every row after the _Quizname_ rows is a question.
 
 ##### The infos about the quiz and its type:
 
-- *Name* : the name of the quiz
-- *CourseSection*: the section of the course where the quiz is
+- *Name*: the name of the quiz
+- *CourseSection*: the section of the course where the quiz is. It must be a numeric value.
 - *Quiz Type*: choose the most appropriate type for the quiz
-- *Instructions*: This is a standard instructions
+- *Instructions*: The instructions for taking the quiz. Please note that self-tests do not have instructions
 
 ##### Question type, its points and explanation (green cells)
 
 - *Question*: actual text of the question
 - *QuestionType*: choose between multiple answer or multiple choice
 - *Points*: points of the question
-- *Explanation*: eventual explanation of the question
+- *Explanation*: optional explanation of the question
 
 ##### The answers to the question (blue and violet cells)
 
 - *Answer1*, *Answer2*,* Answer3*, *Answer4* : the text of the answer
-- *Correctness* :choose 'True' for correct answer or  ('False') for the wrong answer
-- *Explanation*: text of the eventual explanation of the answer
+- *Correctness* :choose 'True' for a correct answer or  ('False') for a wrong answer
+- *Explanation*: text of the optional explanation of the answer. Similar to the explanation of a question, this is shown together with the results of the quiz.
 
 
 ### 2. Share your quiz spreadsheet to our quiz service
+
+:bulb: _Before proceeding with this step, you may want to rename your quiz spreadsheet in a unique way, e.g._: `coursecode_quizname`
 
 Once you have finished filling out the quiz, question and answer infos for each week and homework worksheet, click on *Share* and paste address:
 _hpi-openhpi@quizquestions-1191.iam.gserviceaccount.com_
@@ -54,13 +56,13 @@ Click *Done* to submit.
 ## 3. Import your quiz spreadsheet into your course
 
 Now, go to the course section page, click on import.
-Fill out the Spreadsheet name with the name of your quiz spreadsheet
+Fill out the Spreadsheet name with the **file name** of your quiz spreadsheet (and not the URL)
 Fill out the Worksheet name with the name of the worksheet you want to import (e.g. "Week1")
-Click on "Submit".
+Click on *Submit*.
 It may take a little while before the values from your quiz spreadsheet get displayed.
+Check the status banner on the top of the page for the status of your import.
 
 
 ## Troubleshooting
-If the import returns the error "Pop from empty list", it is most likely that the worksheet you were trying to import from your spreadsheet was not the correct one or contained empty values.
-You will have to check manually again on your spreadsheet for empty or wrong values.
+If the import returns an error, you will have to check manually again on your spreadsheet for empty or wrong values.
 Once you have manually corrected the issues, please redo step 2 and 3.
