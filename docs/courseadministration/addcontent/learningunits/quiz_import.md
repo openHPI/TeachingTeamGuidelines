@@ -1,4 +1,4 @@
-![HPI Logo](../../img/HPI_Logo.png)
+![HPI Logo](../../../img/HPI_Logo.png)
 
 # Quiz Import from Google Spreadsheets
 
@@ -8,14 +8,14 @@ All you have to do is the following:
 ## 1. Make a copy of this template
 We can provide you with a quiz template that you can copy
 
-![How our quiz template looks like](../../img/courseadministration/quizmanagement/quiz_template.png)
+![How our quiz template looks like](../../../img/courseadministration/quizmanagement/quiz_template.png)
 
 ### Find the non-to-be-edited quiz structure template [here](https://docs.google.com/spreadsheets/d/1_b8wO9_HlrrHQxagYan1iM6BBK0XtnD6vESxmhnML5s)
 
 ### Before proceeding, remember:
-## Please, do not edit directly the template, but make a copy of it* - see below how to do it.
+## Please, do not edit directly the template, but make a copy of it - see below how to do it.
 
-![How to make a copy of a Google spreadsheet template](../../img/courseadministration/quizmanagement/copy_quiz_template.png)
+![How to make a copy of a Google spreadsheet template](../../../img/courseadministration/quizmanagement/copy_quiz_template.png)
 
 Now that you have created a copy, you can edit yours with the quiz questions for all the weeks and homeworks in your course.
 Please note that every row after the _Quizname_ rows is a question.
