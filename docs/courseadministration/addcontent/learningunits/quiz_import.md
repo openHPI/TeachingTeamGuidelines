@@ -1,10 +1,11 @@
 ![HPI Logo](../../../img/HPI_Logo.png)
 
 #  Using the Spread Sheet for Quiz Import
-For adding a quiz you can either use the quiz editor of the platform (as described here) or you can insert all questions and answers in a Google Spread Sheet. Often this is the preferred way to do it as it saves time and you can adapt and reuse it for other courses.
+For adding a quiz, you can either use the quiz editor of the platform - as decribed here -  or you can insert all questions and answers in a Google Sheet document.
+This is the preferred way for many, as it saves time and you can adapt and reuse it for other courses.
 
 ## 1. Make a copy of this template
-We can provide you with a quiz template that you can copy.
+You will have to make a copy of our quiz template spreadsheet, that you can find below.
 
 ![How our quiz template looks like](../../../img/courseadministration/quizmanagement/quiz_template.png)
 
@@ -15,7 +16,10 @@ We can provide you with a quiz template that you can copy.
 
 ![How to make a copy of a Google spreadsheet template](../../../img/courseadministration/quizmanagement/copy_quiz_template.png)
 
-As you see, the spreadsheet consists of different sheets. Every sheet can be imported separately. Usually, there is one sheet per week and one extra sheet for the final exam.
+As you see, the spreadsheet consists of different sheets.
+Every sheet can be imported separately.
+Usually, there is one sheet per week and one extra sheet for the final exam.
+
 Please note that every row after the _Quizname_ rows is a question.
 
 ## How to fill quiz questions and answers
