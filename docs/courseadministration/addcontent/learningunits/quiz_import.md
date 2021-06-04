@@ -1,12 +1,10 @@
 ![HPI Logo](../../../img/HPI_Logo.png)
 
-# Quiz Import from Google Spreadsheets
-
-You can import the quiz structure from Google Spreadsheets.
-All you have to do is the following:
+#  Using the Spread Sheet for Quiz Import
+For adding a quiz you can either use the quiz editor of the platform (as described here) or you can insert all questions and answers in a Google Spread Sheet. Often this is the preferred way to do it as it saves time and you can adapt and reuse it for other courses.
 
 ## 1. Make a copy of this template
-We can provide you with a quiz template that you can copy
+We can provide you with a quiz template that you can copy.
 
 ![How our quiz template looks like](../../../img/courseadministration/quizmanagement/quiz_template.png)
 
@@ -17,16 +15,18 @@ We can provide you with a quiz template that you can copy
 
 ![How to make a copy of a Google spreadsheet template](../../../img/courseadministration/quizmanagement/copy_quiz_template.png)
 
-Now that you have created a copy, you can edit yours with the quiz questions for all the weeks and homeworks in your course.
+As you see, the spreadsheet consists of different sheets. Every sheet can be imported separately. Usually, there is one sheet per week and one extra sheet for the final exam.
 Please note that every row after the _Quizname_ rows is a question.
 
-### Cheat sheet of quiz questions and answers
+## How to fill quiz questions and answers
+
+Let's have an overview of the required fields:
 
 ##### The infos about the quiz and its type:
 
 - *Name*: the name of the quiz
 - *CourseSection*: the section of the course where the quiz is. It must be a numeric value.
-- *Quiz Type*: choose the most appropriate type for the quiz
+- *Quiz Type*: choose the most appropriate type for the quiz: self-test (ungraded), a weekly assignment (graded), a survey, a bonus exercise or the final exam
 - *Instructions*: The instructions for taking the quiz. Please note that self-tests do not have instructions
 
 ##### Question type, its points and explanation (green cells)
@@ -39,7 +39,7 @@ Please note that every row after the _Quizname_ rows is a question.
 ##### The answers to the question (blue and violet cells)
 
 - *Answer1*, *Answer2*,* Answer3*, *Answer4* : the text of the answer
-- *Correctness* :choose 'True' for a correct answer or  ('False') for a wrong answer
+- *Correctness* :choose 'True' for a correct answer or  'False' for a wrong answer
 - *Explanation*: text of the optional explanation of the answer. Similar to the explanation of a question, this is shown together with the results of the quiz.
 
 
