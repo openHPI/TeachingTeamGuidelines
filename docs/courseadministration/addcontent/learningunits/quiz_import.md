@@ -43,7 +43,7 @@ Let's have an overview of the required fields:
 ##### The answers to the question (blue and violet cells)
 
 - *Answer1*, *Answer2*,* Answer3*, *Answer4* : the text of the answer
-- *Correctness* :choose 'True' for a correct answer or  'False' for an incorrect answer
+- *Correctness*: choose 'True' for a correct answer or  'False' for an incorrect answer
 - *Explanation*: optional explanation of the question and correct answers. This is shown to learners together with the results of the quiz.
 
 ### 2. Share your quiz spreadsheet to our quiz service
