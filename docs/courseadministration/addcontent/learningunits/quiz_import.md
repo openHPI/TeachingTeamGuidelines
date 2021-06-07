@@ -36,7 +36,7 @@ Let's have an overview of the required fields:
 ##### Question type, its points and explanation (green cells)
 
 - *Question*: actual text of the question
-- *QuestionType*: you can choose between 'multiple answer' ('multiple choice' in the platform) and 'multiple choice' ('single select choice' in the platform). Please note that ther types, like free text and survey, are not supported through the spreadsheet, but only natively via the platform.
+- *QuestionType*: you can choose between 'multiple answer' ('multiple choice' in the platform) and 'multiple choice' ('single select choice' in the platform). Please note that the other types, like free text and survey, are not supported through the spreadsheet, but only natively via the platform.
 - *Points*: points of the question
 - *Explanation*: optional explanation of the question
 
