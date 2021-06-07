@@ -36,20 +36,19 @@ Let's have an overview of the required fields:
 ##### Question type, its points and explanation (green cells)
 
 - *Question*: actual text of the question
-- *QuestionType*: choose between multiple answer or multiple choice
+- *QuestionType*: you can choose between 'multiple answer' ('multiple choice' in the platform) and 'multiple choice' ('single select choice' in the platform). Please note that ther types, like free text and survey, are not supported through the spreadsheet, but only natively via the platform.
 - *Points*: points of the question
 - *Explanation*: optional explanation of the question
 
 ##### The answers to the question (blue and violet cells)
 
 - *Answer1*, *Answer2*,* Answer3*, *Answer4* : the text of the answer
-- *Correctness* :choose 'True' for a correct answer or  'False' for a wrong answer
-- *Explanation*: text of the optional explanation of the answer. Similar to the explanation of a question, this is shown together with the results of the quiz.
-
+- *Correctness* :choose 'True' for a correct answer or  'False' for an incorrect answer
+- *Explanation*: optional explanation of the question and correct answers. This is shown to learners together with the results of the quiz.
 
 ### 2. Share your quiz spreadsheet to our quiz service
 
-:bulb: _Before proceeding with this step, you may want to rename your quiz spreadsheet in a unique way, e.g._: `coursecode_quizname`
+_Before proceeding with this step, you may want to rename your quiz spreadsheet in a unique way, e.g._: `coursecode_quizname`
 
 Once you have finished filling out the quiz, question and answer infos for each week and homework worksheet, click on *Share* and paste address:
 _hpi-openhpi@quizquestions-1191.iam.gserviceaccount.com_
@@ -59,7 +58,10 @@ Click *Done* to submit.
 
 ## 3. Import your quiz spreadsheet into your course
 
-Now, go to the course section page, click on import.
+Now, go to the course section page, click on the 'Import quizzes from spreadsheet' button. A pop up dialog window opens.
+
+![How Quiz Import Pop Up looks like](../../../img/quizimport/quiz_import.png)
+
 Fill out the Spreadsheet name with the **file name** of your quiz spreadsheet (and not the URL)
 Fill out the Worksheet name with the name of the worksheet you want to import (e.g. "Week1")
 Click on *Submit*.
