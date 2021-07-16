@@ -10,10 +10,10 @@ The HPI learning platform features many dedicated interactive components for a m
 
 The interface offered by the HPI learning platform is a web-based link technology supporting the access of external educational resources. Opening an external offer through the interface has two main advantages:
 
-- Learners are recognized using a Single Sign-On within the external application. This allows a unified learning experience with saving the current progress and continuation on another device.
+- Learners are recognized (with a reduced information set) using a Single Sign-On within the external application. This allows a unified learning experience with saving the current progress and continuation on another device.
 - The external tool might return scores for activities back to the course within the HPI learning platform. These are handled similar to other scores and, depending on the settings, either count towards the certificate or self-test points.
 
-We recommend using the interface only for interactive, trust-worthy exercises and tools. Due to the Single Sign-On, some user data will be transmitted upon the first launch of any exercise of the given tool. Especially web links to external resources should not make use of this platform feature and should instead rely on the linking mechanism offered within the rich-text items.
+We recommend using the interface only for interactive, trust-worthy exercises and tools. In order to comply with privacy regulations, non-native LTI providers won't have access to personal user data as part of the Single Sing-On request by default. Especially web links to external resources should not make use of this platform feature and should instead rely on the linking mechanism offered within the rich-text items.
 
 ### Technical requirements
 
@@ -67,6 +67,7 @@ Each LTI provider requires only little information for the setup process. Those 
   - `window` will launch the external tool in a new window or tab - using the full window space for the content.
   - `pop-up` will launch the external tool in a new pop-up - usually implying smaller windows, a minimized address bar and potential issues with pop-up blockers.
   - `iframe` embeds the content within the HPI learning platform - showing the course navigation and providing only a subset of the available space to the tool. Third-party cookies might be disabled in the learner's browser and hence break cookie-based authentication.
+- The `Privacy Mode` specifies which data is passed to the _LTI endpoint_ by each learner accessing the tool. Per default, no personally identifiable information is transmitted to any LTI provider defined in the course context to protect the learners' data. If this setting needs to be adjusted, please contact a platform administrator to discuss further details.
 - `Custom fields` are LTI specific parameters and are used in accordance with the LTI standard. Refer to the tool's documentation for more details about the parameters available for use. A common value would be `locale=en` to set the desired language of the external tool to English (if supported).
 
 
