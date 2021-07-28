@@ -76,11 +76,12 @@ nav:
     - Learning Units:
       - General: 'courseadministration/addcontent/learningunits/learningunit.md'
       - Quiz: 'courseadministration/addcontent/learningunits/quiz.md'
-      - Quiz Import: 'courseadministration/addcontent/quiz/quiz_import.md'
+      - Quiz Import: 'courseadministration/addcontent/learningunits/quiz_import.md'
       - Video: 'courseadministration/addcontent/learningunits/video.md'
       - Text: 'courseadministration/addcontent/learningunits/text.md'
       - LTI: 'courseadministration/addcontent/learningunits/lti.md'
       - Peer Assessment: 'courseadministration/addcontent/learningunits/peerassessment.md'
+      - Team Peer Assessment: 'courseadministration/addcontent/learningunits/team_peerassessment.md'
   - Setup Certificate Templates: 'courseadministration/certificatetemplates.md'
   - Setup Learning Objectives: 'courseadministration/learningobjectives.md'
   - Quiz Management:
@@ -88,8 +89,7 @@ nav:
     - Regrading: 'courseadministration//quizmanagement/regrading.md'
   - Peer Assessment Management:
     - Grant Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
-    - Conflicts: 'courseadministration/peerassessmentmanagement/conflicts.md'
-    - Regrading: 'courseadministration/peerassessmentmanagement/regrading.md'
+    - Conflicts and Regrading: 'courseadministration/peerassessmentmanagement/conflicts_and_regrading.md'
   - Create Course Iteration: 'courseadministration/createcourseiteration.md'
 - Platform Administration:
   - Create Course: 'platformadministration/createcourse.md'
