@@ -9,10 +9,9 @@ You will have to make a copy of our quiz template spreadsheet, that you can find
 
 ![How our quiz template looks like](../../../img/courseadministration/quizmanagement/quiz_template.png)
 
-### Find the non-to-be-edited quiz structure template [here](https://docs.google.com/spreadsheets/d/1_b8wO9_HlrrHQxagYan1iM6BBK0XtnD6vESxmhnML5s)
+Find the non-to-be-edited quiz structure template [here](https://docs.google.com/spreadsheets/d/1_b8wO9_HlrrHQxagYan1iM6BBK0XtnD6vESxmhnML5s)
 
-### Before proceeding, remember:
-## Please, do not edit directly the template, but make a copy of it - see below how to do it.
+**Before proceeding, remember: Please, do not edit directly the template, but make a copy of it - see below how to do it.**
 
 ![How to make a copy of a Google spreadsheet template](../../../img/courseadministration/quizmanagement/copy_quiz_template.png)
 
