@@ -2,7 +2,7 @@
 
 # Getting Started: Designing your Course
 
-For general information about course design we recommend to look at the suggestions of the [MOOC Canvas Framework](http://mooccanvas.com/use.html).
+For general information about course design we recommend to look at the suggestions of the [MOOC Canvas Framework](https://www.it.uc3m.es/calario/MOOCCanvas/example.html).
 
 Another great resource is the [MOOC Design Patterns Project](http://www.moocdesign.cde.london.ac.uk/), particularly, their set of [design pattern cards](http://www.moocdesign.cde.london.ac.uk/outputs/design-pattern-cards).
 
