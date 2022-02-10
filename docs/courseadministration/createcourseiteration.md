@@ -38,6 +38,7 @@ It might take a few seconds until all elements of the course are available.
 - Communication in the name of the "original" teaching team (if team members change, design a consistent strategy how to deal with that. This strategy should include informing the original teaching team about your plans).
 - Remove / hide sample solutions if previously included (also in the original course!)
 - Hide the feedback module /( I Like I wish) till its time to get feedback
+- Check the existence of [the rating question "How do you rate this course overall?"](../img/courseadministration/createcourseiteration/rating_question.png) within the feedback module to feature five answers with one to five stars
 
 ## Peer Assessment
 - Re-create the complete peer assessment if still requested
