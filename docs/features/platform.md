@@ -26,7 +26,7 @@ To date there have been four nearly identical instances of the HPI MOOC platform
 
 * **OpenWHO**: The platform of the World Health Organization (WHO). The WHO uses the platform to inform and train its staff, the on-site medical teams, and the affected population in the event of the outbreak of an epidemic.  
 
-* The platform is also used as the e-learning component in the research projects AI-Campus and eGov-Campus and serves as the basis for Humboldts17, the sustainability platform of Berlin's Humboldt university.
+* The platform is also used as the e-learning component in the research projects AI-Campus and eGov-Campus.
 
 The platform is multilingual and currently supports the following languages (as of Sept. 2020): 
 
