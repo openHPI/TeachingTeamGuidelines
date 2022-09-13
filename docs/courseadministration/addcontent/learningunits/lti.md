@@ -77,6 +77,21 @@ Each LTI provider requires only little information for the setup process. Those 
 *Fig. Available values for LTI Providers and Save Action* 
 
 
+### Privacy modes and LTI Provider availability
+
+LTI providers can be set up either per course (local providers) or for the whole platform (global providers). 
+Local providers can be set up by course administrators, global providers can only be set up by platform administrators.
+
+The platform allows three different privacy settings:
+
+- anonymized: The LTI provider will only obtain an id that is unique for a combination of a user and a course. With this id, the provider is enabled to return the achieved points to the learner's account on the platform and keep track of the learner's action on the connected LTI tool within the current course. The LTI provider is not enabled to access any of the learner's private data and cannot track the learners' actions on the LTI tool across courses. This is the default setting and should only be changed if the requirements for any of the other modes are met.
+- pseudonymized: The LTI provider will only obtain the cryptographically hashed user_id. With this id, the provider is enabled to return the achieved points to the learner's account on the platform and keep track of the learner's action on the connected LTI tool across courses. The LTI provider is not enabled to access any of the learner's private data. To enable this, a Data Protection Agreement with the provider of the LTI tool is required.
+- unprotected: user_id, display name and email address are passed to the LTI tool provider. This should only be used for internal LTI tools - meaning LTI tools that are operated by the HPI. Examples are e.g. CodeOcean or the H5P tool that is operated by the HPI (but not e.g. H5P.com). 
+
+As teachers and course administrators do not necessarily know the implications of the privacy settings and the main goal is to protect the learners' privacy, the default privacy setting for local providers is "anonymized". Teachers and course administrators cannot change this setting. If the requirements are fulfilled, platform administrators can change this to a less restrictive mode if this is in the learners' interest or required to improve the overall usability.
+
+
+
 Once you put all required values in, you could save the LTI provider and use it in one of the exercises as shown below.
 
 ### Creating an LTI Exercise
