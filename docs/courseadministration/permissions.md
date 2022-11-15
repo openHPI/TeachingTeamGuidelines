@@ -2,20 +2,16 @@
 
 # Granting permissions
 
-Platform admins and course admins can grant permissions to a course under the course administration menu.
-  
-    
+Platform and course administrators can grant permissions to a user under the course administration menu for a specific course.  
 
 
-![course permissions](../img/04a/permission_menu.png)
-
-*Fig. Course Administration => Course permissions*
-
+![Permission](../img/course_admin_items/course_permission.png)  
+*Fig. Select the Course Permission from the drop-down list of Course Administration*
 
 
 ## Groups
 
-### Course Administrators
+### Course administrators  
 
 All members of this group are granted the following roles and permissions:
 
@@ -31,49 +27,16 @@ All members of this group are granted the following roles and permissions:
 - **LTI administration**: manage LTI providers
 - **LTI**: use LTI providers
 - **News management**: create, edit, delete and send announcements
-- **Peer assessment management**: view PA settings (evaluation criteria etc.), manage submissions (= view submissions/ reviews/ points/ progress, grant additional attempts, create regrading requests), manage training samples, manage conflicts, rate and mark submissions for best-of gallery
-- **Pin board moderation**: edit, delete, block/ unblock, move, close pinboard contributions, or mark them sticky, access pinboard abuse report
+- **Peer assessment management**: view PA settings (evaluation criteria etc.), manage submissions (view submissions/reviews/points/progress, grant additional attempts, create regrading requests), manage training samples, manage conflicts, rate and mark submissions for best-of gallery
+- **Pinboard moderation**: edit, delete, block/unblock, move, close pinboard contributions, or mark them sticky, access pinboard abuse report
 - **Quiz administration**: manage submissions, grant extra attempts
 - **Quiz statistics**: view submission statistics
 - **Quiz inspection**: view student submissions
 - **Video controlling**: view video statistics
 - **Subtitle editing**: upload and delete subtitles for videos
-- **Peer assessment administration**: view and edit PA settings (evaluation criteria etc.), manage submissions (= view submissions/ reviews/ points/ progress, grant additional attempts, create regrading requests), manage training samples, manage conflicts, rate and mark submissions for best-of gallery, create best of gallery  
+- **Peer assessment administration**: view and edit PA settings (evaluation criteria etc.), manage submissions (view submissions/reviews/points/progress, grant additional attempts, create regrading requests), manage training samples, manage conflicts, rate and mark submissions for best-of gallery, create best of gallery  
 
-  
-
-
-
-![course permissions - course administrators](../img/04a/course_administrators.png)
-
-*Fig. Granting course admin permissions to a user*
-
-
-### Teachers
-
-All members of this group are granted the following roles and permissions:
-
-- **User search**: find users when filtering submissions, etc.
-- **Course preview**: view unpublished course content
-- **Teacher**: legacy role for old teacher permissions
-- **QC Alerting**: list and ignore (own) alerts
-- **News preview**: view unpublished announcements
-- **Pin board moderation**: edit, delete, block/ unblock, move, close pinboard contributions, or mark them sticky, access pinboard abuse report
-- **Quiz statistics**: view submission statistics
-- **Quiz inspection**: view student submissions
-- **Video controlling**: view video statistics
-- **Peer assessment expert**: rate submissions, manage conflicts, manage training samples  
-
-  
-
-
-
-![course permissions - teachers](../img/04a/teachers.png)
-
-*Fig. Granting permissions to teachers*
-  
-
-### Course Moderators
+### Course moderators  
 
 All members of this group are granted the following roles and permissions:
 
@@ -82,26 +45,26 @@ All members of this group are granted the following roles and permissions:
 - **Course preview**: view unpublished course content
 - **QC Alerting**: list and ignore (own) alerts
 - **News preview**: view unpublished announcements
-- **Pin board moderation**: edit, delete, block/ unblock, move, close pinboard contributions, or mark them sticky, access pinboard abuse report
+- **Pinboard moderation**: edit, delete, block/unblock, move, close pinboard contributions, or mark them sticky, access pinboard abuse report
+- **Quiz inspection**: view student submissions  
+
+### Teachers  
+
+All members of this group are granted the following roles and permissions:
+
+- **News preview**: view unpublished announcements
+- **Pinboard moderation**: edit, delete, block/unblock, move, close pinboard contributions, or mark them sticky, access pinboard abuse report
+- **Quiz statistics**: view submission statistics
 - **Quiz inspection**: view student submissions
+- **Video controlling**: view video statistics
+- **User search**: find users when filtering submissions, etc.
+- **Course preview**: view unpublished course content
+- **Teacher**: legacy role for old teacher permissions
+- **QC Alerting**: list and ignore (own) alerts
+- **Peer assessment expert**: rate submissions, manage conflicts, manage training samples  
 
+### Students  
 
-
-
-![course permissions - course moderators](../img/04a/course_moderators.png)
-
-*Fig. Granting permissions to moderators*
-
-
-### Students
 All members of this group are granted the following roles and permissions:
 
 - **Student**: basic permissions for registered and enrolled users (without special roles)
-
-
-
-![course permissions - students](../img/04a/students.png)
-
-*Fig. List of enrolled students* 
-
-
