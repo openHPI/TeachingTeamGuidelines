@@ -68,6 +68,7 @@ nav:
     - Checklist: 'bestpractices/projectmanagement/checklist.md'
     - Templates: 'bestpractices/projectmanagement/templates.md'
 - Course Administration:
+  - Platform Tour: 'courseadministration/platform_tour.md'
   - Setup Course Properties: 'courseadministration/courseproperties.md'
   - Grant Permissions: 'courseadministration/permissions.md'
   - Add Content:
