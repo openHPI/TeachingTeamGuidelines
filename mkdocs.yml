@@ -1,4 +1,4 @@
-site_name: Guidelines and Documentation
+site_name: openHPI Guidelines
 nav:
 - Course administration: 'index.md'
 # - Platform Features:
