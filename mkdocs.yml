@@ -1,74 +1,74 @@
 site_name: Guidelines and Documentation
 nav:
-- Home: 'index.md'
-- Platform Features:
-  - Overview: 'features/platform.md'
-  - Structure:
-    - 'Structure': 'features/structure/structure.md'
-    - 'Courses': 'features/structure/courses.md'
-    - 'Modules': 'features/structure/modules.md'
-    - 'Items': 'features/structure/learningunits.md'
-  - Learning Unit Types:
-    - 'Video': 'features/itemtypes/video.md'
-    - 'Quiz': 'features/itemtypes/quiz.md'
-    - 'Surveys': 'features/itemtypes/surveys.md'
-    - 'Text': 'features/itemtypes/text.md'
-    - 'LTI': 'features/itemtypes/lti.md'
-    - 'Peer Assessment': 'features/itemtypes/peerassessment.md'
-  - Discussion Forum: 'features/discussionforum.md'
-  - Collab Spaces: 'features/collabspaces.md'
-  - Gamification: 'features/gamification.md'
-  - Course Management:
-    - 'Student Enrollments': 'features/coursemanagement/studentenrollments.md'
-    - 'Permissions': 'features/coursemanagement/permissions.md'
-    - 'Pinboard abuse reports': 'features/coursemanagement/pinboardabusereports.md'
-    - 'Student Submissions': 'features/coursemanagement/studentsubmissions.md'
-  - Analytics:
-    - Dashboards:
-      - 'Item Visits': 'features/analytics/dashboards/itemvisits.md'
-      - 'Videos': 'features/analytics/dashboards/videos.md'
-      - 'Downloads': 'features/analytics/dashboards/downloads.md'
-      - 'Learning Unit Details': 'features/analytics/dashboards/itemdetails.md'
-      - 'Section Conversions': 'features/analytics/dashboards/sectionconversions.md'
-      - 'Forum': 'features/analytics/dashboards/forum.md'
-      - 'Activity': 'features/analytics/dashboards/activity.md'
-      - 'Geographic': 'features/analytics/dashboards/geographic.md'
-      - 'Announcements': 'features/analytics/dashboards/announcements.md'
-      - 'QC Alerts': 'features/analytics/dashboards/qcalerts.md'
-      - 'Social Shares': 'features/analytics/dashboards/socialshares.md'
-      - 'Referrer': 'features/analytics/dashboards/referrer.md'
-    - Progress: 'features/analytics/progress.md'
-  - Certificates: 'features/certificates.md'
-  - Course Announcements: 'features/courseannouncements.md'
-  - External Tools:
-    - CodeOcean: 'features/externaltools/codeocean.md'
-    - CodeHarbor: 'features/externaltools/codeharbor.md'
-    - TeamBuilder: 'features/externaltools/teambuilder.md'
-    - H5P: 'features/externaltools/h5p.md'
-- Best Practices:
-  - 'Getting Started - Design your Course': 'bestpractices/gettingstarted.md'
-  - 'Curriculum Design': 'bestpractices/curriculumdesign.md'
-  - 'Recommended Course Cycles':
-    - Course Cycles: 'bestpractices/recommendedcoursecycles/coursecycles.md'
-    - 'Scheduled':
-      - Lecture: 'bestpractices/recommendedcoursecycles/scheduled/lecture.md'
-      - Hands-on: 'bestpractices/recommendedcoursecycles/scheduled/handson.md'
-      - Workshop: 'bestpractices/recommendedcoursecycles/scheduled/workshop.md'
-      - Nutshell: 'bestpractices/recommendedcoursecycles/scheduled/nutshell.md'
-    - 'Self-paced': 'bestpractices/recommendedcoursecycles/selfpaced.md'
-    - 'Blended': 'bestpractices/recommendedcoursecycles/blended.md'
-  - Prepare Material: 'bestpractices/preparematerial.md'
-  - Quiz Design: 'bestpractices/quizdesign.md'
-  - Community Management: 'bestpractices/communitymanagement.md'
-  - End of Course: 'bestpractices/endofcourse.md'
-  - Project Management:
-    - Course Production Timeline: 'bestpractices/projectmanagement/courseproductiontimeline.md'
-    - Teaching Team: 'bestpractices/projectmanagement/teachingteam.md'
-    - Communication Matrix: 'bestpractices/projectmanagement/communicationmatrix.md'
-    - Checklist: 'bestpractices/projectmanagement/checklist.md'
-    - Templates: 'bestpractices/projectmanagement/templates.md'
-- Course Administration:
-  - Platform Tour: 'courseadministration/platform_tour.md'
+- Course administration: 'index.md'
+# - Platform Features:
+  # - Overview: 'features/platform.md'
+  # - Structure:
+    # - 'Structure': 'features/structure/structure.md'
+    # - 'Courses': 'features/structure/courses.md'
+    # - 'Modules': 'features/structure/modules.md'
+    # - 'Items': 'features/structure/learningunits.md'
+  # - Learning Unit Types:
+    # - 'Video': 'features/itemtypes/video.md'
+    # - 'Quiz': 'features/itemtypes/quiz.md'
+    # - 'Surveys': 'features/itemtypes/surveys.md'
+    # - 'Text': 'features/itemtypes/text.md'
+    # - 'LTI': 'features/itemtypes/lti.md'
+    # - 'Peer Assessment': 'features/itemtypes/peerassessment.md'
+  # - Discussion Forum: 'features/discussionforum.md'
+  # - Collab Spaces: 'features/collabspaces.md'
+  # - Gamification: 'features/gamification.md'
+  # - Course Management:
+    # - 'Student Enrollments': 'features/coursemanagement/studentenrollments.md'
+    # - 'Permissions': 'features/coursemanagement/permissions.md'
+    # - 'Pinboard abuse reports': 'features/coursemanagement/pinboardabusereports.md'
+    # - 'Student Submissions': 'features/coursemanagement/studentsubmissions.md'
+  # - Analytics:
+    # - Dashboards:
+      # - 'Item Visits': 'features/analytics/dashboards/itemvisits.md'
+      # - 'Videos': 'features/analytics/dashboards/videos.md'
+      # - 'Downloads': 'features/analytics/dashboards/downloads.md'
+      # - 'Learning Unit Details': 'features/analytics/dashboards/itemdetails.md'
+      # - 'Section Conversions': 'features/analytics/dashboards/sectionconversions.md'
+      # - 'Forum': 'features/analytics/dashboards/forum.md'
+      # - 'Activity': 'features/analytics/dashboards/activity.md'
+      # - 'Geographic': 'features/analytics/dashboards/geographic.md'
+      # - 'Announcements': 'features/analytics/dashboards/announcements.md'
+      # - 'QC Alerts': 'features/analytics/dashboards/qcalerts.md'
+      # - 'Social Shares': 'features/analytics/dashboards/socialshares.md'
+      # - 'Referrer': 'features/analytics/dashboards/referrer.md'
+    # - Progress: 'features/analytics/progress.md'
+  # - Certificates: 'features/certificates.md'
+  # - Course Announcements: 'features/courseannouncements.md'
+  # - External Tools:
+    # - CodeOcean: 'features/externaltools/codeocean.md'
+    # - CodeHarbor: 'features/externaltools/codeharbor.md'
+    # - TeamBuilder: 'features/externaltools/teambuilder.md'
+    # - H5P: 'features/externaltools/h5p.md'
+# - Best Practices:
+  # - 'Getting Started - Design your Course': 'bestpractices/gettingstarted.md'
+  # - 'Curriculum Design': 'bestpractices/curriculumdesign.md'
+  # - 'Recommended Course Cycles':
+    # - Course Cycles: 'bestpractices/recommendedcoursecycles/coursecycles.md'
+    # - 'Scheduled':
+      # - Lecture: 'bestpractices/recommendedcoursecycles/scheduled/lecture.md'
+      # - Hands-on: 'bestpractices/recommendedcoursecycles/scheduled/handson.md'
+      # - Workshop: 'bestpractices/recommendedcoursecycles/scheduled/workshop.md'
+      # - Nutshell: 'bestpractices/recommendedcoursecycles/scheduled/nutshell.md'
+    # - 'Self-paced': 'bestpractices/recommendedcoursecycles/selfpaced.md'
+    # - 'Blended': 'bestpractices/recommendedcoursecycles/blended.md'
+  # - Prepare Material: 'bestpractices/preparematerial.md'
+  # - Quiz Design: 'bestpractices/quizdesign.md'
+  # - Community Management: 'bestpractices/communitymanagement.md'
+  # - End of Course: 'bestpractices/endofcourse.md'
+  # - Project Management:
+    # - Course Production Timeline: 'bestpractices/projectmanagement/courseproductiontimeline.md'
+    # - Teaching Team: 'bestpractices/projectmanagement/teachingteam.md'
+    # - Communication Matrix: 'bestpractices/projectmanagement/communicationmatrix.md'
+    # - Checklist: 'bestpractices/projectmanagement/checklist.md'
+    # - Templates: 'bestpractices/projectmanagement/templates.md'
+# - Course Administration:
+  - Intro: 'courseadministration/platform_tour.md'
   - Setup Course Properties: 'courseadministration/courseproperties.md'
   - Grant Permissions: 'courseadministration/permissions.md'
   - Add Content:
@@ -91,10 +91,10 @@ nav:
     - Grant Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
     - Conflicts and Regrading: 'courseadministration/peerassessmentmanagement/conflicts_and_regrading.md'
   - Create Course Iteration: 'courseadministration/createcourseiteration.md'
-- Platform Administration:
-  - Create Course: 'platformadministration/createcourse.md'
-  - Static Pages: 'platformadministration/staticpages.md'
-- Glossary: 'glossary.md'
+# - Platform Administration:
+  # - Create Course: 'platformadministration/createcourse.md'
+  # - Static Pages: 'platformadministration/staticpages.md'
+# - Glossary: 'glossary.md'
 
 theme: windmill
 
