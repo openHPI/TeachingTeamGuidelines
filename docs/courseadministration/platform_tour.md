@@ -5,4 +5,7 @@
 To become more familiar with the openHPI digital learning platform, let’s take a quick tour:
 
 
-<iframe src="https://player.vimeo.com/video/773250631?h=e18753e76d" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/10694390/203061757-d3201ffd-86f6-4289-aad7-e3c21f2ff174.mp4
+
+
