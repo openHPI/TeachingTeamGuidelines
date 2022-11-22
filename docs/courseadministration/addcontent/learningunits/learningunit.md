@@ -2,7 +2,7 @@
 
 ### Add Learning Unit
 Standard items are   
- - Video
+ - Video 
  - Quiz
  - Text
  - External exercise tool
