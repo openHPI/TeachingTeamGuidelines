@@ -12,14 +12,14 @@ Platform admins or course admins can edit the course properties under the course
 
 https://user-images.githubusercontent.com/116064361/203256439-36dd9050-2ed7-457a-9ff7-11c27078c10e.mp4
 
-### Course Title
+#### Course Title
 You can change the course title anytime you want. You should, however, stick to the chosen title as soon as the course has been published or announced.
 
-### Course Code
+#### Course Code
 The course code will be visible to the participants in the course's URL.
 Apart from that it only serves for internal purposes and **cannot** be changed anymore later on as some features rely on it, for instance the automatic filtering of the course videos for the video item dropdown.  
 
-### Abstract
+#### Abstract
 
 The abstract is shown on the course list, title page, and the user's dashboard.	
 It will include: 	
@@ -28,7 +28,7 @@ It will include:
   - the duration, 	
   - and a link to either enrol/un-enrol or enter the course.	
 
-### Description
+#### Description
 The description shows the course content, learning objectives and target audience in more detail. 	
 It should include:	
   - a brief summary of the course,	
@@ -37,6 +37,7 @@ It should include:
   - the target audience and workload, including the time required to finish the course.	
   - short details about the course instructor,	
   - exam & certification details along with requirements for achievement.
+
 
   
 ## Course visual and introduction video
