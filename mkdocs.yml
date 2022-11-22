@@ -1,6 +1,7 @@
 site_name: openHPI Guidelines
 nav:
-- Course administration: 'index.md'
+- Home: 'index.md'
+- Course administration:
   - Intro: 'courseadministration/platform_tour.md'
   - Setup Course Properties: 'courseadministration/courseproperties.md'
   - Grant Permissions: 'courseadministration/permissions.md'
