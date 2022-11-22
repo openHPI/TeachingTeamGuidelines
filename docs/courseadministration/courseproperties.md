@@ -10,7 +10,7 @@ Platform admins or course admins can edit the course properties under the course
 
 ## Metadata
 
-https://user-images.githubusercontent.com/116064361/203256439-36dd9050-2ed7-457a-9ff7-11c27078c10e.mp4
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/773675861?h=ad6433104f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI guidelines | 02 Course properties | Metadata"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 #### Course Title
 You can change the course title anytime you want. You should, however, stick to the chosen title as soon as the course has been published or announced.
