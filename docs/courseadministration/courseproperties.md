@@ -129,6 +129,22 @@ Besides the photo, the Qualified Certificate contains the following information:
 
 <br>  
 
+## Features
+
+This section allows to enable or disable platform features for a specific course. 
+
+**Overview:** The syllabus page (listing of all the course contents) can turned on and off. The default value for this feature is "enabled".
+
+**Video/audio download:** All video or audio files can be downloaded by the participants on a video item page, if desired. This enables the participants to learn, for example, when no access to the internet is possible. The default value for this feature is "enabled".
+
+**Collab spaces:** Collab spaces offer smaller groups within a course the possibility to work together or to communicate without the whole course population knowing their shared information. Every course participant is able to create a collab space. All course participants can enter an open collab space. With a closed collab space, participants need to first apply for membership to gain entry. Collab spaces are enabled for all courses by default.
+
+**Discussions:** The discussion forum can be completely disabled for a course. In this case, there will be no links to the discussions in the course navigation or in the left-hand section navigation. Also, the forum cannot be accessed via deep link. Discussion forums in collab spaces are not affected by this toggle. Discussions are enabled for all courses by default.
+
+![Course properties: feature toggles](../img/courseadministration/courseproperties/course_prop_features.png)
+
+
+
 ## Advanced settings
 
 ![course properties 6](../img/courseadministration/courseproperties/course_prop_6.png)
@@ -158,21 +174,14 @@ Here is a sample text:
 ![course properties 7](../img/courseadministration/courseproperties/course_prop_7.png)
 
 **External course URL and External course delay:** Usually you just should keep it as it is. The platform team will make the correct settings. This is only for cross-promoting courses from sister-platforms such as *openHPI* or *openSAP*.
-
-**Has collab space**
-Collab spaces offer smaller groups within a course the possibility to work together or to communicate without the whole course population knowing their shared information. Every course participant is able to create a collab space. All course participants can enter an open collab space. With a closed collab space, participants need to first apply for member- ship to gain entry. 
-
 **Forum is locked:** If you want to lock the forum when the course goes to archive mode, you can set that here. In general, we recommend to do that if no one is keeping an eye on the forum anymore.
 
 **Restricted to groups**
 
-**Enable video/audio download** All video or audio sequence can be downloaded by the participants if wished. This enables the participants to learn, for example, when no access to the internet is possible.
 
 **Course is hidden:** You can use this setting to hide a course from the course list. Can be used for old iterations of a course to keep the course list tidy, or for experiments. The course is completely functionable and accessible for whoever knows the direct URL.
  
 **Invitation required:** This feature can be used if you do not want the participants to enrol directly by themselves. The enrolment would be on the basis of invitation, for example, by sending the link to the course to a small group of participants and whosoever knows the URL can enrol for the said course.
-
-**Show Syllabus:** This should be generally turned on. If you do not want to show a syllabus page (listing of all the course contents), turn it off.
 
 **Auto archive after course end:** Leave the setting as it is if you do not know exactly what you're doing
 
