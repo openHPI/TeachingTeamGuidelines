@@ -71,7 +71,7 @@ If a large amount of teachers will be conducting the course, you can provide an 
 #### Channel
 If you want to publish your course in a dedicated channel, you can select the channel here by using the dropdown.
 
-### Advanced settings
+#### Advanced settings
 In the advanced setting you can find also the option to highlight the course on the channel stage, selecting the status "Show on stage". Choosing this, it is mandatory to add a stage visual and a statement.
 
 
