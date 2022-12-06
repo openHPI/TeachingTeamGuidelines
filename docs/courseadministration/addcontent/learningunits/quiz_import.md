@@ -7,13 +7,14 @@ This is the preferred way for many, as it saves time and you can adapt and reuse
 ## 1. Make a copy of this template
 You will have to make a copy of our quiz template spreadsheet, that you can find below.
 
-![How our quiz template looks like](../../../img/courseadministration/quizmanagement/quiz_template.png)
+![How our quiz template looks like](../../../img/courseadministration/quizmanagement/quiz export.png)
 
-Find the non-to-be-edited quiz structure template [here](https://docs.google.com/spreadsheets/d/1_b8wO9_HlrrHQxagYan1iM6BBK0XtnD6vESxmhnML5s)
+Find the non-to-be-edited quiz structure template [here](https://docs.google.com/spreadsheets/d/1jqKQf4l5M-xPeDwyWl-M9XYzutcM-UsUqM7llMbaUpw/edit?usp=sharing)
 
 **Before proceeding, remember: Please, do not edit directly the template, but make a copy of it - see below how to do it.**
 
-![How to make a copy of a Google spreadsheet template](../../../img/courseadministration/quizmanagement/copy_quiz_template.png)
+![How to make a copy of a Google spreadsheet template](<img width="709" alt="image" src="https://user-images.githubusercontent.com/26278355/205922408-abf76038-2268-4729-bf51-97ee761fba29.png">)
+
 
 As you see, the spreadsheet consists of different sheets.
 Every sheet can be imported separately.
@@ -29,7 +30,7 @@ Let's have an overview of the required fields:
 
 - *Name*: the name of the quiz
 - *CourseSection*: the section of the course where the quiz is. It must be a numeric value.
-- *Quiz Type*: choose the most appropriate type for the quiz: self-test (ungraded), a weekly assignment (graded), a survey, a bonus exercise or the final exam
+- *Quiz Type*: choose the most appropriate type for the quiz: self-test (ungraded), a weekly assignment (graded, 60 min default time limit), a survey, a bonus exercise or the final exam (graded, 120 min default time limit)
 - *Instructions*: The instructions for taking the quiz. Please note that self-tests do not have instructions
 
 ##### Question type, its points and explanation (green cells)
