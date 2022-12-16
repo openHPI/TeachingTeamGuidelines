@@ -143,6 +143,8 @@ This feature can be used if you do not want the participants to enrol directly b
     
 ## Features
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781744748?h=5d9a10120b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-08-cp-features"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 #### Overview
 Show an overview of all published course content in the learning area.
 
