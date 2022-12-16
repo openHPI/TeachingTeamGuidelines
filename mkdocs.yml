@@ -3,28 +3,28 @@ nav:
 - Home: 'index.md'
 - Course administration:
   - Intro: 'courseadministration/platform_tour.md'
-  - Setup Course Properties: 'courseadministration/courseproperties.md'
-  - Grant Permissions: 'courseadministration/permissions.md'
-  - Add Content:
+  - Properties: 'courseadministration/courseproperties.md'
+  - Permissions: 'courseadministration/permissions.md'
+  - Structure and content:
     - Modules: 'courseadministration/addcontent/modules.md'
-    - Learning Units:
+    - Learning units:
       - General: 'courseadministration/addcontent/learningunits/learningunit.md'
       - Quiz: 'courseadministration/addcontent/learningunits/quiz.md'
-      - Quiz Import: 'courseadministration/addcontent/learningunits/quiz_import.md'
+      - Quiz import: 'courseadministration/addcontent/learningunits/quiz_import.md'
       - Video: 'courseadministration/addcontent/learningunits/video.md'
       - Text: 'courseadministration/addcontent/learningunits/text.md'
       - LTI: 'courseadministration/addcontent/learningunits/lti.md'
-      - Peer Assessment: 'courseadministration/addcontent/learningunits/peerassessment.md'
-      - Team Peer Assessment: 'courseadministration/addcontent/learningunits/team_peerassessment.md'
-  - Setup Certificate Templates: 'courseadministration/certificatetemplates.md'
-  - Setup Learning Objectives: 'courseadministration/learningobjectives.md'
-  - Quiz Management:
-    - Grant Additional Attempts: 'courseadministration/quizmanagement/additionalattempts.md'
+      - Peer assessment: 'courseadministration/addcontent/learningunits/peerassessment.md'
+      - Team peer assessment: 'courseadministration/addcontent/learningunits/team_peerassessment.md'
+  - Certificate templates: 'courseadministration/certificatetemplates.md'
+  - Learning objectives: 'courseadministration/learningobjectives.md'
+  - Quiz management:
+    - Additional attempts: 'courseadministration/quizmanagement/additionalattempts.md'
     - Regrading: 'courseadministration//quizmanagement/regrading.md'
-  - Peer Assessment Management:
-    - Grant Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
-    - Conflicts and Regrading: 'courseadministration/peerassessmentmanagement/conflicts_and_regrading.md'
-  - Create Course Iteration: 'courseadministration/createcourseiteration.md'
+  - Peer assessment management:
+    - Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
+    - Conflicts and regrading: 'courseadministration/peerassessmentmanagement/conflicts_and_regrading.md'
+  - Course iteration: 'courseadministration/createcourseiteration.md'
 
 theme: windmill
 
