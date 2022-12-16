@@ -181,7 +181,44 @@ Besides the photo, the Qualified Certificate contains the following information:
 * Course title and summary
 * Credits earned
 * Course performance (information about whether the participant is part of the best 5%, 10% or 20% of all participants)
-* Anti-counterfeit link and QR code
+
+* Anti-counterfeit link and QR code  
+
+<br>  
+
+## Features
+
+This section allows to enable or disable platform features for a specific course. 
+
+**Overview:** The syllabus page (listing of all the course contents) can turned on and off. The default value for this feature is "enabled".
+
+**Video/audio download:** All video or audio files can be downloaded by the participants on a video item page, if desired. This enables the participants to learn, for example, when no access to the internet is possible. The default value for this feature is "enabled".
+
+**Collab spaces:** Collab spaces offer smaller groups within a course the possibility to work together or to communicate without the whole course population knowing their shared information. Every course participant is able to create a collab space. All course participants can enter an open collab space. With a closed collab space, participants need to first apply for membership to gain entry. Collab spaces are enabled for all courses by default.
+
+**Discussions:** The discussion forum can be completely disabled for a course. In this case, there will be no links to the discussions in the course navigation or in the left-hand section navigation. Also, the forum cannot be accessed via deep link. Discussion forums in collab spaces are not affected by this toggle. Discussions are enabled for all courses by default.
+
+![Course properties: feature toggles](../img/courseadministration/courseproperties/course_prop_features.png)
+
+
+
+## Advanced settings
+
+![course properties 6](../img/courseadministration/courseproperties/course_prop_6.png)
+
+
+**Welcome Mail**
+
+A custom text can be written here that will be sent to all the participants enrolling in the course.  
+Here is a sample text:
+
+    Dear Course participant,
+
+    Thank you for enrolling in our openHPI course "TITLE" and for joining our learning community. We are happy about your interest in this exciting topic and are  
+    looking forward to vibrant discussions in the forum.  
+   
+    Before the course starts on DATE we will keep you updated on all new content. Please stay tuned for any further messages. To make sure that you will receive them please
+    check your Event Notifications (LINK) section.
 
 #### Reactivation
 Allows achieving a RoA after regular course runtime (when graded assignments are locked). Learners have to book this feature by redeeming a voucher.
@@ -194,6 +231,7 @@ Allows achieving a RoA after regular course runtime (when graded assignments are
 #### Course middle for stats (UTC)
 #### Rating (average stars)
 #### Rating (number of votes)
+
 
 ## End of course
 
@@ -212,8 +250,3 @@ If you want to lock the forum when the course goes to archive mode, you can set 
 As soon as all deadlines have passed and all re-gradings have been done, press this button. You will receive an (in-platform) notification when it's done (takes some seconds). This button calculates only the value for *top X* for each user. This, in general, is required before the certificates can be released.
 
 
-
-
-![course properties](../img/courseadministration/courseproperties/Courseproperties_1.png)
-![course properties](../img/courseadministration/courseproperties/Courseproperties_2.png)  
-*Fig. Preview of the course properties*
