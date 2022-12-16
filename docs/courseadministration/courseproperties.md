@@ -40,7 +40,7 @@ It should include:
   - short details about the course instructor,	
   - exam & certification details along with requirements for achievement.
 
-
+<br>
 ## Visuals
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781735523?h=ccbd40ee28&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-03-cp-visuals"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -52,7 +52,7 @@ Ideally, the image is free of copyrights, alternatively images under a Creative 
 #### Introduction video
 A short teaser video (maximum 90 seconds) is required to be published a month prior to releasing the course. The video needs to highlight important information about the course and to motivate interested participants to enrol.  
 
-
+<br>
 ## Teachers
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781737245?h=b2ee4125d3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-04-cp-teachers"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -63,7 +63,7 @@ Please contact a platform administrator to promote a user to a teacher.
 
 If a large amount of teachers will be conducting the course, you can provide an alternative teacher text, which will be shown instead of an extensively long list of teachers. Therefore you have to click on the "Advanced Settings" button to expand the alternative teacher text option.  
 
-
+<br>
 ## Categorization
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781740042?h=227bbfc0e7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-05-cp-categorization"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -80,9 +80,8 @@ If you want to publish your course in a dedicated channel, you can select the ch
 #### Advanced settings
 In the advanced setting you can find also the option to highlight the course on the channel stage, selecting the status "Show on stage". Choosing this, it is mandatory to add a stage visual and a statement.
 
-
+<br>
 ## Runtime and visibility
-
 Your course will be classified by two characteristics within the course list: Status and Course Language. 
 
 #### Status
@@ -112,7 +111,7 @@ The "official" start date of the course. If set, it allows to make some part of 
 #### End date
 The end date of the course.
 
-
+<br>
 ## Enrollment
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781743933?h=62af54f335&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-07-cp-enrollment"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -140,22 +139,34 @@ This feature can be used if you do not want the participants to enrol directly b
 
 #### Policy URL
 
-    
+<br>    
 ## Features
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781744748?h=5d9a10120b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-08-cp-features"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+This section allows to enable or disable platform features for a specific course. 
+
 #### Overview
 Show an overview of all published course content in the learning area.
+The syllabus page (listing of all the course contents) can turned on and off. The default value for this feature is "enabled".
 
 #### Video / audio download
 All video or audio sequence can be downloaded by the participants if wished. This enables the participants to learn, for example, when no access to the internet is possible.
+All video or audio files can be downloaded by the participants on a video item page, if desired. This enables the participants to learn, for example, when no access to the internet is possible. The default value for this feature is "enabled".
 
 #### Collab spaces
-Collab spaces offer smaller groups within a course the possibility to work together or to communicate without the whole course population knowing their shared information. Every course participant is able to create a collab space. All course participants can enter an open collab space. With a closed collab space, participants need to first apply for member- ship to gain entry. 
+Collab spaces offer smaller groups within a course the possibility to work together or to communicate without the whole course population knowing their shared information. Every course participant is able to create a collab space. All course participants can enter an open collab space. With a closed collab space, participants need to first apply for member- ship to gain entry. Collab spaces are enabled for all courses by default.
 
+#### Discussions:
+The discussion forum can be completely disabled for a course. In this case, there will be no links to the discussions in the course navigation or in the left-hand section navigation. Also, the forum cannot be accessed via deep link. Discussion forums in collab spaces are not affected by this toggle. Discussions are enabled for all courses by default.
 
-## Certificates 
+![Course properties: feature toggles](../img/courseadministration/courseproperties/course_prop_features.png)
+
+<br>
+## Certificates
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781783272?h=58fb2d0c87&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+
 For completing the course, participants could get the opportunity to receive a certificate. There are three certificate options:
 
 #### Confirmation of Participation
@@ -184,56 +195,21 @@ Besides the photo, the Qualified Certificate contains the following information:
 
 * Anti-counterfeit link and QR code  
 
-<br>  
-
-## Features
-
-This section allows to enable or disable platform features for a specific course. 
-
-**Overview:** The syllabus page (listing of all the course contents) can turned on and off. The default value for this feature is "enabled".
-
-**Video/audio download:** All video or audio files can be downloaded by the participants on a video item page, if desired. This enables the participants to learn, for example, when no access to the internet is possible. The default value for this feature is "enabled".
-
-**Collab spaces:** Collab spaces offer smaller groups within a course the possibility to work together or to communicate without the whole course population knowing their shared information. Every course participant is able to create a collab space. All course participants can enter an open collab space. With a closed collab space, participants need to first apply for membership to gain entry. Collab spaces are enabled for all courses by default.
-
-**Discussions:** The discussion forum can be completely disabled for a course. In this case, there will be no links to the discussions in the course navigation or in the left-hand section navigation. Also, the forum cannot be accessed via deep link. Discussion forums in collab spaces are not affected by this toggle. Discussions are enabled for all courses by default.
-
-![Course properties: feature toggles](../img/courseadministration/courseproperties/course_prop_features.png)
-
-
-
-## Advanced settings
-
-![course properties 6](../img/courseadministration/courseproperties/course_prop_6.png)
-
-
-**Welcome Mail**
-
-A custom text can be written here that will be sent to all the participants enrolling in the course.  
-Here is a sample text:
-
-    Dear Course participant,
-
-    Thank you for enrolling in our openHPI course "TITLE" and for joining our learning community. We are happy about your interest in this exciting topic and are  
-    looking forward to vibrant discussions in the forum.  
-   
-    Before the course starts on DATE we will keep you updated on all new content. Please stay tuned for any further messages. To make sure that you will receive them please
-    check your Event Notifications (LINK) section.
-
 #### Reactivation
 Allows achieving a RoA after regular course runtime (when graded assignments are locked). Learners have to book this feature by redeeming a voucher.
 
-
+<br>
 ## Statistics
-
 #### Enrollment delta
 #### Auto-calculate course middle
 #### Course middle for stats (UTC)
 #### Rating (average stars)
 #### Rating (number of votes)
 
-
+<br>
 ## End of course
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781787427?h=cae13e24b9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI guidelines | 02 Course properties | End of course"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 #### Release records
 As soon as your records (record of achievement, confirmation of participation) are ready to be released, turn this on.
@@ -242,11 +218,8 @@ As soon as your records (record of achievement, confirmation of participation) a
 - Record templates have been added (see [here](todo://link)).
 - Statistics have been generated (see below).
 
-
 #### Lock forum
 If you want to lock the forum when the course goes to archive mode, you can set that here. In general, we recommend to do that if no one is keeping an eye on the forum anymore.
 
 #### Generate Ranking
 As soon as all deadlines have passed and all re-gradings have been done, press this button. You will receive an (in-platform) notification when it's done (takes some seconds). This button calculates only the value for *top X* for each user. This, in general, is required before the certificates can be released.
-
-
