@@ -43,6 +43,8 @@ It should include:
 
 ## Visuals
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781735523?h=ccbd40ee28&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-03-cp-visuals"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 #### Image
 The course image is shown in the course list and course details view. Please add an image, which is related to the content. 
 Ideally, the image is free of copyrights, alternatively images under a Creative Commons license or stock photos from commercial providers can be used. In these cases the license has to be provided in the course description.
