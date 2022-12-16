@@ -41,6 +41,7 @@ It should include:
   - exam & certification details along with requirements for achievement.
 
 <br>
+
 ## Visuals
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781735523?h=ccbd40ee28&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-03-cp-visuals"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -53,6 +54,7 @@ Ideally, the image is free of copyrights, alternatively images under a Creative 
 A short teaser video (maximum 90 seconds) is required to be published a month prior to releasing the course. The video needs to highlight important information about the course and to motivate interested participants to enrol.  
 
 <br>
+
 ## Teachers
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781737245?h=b2ee4125d3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-04-cp-teachers"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -64,6 +66,7 @@ Please contact a platform administrator to promote a user to a teacher.
 If a large amount of teachers will be conducting the course, you can provide an alternative teacher text, which will be shown instead of an extensively long list of teachers. Therefore you have to click on the "Advanced Settings" button to expand the alternative teacher text option.  
 
 <br>
+
 ## Categorization
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781740042?h=227bbfc0e7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-05-cp-categorization"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -81,7 +84,11 @@ If you want to publish your course in a dedicated channel, you can select the ch
 In the advanced setting you can find also the option to highlight the course on the channel stage, selecting the status "Show on stage". Choosing this, it is mandatory to add a stage visual and a statement.
 
 <br>
+
 ## Runtime and visibility
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781797194?h=2c375b8a8e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-06-cp-runtime"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 Your course will be classified by two characteristics within the course list: Status and Course Language. 
 
 #### Status
@@ -112,6 +119,7 @@ The "official" start date of the course. If set, it allows to make some part of 
 The end date of the course.
 
 <br>
+
 ## Enrollment
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781743933?h=62af54f335&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-07-cp-enrollment"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -139,7 +147,8 @@ This feature can be used if you do not want the participants to enrol directly b
 
 #### Policy URL
 
-<br>    
+<br>
+
 ## Features
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781744748?h=5d9a10120b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-08-cp-features"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -163,6 +172,7 @@ The discussion forum can be completely disabled for a course. In this case, ther
 ![Course properties: feature toggles](../img/courseadministration/courseproperties/course_prop_features.png)
 
 <br>
+
 ## Certificates
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781783272?h=58fb2d0c87&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
@@ -199,6 +209,7 @@ Besides the photo, the Qualified Certificate contains the following information:
 Allows achieving a RoA after regular course runtime (when graded assignments are locked). Learners have to book this feature by redeeming a voucher.
 
 <br>
+
 ## Statistics
 #### Enrollment delta
 #### Auto-calculate course middle
@@ -207,6 +218,7 @@ Allows achieving a RoA after regular course runtime (when graded assignments are
 #### Rating (number of votes)
 
 <br>
+
 ## End of course
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781787427?h=cae13e24b9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI guidelines | 02 Course properties | End of course"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
