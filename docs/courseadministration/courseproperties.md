@@ -55,6 +55,8 @@ A short teaser video (maximum 90 seconds) is required to be published a month pr
 
 ## Teachers
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781737245?h=b2ee4125d3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-04-cp-teachers"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 This is only for display reasons and does not provide any rights to the users that are added here. Only users that have been promoted to teachers beforehand can be added here. 
 
 Please contact a platform administrator to promote a user to a teacher.
