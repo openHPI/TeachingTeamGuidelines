@@ -4,6 +4,8 @@
 
 >The workflow of video production and post production, in terms of allocation of videos, can be carried out in different ways and therefore will not be discussed further in this document. Instead, we assume that you already have a produced video at hand, which you want to bring to the platform or you can take the assistance from the Medientechnik team.
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/787828648?h=87c880e603&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI guidelines | 15 Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 **Integrating videos hosted on Vimeo:**
 The integration for the Vimeo API from within the platform is sufficiently good. 
