@@ -1,21 +1,13 @@
 ![HPI Logo](../../../img/HPI_Logo.png)
 
-# Type quiz  
-
-![Course Content](../../../img/course_admin_items/course_structure_content.png)  
-*Fig. Select Course Structure & Content to add quiz item*  
-<br>
-
-![Quiz Admin](../../../img/features/itemtypes/quiz_admin.png)
-*Fig. Sample preview of the user interface to create quizzes*  
-<br>
-
-![adding video](../../../img/05/type_quiz.png)  
-*Fig. Create new quiz item form*
-<br>  
+# Quiz
 
 ### Exercise type:  
-Select among *Self-test*, *Survey*, *Main*, and *Bonus*.  
+Select among *Self-test*, *Survey*, *Main*, and *Bonus*.
+
+**Surveys** are not rewarded with points, nevertheless, to avoid problems it is better to assign at least 1 point to a survey question. FreeText answers require that at least one answer (dummy) is provided, which needs to be marked as correct. Otherwise, the system will break.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/792035450?h=7264225aee&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-16-quiz-survey"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 **Self-tests** are awarded with points, however, they are not counted into the final results at all.  
 
@@ -54,7 +46,18 @@ The participants can achieve a maximum of 90 points.
 
 	==> 90 points
 
-**Surveys** are not rewarded with points, nevertheless, to avoid problems it is better to assign at least 1 point to a survey question. FreeText answers require that at least one answer (dummy) is provided, which needs to be marked as correct. Otherwise, the system will break.
+
+![Course Content](../../../img/course_admin_items/course_structure_content.png)  
+*Fig. Select Course Structure & Content to add quiz item*  
+<br>
+
+![Quiz Admin](../../../img/features/itemtypes/quiz_admin.png)
+*Fig. Sample preview of the user interface to create quizzes*  
+<br>
+
+![adding video](../../../img/05/type_quiz.png)  
+*Fig. Create new quiz item form*
+<br>  
 
 **Quizzes come with the optimal presets for their exercise type preselected. Change these settings only if you know exactly what you are doing.**
 
