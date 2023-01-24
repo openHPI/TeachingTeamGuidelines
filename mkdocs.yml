@@ -7,12 +7,11 @@ nav:
   - Permissions: 'courseadministration/permissions.md'
   - Structure and content:
     - Modules: 'courseadministration/addcontent/modules.md'
-    - Learning units:
-      - General: 'courseadministration/addcontent/learningunits/learningunit.md'
+    - Learning items:
+      - Text: 'courseadministration/addcontent/learningunits/text.md'
+      - Video: 'courseadministration/addcontent/learningunits/video.md'
       - Quiz: 'courseadministration/addcontent/learningunits/quiz.md'
       - Quiz import: 'courseadministration/addcontent/learningunits/quiz_import.md'
-      - Video: 'courseadministration/addcontent/learningunits/video.md'
-      - Text: 'courseadministration/addcontent/learningunits/text.md'
       - LTI: 'courseadministration/addcontent/learningunits/lti.md'
       - Peer assessment: 'courseadministration/addcontent/learningunits/peerassessment.md'
       - Team peer assessment: 'courseadministration/addcontent/learningunits/team_peerassessment.md'
