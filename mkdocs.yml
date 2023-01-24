@@ -6,7 +6,7 @@ nav:
   - Properties: 'courseadministration/courseproperties.md'
   - Permissions: 'courseadministration/permissions.md'
   - Structure and content:
-    - Modules: 'courseadministration/addcontent/modules.md'
+    - Sections: 'courseadministration/addcontent/modules.md'
     - Learning items:
       - Text: 'courseadministration/addcontent/learningunits/text.md'
       - Video: 'courseadministration/addcontent/learningunits/video.md'
