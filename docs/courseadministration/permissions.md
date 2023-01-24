@@ -5,15 +5,6 @@
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/787809359?h=ab0f02914d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-12-permissions"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Platform admins and course admins can grant permissions to a course under the course administration menu.
-  
-    
-
-
-![course permissions](../img/04a/permission_menu.png)
-
-*Fig. Course Administration => Course permissions*
-
-
 
 ## Groups
 
@@ -42,15 +33,6 @@ All members of this group are granted the following roles and permissions:
 - **Subtitle editing**: upload and delete subtitles for videos
 - **Peer assessment administration**: view and edit PA settings (evaluation criteria etc.), manage submissions (= view submissions/ reviews/ points/ progress, grant additional attempts, create regrading requests), manage training samples, manage conflicts, rate and mark submissions for best-of gallery, create best of gallery  
 
-  
-
-
-
-![course permissions - course administrators](../img/04a/course_administrators.png)
-
-*Fig. Granting course admin permissions to a user*
-
-
 ### Teachers
 
 All members of this group are granted the following roles and permissions:
@@ -65,14 +47,6 @@ All members of this group are granted the following roles and permissions:
 - **Quiz inspection**: view student submissions
 - **Video controlling**: view video statistics
 - **Peer assessment expert**: rate submissions, manage conflicts, manage training samples  
-
-  
-
-
-
-![course permissions - teachers](../img/04a/teachers.png)
-
-*Fig. Granting permissions to teachers*
   
 
 ### Course Moderators
@@ -88,22 +62,9 @@ All members of this group are granted the following roles and permissions:
 - **Quiz inspection**: view student submissions
 
 
-
-
-![course permissions - course moderators](../img/04a/course_moderators.png)
-
-*Fig. Granting permissions to moderators*
-
-
 ### Students
 All members of this group are granted the following roles and permissions:
 
 - **Student**: basic permissions for registered and enrolled users (without special roles)
-
-
-
-![course permissions - students](../img/04a/students.png)
-
-*Fig. List of enrolled students* 
 
 
