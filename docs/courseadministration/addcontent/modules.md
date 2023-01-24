@@ -24,20 +24,20 @@ Each course consists of several sections. In general these sections comprise 1 w
 A section generally contains a course week. It can also contain special purpose content, such as a Final Exam, an Excursion, or a Survey.
 
 
-### Title
+#### Title
 Could be something like Week 1, Excursion, or Final Exam. This will be visible for the user in the course's left hand navigation bar, the course syllabus, and the course content list on the course detail page.
 
-### Description
+#### Description
 A short description of the section's content within one or two sentences. This will be visible for the user in the course syllabus, and the course content list on the course detail page.
 
-### Published
+#### Published
 If the section is not published it will not be visible for the users at all.
 
-### Start date
+#### Start date
 Before the start date the section will be "greyed out" and locked for the users.
 
-### End date
+#### End date
 Usually, an end date is not set for a section. Only use this if you have a well defined purpose or intention.
 
-### Close discussions
+#### Close discussions
 Discussions can be left open for 2 more weeks after the completion of the course. Later it can be closed for certain sections, if required. After closing, it is no longer possible to comment, answer, or start new threads.
