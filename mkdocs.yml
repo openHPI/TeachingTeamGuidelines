@@ -8,7 +8,6 @@ nav:
   - Structure and content:
     - Modules: 'courseadministration/addcontent/modules.md'
     - Learning units:
-      - General: 'courseadministration/addcontent/learningunits/learningunit.md'
       - Quiz: 'courseadministration/addcontent/learningunits/quiz.md'
       - Quiz import: 'courseadministration/addcontent/learningunits/quiz_import.md'
       - Video: 'courseadministration/addcontent/learningunits/video.md'
