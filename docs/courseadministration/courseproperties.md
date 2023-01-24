@@ -169,8 +169,6 @@ Collab spaces offer smaller groups within a course the possibility to work toget
 #### Discussions:
 The discussion forum can be completely disabled for a course. In this case, there will be no links to the discussions in the course navigation or in the left-hand section navigation. Also, the forum cannot be accessed via deep link. Discussion forums in collab spaces are not affected by this toggle. Discussions are enabled for all courses by default.
 
-![Course properties: feature toggles](../img/courseadministration/courseproperties/course_prop_features.png)
-
 <br>
 
 ## Certificates
