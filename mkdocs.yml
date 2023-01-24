@@ -26,6 +26,3 @@ nav:
   - Course iteration: 'courseadministration/createcourseiteration.md'
 
 theme: windmill
-
-extra_css:
-  - css/hide_toc.css
