@@ -1,4 +1,4 @@
-![HPI Logo](../img/HPI_Logo.png)
+
 
 # Learning Objectives  
 
@@ -84,3 +84,5 @@ The estimated time would be set as follows -
 
 ### 4. **I just want to peek in and see what is all about**:  
 Participants can do whatever they desire. If they have accessed 50% of the course material, they will be eligible for a Confirmation of Participation.
+
+![HPI Logo](../img/HPI_Logo.png)
