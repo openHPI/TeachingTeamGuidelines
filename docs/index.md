@@ -19,7 +19,7 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 
 - - -
 
-### The openHPI gudelines are organized in the following sections:
+### The openHPI guidelines are organized in the following sections:
 
 [Introduction](https://teachingteamguidelines.readthedocs.io/#courseadministration/platform_tour/)<br>
 <br>
