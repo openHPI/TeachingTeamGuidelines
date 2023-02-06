@@ -1,4 +1,4 @@
-![HPI Logo](../../../img/HPI_Logo.png)
+
 
 #  Using the Spread Sheet for Quiz Import
 For adding a quiz, you can either use the quiz editor of the platform - as decribed here -  or you can insert all questions and answers in a Google Sheet document.
@@ -71,3 +71,5 @@ Check the status banner on the top of the page for the status of your import.
 ## Troubleshooting
 If the import returns an error, you will have to check manually again on your spreadsheet for empty or wrong values.
 Once you have manually corrected the issues, please redo step 2 and 3.
+
+![HPI Logo](../../../img/HPI_Logo.png)
