@@ -1,4 +1,4 @@
-![HPI Logo](../img/HPI_Logo.png)
+
 
 # Granting permissions
 
@@ -67,4 +67,4 @@ All members of this group are granted the following roles and permissions:
 
 - **Student**: basic permissions for registered and enrolled users (without special roles)
 
-
+![HPI Logo](../img/HPI_Logo.png)
