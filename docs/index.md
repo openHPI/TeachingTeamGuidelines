@@ -22,27 +22,27 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 <br>
 [Introduction](https://teachingteamguidelines.readthedocs.io/#courseadministration/platform_tour/)<br>
 <br>
-![02-icon-properties](../img/02-icon-properties.png)
+![02-icon-properties](img/02-icon-properties.png)
 <br>
 [Properties](https://teachingteamguidelines.readthedocs.io/#courseadministration/courseproperties/)<br>
 <br>
-![03-icon-permissions](../03-icon-permissions.png)
+![03-icon-permissions](03-icon-permissions.png)
 <br>
 [Permissions](https://teachingteamguidelines.readthedocs.io/#courseadministration/permissions/)<br>
 <br>
-![04-icon-structure](../04-icon-structure.png)
+![04-icon-structure](04-icon-structure.png)
 <br>
 [Structure and content](https://teachingteamguidelines.readthedocs.io/#courseadministration/addcontent/modules/)<br>
 <br>
-![05-icon-certificates](../05-icon-certificates.png)
+![05-icon-certificates](05-icon-certificates.png)
 <br>
 [Certificate templates](https://teachingteamguidelines.readthedocs.io/#courseadministration/certificatetemplates/)<br>
 <br>
-![06-icon-learning-objectives](../img/06-icon-learning-objectives.png)
+![06-icon-learning-objectives](img/06-icon-learning-objectives.png)
 <br>
 [Learning objectives](https://teachingteamguidelines.readthedocs.io/#courseadministration/learningobjectives/)<br>
 <br>
-![07-icon-course-iteration](../img/07-icon-course-iteration.png)
+![07-icon-course-iteration](img/07-icon-course-iteration.png)
 <br>
 [Course iteration](https://teachingteamguidelines.readthedocs.io/#courseadministration/createcourseiteration/)<br>
 <br>
