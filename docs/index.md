@@ -19,7 +19,9 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 
 - - -
 
-Intro
+### The openHPI gudelines are organized in the following sections:
+
+Introduction
 Properties
 Permissions
 Structure and content
