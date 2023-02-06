@@ -16,3 +16,13 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 - [mooc.HOUSE](https://mooc.house/)
 - [Kommunal Campus](https://lernen.kommunalcampus.de/)
 - [Industrial Upskilling](https://www.industrial-upskilling.de/)
+
+- - -
+
+Intro
+Properties
+Permissions
+Structure and content
+Certificate templates
+Learning objectives
+Course iteration
