@@ -1,4 +1,4 @@
-![HPI Logo](../../../img/HPI_Logo.png)
+
 
 # Type Text
 
@@ -36,3 +36,4 @@ Icon type:
 
 *Fig. Manipulate image link to turn it into a download link*
 
+![HPI Logo](../../../img/HPI_Logo.png)
