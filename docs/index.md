@@ -21,10 +21,5 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 
 ### The openHPI gudelines are organized in the following sections:
 
-Introduction
-Properties
-Permissions
-Structure and content
-Certificate templates
-Learning objectives
-Course iteration
+Introduction | Properties | Permissions
+Structure and content | Certificate templates | Learning objectives | Course iteration
