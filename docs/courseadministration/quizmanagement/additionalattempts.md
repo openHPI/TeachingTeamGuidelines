@@ -1,4 +1,4 @@
-![HPI Logo](../../img/HPI_Logo.png)
+
 
 # Additional Attempts
 
@@ -16,3 +16,5 @@ Sometimes the system provides a snapshot of the user's last entry (even if he ha
 
 ![Grant attempt](../../img/courseadministration/quizmanagement/add_attempt.png)  
 *Fig. You can add extra attempts on the submission page*
+
+![HPI Logo](../../img/HPI_Logo.png)
