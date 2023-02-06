@@ -1,4 +1,4 @@
-![HPI Logo](../../../img/HPI_Logo.png)
+
 
 # Type peer assessment
 Peer assessment provides the possibility to scale out exercises that can not be graded automatically.  
@@ -183,3 +183,5 @@ If you choose to check the **Delta is absolute** box -
 * Reviewer median and bonus points will be ignored  
 
 If you choose to set a delta value, the points will be applied on top of the overall grade.
+
+![HPI Logo](../../../img/HPI_Logo.png)
