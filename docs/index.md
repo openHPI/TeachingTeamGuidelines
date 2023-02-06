@@ -21,5 +21,9 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 
 ### The openHPI gudelines are organized in the following sections:
 
-Introduction | Properties | Permissions
-Structure and content | Certificate templates | Learning objectives | Course iteration
+[Introduction](https://teachingteamguidelines.readthedocs.io/#courseadministration/platform_tour/)
+[Properties](https://teachingteamguidelines.readthedocs.io/#courseadministration/courseproperties/)
+[Permissions Structure and content](https://teachingteamguidelines.readthedocs.io/#courseadministration/permissions/)
+[Certificate templates](https://teachingteamguidelines.readthedocs.io/#courseadministration/certificatetemplates/)
+[Learning objectives](https://teachingteamguidelines.readthedocs.io/#courseadministration/learningobjectives/)
+[Course iteration](https://teachingteamguidelines.readthedocs.io/#courseadministration/createcourseiteration/)
