@@ -26,15 +26,15 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 <br>
 [Properties](https://teachingteamguidelines.readthedocs.io/#courseadministration/courseproperties/)<br>
 <br>
-![03-icon-permissions](03-icon-permissions.png)
+![03-icon-permissions](img/03-icon-permissions.png)
 <br>
 [Permissions](https://teachingteamguidelines.readthedocs.io/#courseadministration/permissions/)<br>
 <br>
-![04-icon-structure](04-icon-structure.png)
+![04-icon-structure](img/04-icon-structure.png)
 <br>
 [Structure and content](https://teachingteamguidelines.readthedocs.io/#courseadministration/addcontent/modules/)<br>
 <br>
-![05-icon-certificates](05-icon-certificates.png)
+![05-icon-certificates](img/05-icon-certificates.png)
 <br>
 [Certificate templates](https://teachingteamguidelines.readthedocs.io/#courseadministration/certificatetemplates/)<br>
 <br>
