@@ -36,3 +36,5 @@ The team members will always be able to rate their team mates in a 3-star rating
 
 ![PA Team Rubrics](../../../img/courseadministration/peer_assessment/pa_team_rubric.png)  
 *Fig. Add team evaluation rubrics*  
+
+![HPI Logo](../../../img/HPI_Logo.png)
