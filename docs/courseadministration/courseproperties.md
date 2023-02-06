@@ -1,4 +1,4 @@
-![HPI Logo](../img/HPI_Logo.png)
+
 
 # Course properties
 
@@ -233,3 +233,5 @@ If you want to lock the forum when the course goes to archive mode, you can set 
 
 #### Generate Ranking
 As soon as all deadlines have passed and all re-gradings have been done, press this button. You will receive an (in-platform) notification when it's done (takes some seconds). This button calculates only the value for *top X* for each user. This, in general, is required before the certificates can be released.
+
+![HPI Logo](../img/HPI_Logo.png)
