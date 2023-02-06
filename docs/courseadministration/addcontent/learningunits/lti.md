@@ -1,4 +1,4 @@
-![HPI Logo](../../../img/HPI_Logo.png)
+
 
 # Integration of External Tools via LTI
 
@@ -126,3 +126,5 @@ At openHPI, we use some internal applications via LTI:
 
 - [Learning Tools Interoperability Standard](https://www.imsglobal.org/activity/learning-tools-interoperability)
 - [Test LTI Tool for debugging](https://lti.tools/saltire/tp)
+
+![HPI Logo](../../../img/HPI_Logo.png)
