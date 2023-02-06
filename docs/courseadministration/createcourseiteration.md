@@ -1,4 +1,4 @@
-![HPI Logo](../img/HPI_Logo.png)
+
 
 # Creating a New Course Iteration
 
@@ -90,3 +90,5 @@ The following actions should be tackled in addition to above list:
 - Adjust start times for unlocking new content (e.g. use 6:00 UTC for student courses)
 
 *Remember: Courses are copied manually between platforms. Hence, we recommend to check every single item!*
+
+![HPI Logo](../img/HPI_Logo.png)
