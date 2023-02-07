@@ -2,7 +2,7 @@
 
 # Creating a New Course Iteration
 
-## Clone course
+### Clone course
 Course Administration menu > Course structure & content.
 At the top of the page there is a button "Clone course" (if not, ask your platform administrator to create a clone for you).
 On click, it reveals a text input that allows to enter the **new** course code.
@@ -12,7 +12,7 @@ You can access the cloned course right away under:
 https://yourinstance.of.theplatform/new_course_code
 It might take a few seconds until all elements of the course are available.
 
-### Elements which are not cloned
+#### Elements which are not cloned
 - Enrollments
 - Collab Spaces
 - Peer Assessments
@@ -24,7 +24,7 @@ It might take a few seconds until all elements of the course are available.
 - Properties: Course Status, Course Dates, Release Records
 - Learning Objectives
 
-## General
+### General
 - All deadlines need to be reset (course, sections, items, ...)
 - Unlock Forum (if previously locked)
 - Check all course items for links to other course specific elements (discussion forum posts, surveys, collab spaces, quizzes, cheat-sheet etc.)
@@ -40,7 +40,7 @@ It might take a few seconds until all elements of the course are available.
 - Hide the feedback module /( I Like I wish) till its time to get feedback
 - Check the existence of [the rating question "How do you rate this course overall?"](../img/courseadministration/createcourseiteration/rating_question.png) within the feedback module to feature five answers with one to five stars
 
-## Peer Assessment
+### Peer Assessment
 - Re-create the complete peer assessment if still requested
 - In case it is a team peer assessment:
   1. Rename the existing TeamBuilder LTI provider
@@ -49,14 +49,14 @@ It might take a few seconds until all elements of the course are available.
   4. Delete the old TeamBuilder LTI provider or mark it as deprecated
 
 
-## CodeOcean Exercises
+### CodeOcean Exercises
 - Adjust links in exercise texts
 - If an exercise has been used in a previous course (just in case questions might pop-up in the forum):
   1. Old RFCs (Request for comments) might still appear
   2. If a participant has solved an exercise in the previous course, his/her solutions are still visible to him/her.
   3. Do not clone exercises without consulting your contact at openHPI.
 
-## H5P Exercises
+### H5P Exercises
 - H5P exercises always are part of the context of a course
 - Each course has its own H5P library
 - H5P exercises can be "borrowed" from one course to another.
@@ -72,7 +72,7 @@ It might take a few seconds until all elements of the course are available.
 - If H5P exercises are used from within two different courses, the (internal H5P) learning analytics data will probably be messed up.
 - If H5P exercises are to be copied from one course to another, this has to be done manually by exporting them from one H5P course library and importing them to the other H5P course library.
 
-## Cross-Platform Copying of a Course
+### Cross-Platform Copying of a Course
 
 The following actions should be tackled in addition to above list:
 
