@@ -1,28 +1,26 @@
-site_name: openHPI Guidelines
+site_name: openHPI guidelines for Course administration
 nav:
-- Home: 'index.md'
-- Course administration:
-  - Intro: 'courseadministration/platform_tour.md'
-  - Properties: 'courseadministration/courseproperties.md'
-  - Permissions: 'courseadministration/permissions.md'
-  - Structure and content:
-    - Sections: 'courseadministration/addcontent/modules.md'
-    - Learning items:
-      - Text: 'courseadministration/addcontent/learningunits/text.md'
-      - Video: 'courseadministration/addcontent/learningunits/video.md'
-      - Quiz: 'courseadministration/addcontent/learningunits/quiz.md'
-      - Quiz import: 'courseadministration/addcontent/learningunits/quiz_import.md'
-      - LTI: 'courseadministration/addcontent/learningunits/lti.md'
-      - Peer assessment: 'courseadministration/addcontent/learningunits/peerassessment.md'
-      - Team peer assessment: 'courseadministration/addcontent/learningunits/team_peerassessment.md'
-  - Certificate templates: 'courseadministration/certificatetemplates.md'
-  - Learning objectives: 'courseadministration/learningobjectives.md'
-  - Quiz management:
-    - Additional attempts: 'courseadministration/quizmanagement/additionalattempts.md'
-    - Regrading: 'courseadministration//quizmanagement/regrading.md'
-  - Peer assessment management:
-    - Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
-    - Conflicts and regrading: 'courseadministration/peerassessmentmanagement/conflicts_and_regrading.md'
-  - Course iteration: 'courseadministration/createcourseiteration.md'
+- Intro: 'courseadministration/platform_tour.md'
+- Properties: 'courseadministration/courseproperties.md'
+- Permissions: 'courseadministration/permissions.md'
+- Structure and content:
+  - Sections: 'courseadministration/addcontent/modules.md'
+  - Learning items:
+    - Text: 'courseadministration/addcontent/learningunits/text.md'
+    - Video: 'courseadministration/addcontent/learningunits/video.md'
+    - Quiz: 'courseadministration/addcontent/learningunits/quiz.md'
+    - Quiz import: 'courseadministration/addcontent/learningunits/quiz_import.md'
+    - Quiz management:
+        - Additional attempts: 'courseadministration/quizmanagement/additionalattempts.md'
+        - Regrading: 'courseadministration//quizmanagement/regrading.md'
+    - LTI: 'courseadministration/addcontent/learningunits/lti.md'
+    - Peer assessment: 'courseadministration/addcontent/learningunits/peerassessment.md'
+    - Team peer assessment: 'courseadministration/addcontent/learningunits/team_peerassessment.md'
+    - Peer assessment management:
+        - Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
+        - Conflicts and regrading: 'courseadministration/peerassessmentmanagement/conflicts_and_regrading.md'
+- Certificate templates: 'courseadministration/certificatetemplates.md'
+- Learning objectives: 'courseadministration/learningobjectives.md'
+- Course iteration: 'courseadministration/createcourseiteration.md'
 
 theme: windmill
