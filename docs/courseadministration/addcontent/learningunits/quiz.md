@@ -12,7 +12,7 @@ Main quizzes are the weekly assignments (WA) or the final exam (FE) of the cours
 <br>
 <br>
 #### Bonus Quiz
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/792075857?h=7b276c7dae&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-17-quiz-self-test-2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796580072?h=98cb863fb7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-19-quiz-bonus"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 Bonus quizzes do not sum up to the MaxPoints, but they can help to compensate points that have been lost in the main quizzes.
 
