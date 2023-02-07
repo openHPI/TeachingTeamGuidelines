@@ -1,4 +1,4 @@
-![HPI Logo](../../img/HPI_Logo.png)
+
 
 # Additional Attempts
 
@@ -23,3 +23,5 @@ At the bottom of the same page as shown above, teaching staff will get the optio
 *Fig. Confirm to an additional attempt*  
 <br>
 It is advisable to consult the administration before granting another attempt.
+
+![HPI Logo](../../img/HPI_Logo.png)

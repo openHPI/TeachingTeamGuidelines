@@ -1,4 +1,4 @@
-![HPI Logo](../img/HPI_Logo.png)
+
 
 # Certificate Templates
 
@@ -137,6 +137,8 @@ The following data is added dynamically by the platform -
         <text fill="#3B3939" stroke-width="0" x="256.62" y="170"  font-size="12" font-family="NeoSans" text-anchor="left" xml:space="preserve">##BIRTHDAY##</text>
         <text fill="#3B3939" stroke="#3B3939" stroke-width="0" x="258" y="800"  font-size="9" font-family="NeoSans" text-anchor="left" xml:space="preserve">Potsdam, ##ISSUED_AT##</text>
     </g>
+    
+![HPI Logo](../img/HPI_Logo.png)
 </svg>
 ```
 

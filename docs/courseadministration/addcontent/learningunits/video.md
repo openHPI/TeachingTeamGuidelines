@@ -1,4 +1,4 @@
-![HPI Logo](../../../img/HPI_Logo.png)
+
 
 # Type Video
 
@@ -80,18 +80,4 @@ Subtitles can also be generated from external agencies like poliTrans (MLLP) or 
 **Open Mode allowed:** If this option is enabled, then anybody can watch the video without enrolling for the course. Please consult with your platform administrator before enabling this feature.
 <br>
 
-## Steps to add video  
-<br>
-
-![adding video](../../../img/course_admin_items/course_structure_content.png)  
-
-![add item](../../../img/features/itemtypes/survey_admin.png)
-
-![adding video](../../../img/05/create_video_item.png)
-
-![adding video](../../../img/05/videos.png)
-
-![adding video](../../../img/05/add_videos.png)
-
-*Fig. Create new video item form* 
-
+![HPI Logo](../../../img/HPI_Logo.png)

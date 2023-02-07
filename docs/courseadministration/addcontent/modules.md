@@ -1,4 +1,4 @@
-![HPI Logo](../../img/HPI_Logo.png)
+
 
 # Sections
 
@@ -41,3 +41,5 @@ Usually, an end date is not set for a section. Only use this if you have a well 
 
 #### Close discussions
 Discussions can be left open for 2 more weeks after the completion of the course. Later it can be closed for certain sections, if required. After closing, it is no longer possible to comment, answer, or start new threads.
+
+![HPI Logo](../../img/HPI_Logo.png)

@@ -1,4 +1,4 @@
-![HPI Logo](../../../img/HPI_Logo.png)
+
 
 ### Add Learning Unit
 Standard items are   
@@ -23,3 +23,5 @@ Standard items are
 **Published:** Only published learning units will be visible for the regular users.
 
 **Show in course navigation:** Particularly important learning units can be shown in the left hand navigation. Please, use this scarcely.
+
+![HPI Logo](../../../img/HPI_Logo.png)

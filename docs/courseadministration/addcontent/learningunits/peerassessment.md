@@ -1,6 +1,6 @@
-![HPI Logo](../../../img/HPI_Logo.png)
 
-# Type peer assessment
+
+# Peer assessment
 Peer assessment provides the possibility to scale out exercises that can not be graded automatically.  
 Participants will be enabled to grade each others work.  
 It is important to note that peer assessments should be completed within the duration of the course, or that it is communicated very clearly upfront that participants might need some extra time to fully complete the exercise after the actual course has already finished.  
@@ -183,3 +183,5 @@ If you choose to check the **Delta is absolute** box -
 * Reviewer median and bonus points will be ignored  
 
 If you choose to set a delta value, the points will be applied on top of the overall grade.
+
+![HPI Logo](../../../img/HPI_Logo.png)

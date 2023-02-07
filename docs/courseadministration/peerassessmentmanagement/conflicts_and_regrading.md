@@ -1,4 +1,4 @@
-![HPI Logo](../../img/HPI_Logo.png)
+
 
 # Conflicts
 
@@ -34,3 +34,5 @@ As the former is already described above, the following illustration will show t
 
 ![request regrade](../../img/courseadministration/peer_assessment/regrad_req.png)  
 *Fig. Explain briefly for the reason to regrade*
+
+![HPI Logo](../../img/HPI_Logo.png)
