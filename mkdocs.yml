@@ -1,6 +1,5 @@
 site_name: openHPI guidelines for Course administration
 nav:
-- Course administration:
 - Intro: 'courseadministration/platform_tour.md'
 - Properties: 'courseadministration/courseproperties.md'
 - Permissions: 'courseadministration/permissions.md'
