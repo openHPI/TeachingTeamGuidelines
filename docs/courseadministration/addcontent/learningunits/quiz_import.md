@@ -1,15 +1,15 @@
 
 
-#  Using the Spread Sheet for Quiz Import
-For adding a quiz, you can either use the quiz editor of the platform - as decribed here -  or you can insert all questions and answers in a Google Sheet document.
+#  Using the Spread Sheet Template for quiz import
+In order to add a quiz, you can either use the quiz editor of the platform or you can insert all questions and answers in a Google Sheet document.
 This is the preferred way for many, as it saves time and you can adapt and reuse it for other courses.
 
-## 1. Make a copy of this template
+### 1. Make a copy of this template spreadsheet
 You will have to make a copy of our quiz template spreadsheet, that you can find below.
 
 ![How our quiz template looks like](../../../img/courseadministration/quizmanagement/quiz_template.png)
 
-Find the non-to-be-edited quiz structure template [here](https://docs.google.com/spreadsheets/d/1_b8wO9_HlrrHQxagYan1iM6BBK0XtnD6vESxmhnML5s)
+Find the non-to-be-edited quiz structure template [here](https://docs.google.com/spreadsheets/d/1_b8wO9_HlrrHQxagYan1iM6BBK0XtnD6vESxmhnML5s).
 
 **Before proceeding, remember: Please, do not edit directly the template, but make a copy of it - see below how to do it.**
 
@@ -21,7 +21,7 @@ Usually, there is one sheet per week and one extra sheet for the final exam.
 
 Please note that every row after the _Quizname_ rows is a question.
 
-## How to fill quiz questions and answers
+#### How to fill quiz questions and answers
 
 Let's have an overview of the required fields:
 
@@ -55,7 +55,7 @@ _hpi-openhpi@quizquestions-1191.iam.gserviceaccount.com_
 Click *Done* to submit.
 
 
-## 3. Import your quiz spreadsheet into your course
+### 3. Import your quiz spreadsheet into your course
 
 Now, go to the course section page, click on the 'Import quizzes from spreadsheet' button. A pop up dialog window opens.
 
@@ -68,7 +68,7 @@ It may take a little while before the values from your quiz spreadsheet get disp
 Check the status banner on the top of the page for the status of your import.
 
 
-## Troubleshooting
+### Troubleshooting
 If the import returns an error, you will have to check manually again on your spreadsheet for empty or wrong values.
 Once you have manually corrected the issues, please redo step 2 and 3.
 
