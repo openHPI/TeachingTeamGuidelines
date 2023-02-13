@@ -18,19 +18,19 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 - - -
 
 ### The openHPI guidelines are organized in the following sections:
-![01-icon-intro](img/01-icon-intro.png) [Introduction](https://teachingteamguidelines.readthedocs.io/#courseadministration/platform_tour/)<br>
+<img src="img/01-icon-intro.png" width="100" height="100">  [Introduction](https://teachingteamguidelines.readthedocs.io/#courseadministration/platform_tour/)<br>
 <br>
-![02-icon-properties](img/02-icon-properties.png) [Properties](https://teachingteamguidelines.readthedocs.io/#courseadministration/courseproperties/)<br>
+<img src="img/02-icon-properties.png" width="100" height="100"> [Properties](https://teachingteamguidelines.readthedocs.io/#courseadministration/courseproperties/)<br>
 <br>
-![03-icon-permissions](img/03-icon-permissions.png) [Permissions](https://teachingteamguidelines.readthedocs.io/#courseadministration/permissions/)<br>
+<img src="img/03-icon-permissions.png" width="100" height="100"> [Permissions](https://teachingteamguidelines.readthedocs.io/#courseadministration/permissions/)<br>
 <br>
-![04-icon-structure](img/04-icon-structure.png) [Structure and content](https://teachingteamguidelines.readthedocs.io/#courseadministration/addcontent/modules/)<br>
+<img src="img/04-icon-structure.png" width="100" height="100"> [Structure and content](https://teachingteamguidelines.readthedocs.io/#courseadministration/addcontent/modules/)<br>
 <br>
-![05-icon-certificates](img/05-icon-certificates.png) [Certificate templates](https://teachingteamguidelines.readthedocs.io/#courseadministration/certificatetemplates/)<br>
+<img src="img/05-icon-certificates.png" width="100" height="100"> [Certificate templates](https://teachingteamguidelines.readthedocs.io/#courseadministration/certificatetemplates/)<br>
 <br>
-![06-icon-learning-objectives](img/06-icon-learning-objectives.png) [Learning objectives](https://teachingteamguidelines.readthedocs.io/#courseadministration/learningobjectives/)<br>
+<img src="img/06-icon-learning-objectives.png" width="100" height="100"> [Learning objectives](https://teachingteamguidelines.readthedocs.io/#courseadministration/learningobjectives/)<br>
 <br>
-![07-icon-course-iteration](img/07-icon-course-iteration.png) [Course iteration](https://teachingteamguidelines.readthedocs.io/#courseadministration/createcourseiteration/)<br>
+<img src="img/07-icon-course-iteration.png" width="100" height="100"> [Course iteration](https://teachingteamguidelines.readthedocs.io/#courseadministration/createcourseiteration/)<br>
 <br>
 
 ![HPI Logo](img/HPI_Logo.png)
