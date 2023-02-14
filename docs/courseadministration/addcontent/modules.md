@@ -16,13 +16,13 @@ Each course consists of several sections. In general these sections comprise 1 w
   - Final Exam
   - Survey (I like, I wish) 
 
-## Add Section
+## Add a new section
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/787817680?h=67929c9927&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-13-sections"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 A section generally contains a course week. It can also contain special purpose content, such as a Final Exam, an Excursion, or a Survey.
-
+<br>
 
 #### Title
 Could be something like Week 1, Excursion, or Final Exam. This will be visible for the user in the course's left hand navigation bar, the course syllabus, and the course content list on the course detail page.
