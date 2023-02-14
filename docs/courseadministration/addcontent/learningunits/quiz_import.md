@@ -10,7 +10,7 @@ To get yourself familiar with the way the template is structured, you can see an
 
 Withing the Google Sheet template you can click on any of the field titles (first row) to see an explanation about how to fill them. However, let's have an overview of the required fields:
 
-##### The basic information about the quiz:
+##### The basic information about the quiz (yellow cells):
 
 - *Quizname*: the name of the quiz
 - *CourseSection*: the section of the course where the quiz will be uploaded. It must be a numeric value.
@@ -30,12 +30,15 @@ Withing the Google Sheet template you can click on any of the field titles (firs
 - *Answer 1*, *Answer 2*,* Answer 3*, *Answer 4* : the text of the answer
 - *Correctness*: choose 'TRUE' for a correct answer or  'FALSE' for an incorrect answer
 - *Explanation*: optional explanation about the answer. This is shown to learners together with the results of the quiz.
+- If you need more than four answers you can duplicate the blue and violet columns.
+
+You can add multiple Quizzes on one sheet by adding a new line with the basic quiz information (yellow cells) and additional questions. It is recommended to use one sheet for all the self-tests of each week, a seperate sheet for each graded exam, and a seperate sheet for each survey.
 
 ### 3. Share your quiz spreadsheet to our quiz service
 
 _Before proceeding with this step, rename your quiz spreadsheet in a unique way, e.g._: `coursecode_quizname`
 
-Once you have finished filling out the quiz questions and answers, click on *Share* and paste the address:
+Once you have finished filling out the quiz questions and answers, click on *Share* and make sure that it is shared with the following address:
 _hpi-openhpi@quizquestions-1191.iam.gserviceaccount.com_
 
 Click *Done* to submit.
@@ -53,6 +56,10 @@ Check the status banner on the top of the page for the status of your import.
 
 
 #### Troubleshooting
-If the import shows an error, you will have to check manually again on your spreadsheet for empty or wrong values. Once you have manually corrected the issues, please redo steps 3 and 4.
+If the import shows an error, you will have to check manually again on your spreadsheet for empty or wrong values (particularly check "question type" and "correctness" of the answers). Once you have manually corrected the issues, please redo steps 3 and 4.
+
+If the quiz is not imported at all, please make sure that the course section exists. Course sections are counted starting with 1. So, if your course only has 2 sections and the section number in the spreadsheet is 3, the quizzes for this section will not be imported.
+
+Quizzes on the platform and in the spreadsheet are not automatically synchronized. If a quiz is edited in the spreadsheet, it will have to be re-imported and the old quiz needs to be deleted. Do not delete quizzes once they have submissions.
 
 ![HPI Logo](../../../img/HPI_Logo.png)
