@@ -22,7 +22,7 @@ Withing the Google Sheet template you can click on any of the field titles (firs
 - *Question*: actual text of the question.
 - *Question Type*: you can choose between 'MultiSelect' and 'SingleSelect' and 'FreeText'.
 - *Points*: number of points for each question
-- *Explanation*: optional explanation of the question
+- *Explanation*: optional explanation of the question. This is shown to learners together with the results of the quiz.
 - *Exclude from recap*: recap is a platform feature that takes all questions from the self tests, shuffles the them and provides an "index card" style to recap the course content before the final exam. If e.g. a question relates to a previous question, it should be excluded from the recap.
 
 ##### Answers (blue and violet cells)
