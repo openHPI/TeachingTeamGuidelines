@@ -1,23 +1,15 @@
 
 
-# Type Text
+# Learning items: Text
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/787824320?h=1f73c65841&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-14-text"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 The provision of reading material can be generally carried out in three forms: 
 
  - directly as a text-page, 
  - as a PDF download, or 
  - as a web link
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/787824320?h=1f73c65841&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-14-text"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-To create a text item, first select `Course Structure & Content`  
-
-![Text admin](../../../img/course_admin_items/course_structure_content.png)  
-![Text item](../../../img/features/itemtypes/survey_admin.png)
-
-![adding text](../../../img/features/itemtypes/text_item1.png)  
-*Fig. Select Text as the type and fill up the rest of the compulsory fields*  
-<br>
 
 To be properly displayed in the mobile apps, text pages cannot contain other formatting options than markdown.
 Although HTML is allowed to be used for particular purposes, we strongly discourage its use as it will not be rendered but shown as source code in the mobile apps.
