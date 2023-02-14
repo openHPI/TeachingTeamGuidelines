@@ -1,8 +1,5 @@
-
-
-#  Using the Spread Sheet Template for quiz import
-In order to add a quiz, you can either use the quiz editor of the platform or you can insert all questions and answers in a Google Sheet document.
-This is the preferred way for many, as it saves time and you can adapt and reuse it for other courses.
+#  Importing a quiz from data on a spreadsheet
+In order to add a new quiz on the platform, you can use the quiz editor but you also have the option to insert all the questions and answers into a Google Sheets document and then import it within the platform. This is the preferred way for many, as it saves time and provides the opportunity to adapt and reuse the template for other courses.
 
 ### 1. Make a copy of this template spreadsheet
 You will have to make a copy of our quiz template spreadsheet, that you can find below.
