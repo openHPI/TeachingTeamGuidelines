@@ -1,7 +1,4 @@
-# Quiz
-
-### Exercise type:
-
+# Learning items: Quiz
 <br>
 <br>
 #### Main Quiz
