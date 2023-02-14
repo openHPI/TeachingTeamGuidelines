@@ -1,75 +1,65 @@
+#  Importing a quiz from a spreadsheet
+In order to add a new quiz on the platform you also have the option to insert all the questions and answers into a Google Sheet document and then import it to the platform. This is the preferred way for many, as it saves time and provides the opportunity to adapt and reuse the same quiz template for several courses.
 
+### 1. Get a copy of the Google Sheet template
+Request your platform administrator to provide you with a copy of our quiz template spreadsheet.
 
-#  Using the Spread Sheet Template for quiz import
-In order to add a quiz, you can either use the quiz editor of the platform or you can insert all questions and answers in a Google Sheet document.
-This is the preferred way for many, as it saves time and you can adapt and reuse it for other courses.
+To get yourself familiar with the way the template is structured, you can see an *only view* [example of the spreadsheet here](https://docs.google.com/spreadsheets/d/1oVpcdnl1vr-9hr8zuyyTtZXF7ZIb-wGVgOtSKleebJ8/edit?usp=sharing).
 
-### 1. Make a copy of this template spreadsheet
-You will have to make a copy of our quiz template spreadsheet, that you can find below.
+### 2. Fill in the quiz questions and answers
 
-![How our quiz template looks like](../../../img/courseadministration/quizmanagement/quiz_template.png)
+Withing the Google Sheet template you can click on any of the field titles (first row) to see an explanation about how to fill them. However, let's have an overview of the required fields:
 
-Find the non-to-be-edited quiz structure template [here](https://docs.google.com/spreadsheets/d/1_b8wO9_HlrrHQxagYan1iM6BBK0XtnD6vESxmhnML5s).
+##### The basic information about the quiz (yellow cells):
 
-**Before proceeding, remember: Please, do not edit directly the template, but make a copy of it - see below how to do it.**
+- *Quizname*: the name of the quiz
+- *CourseSection*: the section of the course where the quiz will be uploaded. It must be a numeric value.
+- *Quiz Type*: choose the most appropriate type for the quiz: self-test (ungraded), weekly assignment (graded), survey, bonus or final exam. The template provides the standard configuration for each one of the types of quizzes that you choose.
+- *Instructions*: The instruction text for the students taking the quiz. Please note that self-tests do not have instructions.
 
-![How to make a copy of a Google spreadsheet template](../../../img/courseadministration/quizmanagement/copy_quiz_template.png)
+##### Questions (green cells)
 
-As you see, the spreadsheet consists of different sheets.
-Every sheet can be imported separately.
-Usually, there is one sheet per week and one extra sheet for the final exam.
+- *Question*: actual text of the question.
+- *Question Type*: you can choose between 'MultiSelect' and 'SingleSelect' and 'FreeText'.
+- *Points*: number of points for each question
+- *Explanation*: optional explanation of the question. This is shown to learners together with the results of the quiz.
+- *Exclude from recap*: recap is a platform feature that takes all questions from the self tests, shuffles the them and provides an "index card" style to recap the course content before the final exam. If e.g. a question relates to a previous question, it should be excluded from the recap.
 
-Please note that every row after the _Quizname_ rows is a question.
+##### Answers (blue and violet cells)
 
-#### How to fill quiz questions and answers
+- *Answer 1*, *Answer 2*,* Answer 3*, *Answer 4* : the text of the answer
+- *Correctness*: choose 'TRUE' for a correct answer or  'FALSE' for an incorrect answer
+- *Explanation*: optional explanation about the answer. This is shown to learners together with the results of the quiz.
+- If you need more than four answers you can duplicate the blue and violet columns.
 
-Let's have an overview of the required fields:
+You can add multiple Quizzes on one sheet by adding a new line with the basic quiz information (yellow cells) and additional questions. It is recommended to use one sheet for all the self-tests of each week, a seperate sheet for each graded exam, and a seperate sheet for each survey.
 
-##### The infos about the quiz and its type:
+### 3. Share your quiz spreadsheet to our quiz service
 
-- *Name*: the name of the quiz
-- *CourseSection*: the section of the course where the quiz is. It must be a numeric value.
-- *Quiz Type*: choose the most appropriate type for the quiz: self-test (ungraded), a weekly assignment (graded), a survey, a bonus exercise or the final exam
-- *Instructions*: The instructions for taking the quiz. Please note that self-tests do not have instructions
+_Before proceeding with this step, rename your quiz spreadsheet in a unique way, e.g._: `coursecode_quizname`
 
-##### Question type, its points and explanation (green cells)
-
-- *Question*: actual text of the question
-- *QuestionType*: you can choose between 'multiple answer' ('multiple choice' in the platform) and 'multiple choice' ('single select choice' in the platform). Please note that the other types, like free text and survey, are not supported through the spreadsheet, but only natively via the platform.
-- *Points*: points of the question
-- *Explanation*: optional explanation of the question
-
-##### The answers to the question (blue and violet cells)
-
-- *Answer1*, *Answer2*,* Answer3*, *Answer4* : the text of the answer
-- *Correctness*: choose 'True' for a correct answer or  'False' for an incorrect answer
-- *Explanation*: optional explanation of the question and correct answers. This is shown to learners together with the results of the quiz.
-
-### 2. Share your quiz spreadsheet to our quiz service
-
-_Before proceeding with this step, you may want to rename your quiz spreadsheet in a unique way, e.g._: `coursecode_quizname`
-
-Once you have finished filling out the quiz, question and answer infos for each week and homework worksheet, click on *Share* and paste address:
+Once you have finished filling out the quiz questions and answers, click on *Share* and make sure that it is shared with the following address:
 _hpi-openhpi@quizquestions-1191.iam.gserviceaccount.com_
 
 Click *Done* to submit.
 
 
-### 3. Import your quiz spreadsheet into your course
+### 4. Import the quiz spreadsheet into your course
 
-Now, go to the course section page, click on the 'Import quizzes from spreadsheet' button. A pop up dialog window opens.
+Go to the course section within 'Course Structure & Content' and click on the 'Import quizzes from spreadsheet' button. A pop up dialog window opens.
 
-![How Quiz Import Pop Up looks like](../../../img/quizimport/quiz_import.png)
-
-Fill out the Spreadsheet name with the **file name** of your quiz spreadsheet (and not the URL)
-Fill out the Worksheet name with the name of the worksheet you want to import (e.g. "Week1")
+Fill out the Spreadsheet name with the **file name** of your quiz spreadsheet (not the URL).
+Fill out the Worksheet name with the name of the worksheet you want to import (e.g. "Week1").
 Click on *Submit*.
 It may take a little while before the values from your quiz spreadsheet get displayed.
 Check the status banner on the top of the page for the status of your import.
 
 
-### Troubleshooting
-If the import returns an error, you will have to check manually again on your spreadsheet for empty or wrong values.
-Once you have manually corrected the issues, please redo step 2 and 3.
+#### Troubleshooting
+If the import shows an error, you will have to check manually again on your spreadsheet for empty or wrong values (particularly check "question type" and "correctness" of the answers). Once you have manually corrected the issues, please redo steps 3 and 4.
+
+If the quiz is not imported at all, please make sure that the course section exists. Course sections are counted starting with 1. So, if your course only has 2 sections and the section number in the spreadsheet is 3, the quizzes for this section will not be imported.
+
+Quizzes on the platform and in the spreadsheet are not automatically synchronized. If a quiz is edited in the spreadsheet, it will have to be re-imported and the old quiz needs to be deleted. Do not delete quizzes once they have submissions.
 
 ![HPI Logo](../../../img/HPI_Logo.png)
