@@ -8,6 +8,8 @@ Platform admins and course admins can grant permissions to a course under the co
 
 ## Groups
 
+Every person that interacts with the course can fall into one of the following group categories according to the amount of permissions they have within the course.
+
 ### Course Administrators
 
 All members of this group are granted the following roles and permissions:
