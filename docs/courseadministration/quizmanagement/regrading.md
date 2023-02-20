@@ -1,5 +1,4 @@
-# Regrading
-
+# Course Structure & Content | Quiz Regrading
 
 ### Important note: 
 
