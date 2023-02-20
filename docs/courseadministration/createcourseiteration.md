@@ -1,6 +1,6 @@
 
 
-# Creating a New Course Iteration
+# Course Iteration
 
 ### Clone course
 Course Administration menu > Course structure & content.
