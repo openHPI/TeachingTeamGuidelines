@@ -1,6 +1,4 @@
-
-
-# Learning items: Video
+# Course Structure & Content | Video
 
 The workflow of video production and post production, in terms of allocation of videos, can be carried out in different ways and therefore will not be discussed further in these guidelines. Instead, let's assume that you already have a produced video at hand, which you want to bring to the platform.
 
