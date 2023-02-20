@@ -1,6 +1,4 @@
-
-
-# Peer assessment
+# Course Structure & Content | Peer Assessment Creation
 Peer assessment provides the possibility to scale out exercises that can not be graded automatically.  
 Participants will be enabled to grade each others work.  
 It is important to note that peer assessments should be completed within the duration of the course, or that it is communicated very clearly upfront that participants might need some extra time to fully complete the exercise after the actual course has already finished.  
