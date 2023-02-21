@@ -1,4 +1,4 @@
-# Course Structure & Content | LTI
+# LTI
 
 ## Integration of External Tools via LTI
 
