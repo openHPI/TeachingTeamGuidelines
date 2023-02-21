@@ -1,4 +1,4 @@
-# Course Structure & Content | Team Peer Assessment  
+# Team Peer Assessment  
 
 To open the peer assessment dashboard go to **`Course Administration`** and select **`Peer Assessment`**  
 
