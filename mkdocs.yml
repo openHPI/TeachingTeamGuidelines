@@ -1,4 +1,4 @@
-site_name: openHPI guidelines for Course administration
+site_name: openHPI Guidelines for Course Administration
 nav:
 - Introduction: 'courseadministration/platform_tour.md'
 - Course Properties: 'courseadministration/courseproperties.md'
