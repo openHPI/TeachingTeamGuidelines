@@ -1,4 +1,4 @@
-# Course Structure & Content | Sections
+# Sections
 
 Each course consists of several sections. In general these sections comprise 1 week of the course. They can, however, have arbitrary names and are not necessarily restricted to last exactly 1 week. A typical 6 week course structure could look like this:
 
