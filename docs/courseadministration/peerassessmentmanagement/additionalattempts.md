@@ -1,4 +1,4 @@
-# Course Structure & Content | Peer Assessment Additional Attempts
+# Peer Assessment Additional Attempts
 
 Teaching staff can grant participants an additional attempt by following the illustrations mentioned below: 
 
