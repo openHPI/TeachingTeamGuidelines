@@ -1,4 +1,4 @@
-#  Importing a quiz from a spreadsheet
+#  Course Structure & Content | Quiz Import
 In order to add a new quiz on the platform you also have the option to insert all the questions and answers into a Google Sheet document and then import it to the platform. This is the preferred way for many, as it saves time and provides the opportunity to adapt and reuse the same quiz template for several courses.
 
 ### 1. Get a copy of the Google Sheet template

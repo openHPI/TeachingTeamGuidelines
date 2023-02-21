@@ -1,8 +1,6 @@
+# Course Structure & Content | LTI
 
-
-# Integration of External Tools via LTI
-
-## Introduction
+## Integration of External Tools via LTI
 
 The HPI learning platform features many dedicated interactive components for a majority of MOOCs, and we recommend using these native elements if possible. They are supported by our team and have proven to be stable and fit most learners need. However, we also offer an interface to connect the HPI learning platform to any other third-party tool to extend the learner's experience with additional, unique features.
 

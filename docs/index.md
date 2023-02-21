@@ -1,6 +1,4 @@
-## openHPI guidelines for course administration
-
-
+## openHPI Guidelines for Course Administration
 
 A step by step guide to administrate courses on the **openHPI digital learning platform** used by:
 
