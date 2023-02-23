@@ -1,7 +1,7 @@
 #  Quiz Import
 In order to add a new quiz on the platform you also have the option to insert all the questions and answers into a Google Sheet document and then import it to the platform. This is the preferred way for many, as it saves time and provides the opportunity to adapt and reuse the same quiz template for several courses.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796580072?h=98cb863fb7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI guidelines | 19 Quiz | Bonus"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/801503969?h=6d2a876ef1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-20-quiz-import"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### 1. Get a copy of the Google Sheet template
 Request your platform administrator to provide you with a copy of our quiz template spreadsheet.
