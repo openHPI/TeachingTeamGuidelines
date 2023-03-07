@@ -94,6 +94,8 @@ Once you put all required values in, you could save the LTI provider and use it 
 
 ### Creating an LTI Exercise
 
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/805427533?h=59f8135ea5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-21-LTI.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 Providing an LTI exercise is very similar to the creation of a multiple-choice quiz for the general settings. As the main values are treated similar to a quiz, only LTI specific information are added here.
 
 - Providing a value to `maximal points` is **strongly** recommended. It is required to account points to learners (based on the percentage value provided via LTI) and should only be set to `0.0` (default) if no points can be achieved. The value is not transmitted to the external tool via LTI.
