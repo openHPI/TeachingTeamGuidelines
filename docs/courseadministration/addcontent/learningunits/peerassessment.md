@@ -1,37 +1,26 @@
 # Peer Assessment Creation
-Peer assessment provides the possibility to scale out exercises that can not be graded automatically.  
-Participants will be enabled to grade each others work.  
-It is important to note that peer assessments should be completed within the duration of the course, or that it is communicated very clearly upfront that participants might need some extra time to fully complete the exercise after the actual course has already finished.  
-We also recommend to use peer assessments mainly as bonus exercises as otherwise the course completion rate might be lower.
+
+## Introduction
+The Peer Assessment feature provides the possibility to scale out exercises that cannot be graded automatically by enabling participants to grade each other's work. It is important to note that peer assessments should be completed within the duration of the course. Otherwise, it should be clearly communicated upfront that participants might need some extra time to fully complete the exercise after the actual end of the course. We also recommend to use peer assessments mainly as bonus exercises in order to avoid affecting the course completion rate in a negative way.
 
 Participants can find a general description of the Peer Assessment Feature [here](https://open.hpi.de/pages/p_a)
 and an example for the calculation of grades [here](https://open.hpi.de/pages/p_a_grading).  
 
   
-## Creating Peer Assessment  
-
-To create a new peer assessment, go to **`Course Administration`** and select **`Course Structure & Content`**  
-
-![Navigate PA](../../../img/courseadministration/peer_assessment/add_pa_1.png)  
-*Fig. First step for creating a new peer assessment*  
-<br>
-
-![Create PA](../../../img/courseadministration/peer_assessment/add_pa_2.png)  
-*Fig. Second step to create a new peer assessment*  
-<br>
-
-![Blank PA](../../../img/courseadministration/peer_assessment/add_pa_3.png)  
-*Fig. Preview of the peer assessment template*
-<br>
-
-**Exercise type:** Set either ***Main*** or ***Bonus*** (Self test and Survey do not make sense here).  
-Points for a peer assessment of type *Main* will be added to the amount of achievable points.  
-Points for a peer assessment of type *Bonus* can be used to make up for regular points that have been missed. In this respect peer assessments behave just like standard quizzes. 
-
-**New / existing assessment:** Existing peer assessments can be linked here so that they are accessible from different places. E.g. the submission phase (Week 1) of the assessment might be separated from the grading phase (Week 2). This feature is deprecated, however, and will be discontinued in the future. The recommended best practice is to set up the peer assessment in a separate section of the course.
+## Creating a Peer Assessment
 
 
-## Peer assessment settings
+
+#### Exercise type:
+Set either ***Main*** or ***Bonus*** (Self test and Survey do not make sense here).  
+Points for a *Main* peer assessment will be added to the amount of achievable points.  
+Points for a *Bonus* peer assessment can be used to make up for regular points that have been missed. In this respect peer assessments behave just like standard quizzes. 
+
+#### New or existing assessment:
+An existing peer assessment can be linked here so that it is accessible in different sections. E.g. the submission phase (Week 1) of the assessment might be separated from the grading phase (Week 2). This feature is deprecated, however, and will be discontinued in the future. The recommended best practice is to set up the peer assessment in a separate section of the course.
+
+
+### Peer assessment settings
 To open the peer assessment dashboard go to **`Course Administration`** and select **`Peer Assessment`**  
 ![PA](../../../img/course_admin_items/peer_assess.png)  
 *Fig. Select the Peer Assessment to modify the settings*  
