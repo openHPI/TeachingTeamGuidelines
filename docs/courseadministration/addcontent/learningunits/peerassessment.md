@@ -9,14 +9,14 @@ and an example for the calculation of grades [here](https://open.hpi.de/pages/p_
   
 ## Creating a Peer Assessment
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/812231743?h=fb6dbabeb6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-22-peer-assessment-creation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-
-#### Exercise type:
+#### Exercise type
 Set either ***Main*** or ***Bonus*** (Self test and Survey do not make sense here).  
 Points for a *Main* peer assessment will be added to the amount of achievable points.  
 Points for a *Bonus* peer assessment can be used to make up for regular points that have been missed. In this respect peer assessments behave just like standard quizzes. 
 
-#### New or existing assessment:
+#### New or existing assessment
 An existing peer assessment can be linked here so that it is accessible in different sections. E.g. the submission phase (Week 1) of the assessment might be separated from the grading phase (Week 2). This feature is deprecated, however, and will be discontinued in the future. The recommended best practice is to set up the peer assessment in a separate section of the course.
 
 
