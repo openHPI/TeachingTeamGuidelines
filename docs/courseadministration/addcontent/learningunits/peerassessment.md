@@ -1,4 +1,4 @@
-# Peer Assessment Creation
+# Peer Assessment
 
 ## Introduction
 The Peer Assessment feature provides the possibility to scale out exercises that cannot be graded automatically by enabling participants to grade each other's work. It is important to note that peer assessments should be completed within the duration of the course. Otherwise, it should be clearly communicated upfront that participants might need some extra time to fully complete the exercise after the actual end of the course. We also recommend to use peer assessments mainly as bonus exercises in order to avoid affecting the course completion rate in a negative way.
@@ -7,7 +7,7 @@ Participants can find a general description of the Peer Assessment Feature [here
 and an example for the calculation of grades [here](https://open.hpi.de/pages/p_a_grading).  
 
   
-## Creating a Peer Assessment
+## Peer Assessment Creation
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/812231743?h=fb6dbabeb6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-22-peer-assessment-creation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -20,25 +20,11 @@ Points for a *Bonus* peer assessment can be used to make up for regular points t
 An existing peer assessment can be linked here so that it is accessible in different sections. E.g. the submission phase (Week 1) of the assessment might be separated from the grading phase (Week 2). This feature is deprecated, however, and will be discontinued in the future. The recommended best practice is to set up the peer assessment in a separate section of the course.
 
 
-### Peer assessment settings
-To open the peer assessment dashboard go to **`Course Administration`** and select **`Peer Assessment`**  
-![PA](../../../img/course_admin_items/peer_assess.png)  
-*Fig. Select the Peer Assessment to modify the settings*  
-<br>  
+## Peer Assessment Configuration
 
-### General settings  
 
-![Edit PA](../../../img/courseadministration/peer_assessment/pa_edit_settings.png)  
-*Fig. To edit the configuration of the created peer assessment*  
-<br>
 
-![General Settings 1](../../../img/courseadministration/peer_assessment/pa_general_settings_1.png)
-![General Settings 2](../../../img/courseadministration/peer_assessment/pa_general_settings_2.png)
-![General Settings 3](../../../img/courseadministration/peer_assessment/pa_general_settings_3.png)  
-*Fig. To configure the general settings*  
-<br>
-
-While editing the general configuration, please follow the guidelines mentioned below:  
+#### General settings  
 
 **Title:** The title of the assignment  
 
@@ -64,25 +50,11 @@ While editing the general configuration, please follow the guidelines mentioned 
 
 <br>  
 
-### File Attachments  
+#### File Attachments  
 Based on your choice of assignment, you may choose to upload files.   
 Those files will be shown as assignment attachments and will be downloadable by the students.
 
-![PA File](../../../img/courseadministration/peer_assessment/pa_file_attach.png)  
-*Fig. Add files to the peer assessment*  
-<br>  
-
-
-
-### Workflow Steps  
-
-![PA Work flow](../../../img/courseadministration/peer_assessment/pa_work_flow.png)  
-*Fig. Select the workflow steps for the peer assessment*  
-<br>  
-![Workflow](../../../img/courseadministration/peer_assessment/workflow.png)  
-*Fig. Workflow steps*  
-<br>
-
+#### Workflow Steps
 Each peer assessment always includes the following phases:  
 * **Submit your work** - This is the first step where participants submit their assignment. Ideally, participants are allowed a minimum of **2 weeks** to hand in their submission.
 * **Evaluate your peers** - This is the second step where participants can review their peer's work. You can set a minimum number of reviews to be made and participants can be allowed a minimum of **7 days** to submit their reviews.
@@ -93,20 +65,7 @@ The unlock date of each phase determines when participants can start the next ph
 If unlock date is not specified, participants can start the next phase as soon as they have completed the previous phase.  
 The deadline for each phase is a mandatory field specifying a time for participants to complete the phase.
 
-### Grading Rubrics  
-
-You can define your own grading rubrics by following the illustration as shown below:  
-
-![Create PA Rubrics ](../../../img/courseadministration/peer_assessment/pa_grading_rubric.png)  
-*Fig. Define your grading rubric*  
-<br>  
-
-First you need to select how many grading options you want for your grading rubric.  
-
-![PA Rubrics](../../../img/courseadministration/peer_assessment/pa_grading_rubric_1.png)
-
-*Fig. Add rubrics for the peer assessment*  
-<br>  
+#### Grading Rubrics  
 
 **Number of grading options**: You need to mention the number of grading criteria you desire  
 
@@ -115,13 +74,8 @@ First you need to select how many grading options you want for your grading rubr
 **Hints/General explanation**: Give a brief explanation for each criteria for easy and transparent grading.  
 
 **Rubric Options**: Define the grades for each criteria and set your grading scale    
-<br>  
 
-![PA Rubrics Ex](../../../img/courseadministration/peer_assessment/pa_grading_rubric_example.png)  
-*Fig. An example of sample grading rubrics*  
-<br>  
-
-### Team Evaluation Rubrics  
+#### Team Evaluation Rubrics  
 If you have assigned a team for peer assessment then you have to define rubrics for team.  
 By default there are three pre-defined rubrics in place.  
 If you desire to create another rubric, please follow the illustration below:  
@@ -131,7 +85,7 @@ If you desire to create another rubric, please follow the illustration below:
 *Fig. Add team evaluation rubrics*  
 <br>  
 
-## Manage Peer Assessment Submissions  
+## Peer Assessment Submissions Management
 
 You can manage all the submitted reviews by following the below mentioned illustration:  
 
