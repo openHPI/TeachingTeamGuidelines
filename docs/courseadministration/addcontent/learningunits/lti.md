@@ -1,15 +1,15 @@
 # LTI
 
-## Integration of External Tools via LTI
+### Integration of External Tools via LTI
 
-The HPI learning platform features many dedicated interactive components for a majority of MOOCs, and we recommend using these native elements if possible. They are supported by our team and have proven to be stable and fit most learners need. However, we also offer an interface to connect the HPI learning platform to any other third-party tool to extend the learner's experience with additional, unique features.
+The HPI learning platform features many dedicated interactive components for a majority of MOOCs, and we recommend using these native elements if possible. They are supported by our team, have proven to be stable and fit most learners' needs. However, we also offer an interface to connect the HPI learning platform to any other third-party tool to extend the learner's experience with additional, unique features.
 
 ### Usage Scenario
 
 The interface offered by the HPI learning platform is a web-based link technology supporting the access of external educational resources. Opening an external offer through the interface has two main advantages:
 
-- Learners are recognized (with a reduced information set) using a Single Sign-On within the external application. This allows a unified learning experience with saving the current progress and continuation on another device.
-- The external tool might return scores for activities back to the course within the HPI learning platform. These are handled similar to other scores and, depending on the settings, either count towards the certificate or self-test points.
+- Learners are recognized (with a reduced information set) using a Single Sign-On within the external application. This allows a unified learning experience with the ability to save the current progress and continue on a different device.
+- The external tool might return scores for activities back to the course within the HPI learning platform. These are handled similarly to other scores and, depending on the settings, may count towards either the certificate or self-test points.
 
 We recommend using the interface only for interactive, trust-worthy exercises and tools. In order to comply with privacy regulations, non-native LTI providers won't have access to personal user data as part of the Single Sing-On request by default. Especially web links to external resources should not make use of this platform feature and should instead rely on the linking mechanism offered within the rich-text items.
 
@@ -93,6 +93,8 @@ As teachers and course administrators do not necessarily know the implications o
 Once you put all required values in, you could save the LTI provider and use it in one of the exercises as shown below.
 
 ### Creating an LTI Exercise
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/805427533?h=59f8135ea5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-21-LTI.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Providing an LTI exercise is very similar to the creation of a multiple-choice quiz for the general settings. As the main values are treated similar to a quiz, only LTI specific information are added here.
 
