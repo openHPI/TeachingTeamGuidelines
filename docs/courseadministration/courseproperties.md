@@ -70,9 +70,17 @@ If a large amount of teachers will be conducting the course, you can provide an 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781740042?h=227bbfc0e7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-05-cp-categorization"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 #### Topic
+Topics are defined per platform (talk to your platform administrator if you do not find a topic that suits you). Topics are used to filter the courses on the course list. On openHPI, for example, the topics are: Big Data and AI, Cloud and Operating Systems, Cybersecurity, etc. On your platform there might be different topics. Platforms running behind a portal, such as eGov-Campus or KI-Campus do not have a course list. The topic is therefore not reflected in the UI. Setting a topic here still might be useful for reporting purposes.
+
 #### Reporting Type
+Reporting types are only used for reporting purposes. You can define your own reporting types. E.g. if you want to receive a combined course report for all the Java courses you offered in 2022, you could create a reporting type HPI-Java-2022 and use this for all Java courses of your institution offered on the platform in 2022.
+
 #### Course List
+Currently, the courses on the courses page are ordered only by date. In the future, it will be possible to create more lists manually. A first step towards this direction is the "featured" course list, which allows you to particularly highlight several courses. Please, talk to your platform administrator if this feature is enabled for your platform yet.
+
 #### Level
+Like topics, levels are a way to filter courses on the courses page. They are predefined per platform. For example, on openHPI we use Junior, Beginner, Advanced and Expert.
+
 #### Learning goals
 #### Target groups
 #### Channel
@@ -207,7 +215,7 @@ Allows achieving a RoA after regular course runtime (when graded assignments are
 <br>
 
 ## Statistics
-#### Enrollment delta
+
 #### Auto-calculate course middle
 #### Course middle for stats (UTC)
 #### Rating (average stars)
