@@ -48,7 +48,7 @@ It should include:
 The course image is shown in the course list and course details view. Please add an image, which is related to the content. 
 Ideally, the image is free of copyrights, alternatively images under a Creative Commons license or stock photos from commercial providers can be used. In these cases the license has to be provided in the course description.
 
-#### Introduction video
+#### Teaser video
 A short teaser video (maximum 90 seconds) is required to be published a month prior to releasing the course. The video needs to highlight important information about the course and to motivate interested participants to enrol.  
 
 <br>
@@ -82,7 +82,11 @@ Currently, the courses on the courses page are ordered only by date. In the futu
 Like topics, levels are a way to filter courses on the courses page. They are predefined per platform. For example, on openHPI we use Junior, Beginner, Advanced and Expert.
 
 #### Learning goals
+The Learning goals are typically displayed to show learners the specific learning outcomes they can achieve through the course. These goals can vary depending on the course and can be created in this section. They also can serve as tags asigned to each course, which later on will allow for sorting and searching within the course database.
+
 #### Target groups
+These are the specific profiles of learners that the course is designed for. These groups can vary depending on the course and can be created in this section. They also can serve as tags asigned to each course, which later on will allow for sorting and searching within the course database.
+
 #### Channel
 If you want to publish your course in a dedicated channel, you can select the channel here by using the dropdown.
 
@@ -151,8 +155,6 @@ Here is a sample text:
 #### Require invitation
 This feature can be used if you do not want the participants to enrol directly by themselves. The enrolment would be on the basis of invitation, for example, by sending the link to the course to a small group of participants and whosoever knows the URL can enrol for the said course.
 
-#### Policy URL
-
 <br>
 
 ## Features
@@ -172,7 +174,7 @@ All video or audio files can be downloaded by the participants on a video item p
 #### Collab spaces
 Collab spaces offer smaller groups within a course the possibility to work together or to communicate without the whole course population knowing their shared information. Every course participant is able to create a collab space. All course participants can enter an open collab space. With a closed collab space, participants need to first apply for member- ship to gain entry. Collab spaces are enabled for all courses by default.
 
-#### Discussions:
+#### Discussion forum:
 The discussion forum can be completely disabled for a course. In this case, there will be no links to the discussions in the course navigation or in the left-hand section navigation. Also, the forum cannot be accessed via deep link. Discussion forums in collab spaces are not affected by this toggle. Discussions are enabled for all courses by default.
 
 <br>
@@ -217,9 +219,16 @@ Allows achieving a RoA after regular course runtime (when graded assignments are
 ## Statistics
 
 #### Auto-calculate course middle
+The course middle is a metric used by the platform to calculate the students' attendance and completion rate of the course. When the Auto-calculate course middle option is set on the course middle will be calculated automatically between start and end of the course. As an example, it is suggested to choose this option for normal six weeks course.
+
 #### Course middle for stats (UTC)
+If you choose to disable the Auto-calculate course middle feature, you can set your own date here. This option is useful in cases where deadlines can be set after the end of the course, for example in a short two week course.
+
 #### Rating (average stars)
+This is a normal text input field where the results of a quiz designed for the students to evaluate the course can be added manually. After having performed the quiz, you can calculate the average results and enter the number here.
+
 #### Rating (number of votes)
+This is a normal text input field where the results of a quiz designed for the students to evaluate the course can be added manually. After having performed the quiz, you can enter the number of students who voted here.
 
 <br>
 
