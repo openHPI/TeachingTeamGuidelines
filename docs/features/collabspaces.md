@@ -21,6 +21,15 @@ For closed collab spaces
 ![HPI Logo](../img/features/structure/collab_space.png)  
 *Fig. Preview of a sample Collab Space in a course*  
 
+![Create new Collab Space](https://user-images.githubusercontent.com/10694390/235100890-196b3d01-e379-4320-b2d0-23bef5be5d73.png)
+
+![Example Collab Space](https://user-images.githubusercontent.com/10694390/235101321-c73c3cf2-0235-479c-a4e8-3b7cba81e4f9.png)
+
+
+![Inside Collab Space](https://user-images.githubusercontent.com/10694390/235101518-034b031c-9239-4280-8452-bdb81622a43e.png)
+
+
+
 Collab spaces provide a whole range of communication and collaboration tools:   
 
 * Private discussion forum (accessible only by collab space members and the teaching team)
