@@ -10,7 +10,7 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 - [eGov Campus](https://egov-campus.org/)
 - [LERNEN.cloud](https://lernen.cloud/)
 - [mooc.HOUSE](https://mooc.house/)
-- [Kommunal Campus](https://lernen.kommunalcampus.de/)
+- [KommunalCampus](https://lernen.kommunalcampus.de/)
 - [Industrial Upskilling](https://www.industrial-upskilling.de/)
 
 - - -
