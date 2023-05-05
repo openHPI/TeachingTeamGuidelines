@@ -2,23 +2,11 @@
 
 # Certificate Templates
 
-Course administrators have the permission to create a new certificate template or edit an already prepared template.  
-
-![Certificate Admin](../img/courseadministration/certificate/cert_temp.png)  
-*Fig. To create or edit certificate template*  
-<br>
-
-![New Certificate Template](../img/courseadministration/certificate/add_cert_temp.png)  
-*Fig. To add a new certificate template*  
-<br>
-
-![Certificate Template](../img/courseadministration/certificate/new_cert_temp.png)  
-*Fig. To create a new certificate template based on the certificate type of choice*  
-<br>
+Course administrators have the permission to create a new certificate template or edit an already prepared template.
 
 Course administrator can add up to three different types of certificates:  
 
-## Qualified Certificate:  
+## Qualified Certificate
 
 The template has to contain the following information -  
 
@@ -65,7 +53,9 @@ Font types, positions need to be adjusted depending on the template.
 *Fig. Preview of Qualified Certificate*  
 <br>
 
-## Record of Achievement:  
+## Record of Achievement:
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/824065499?h=507f0fae59&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-24-certificate-templates"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 The template has to contain the following information -  
 
