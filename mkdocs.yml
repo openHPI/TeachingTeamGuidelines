@@ -2,7 +2,7 @@ site_name: openHPI Guidelines for Course Administration
 nav:
 - Introduction: 'courseadministration/platform_tour.md'
 - Settings: 'courseadministration/courseproperties.md'
-- Course Permissions: 'courseadministration/permissions.md'
+- Permissions: 'courseadministration/permissions.md'
 - Structure & Content | Sections: 'courseadministration/addcontent/modules.md'
 - Structure & Content | Text: 'courseadministration/addcontent/learningunits/text.md'
 - Structure & Content | Video: 'courseadministration/addcontent/learningunits/video.md'
