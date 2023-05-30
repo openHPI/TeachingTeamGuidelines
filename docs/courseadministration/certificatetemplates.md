@@ -1,26 +1,14 @@
-
-
 # Certificate Templates
 
-Course administrators have the permission to create a new certificate template or edit an already prepared template.  
+Course administrators have the permission to create a new certificate template or edit an already prepared template. There are three different types of certificates although it is important to keep in mind that certificates might be different from platform to platform.
 
-![Certificate Admin](../img/courseadministration/certificate/cert_temp.png)  
-*Fig. To create or edit certificate template*  
-<br>
+You can find more information here: https://open.hpi.de/pages/document_types
 
-![New Certificate Template](../img/courseadministration/certificate/add_cert_temp.png)  
-*Fig. To add a new certificate template*  
-<br>
+## Certificate
 
-![Certificate Template](../img/courseadministration/certificate/new_cert_temp.png)  
-*Fig. To create a new certificate template based on the certificate type of choice*  
-<br>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/824065499?h=507f0fae59&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-24-certificate-templates"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-Course administrator can add up to three different types of certificates:  
-
-## Qualified Certificate:  
-
-The template has to contain the following information -  
+The template must contain the following information:
 
 * Course title and summary
 * Bullet points of most important course elements
@@ -28,7 +16,7 @@ The template has to contain the following information -
 * Page 2: detailed course description
 * Page 3: grading scheme
 
-The following data is added dynamically by the platform -   
+The following data is added dynamically by the platform:
 
 * Participant's name
 * Participant's e-mail address
@@ -59,21 +47,24 @@ The following data is added dynamically by the platform -
 </svg>
 ```
 
-Font types, positions need to be adjusted depending on the template.  
+Font types, positions need to be adjusted depending on the template.
 
-![Certificate](../img/courseadministration/certificate/Certificate.png)  
-*Fig. Preview of Qualified Certificate*  
+![Certificate](../img/courseadministration/certificate/certificate.png)  
+*Fig. Preview of Certificate*  
 <br>
 
-## Record of Achievement:  
+## Record of Achievement:
 
-The template has to contain the following information -  
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/831508220?h=2ed7ed50c8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-26-certificate-templates-2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+The template must contain the following information:
 
 * Course title and summary
 * Bullet points of most important course elements
 * Signature of the course instructors and the person in charge of the platform
 
-The following data is added dynamically by the platform -   
+The following data is added dynamically by the platform:
 
 * Participant's name
 * Participant's e-mail address
@@ -105,18 +96,18 @@ The following data is added dynamically by the platform -
 
 Font types, positions need to be adjusted depending on the template.  
 
-![RoA](../img/courseadministration/certificate/RoA.png)  
+![RoA](../img/courseadministration/certificate/roa.png)  
 *Fig. Preview of Record of Achievement*  
 <br>
 
 ## Confirmation of Participation:  
 
-The template should contain the following information -  
+The template must contain the following information:
 
 * Course title and summary
 * Bullet points of most important course elements
   
-The following data is added dynamically by the platform -  
+The following data is added dynamically by the platform:
 
 * Participant's name
 * Participant's e-mail address
@@ -144,5 +135,5 @@ The following data is added dynamically by the platform -
 
 Font types, positions need to be adjusted depending on the template.  
 
-![CoP](../img/courseadministration/certificate/CoP.png)  
+![CoP](../img/courseadministration/certificate/cop.png)  
 *Fig. Preview of Confirmation of Participation*  
