@@ -7,18 +7,18 @@ nav:
 - Structure & Content | Text: 'courseadministration/addcontent/learningunits/text.md'
 - Structure & Content | Video: 'courseadministration/addcontent/learningunits/video.md'
 - Structure & Content | Quiz:
-  - Quiz Creation: 'courseadministration/addcontent/learningunits/quiz.md'
-  - Quiz Import: 'courseadministration/addcontent/learningunits/quiz_import.md'
-  - Quiz Additional Attempts: 'courseadministration/quizmanagement/additionalattempts.md'
-  - Quiz Regrading: 'courseadministration//quizmanagement/regrading.md'
+  - Add Quiz: 'courseadministration/addcontent/learningunits/quiz.md'
+  - Import Quizzes: 'courseadministration/addcontent/learningunits/quiz_import.md'
+  - Grant Additional Attempts: 'courseadministration/quizmanagement/additionalattempts.md'
+  - Regrade Quiz: 'courseadministration//quizmanagement/regrading.md'
 - Structure & Content | LTI:
-  - External exercise: 'courseadministration/addcontent/learningunits/lti.md'
-  - Connecting LTI Tools: 'courseadministration/addcontent/learningunits/connect_lti_tools'
+  - Add External exercise: 'courseadministration/addcontent/learningunits/lti.md'
+  - Connect LTI Tools: 'courseadministration/addcontent/learningunits/connect_lti_tools'
 - Structure & Content | Peer Assessment:
-  - Peer Assessment Creation: 'courseadministration/addcontent/learningunits/peerassessment.md'
+  - Create Peer Assessment: 'courseadministration/addcontent/learningunits/peerassessment.md'
   - Team Peer Assessment: 'courseadministration/addcontent/learningunits/team_peerassessment.md'
-  - Peer Assessment Additional Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
-  - Peer Assessment Conflicts & Regrading: 'courseadministration/peerassessmentmanagement/conflicts_and_regrading.md'
+  - Grant Additional Peer Assessment Attempts: 'courseadministration/peerassessmentmanagement/additionalattempts.md'
+  - Solve Peer Assessment Conflicts: 'courseadministration/peerassessmentmanagement/conflicts_and_regrading.md'
 - Certificate Templates: 'courseadministration/certificatetemplates.md'
 - Course Iteration: 'courseadministration/createcourseiteration.md'
 
