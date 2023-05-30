@@ -11,7 +11,9 @@ nav:
   - Quiz Import: 'courseadministration/addcontent/learningunits/quiz_import.md'
   - Quiz Additional Attempts: 'courseadministration/quizmanagement/additionalattempts.md'
   - Quiz Regrading: 'courseadministration//quizmanagement/regrading.md'
-- Structure & Content | LTI: 'courseadministration/addcontent/learningunits/lti.md'
+- Structure & Content | LTI:
+  - External exercise: 'courseadministration/addcontent/learningunits/lti.md'
+  - Connecting LTI Tools: 'courseadministration/addcontent/learningunits/connect_lti_tools'
 - Structure & Content | Peer Assessment:
   - Peer Assessment Creation: 'courseadministration/addcontent/learningunits/peerassessment.md'
   - Team Peer Assessment: 'courseadministration/addcontent/learningunits/team_peerassessment.md'
