@@ -19,4 +19,11 @@ Providing an LTI exercise is very similar to the creation of a multiple-choice q
 - Choosing an `LTI provider` is required for an LTI exercise to work. Failing to select a valid LTI provider will break launching the exercise. 
 - `Additional parameters for this exercise` enable the Deep Linking to launch specific exercises. This value **is** transmitted to the external tool via LTI. Multiple values can be separated by ampersand `&` and are automatically merged with those values specified for the LTI provider. If a key-value pair is defined for the LTI provider and the exercise, those from the exercise take precedence over those from the provider. The configuration parameters are tool-specific and are defined by the external tool (see the according reference for more details).
 
+### Other Internal LTI Applications
+
+At openHPI, we use some internal applications via LTI:
+
+- [CodeOcean](../../../features/externaltools/codeocean.md) as an educational, web-based execution and development environment for practical programming exercises
+- A tool called [TeamBuilder](../../../features/externaltools/teambuilder.md) to create teams based on user preferences.
+
 ![HPI Logo](../../../img/HPI_Logo.png)
