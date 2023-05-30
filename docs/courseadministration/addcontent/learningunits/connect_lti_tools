@@ -4,6 +4,8 @@
 
 The HPI learning platform features many dedicated interactive components for a majority of MOOCs, and we recommend using these native elements if possible. They are supported by our team, have proven to be stable and fit most learners' needs. However, we also offer an interface to connect the HPI learning platform to any other third-party tool to extend the learner's experience with additional, unique features.
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/831490139?h=6012d6438f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="openHPI-guidelines-25-LTI-2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 #### Usage Scenario
 
 The interface offered by the HPI learning platform is a web-based link technology supporting the access of external educational resources. Opening an external offer through the interface has two main advantages:
