@@ -1,4 +1,4 @@
-# Quiz Regrading
+# Regrade Quiz
 
 ### Important note: 
 
