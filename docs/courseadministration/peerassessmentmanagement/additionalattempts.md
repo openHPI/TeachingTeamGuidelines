@@ -1,4 +1,4 @@
-# Peer Assessment Additional Attempts
+# Grant Additional Peer Assessment Attempts
 
 Teaching staff can grant participants an additional attempt by following the illustrations mentioned below: 
 

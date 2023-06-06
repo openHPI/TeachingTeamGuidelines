@@ -1,6 +1,6 @@
 
 
-# Peer Assessment Conflicts & Regrading
+# Solve Peer Assessment Conflicts
 
 If any reviewer reports a complaint against the reviewed participant, you can manage the details and resolve the conflict by following the illustration:  
 

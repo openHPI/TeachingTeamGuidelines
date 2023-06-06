@@ -1,6 +1,6 @@
 
 
-# Quiz Additional Attempts
+# Grant Additional Attempts
 
 ----------
 Usually, learners have exactly one attempt for the graded assignments. However, sometimes the teaching team might want to give another attempt to someone. Please be aware that you can only add an additional attempt to someone as long as the deadline for this assignment has not passed, yet.
