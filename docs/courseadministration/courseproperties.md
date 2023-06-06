@@ -118,6 +118,7 @@ You can use this setting to hide a course from the course list. Can be used for 
 When disabled, the course will not show up on the global course list. It will, however, still be listed on its channel's landing page.
 
 #### Restricted to groups
+If your platform supports single sign-on with your company or ID provider, you have the option to restrict course enrollment exclusively to affiliated users. This means that only individuals associated with your organization or ID provider will be able to enroll in the course, ensuring that it remains accessible to the intended audience.
 
 #### Start date (UTC)
 The "actual" start date of the course.
