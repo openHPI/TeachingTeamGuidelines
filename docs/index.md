@@ -1,4 +1,4 @@
-## openHPI Guidelines for Course Administration
+# openHPI Guidelines for Course Administration
 
 A step by step guide to administrate courses on the **openHPI digital learning platform** used by:
 
@@ -15,7 +15,7 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 
 - - -
 
-### The openHPI guidelines are organized in the following sections
+## The openHPI guidelines are organized in the following sections
 
 
 <table border="0" width="100%" height="auto">
@@ -24,7 +24,7 @@ A step by step guide to administrate courses on the **openHPI digital learning p
     </tr>
 </table>
 
-## Course Setup
+### Course Setup
 <table border="0" width="100%" height="auto">
     <tr>
         <th style="border-collapse:separate; text-align:center" border="1"><a href="https://teachingteamguidelines.readthedocs.io/courseadministration/courseproperties/"><img src="img/02-icon-properties.png" width="55px" height="55px"/></a> <br> <a href="https://teachingteamguidelines.readthedocs.io/courseadministration/courseproperties/">Settings</a></th>
@@ -35,7 +35,7 @@ A step by step guide to administrate courses on the **openHPI digital learning p
     </tr>
 </table>
 
-## Course Management
+### Course Management
 <table border="0" width="100%" height="auto">
     <tr>
         <th style="border-collapse:separate; text-align:center" border="1"><a href="https://teachingteamguidelines.readthedocs.io/courseadministration/courseproperties/"><img src="img/icon-dashboard.jpg" width="55px" height="55px"/></a> <br> <a href="https://teachingteamguidelines.readthedocs.io/features/coursemanagement/pinboardabusereports/">Dashboard</a></th>
