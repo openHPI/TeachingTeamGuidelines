@@ -22,6 +22,10 @@ nav:
   - Solve Peer Assessment Conflicts: 'courseadministration/peerassessmentmanagement/conflicts_and_regrading.md'
 - Certificate Templates: 'courseadministration/certificatetemplates.md'
 - Course Iteration: 'courseadministration/createcourseiteration.md'
+- '<h4>Course Management</h4>': '#'
+- Forum Moderation: 'features/coursemanagement/pinboardabusereports.md'
+- Student Enrollments: 'features/coursemanagement/studentenrollments.md'
+- Student Submissions: 'features/coursemanagement/studentsubmissions.md'
 
 theme: windmill
 
