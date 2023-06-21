@@ -38,9 +38,9 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 ## Course Management
 <table border="0" width="100%" height="auto">
     <tr>
-        <th style="border-collapse:separate; text-align:center" border="1"><a href="https://teachingteamguidelines.readthedocs.io/courseadministration/courseproperties/"><img src="img/02-icon-properties.png" width="55px" height="55px"/></a> <br> <a href="https://teachingteamguidelines.readthedocs.io/features/coursemanagement/pinboardabusereports/">Forum Moderation</a></th>
-        <th style="border-collapse:separate; text-align:center" border="1"><a target="_blank" href="https://teachingteamguidelines.readthedocs.io/courseadministration/addcontent/modules/"><img src="img/04-icon-structure.png" width="55px" height="55px"/></a> <br> <a href="https://teachingteamguidelines.readthedocs.io/features/coursemanagement/studentenrollments/">Enrollments</a></th>
-        <th style="border-collapse:separate; text-align:center" border="1"><a target="_blank" href="https://teachingteamguidelines.readthedocs.io/features/coursemanagement/studentenrollments.md/"><img src="img/05-icon-certificates.png" width="55px" height="55px"/></a> <br> <a href="https://teachingteamguidelines.readthedocs.io/features/coursemanagement/studentsubmissions/">Submissions</a></th>
+        <th style="border-collapse:separate; text-align:center" border="1"><a href="https://teachingteamguidelines.readthedocs.io/courseadministration/courseproperties/"><img src="img/icon-forum-moderation.jpg" width="55px" height="55px"/></a> <br> <a href="https://teachingteamguidelines.readthedocs.io/features/coursemanagement/pinboardabusereports/">Forum Moderation</a></th>
+        <th style="border-collapse:separate; text-align:center" border="1"><a target="_blank" href="https://teachingteamguidelines.readthedocs.io/courseadministration/addcontent/modules/"><img src="img/icon-enrollments.jpg" width="55px" height="55px"/></a> <br> <a href="https://teachingteamguidelines.readthedocs.io/features/coursemanagement/studentenrollments/">Enrollments</a></th>
+        <th style="border-collapse:separate; text-align:center" border="1"><a target="_blank" href="https://teachingteamguidelines.readthedocs.io/features/coursemanagement/studentenrollments.md/"><img src="img/icon-submissions.jpg" width="55px" height="55px"/></a> <br> <a href="https://teachingteamguidelines.readthedocs.io/features/coursemanagement/studentsubmissions/">Submissions</a></th>
     </tr>
 </table>
 
