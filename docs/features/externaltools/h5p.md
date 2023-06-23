@@ -34,7 +34,7 @@ It is possible to use H5P for a variety of use cases. For example, it can be use
 
 ![Drag-and-Drop exercise](../img/externaltools/h5p/drag_and_drop_1.png) ![Drag-and-Drop exercise](../img/externaltools/h5p/drag_and_drop_2.png)
 
-4. **Image Sequencing** This quiz allows you to set pictures in a correcter order. It will then mix them up for the participants. This is easy to set up and use. The example from the course looks like this:
+4. **Image Sequencing** This quiz allows you to set pictures in the correct order. It will then mix them up for the participants. This is easy to set up and use. The example from the course looks like this:
    ![Image sequencing example](../img/externaltools/h5p/image_sequencing.png)
 
 ## Current problems with the tool
