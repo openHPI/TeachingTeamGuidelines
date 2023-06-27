@@ -78,7 +78,7 @@ Topics are defined per platform (talk to your platform administrator if you do n
 Reporting types are only used for reporting purposes. The platform administrator can define a new reporting type. E.g. if you want to receive a combined course report for all the Java courses you offered in 2022, you could request to create a reporting type HPI-Java-2022 and use this for all Java courses of your institution offered on the platform in 2022.
 
 #### Course List
-Currently, the courses on the courses page are ordered only by date. In the future, it will be possible to create more lists manually. A first step towards this direction is the "featured" course list, which allows you to particularly highlight several courses. Please, talk to your platform administrator if this feature is enabled for your platform yet.
+It is possible to filter the courses according to a specific list that has been previously defined by the platform administrator. Talk to the platform administrator if the need comes to create lists.
 
 #### Level
 Like topics, levels are a way to filter courses on the courses page. They are predefined per platform. For example, on openHPI we use Junior, Beginner, Advanced and Expert.
