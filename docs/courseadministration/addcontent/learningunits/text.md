@@ -117,14 +117,14 @@ has to be replaced by a proper alt-text to allow e.g. screen readers to access t
 
 Other file formats that are to be made available for download are included the same way as the images.
 
-![enter image description here][3]   
-\!\[enter image description here\]\[2]
+![enter image description here][4]   
+\!\[enter image description here\]\[4]
 
 Im Nachgang muss das `!` vor den eckigen Klammern entfernt werden und ein vernünftiger Text zur Beschriftung des Download-Links eingefügt werden.
 However, including the link to the file in the text, the `!` in front of the square brackets must be removed and a proper text must be inserted to label the download link.
 
 [Download][4]  
-\[Download]\[2]
+\[Download]\[4]
 
 
 ## Tables
