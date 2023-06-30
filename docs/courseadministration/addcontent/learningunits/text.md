@@ -16,9 +16,11 @@ Next to simple formatting options such as headlines, bold and italic text, lists
 
 Icon type:
 You can select different icon types from the icon type dropdown to be shown to the participants in the item menu.
+
 ![Text item icons](../../../img/courseadministration/items/text_item_icons.png)
 
 From left to right: 
+
 - Assistant
 - Chart
 - Discussion
