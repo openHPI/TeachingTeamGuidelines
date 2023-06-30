@@ -147,8 +147,8 @@ To use more complex Markdown tables, we recommend  to work with a [Converter][5]
 
 
   [1]: https://www.google.de/maps/place/Hasso+Plattner+Institute/@52.3939998,13.1311717,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85f365d286349:0x1da4e14975e45e72!8m2!3d52.3939965!4d13.1333657
-  [3]: s3://moochouse-public/courses/5IrTNQ46jTgyCZkhYpzOYI/rtfiles/5uEwOdjFkmM3VheUmEYUCH/1_UploadTest-Ludwigshafen.pdf
-  [4]: s3://moochouse-public/courses/5IrTNQ46jTgyCZkhYpzOYI/rtfiles/5uEwOdjFkmM3VheUmEYUCH/1_UploadTest-Ludwigshafen.pdf
+  [3]: ../../../img/courseadministration/items/dolly.png
+  [4]: ../../../img/courseadministration/items/1_UploadTest-Ludwigshafen.pdf
   [5]: https://jmalarcon.github.io/markdowntables/
 
 ![HPI Logo](../../../img/HPI_Logo.png)
