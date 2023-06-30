@@ -18,6 +18,19 @@ Icon type:
 You can select different icon types from the icon type dropdown to be shown to the participants in the item menu.
 ![Text item icons](../../../img/courseadministration/items/text_item_icons.png)
 
+From left to right: 
+- Assistant
+- Chart
+- Discussion
+- Exercise
+- External video
+- Moderator icon
+- Team exercise icon
+- Youtube video icon
+
+If no particular icon is chosen, the item will be displayed with a generic text icon
+
+
 # Some Markdown examples
 
 ## Headlines
