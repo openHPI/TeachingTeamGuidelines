@@ -13,7 +13,7 @@ The option to use the H5P tool for creating external exercises is included by de
 
 Providing an LTI exercise is very similar to the creation of a multiple-choice quiz for the general settings. As the main values are treated similar to a quiz, only LTI specific information are added here.
 
-- Providing a value to `maximal points` is **strongly** recommended. It is required to account points to learners (based on the percentage value provided via LTI) and should only be set to `0.0` (default) if no points can be achieved. The value is not transmitted to the external tool via LTI.
+- Providing a value to `maximum points` is **strongly** recommended. It is required to account points to learners (based on the percentage value provided via LTI) and should only be set to `0.0` (default) if no points can be achieved. The value is not transmitted to the external tool via LTI.
 - The `Submission deadline` defines the point in time after which a _new_ launch of the external tool will be handled differently. We recommend mirroring this setting to the external tool (if supported) for the best user experience. The value is not transmitted to the external tool via LTI.
 - The `Submission publishing date` is used to reveal the score received through LTI. Depending on the external tool, setting this value does not make sense: If the final score is shown in the external tool, it should also be shown on the HPI MOOC platform immediately. The value is not transmitted to the external tool via LTI.
 - Choosing an `LTI provider` is required for an LTI exercise to work. Failing to select a valid LTI provider will break launching the exercise. 
