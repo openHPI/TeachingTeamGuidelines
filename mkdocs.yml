@@ -26,6 +26,8 @@ nav:
 - Forum Moderation: 'features/coursemanagement/pinboardabusereports.md'
 - Student Enrollments: 'features/coursemanagement/studentenrollments.md'
 - Student Submissions: 'features/coursemanagement/studentsubmissions.md'
+- '<h4>Platform Administration</h4>': '#'
+- Categorization: 'platformadministration/categorization.md'
 
 theme: windmill
 
