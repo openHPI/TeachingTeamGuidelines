@@ -65,8 +65,8 @@ Surveys are not rewarded with points, nevertheless, to avoid problems it is bett
 
 ### Quiz settings:
 
-##### Maximal points
-These are the maximal points that can be reached for this assignment. The value is read only and results from the sum of the points for the quizzes' questions
+##### Maximum points
+These are the maximum points that can be reached for this assignment. The value is read only and results from the sum of the points for the quizzes' questions
 
 ##### Submission deadline
 Set the deadline for the quiz. The deadline is strict. After this date it is not possible to hand in a submission anymore. The results of the participants are autosaved whenever something has changed. When the deadline has passed and the participant is still solving the quiz, the results are automatically submitted and the quiz is closed. It is not possible to extend the deadline for single users.  

@@ -21,7 +21,7 @@ In the next page, select the **Type** as *Quiz* and **Exercise Type** as *Survey
 *Fig. Configuration page to create a survey item*  
 <br>
 In the same configuration page, fill up all the compulsory fields including the *Title*, *Instruction*.  
-You can also award some additional points to complete the survey by setting a point in the *Maximal points* field.  
+You can also award some additional points to complete the survey by setting a point in the *Maximum points* field.  
 <br>
 ![Survey question](../../img/features/itemtypes/survey_question.png)  
 *Fig. Select a question type for your survey*  
