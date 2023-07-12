@@ -48,7 +48,7 @@ A step by step guide to administrate courses on the **openHPI digital learning p
 ### Platform Administration
 <table border="0" width="100%" height="auto">
     <tr>
-        <th style="border-collapse:separate; text-align:center" border="1"><a href="https://teachingteamguidelines.readthedocs.io/platformadministration/categorization/"><img src="img/icon-categorization.png" width="55px" height="55px"/></a> <br> <a href="https://teachingteamguidelines.readthedocs.io/courseadministration/platform_tour/">Categorization</a></th>
+        <th style="border-collapse:separate; text-align:center" border="1"><a href="https://teachingteamguidelines.readthedocs.io/platformadministration/categorization/"><img src="img/icon-categorization.png" width="55px" height="55px"/></a> <br> <a href="https://teachingteamguidelines.readthedocs.io/platformadministration/categorization/">Categorization</a></th>
     </tr>
 </table>
 
