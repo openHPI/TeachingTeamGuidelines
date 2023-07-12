@@ -95,6 +95,8 @@ If you want to publish your course in a dedicated channel, you can select the ch
 #### Advanced settings
 In the advanced setting you can find also the option to highlight the course on the channel stage, selecting the status "Show on stage". Choosing this, it is mandatory to add a stage visual and a statement.
 
+
+Please find information how to add, edit, and manage the category tags <a href="https://teachingteamguidelines.readthedocs.io/#platformadministration/categorization/"> here </a>
 <br>
 
 ## Runtime and visibility
