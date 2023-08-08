@@ -23,6 +23,7 @@ nav:
 - Certificate Templates: 'courseadministration/certificatetemplates.md'
 - Course Iteration: 'courseadministration/createcourseiteration.md'
 - '<h4>Course Management</h4>': '#'
+- Dashboard: 'features/coursemanagement/dashboard.md'
 - Forum Moderation: 'features/coursemanagement/pinboardabusereports.md'
 - Student Enrollments: 'features/coursemanagement/studentenrollments.md'
 - Student Submissions: 'features/coursemanagement/studentsubmissions.md'
