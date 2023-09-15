@@ -3,15 +3,14 @@
 A step by step guide to administrate courses on the **openHPI digital learning platform** used by:
 
 
-- [openHPI](https://open.hpi.de/){:target="_blank"}
-- [openSAP](https://open.sap.com/){:target="_blank"}
-- [openWHO](https://openwho.org/){:target="_blank"}
-- [KI Campus](https://ki-campus.org/){:target="_blank"}
-- [eGov Campus](https://egov-campus.org/){:target="_blank"}
-- [LERNEN.cloud](https://lernen.cloud/){:target="_blank"}
-- [mooc.HOUSE](https://mooc.house/){:target="_blank"}
-- [KommunalCampus](https://lernen.kommunalcampus.de/){:target="_blank"}
-- [Industrial Upskilling](https://www.industrial-upskilling.de/){:target="_blank"}
+- <a href="https://open.hpi.de/" target="_blank">openHPI</a>
+- <a href="https://open.sap.com/" target="_blank">openSAP</a>
+- <a href="https://openwho.org/" target="_blank">openWHO</a>
+- <a href="https://ki-campus.org/" target="_blank">KI Campus</a>
+- <a href="https://egov-campus.org/" target="_blank">eGov Campus</a>
+- <a href="https://lernen.cloud/" target="_blank">LERNEN.cloud</a>
+- <a href="https://mooc.house/" target="_blank">mooc.HOUSE</a>
+- <a href="https://lernen.kommunalcampus.de/" target="_blank">KommunalCampus</a>
 
 - - -
 
