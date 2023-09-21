@@ -11,9 +11,9 @@ Nevertheless, even the best quality control sometimes misses an ambiguity or mis
 
 For the regrading please contact the platform admins and provide quiz ID and question ID Some regradings also require an answer ID. You can find these IDs when you go to "course structure and content" and there click on "Show UUIDs".  
 
-![course_structure](../../img/courseadministration/quizmanagement/course_structure.png)
+![course_structure](../../img/courseadministration/quizmanagement/regrade-quiz-01.jpg)
 
-![show_ids.png](../../img/courseadministration/quizmanagement/show_ids.png)
+![show_ids.png](../../img/courseadministration/quizmanagement/regrade-quiz-02.jpg)
 
 
 ### Different types of regrading
