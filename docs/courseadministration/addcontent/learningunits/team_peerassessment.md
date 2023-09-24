@@ -2,8 +2,8 @@
 
 To open the peer assessment dashboard go to **`Course Administration`** and select **`Peer Assessment`**  
 
-![PA](../../../img/course_admin_items/peer_assess.png)  
-*Fig. Select the Peer Assessment to modify the settings*  
+![PA](../../../img/course_admin_items/peer-assessments.jpg)
+*Fig. Select the Peer Assessments to modify the settings*  
 <br>  
 
 ### General settings  
