@@ -4,7 +4,7 @@
 
 Course administrators have the permission to manage enrolled participants of their course via the openHPI platform.
 
-![Student Enrolment Admin](../../img/features/coursemanagement/student_enrol.png)  
+![Student Enrolment Admin](../../img/features/coursemanagement/student-enrollments.png)  
 *Fig. To manage all the enrolled participants in the course*  
 <br>  
 
