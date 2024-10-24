@@ -4,9 +4,7 @@
 # Course List
 
 The course list provides users with an overview of the courses on offer. These lists can be filtered, based on certain criteria.  
-Channels can be created in order to clearly separate specific courses from the entire offer. The filter criteria can be configured differently for each platform instance. For example, a course can be filtered based on language and track. At openSAP, it is possible to filter courses by target group and at OpenWHO by course level. The channel concept is used at mooc.house, for example, to separate the courses more clearly by individual provider and to give providers an extra opportunity to brand their offer. OpenWHO uses the channel concept to clearly distinguish the main fields of application.    
-
-On openHPI, besides the channel with the courses there is another channel where video recordings of HPI events are made available to the public.
+Channels can be created in order to clearly separate specific courses from the entire offer. The filter criteria can be configured differently for each platform instance. For example, a course can be filtered based on language and track.
 
 ![Course List](../../img/features/structure/course_list.png)
 

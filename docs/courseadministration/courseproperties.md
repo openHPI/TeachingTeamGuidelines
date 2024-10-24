@@ -17,7 +17,7 @@ Apart from that it only serves for internal purposes and **cannot** be changed a
 Within the course list, the course could be also filtered by the chosen course language.
 
 #### External course URL
-Usually you just should keep it as it is. The platform team will make the correct settings. This is only for cross-promoting courses from sister-platforms such as *openHPI* or *openSAP*.
+Usually you just should keep it as it is. The platform team will make the correct settings. This is only for cross-promoting courses from other platforms.
 
 #### Abstract
 

@@ -16,7 +16,7 @@ If the course offers graded assignments, **Records of Achievement** can be earne
 <br>
 
 ![nutshell courses](../../../img/bestpractices/projectmanagement/nutshel_course.png)  
-*Fig. Example of Nutshell courses available on openSAP*
+*Fig. Example of Nutshell courses*
 
 
 

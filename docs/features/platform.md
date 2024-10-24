@@ -16,13 +16,13 @@ This distinguishes the platform from traditional e-learning offers, which often 
 
 In addition, the MOOC platform is also very modular and highly configurable. The previously mentioned points are therefore not mandatory for a successful course.  
 
-To date there have been four nearly identical instances of the HPI MOOC platform operating on the same technical infrastructure (private cloud):  
+To date there have been several instances of the HPI MOOC platform, operating on the same technical infrastructure (private on-premise cloud):  
 
 * **openHPI**: Europe‘s first MOOC platform. In September 2012, the platform was launched with Prof. Hasso Plattner’s course “In-Memory Data Management.” The contents of HPI’s English and German MOOCs are created by the institute’s own professors and the scientific staff at HPI. 
 
-* **openSAP**: The first enterprise MOOC platform worldwide. Since May 2013, SAP has been providing online courses for professionals via its own platform. These courses are primarily on SAP software topics. Participation is also free of charge and open to everyone.
+* **openSAP**: The first enterprise MOOC platform worldwide. Since May 2013, SAP had provided online courses for professionals via its own platform. These courses were primarily on SAP software topics. Participation was also free of charge and open to everyone.
 
-* **mooc.house**: The white label platform for businesses, organizations and individuals. Here everyone, who wants to disseminate interesting learning offers can become a course provider themselves and rely on the proven platform infrastructure. Among others, the Charité Berlin offers courses at mooc.house, but also the National Academy of Science and Engineering (acatech) has its own channel there.
+* **mooc.house**: A white label platform for businesses, organizations, and individuals. Here everyone, who wanted to disseminate interesting learning offers could become a course provider themselves and use the proven platform infrastructure. Among others, the Charité Berlin offered courses at mooc.house, and also the National Academy of Science and Engineering (acatech) had its own channel.
 
 * **OpenWHO**: The platform of the World Health Organization (WHO). The WHO uses the platform to inform and train its staff, the on-site medical teams, and the affected population in the event of the outbreak of an epidemic.  
 
