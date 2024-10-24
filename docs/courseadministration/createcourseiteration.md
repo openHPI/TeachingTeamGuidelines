@@ -22,7 +22,6 @@ It might take a few seconds until all elements of the course are available.
 - Enrollments
 - Permissions
 - Properties: Course Status, Course Dates, Release Records
-- Learning Objectives
 
 ### General
 - All deadlines need to be reset (course, sections, items, ...)
