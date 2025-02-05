@@ -1,11 +1,8 @@
 # openHPI Guidelines for Course Administration
 
-A step by step guide to administrate courses on the **HPI learning platform** used by:
-
+A step by step guide to administrate courses on the **HPI MOOC platform** used by:
 
 - <a href="https://open.hpi.de/" target="_blank">openHPI</a>
-- <a href="https://openwho.org/" target="_blank">openWHO</a>
-- <a href="https://ki-campus.org/" target="_blank">AI Campus</a>
 - <a href="https://egov-campus.org/" target="_blank">eGov Campus</a>
 - <a href="https://lernen.kommunalcampus.de/" target="_blank">KommunalCampus</a>
 
